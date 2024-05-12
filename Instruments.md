@@ -1,0 +1,196 @@
+---
+title: 🎸 Instruments
+description: Information about hardware game controllers
+published: true
+date: 2024-05-12T20:57:41.897Z
+tags: instruments, vocals, guitar, bass, drums, pro guitar, pro drums, pro bass, keys, pro keys, elite drums
+editor: markdown
+dateCreated: 2023-07-30T03:57:46.912Z
+---
+
+This is an inexhaustive list of instrument controllers and their compatibility with YARG. Most undocumented controllers should work as well.
+
+| Legend |     |
+| --- | --- |
+| ➖   | Does not exist. |
+| ❌   | Does not work. |
+| ✅   | Plug it in and rock! |
+| ☑️  | Don't forget your dongle! |
+
+🌭
+
+| Software needed |     |
+| --- | --- |
+| A   | Need to use [GHLtarUtility](https://github.com/ghlre/GHLtarUtility). |
+| B   | Need to use [WiitarThing](https://github.com/Meowmaritus/WiitarThing). |
+| C   | Need to use [RB4InstrumentMapper](https://github.com/TheNathannator/RB4InstrumentMapper). |
+
+🔩
+
+| Hardware needed |     |
+| --- | --- |
+| 4   | Need a console-specific controller to USB adapter.\* |
+| 5   | Need the Xbox 360 wireless adapter. |
+| 6   | Need the Xbox One wireless adapter. |
+| 7   | Need Bluetooth adapter. |
+| 8   | Need a console-specific midi adapter. |
+
+###  ⚠️Note!
+
+\*Cheap PS2 adapters on Amazon are hit-or-miss
+
+#  🎸 Guitar & Bass
+
+##  5 Fret
+
+**Guitar Hero**
+
+| Picture | Guitar | PlayStation 2 | PlayStation 3 | Xbox 360 | Wii | Kiosk |
+| --- | --- | --- | --- | --- | --- | --- |
+| <img src="/instruments/gh1sg.png" width="300"> | SG  | 4   | ➖   | ➖   | ➖   | ➖   |
+| <img src="/instruments/gh1kramer.png" width="300"> | Kramer | 4☑️ | ➖   | ➖   | ➖   | ➖   |
+| <img src="/instruments/ghxplorer.png" width="300"> | X-plorer | ➖   | ➖   | ✅   | ➖   | ✅   |
+| <img src="/instruments/ghlespaul.png" width="300"> | Les Paul | ➖   | ☑️  | 5   | B   | ✅   |
+| <img src="/instruments/ghwt.png>" width="300"> | World Tour | 4☑️ | ☑️  | 5   | B   | ✅   |
+| <img src="/instruments/gh5.png>" width="300"> | Guitar Hero 5 | ☑️  | ☑️  | ➖   | B   | ✅   |
+| <img src="/instruments/ghwor.png>" width="300"> | Warriors of Rock | ➖   | ☑️  | 5   | B   | ✅   |
+
+###  🛠️Troubleshooting
+
+PS3 Les Paul often has a capacitor issue that prevents it from syncing  
+PS2 wireless have bad input latency  
+PS3 Les Pauls have bad input latency
+
+**Rock Band**
+
+| Picture | Guitar | PlayStation 2 | PlayStation 3 | PlayStation 4 | Xbox 360 | Xbox One | Wii | Kiosk |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| <img src="/instruments/rb1.png>" width="300"> | Rock Band 1 Stratocaster | ☑️  | ☑️  | ➖   | 5 or ✅ | ➖   | ☑️  | ✅   |
+| <img src="/instruments/rb2.png>" width="300"> | Rock Band 2 Stratocaster | ☑️  | ☑️  | ➖   | 5   | ➖   | ☑️  | ✅   |
+| <img src="/instruments/rb2.png>" width="300"> | Rock Band 3 Stratocaster | ☑️  | ☑️  | ➖   | 5   | ➖   | ☑️  | ✅   |
+| <img src="/instruments/rb4.png>" width="300"> | Rock Band 4 Stratocaster | ➖   | ➖   | 7   | ➖   | 6C  | ➖   | ➖   |
+| <img src="/instruments/rb4jag.png>" width="300"> | Rock Band 4 Jaguar | ➖   | ➖   | 7   | ➖   | 6C  | ➖   | ➖   |
+| <img src="/instruments/rbbass.png>" width="300"> | Precision Bass | ➖   | ☑️  | ➖   | 5 or ✅ | ➖   | ☑️  | ➖   |
+| <img src="/instruments/rbrick.png>" width="300"> | Rickenbacker 325 | ➖   | ☑️  | ➖   | 5   | ➖   | ☑️  | ➖   |
+| <img src="/instruments/rbgretsch.png>" width="300"> | Gretsch 6128 | ➖   | ☑️  | ➖   | 5   | ➖   | ☑️  | ➖   |
+| <img src="/instruments/rbhofner.png>" width="300"> | Höfner 500/1 Violin Bass | ➖   | ☑️  | ➖   | 5   | ➖   | ☑️  | ➖   |
+| <img src="/instruments/rbwooden.png>" width="300"> | Wooden Stratocaster | ➖   | ➖   | ➖   | 5   | ➖   | ➖   | ➖   |
+| <img src="/instruments/rbplayerseditionguitar.png>" width="300"> | Player's Edition Telecaster | ➖   | ➖   | ➖   | 5   | ➖   | ➖   | ➖   |
+
+**3rd Party**
+
+| Picture | Company | Guitar | Xbox One | PlayStation 4 |
+| --- | --- | --- | --- | --- |
+| <img src="/instruments/pdpriffmaster.png>" width="300"> | PDP | Riffmaster | ☑️C | ☑️  |
+
+##  6 Fret
+
+**Guitar Hero**
+
+| Picture | Gutiar | PlayStation 3 | PlayStation 4 | Xbox 360 | Xbox One | Wii U | iOS | Kiosk |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| <img src="/instruments/ghlguitar.gif" width="300"> | Live | ☑️  | ☑️  | ☑️  | ☑️C | ☑️  | A   | ✅   |
+
+###  ⚠️Note!
+
+6-fret play mode not yet supported but you can still connect them and map them as 5-fret.  
+See [play-modes](/play-modes) for more information.
+
+##  Pro
+
+**Rock Band**
+
+| Picture | Guitar | PlayStation 3 | Xbox 360 | Wii |
+| --- | --- | --- | --- | --- |
+| <img src="/instruments/rbmustang.png" width="300"> | Mustang | ☑️  | 5   | ☑️  |
+| <img src="/instruments/rbsquire.png" width="300"> | Squire | 8   | 8   | 8   |
+
+###  ⚠️Note!
+
+Pro mode will be re-implemented in version 0.13
+
+#  🥁 Drums
+
+##  4 Lane
+
+**Rock Band**
+
+| Picture | Drums | PlayStation 2 | PlayStation 3 | PlayStation 4 | Xbox 360 | Xbox One | Wii |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| <img src="/instruments/rb1drums.png" width="300"> | Rock Band 1 | ✅   | ✅   | ➖   | ✅   | ➖   | ✅   |
+| <img src="/instruments/rb2drums.png" width="300"> | Rock Band 2 | ☑️  | ☑️  | ➖   | 5   | ➖   | ☑️  |
+| <img src="/instruments/rb2drums.png" width="300"> | Rock Band 3 | ☑️  | ☑️  | ➖   | 5   | ➖   | ☑️  |
+| <img src="/instruments/rbbeatlesdrums.png" width="300"> | Beatles | ☑️  | ☑️  | ➖   | 5   | ➖   | ☑️  |
+| <img src="/instruments/rb4drums.png" width="300"> | Rock Band 4 | ➖   | ➖   | 7   | ➖   | 6C  | ➖   |
+| <img src="/instruments/rbportable.png" width="300"> | Portable | ➖   | ➖   | ➖   | ✅   | ➖   | ➖   |
+
+**3rd Party**
+
+| Picture | Drums | Gamecube |
+| --- | --- | --- |
+| <img src="/instruments/dkbongos.gif" width="300"> | DK Bongos | 4   |
+
+###  ⚠️Note!
+
+Each drum has 2 buttons, the 5th button is the clap microphone.
+
+##  5 Lane
+
+**Guitar Hero**
+
+| Picture | Drums | PlayStation 2 | PlayStation 3 | Xbox 360 | Wii |
+| --- | --- | --- | --- | --- | --- |
+| <img src="/instruments/ghwtdrums.png" width="300"> | World Tour | 4   | ☑️  | 5   | B   |
+| <img src="/instruments/gh5drums.png" width="300"> | Guitar Hero 5 | 4   | ☑️  | 5   | B   |
+| <img src="/instruments/gh5drums.png" width="300"> | Band Hero | 4   | ☑️  | 5   | B   |
+| <img src="/instruments/gh5drums.png" width="300"> | Warriors of Rock | 4   | ☑️  | 5   | B   |
+
+##  E-kit
+
+| Picture | Company | Model | Compatibilty |
+| --- | --- | --- | --- |
+| <img src="/instruments/alesisnitromesh.png" width="300"> | Alesis | Nitro Mesh | ✅   |
+| <img src="/instruments/alesisnitromax.png" width="300"> | Alesis | Nitro Max | ✅   |
+| <img src="/instruments/rolandtd1.png" width="300"> | Roland | TD-1 | ✅   |
+
+###  ⚠️Note!
+
+YARG natively supports midi input.
+
+###  🛠️Troubleshooting
+
+❗E-kit not being detected  
+Make sure nothing else is open that is also using the e-kit, Windows only allows one program to access a MIDI device at a time.  
+Make sure you hit something on the kit before hitting "Add Device", the list doesn't refresh automatically.
+
+#  🎤 Vocals
+
+**3rd Party**
+
+| Picture | Company | Microphone | Xbox 360 | XLR |
+| --- | --- | --- | --- | --- |
+| <img src="/instruments/mslipsmic.png" width="300"> | Microsoft | Lips | ❌   | ➖   |
+| <img src="/instruments/shuresm57.png" width="300"> | Shure | SM57 | ➖   | 4   |
+
+###  ⚠️Note!
+
+Since microphones are just input devices and not controllers, nearly all will work.  
+If a microphone needs a speical driver, such as the Lips mics, it won't work.
+
+###  🛠️Troubleshooting
+
+On mac, YARG might not ask for mic access. Launch the .app manually instead of going through the launcher
+
+#  🎹 Keys
+
+##  5 Fret and Pro
+
+**Rock Band**
+
+| Picture | Keyboard | PlayStation 3 | Xbox 360 | Wii |
+| --- | --- | --- | --- | --- |
+| <img src="/instruments/rbkeyboard.png" width="300"> | Rock Band 3 | ☑️  | 5   | ☑️  |
+
+###  ⚠️Note!
+
+Gamepad mode is being worked on. In the mean time, choose Five Fret and All HOPOs to use a keyboard.
