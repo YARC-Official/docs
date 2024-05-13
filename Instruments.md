@@ -2,7 +2,7 @@
 title: 🎸 Instruments
 description: Information about hardware game controllers
 published: true
-date: 2024-05-13T07:00:53.016Z
+date: 2024-05-13T07:06:15.545Z
 tags: instruments, vocals, guitar, bass, drums, pro guitar, pro drums, pro bass, keys, pro keys, elite drums
 editor: markdown
 dateCreated: 2023-07-30T03:57:46.912Z
@@ -119,8 +119,8 @@ Pro mode will be re-implemented in version 0.13
 | <img src="/instruments/drums/rb1drums.png" width="300"> | Rock Band 1 | ✅   | ✅   | ➖   | ✅   | ➖   | ✅   |
 | <img src="/instruments/rb2drums.png" width="300"> | Rock Band 2 | ☑️  | ☑️  | ➖   | 5   | ➖   | ☑️  |
 | <img src="/instruments/rb2drums.png" width="300"> | Rock Band 3 | ☑️  | ☑️  | ➖   | 5   | ➖   | ☑️  |
-| <img src="/instruments//drums/rbbeatlesdrums.png" width="300"> | Beatles | ☑️  | ☑️  | ➖   | 5   | ➖   | ☑️  |
-| <img src="/instruments/rb4drums.png" width="300"> | Rock Band 4 | ➖   | ➖   | 7   | ➖   | 6C  | ➖   |
+| <img src="/instruments//drums/rbbeatlesdrums.png" width="300"> | Beatles | ☑️  | ☑️  | ➖   | 5   | ➖   |☑️|
+| <img src="/instruments/drums/rb4drums.png" width="300"> | Rock Band 4 | ➖   | ➖   | 7   | ➖   | 6C  |➖|
 | <img src="/instruments/drums/rbportable.png" width="300"> | Portable | ➖   | ➖   | ➖   | ✅   | ➖   |➖|
 **3rd Party**
 
