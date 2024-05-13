@@ -2,7 +2,7 @@
 title: 🎸 Instruments
 description: Information about hardware game controllers
 published: true
-date: 2024-05-13T02:06:52.378Z
+date: 2024-05-13T02:10:13.065Z
 tags: instruments, vocals, guitar, bass, drums, pro guitar, pro drums, pro bass, keys, pro keys, elite drums
 editor: markdown
 dateCreated: 2023-07-30T03:57:46.912Z
@@ -127,7 +127,7 @@ Pro mode will be re-implemented in version 0.13
 
 | Picture | Drums | Gamecube |
 | --- | --- | --- |
-| <img src="/instruments/dkbongos.gif" width="300"> | DK Bongos | 4   |
+| <img src="/instruments/drums/dkbongos.png" width="300"> | DK Bongos | 4   |
 
 ###  ⚠️Note!
 
