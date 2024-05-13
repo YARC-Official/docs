@@ -2,7 +2,7 @@
 title: 🎸 Instruments
 description: Information about hardware game controllers
 published: true
-date: 2024-05-13T01:54:26.762Z
+date: 2024-05-13T01:59:16.321Z
 tags: instruments, vocals, guitar, bass, drums, pro guitar, pro drums, pro bass, keys, pro keys, elite drums
 editor: markdown
 dateCreated: 2023-07-30T03:57:46.912Z
@@ -148,8 +148,8 @@ Each drum has 2 buttons, the 5th button is the clap microphone.
 
 | Picture | Company | Model | Compatibilty |
 | --- | --- | --- | --- |
-| <img src="/instruments/alesisnitromesh.png" width="300"> | Alesis | Nitro Mesh | ✅   |
-| <img src="/instruments/alesisnitromax.png" width="300"> | Alesis | Nitro Max | ✅   |
+| <img src="/instruments/drums/alesisnitromesh.png" width="300"> | Alesis | Nitro Mesh | ✅   |
+| <img src="/instruments/drums/alesisnitromax.png" width="300"> | Alesis | Nitro Max | ✅   |
 | <img src="/instruments/rolandtd1.png" width="300"> | Roland | TD-1 | ✅   |
 
 ###  ⚠️Note!
