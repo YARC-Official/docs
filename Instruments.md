@@ -2,7 +2,7 @@
 title: 🎸 Instruments
 description: Information about hardware game controllers
 published: true
-date: 2024-05-13T02:14:03.919Z
+date: 2024-05-13T02:16:41.853Z
 tags: instruments, vocals, guitar, bass, drums, pro guitar, pro drums, pro bass, keys, pro keys, elite drums
 editor: markdown
 dateCreated: 2023-07-30T03:57:46.912Z
@@ -199,3 +199,5 @@ Gamepad mode is being worked on. In the mean time, choose Five Fret and All HOPO
 |Picture|Name|DS|
 |--|--|--|
 |<img src="/instruments/miscellaneous/ghguitargrip.png" width="300">|Guitar Grip|4|
+###  ⚠️Note!
+YARG doesn't have a Blitz mode yet. You won't be able to hit the 5th lane!
