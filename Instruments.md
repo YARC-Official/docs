@@ -2,7 +2,7 @@
 title: 🎸 Instruments
 description: Information about hardware game controllers
 published: true
-date: 2024-05-13T05:31:55.195Z
+date: 2024-05-13T05:32:04.820Z
 tags: instruments, vocals, guitar, bass, drums, pro guitar, pro drums, pro bass, keys, pro keys, elite drums
 editor: markdown
 dateCreated: 2023-07-30T03:57:46.912Z
@@ -47,7 +47,7 @@ This is an inexhaustive list of instrument controllers and their compatibility w
 
 | Picture | Guitar | PlayStation 2 | PlayStation 3 | Xbox 360 | Wii | Kiosk |
 | --- | --- | --- | --- | --- | --- | --- |
-| <img src="//instruments/guitars/gh1sg.png" width="300"> | SG  | 4   | ➖   | ➖   | ➖   | ➖   |
+| <img src="/instruments/guitars/gh1sg.png" width="300"> | SG  | 4   | ➖   | ➖   | ➖   | ➖   |
 | <img src="/instruments/gh1kramer.png" width="300"> | Kramer | 4☑️ | ➖   | ➖   | ➖   | ➖   |
 | <img src="/instruments/ghxplorer.png" width="300"> | X-plorer | ➖   | ➖   | ✅   | ➖   | ✅   |
 | <img src="/instruments/ghlespaul.png" width="300"> | Les Paul | ➖   | ☑️  | 5   | B   | ✅   |
