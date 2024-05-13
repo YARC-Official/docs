@@ -2,7 +2,7 @@
 title: 🎸 Instruments
 description: Information about hardware game controllers
 published: true
-date: 2024-05-13T06:15:41.229Z
+date: 2024-05-13T06:22:24.951Z
 tags: instruments, vocals, guitar, bass, drums, pro guitar, pro drums, pro bass, keys, pro keys, elite drums
 editor: markdown
 dateCreated: 2023-07-30T03:57:46.912Z
@@ -71,7 +71,7 @@ PS3 Les Pauls have bad input latency
 | <img src="/instruments/guitars/rb4strat.png>" width="300"> | Rock Band 4 Stratocaster | ➖   | ➖   | 7   | ➖   | 6C  | ➖   |➖|
 | <img src="/instruments/guitars/rb4jaguar.png>" width="300"> | Rock Band 4 Jaguar | ➖   | ➖   | 7   | ➖   | 6C  |➖|➖|
 | <img src="/instruments/rbbass.png>" width="300"> | Precision Bass | ➖   | ☑️  | ➖   | 5 or ✅ | ➖   | ☑️  | ➖   |
-| <img src="/instruments/rbrick.png>" width="300"> | Rickenbacker 325 | ➖   | ☑️  | ➖   | 5   | ➖   | ☑️  | ➖   |
+| <img src="/instruments/guitars/rbrick.png>" width="300"> | Rickenbacker 325 | ➖   | ☑️  | ➖   | 5   | ➖   | ☑️  |➖|
 | <img src="/instruments/rbgretsch.png>" width="300"> | Gretsch 6128 | ➖   | ☑️  | ➖   | 5   | ➖   | ☑️  | ➖   |
 | <img src="/instruments/rbhofner.png>" width="300"> | Höfner 500/1 Violin Bass | ➖   | ☑️  | ➖   | 5   | ➖   | ☑️  | ➖   |
 | <img src="/instruments/rbwooden.png>" width="300"> | Wooden Stratocaster | ➖   | ➖   | ➖   | 5   | ➖   | ➖   | ➖   |
