@@ -2,7 +2,7 @@
 title: 🎸 Instruments
 description: Information about hardware game controllers
 published: true
-date: 2024-05-13T02:10:13.065Z
+date: 2024-05-13T02:14:03.919Z
 tags: instruments, vocals, guitar, bass, drums, pro guitar, pro drums, pro bass, keys, pro keys, elite drums
 editor: markdown
 dateCreated: 2023-07-30T03:57:46.912Z
@@ -193,3 +193,9 @@ On mac, YARG might not ask for mic access. Launch the .app manually instead of g
 ###  ⚠️Note!
 
 Gamepad mode is being worked on. In the mean time, choose Five Fret and All HOPOs to use a keyboard.
+
+# 🪇 Miscellaneous
+**Guitar Hero**
+|Picture|Name|DS|
+|--|--|--|
+|<img src="/instruments/miscellaneous/ghguitargrip.png" width="300">|Guitar Grip|4|
