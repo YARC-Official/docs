@@ -2,7 +2,7 @@
 title: 🎸 Instruments
 description: Information about hardware game controllers
 published: true
-date: 2024-05-13T01:51:19.456Z
+date: 2024-05-13T01:54:26.762Z
 tags: instruments, vocals, guitar, bass, drums, pro guitar, pro drums, pro bass, keys, pro keys, elite drums
 editor: markdown
 dateCreated: 2023-07-30T03:57:46.912Z
@@ -139,10 +139,10 @@ Each drum has 2 buttons, the 5th button is the clap microphone.
 
 | Picture | Drums | PlayStation 2 | PlayStation 3 | Xbox 360 | Wii |
 | --- | --- | --- | --- | --- | --- |
-| <img src="/instruments/ghwtdrums.png" width="300"> | World Tour | 4   | ☑️  | 5   | B   |
-| <img src="/instruments/gh5drums.png" width="300"> | Guitar Hero 5 | 4   | ☑️  | 5   | B   |
-| <img src="/instruments/gh5drums.png" width="300"> | Band Hero | 4   | ☑️  | 5   | B   |
-| <img src="/instruments/gh5drums.png" width="300"> | Warriors of Rock | 4   | ☑️  | 5   | B   |
+| <img src="/instruments/drums/ghhwtdrums.png" width="300"> | World Tour | 4   | ☑️  |5|B|
+| <img src="/instruments/gh5drums.png" width="300"> | Guitar Hero 5 | 4   | ☑️  |5|B|
+| <img src="/instruments/gh5drums.png" width="300"> | Band Hero | 4   | ☑️  |5|B|
+| <img src="/instruments/gh5drums.png" width="300"> | Warriors of Rock | 4   | ☑️  |5|B|
 
 ##  E-kit
 
