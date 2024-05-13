@@ -2,7 +2,7 @@
 title: ▶️ Play Modes
 description: Useful information about the current supported play modes
 published: true
-date: 2024-05-12T20:55:01.907Z
+date: 2024-05-13T21:43:51.206Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-03T20:39:05.082Z
@@ -85,13 +85,20 @@ Proper keys support is planned for YARG v0.13.0, but in the meantime you can pla
 Two octives of a keyboard, with color-coded segments for a wide highway. Pro keys support is planned for YARG v0.13.0.
 
 # 🔮 Potential future play modes
-These have no specific timeframe, but are listed in the issue tracker.
+These have no specific timeframe, but are either in the issue tracker or at least under consideration.
 
 ## 💿 DJ
 A turntable, three buttons, and a fade slider; a Heroic spinoff.
+A task for this exists in the issue tracker.
 
 ## 🦍 Bongos
-A pair of bongos and a clap detector.
+A pair of bongos and a clap detector; each bongo has two distinct sensors.
+A task for this exists in the issue tracker.
 
 ## 🎸 real Guitar
 An actual electric guitar, plugged into your computer. We wouldn't be able to treat it exactly like its plastic counterparts, but it may be possible to play Pro Guitar charts this way in future.
+A task for this exists in the issue tracker.
+
+## 🕺 4-panel Dance
+Floor panels in the four cardinal directions, printed with matching arrows - a Revolutionary layout.
+Not in the issue tracker, but specs exist for charts of this sort within formats YARG already supports.
