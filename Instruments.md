@@ -2,7 +2,7 @@
 title: 🎸 Instruments
 description: Information about hardware game controllers
 published: true
-date: 2024-05-13T01:50:17.445Z
+date: 2024-05-13T01:51:19.456Z
 tags: instruments, vocals, guitar, bass, drums, pro guitar, pro drums, pro bass, keys, pro keys, elite drums
 editor: markdown
 dateCreated: 2023-07-30T03:57:46.912Z
@@ -168,7 +168,7 @@ Make sure you hit something on the kit before hitting "Add Device", the list doe
 
 | Picture | Company | Microphone | Xbox 360 | XLR |
 | --- | --- | --- | --- | --- |
-| <img src="/instruments/microphones/msLips.png" width="300"> | Microsoft | Lips | ❌   | ➖   |
+| <img src="/instruments/microphones/mslips.png" width="300"> | Microsoft | Lips | ❌   | ➖   |
 | <img src="/instruments/microphones/shuresm57.png" width="300"> | Shure | SM57 | ➖   | 4   |
 
 ###  ⚠️Note!
