@@ -2,8 +2,8 @@
 title: 🌟 Modifiers
 description: Information about the current available modifiers
 published: true
-date: 2024-05-12T21:05:25.992Z
-tags: modifiers, brutal, all taps, all hopos, all strums
+date: 2024-05-13T21:48:16.411Z
+tags: modifiers, all taps, all hopos, all strums, hopos to taps, taps to hopos, no kicks, unpitched only
 editor: markdown
 dateCreated: 2023-07-30T04:59:37.624Z
 ---
