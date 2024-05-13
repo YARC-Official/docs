@@ -2,7 +2,7 @@
 title: 🎸 Instruments
 description: Information about hardware game controllers
 published: true
-date: 2024-05-13T06:36:38.000Z
+date: 2024-05-13T06:49:53.002Z
 tags: instruments, vocals, guitar, bass, drums, pro guitar, pro drums, pro bass, keys, pro keys, elite drums
 editor: markdown
 dateCreated: 2023-07-30T03:57:46.912Z
@@ -53,7 +53,7 @@ This is an inexhaustive list of instrument controllers and their compatibility w
 | <img src="/instruments/ghlespaul.png" width="300"> | Les Paul | ➖   | ☑️  | 5   | B   | ✅   |
 | <img src="/instruments/ghwt.png>" width="300"> | World Tour | 4☑️ | ☑️  | 5   | B   | ✅   |
 | <img src="/instruments/gh5.png>" width="300"> | Guitar Hero 5 | ☑️  | ☑️  | ➖   | B   | ✅   |
-| <img src="/instruments/ghwor.png>" width="300"> | Warriors of Rock | ➖   | ☑️  | 5   | B   | ✅   |
+| <img src="/instruments/guitars/ghworguitar.png>" width="300"> | Warriors of Rock | ➖   | ☑️  | 5   | B   | ✅   |
 
 ###  🛠️Troubleshooting
 
