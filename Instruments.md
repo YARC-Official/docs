@@ -2,7 +2,7 @@
 title: 🎸 Instruments
 description: Information about hardware game controllers
 published: true
-date: 2024-05-12T20:57:41.897Z
+date: 2024-05-13T01:21:34.490Z
 tags: instruments, vocals, guitar, bass, drums, pro guitar, pro drums, pro bass, keys, pro keys, elite drums
 editor: markdown
 dateCreated: 2023-07-30T03:57:46.912Z
@@ -81,8 +81,7 @@ PS3 Les Pauls have bad input latency
 
 | Picture | Company | Guitar | Xbox One | PlayStation 4 |
 | --- | --- | --- | --- | --- |
-| <img src="/instruments/pdpriffmaster.png>" width="300"> | PDP | Riffmaster | ☑️C | ☑️  |
-
+| <img src="/instruments/guitars/pdpriffmaster.png>" width="300"> | PDP | Riffmaster | ☑️C | ☑️|
 ##  6 Fret
 
 **Guitar Hero**
