@@ -2,7 +2,7 @@
 title: 🎸 Instruments
 description: Information about hardware game controllers
 published: true
-date: 2024-05-13T01:59:16.321Z
+date: 2024-05-13T02:06:52.378Z
 tags: instruments, vocals, guitar, bass, drums, pro guitar, pro drums, pro bass, keys, pro keys, elite drums
 editor: markdown
 dateCreated: 2023-07-30T03:57:46.912Z
@@ -116,10 +116,10 @@ Pro mode will be re-implemented in version 0.13
 
 | Picture | Drums | PlayStation 2 | PlayStation 3 | PlayStation 4 | Xbox 360 | Xbox One | Wii |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| <img src="/instruments/rb1drums.png" width="300"> | Rock Band 1 | ✅   | ✅   | ➖   | ✅   | ➖   | ✅   |
+| <img src="/instruments/drums/rb1drums.png" width="300"> | Rock Band 1 | ✅   | ✅   | ➖   | ✅   | ➖   | ✅   |
 | <img src="/instruments/rb2drums.png" width="300"> | Rock Band 2 | ☑️  | ☑️  | ➖   | 5   | ➖   | ☑️  |
 | <img src="/instruments/rb2drums.png" width="300"> | Rock Band 3 | ☑️  | ☑️  | ➖   | 5   | ➖   | ☑️  |
-| <img src="/instruments/rbbeatlesdrums.png" width="300"> | Beatles | ☑️  | ☑️  | ➖   | 5   | ➖   | ☑️  |
+| <img src="/instruments//drums/rbbeatlesdrums.png" width="300"> | Beatles | ☑️  | ☑️  | ➖   | 5   | ➖   | ☑️  |
 | <img src="/instruments/rb4drums.png" width="300"> | Rock Band 4 | ➖   | ➖   | 7   | ➖   | 6C  | ➖   |
 | <img src="/instruments/rbportable.png" width="300"> | Portable | ➖   | ➖   | ➖   | ✅   | ➖   | ➖   |
 
@@ -150,7 +150,7 @@ Each drum has 2 buttons, the 5th button is the clap microphone.
 | --- | --- | --- | --- |
 | <img src="/instruments/drums/alesisnitromesh.png" width="300"> | Alesis | Nitro Mesh | ✅   |
 | <img src="/instruments/drums/alesisnitromax.png" width="300"> | Alesis | Nitro Max | ✅   |
-| <img src="/instruments/rolandtd1.png" width="300"> | Roland | TD-1 | ✅   |
+| <img src="/instruments/drums/rolandtd1.png" width="300"> | Roland | TD-1 | ✅   |
 
 ###  ⚠️Note!
 
