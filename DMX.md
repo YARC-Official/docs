@@ -2,7 +2,7 @@
 title: 🐕 DMX
 description: 
 published: true
-date: 2024-05-14T20:32:38.984Z
+date: 2024-05-14T20:38:44.654Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T18:13:08.409Z
@@ -33,49 +33,49 @@ Basic channels replicate the Rock Bane Stage  Kit.
 
 ### 🐶 Master Dimmer
 Some DMX fixtures have a  channel  that controls the  dimming of all colors. These channels are set to On when YARG starts.
-| Master Dimmer Channels| Value|
+| Value| Meaning|
 |-|-|
 |0|Off|
 |255|On|
 
 ### 🐶  Red Channels
 There is 8 Red channels, representing each LED in the light array
-| Red Channels| Value|
+| Value| Meaning|
 |-|-|
 |0|Off|
 |255|On|
 
 ### 🐶 Blue Channels
 There is 8 Blue channels, representing each LED in the light array
-| Blue Channels| Value|
+| Value| Meaning|
 |-|-|
 |0|Off|
 |255|On|
 
 ###  🐶  Green Channels
 There is 8 Green channels, representing each LED in the light array
-| Green Channels| Value|
+| Value| Meaning|
 |-|-|
 |0|Off|
 |255|On|
 
 ### 🐶 Yellow Channels
 There is 8 Yellow channels, representing each LED in the light array
-| Yellow Channels| Value|
+| Value| Meaning|
 |-|-|
 |0|Off|
 |255|On|
 
 ### 🐶  Fog Channel
 Fog channel represents the fog machine of stage kit.
-|Fog Channel| Value|
+| Value| Meaning|
 |-|-|
 |0|Off|
 |255|On|
 
 ### 🐶  Strobe Channel
 Strobe channel represents the built-in strobe of the stage kit. In offical songs, only Slow and Fast are used.
-|Strobe Channel| Value|
+| Value| Meaning|
 |-|-|
 |0|Off|
 |64|Slow|
@@ -89,7 +89,7 @@ These channels provide additional information as to what YARG is doing, usseful 
 ### 🐶 Cue Change Channel
 This channel changes whenever a lighting cue is read from the Venue track of a song, load into the score screen, or load into the general menu.
 NoCue is only briefly used when YARG first boots but hasn't loaded Menu Lighting yet.
-| Cue Change Channel| Value|
+| Meaning | Value|
 |-|-|
 |NoCue| 0|
 |           Menu | 10|
@@ -119,7 +119,7 @@ NoCue is only briefly used when YARG first boots but hasn't loaded Menu Lighting
 
 ### 🐶 Post-Processing Channel
 Post-processing is the visual effects that are happening to the on screen venue and characters.
-| Post-Processing Channel| Value|
+| Meaning | Value|
 |-|-|
 |Default| 0|
 |             Basic effects|
@@ -158,7 +158,7 @@ Post-processing is the visual effects that are happening to the on screen venue 
 |       Trails Spacey | 255|
 ### 🐕‍🦺 Keyframe channel
 Keyframes are used to change the status of the current lighting cue and/or current animations, for example, once Stomp is set as the current cue, subsequent Next calls will toggle all lights (both in-game and on the stage kit) either on or off.
-| Keyframe Channel| Value|
+| Meaning | Value|
 |-|-|
 |0|Off|
 |            Off | 0|
@@ -167,20 +167,20 @@ Keyframes are used to change the status of the current lighting cue and/or curre
 |         Keyframe First | 23|
 ### 🐕‍🦺 Beatline channel
 Every beat strong (major) or measure (minor) beat this  channel will be set.
-| BeatLine Channel| Value|
+| Meaning | Value|
 |-|-|
 |Off | 0|
 |Measure | 1|
 |Strong | 11|
 ### 🐕‍🦺 Bonus Effect channel
 Bonus effects are instantaneous one-off stage effects, such as pyrotechnics or lightning
-| Bonus Effect Channel| Value|
+| Value | Meaning|
 |-|-|
 |0|Off|
 |2|On|
 ### 🦮 Drum Channel
 This channel tracks the currently playing drum notes. This is a bitmath channel! See notes below.
-| Drum Channel| Value|
+| Pad | Value|
 |-|-|
 |None|0|
 |        Kick|1|
@@ -194,7 +194,7 @@ This channel tracks the currently playing drum notes. This is a bitmath channel!
 
 ### 🦮 Guitar Channel
 This channel tracks the currently playing guitar notes. This is a bitmath channel! See notes below.
-| Guitar Channel| Value|
+| Meaning | Value|
 |-|-|
 |None|0|
 |   Open|1|
@@ -206,7 +206,7 @@ This channel tracks the currently playing guitar notes. This is a bitmath channe
 
 ### 🦮 Bass Channel
 This channel tracks the currently playing bass notes. This is a bitmath channel! See notes below.
-| Bass Channel| Value|
+| Fret | Value|
 |-|-|
 |None|0|
 |   Open|1|
@@ -217,7 +217,7 @@ This channel tracks the currently playing bass notes. This is a bitmath channel!
 | Orange|32|
 ### 🦮 Key Channel
 This channel tracks the currently playing key notes. This is a bitmath channel! See notes below.
-| Key Channel| Value|
+| Key | Value|
 |-|-|
 |None|0|
 |   Green|2|
