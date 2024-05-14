@@ -2,7 +2,7 @@
 title: 🐕 DMX
 description: 
 published: true
-date: 2024-05-14T19:03:18.630Z
+date: 2024-05-14T19:15:12.357Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T18:13:08.409Z
@@ -86,7 +86,10 @@ Strobe channel represents the built-in strobe of the stage kit. In offical songs
 ## Advanced channels
 These channels provide additional information as to what YARG is doing, usseful  for DMX sequencers to make complex lighting effects.
 
-|🐶 Cue Change Channel| Value|
+### 🐶 Cue Change Channel
+This channel changes whenever a lighting cue is read from the Venue track of a song, load into the score screen, or load into the general menu.
+NoCue is only briefly used when YARG first boots but hasn't loaded Menu Lighting yet.
+| Cue Change Channel| Value|
 |-|-|
 |            NoCue| 0|
  |           Menu | 10|
@@ -113,11 +116,46 @@ These channels provide additional information as to what YARG is doing, usseful 
            | FlareSlow|  220|
            | FlareFast|  230|
            | BigRockEnding|  240|
-.
-|🐶 Post-Processing Channel| Value|
-|-|-|
-|0|Off|
-|255|On|
+
+### 🐶 Post-Processing Channel
+Post-processing is the visual effects that are happening to the on screen venue and characters.
+| Post-Processing Channel| Value|
+ |-|-|
+ |Default| 0|
+|             Basic effects|
+ |           Bloom | 4|
+  |          Bright | 14|
+   |         Contrast | 24|
+    |        Mirror | 34|
+     |       Photo Negative | 44|
+      |      Posterize | 54|
+|             Color filters/effects|
+ |           Black And White | 64|
+  |          Sepia Tone | 74|
+   |         Silver Tone | 84|
+    |        Choppy Black And White | 94|
+     |       Photo Negative Red And Black | 104|
+      |      Polarized Black And White | 114|
+       |     Polarized Red And Blue | 124|
+        |    Desaturated Red | 134|
+         |   Desaturated Blue | 144|
+          |  Contrast Red | 154|
+           | Contrast Green | 164|
+            |Contrast Blue | 174|
+|             Grainy|
+ |           Grainy Film | 184|
+  |          Grainy Chromatic Abberation | 194|
+   |          Scanlines|
+    |        Scanlines | 204|
+     |       Scanlines Black And White | 214|
+      |      Scanlines Blue | 224|
+       |     Scanlines Security | 234|
+|             Trails|
+ |           Trails | 244|
+  |          Trails Long | 252|
+   |         Trails Desaturated | 253|
+    |        Trails Flickery | 254|
+     |       Trails Spacey | 255|
 .
 |🐶 Keyframe Channel| Value|
 |-|-|
