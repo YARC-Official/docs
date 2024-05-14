@@ -2,7 +2,7 @@
 title: 🐕 DMX
 description: 
 published: true
-date: 2024-05-14T20:31:10.612Z
+date: 2024-05-14T20:32:38.984Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T18:13:08.409Z
@@ -263,3 +263,7 @@ Decimal value:|128|64|32|16|8|4|2|1|
 Guitar fret:|n/a|n/a|Open|Blue|Yellow|Red|Green|Open|
 
 So if we turn every bit on we get 255, that is why that is the max value!
+
+## ⚠️ Not Yet Implemented!
+Sing-alongs
+Spotlights
