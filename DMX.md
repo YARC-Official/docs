@@ -2,7 +2,7 @@
 title: 🐕 DMX
 description: 
 published: true
-date: 2024-05-14T20:28:53.294Z
+date: 2024-05-14T20:29:09.026Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T18:13:08.409Z
@@ -226,7 +226,7 @@ This channel tracks the currently playing key notes. This is a bitmath channel! 
 | Blue|16|
 | Orange|32|
 
-### ⚠️ Bitmath
+## ⚠️ Bitmath
 A bitmath channel sums up the total of the frets currently hit and sets that as the value. For example, if a guitar chord is red/green/yellow then the value of the channel will be red (4) + green (2) + yellow (8) = 14. The problem with trying to read this value in a DMX sequencer like lightjams is that, for example, you want to see if a red is pressed, you would need check if the channel value is 4 or 6 or 14 or 20 or 36, etc etc. This ends up with a huge list of statements that is hard to maintain and change when needed. Instead we can check the bits.
 
 Each channel is one byte, which is 8 bits. Each bit can be a 1(on) or 0(off). So if every bit is off we get:
