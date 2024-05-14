@@ -2,7 +2,7 @@
 title: 🐕 DMX
 description: 
 published: true
-date: 2024-05-14T20:41:09.018Z
+date: 2024-05-14T21:02:12.137Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T18:13:08.409Z
@@ -267,3 +267,4 @@ So if we turn every bit on we get 255, that is why that is the max value!
 ## ⚠️ Not Yet Implemented!
 Sing-alongs
 Spotlights
+Camera Cuts
