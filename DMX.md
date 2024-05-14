@@ -2,7 +2,7 @@
 title: 🐕 DMX
 description: 
 published: true
-date: 2024-05-14T19:15:12.357Z
+date: 2024-05-14T19:23:16.399Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T18:13:08.409Z
@@ -156,17 +156,23 @@ Post-processing is the visual effects that are happening to the on screen venue 
    |         Trails Desaturated | 253|
     |        Trails Flickery | 254|
      |       Trails Spacey | 255|
-.
-|🐶 Keyframe Channel| Value|
+## 🐕‍🦺 Keyframe channel
+Keyframes are used to change the status of the current lighting cue and/or current animations, for example, once Stomp is set as the current cue, subsequent Next calls will toggle all lights (both in-game and on the stage kit) either on or off.
+| Keyframe Channel| Value|
 |-|-|
 |0|Off|
-|255|On|
-.
-|🐶 BeatLine Channel| Value|
+|            Off | 0|
+ |           Keyframe Next | 3|
+  |          Keyframe Previous | 13|
+   |         Keyframe First | 23|
+## 🐕‍🦺 Beatline channel
+Every beat strong (major) or measure (minor) beat this  channel will be set.
+| BeatLine Channel| Value|
 |-|-|
-|0|Off|
-|255|On|
-.
+|Off | 0|
+|Measure | 1|
+|Strong | 11|
+## 🐕‍🦺 Bonus Effect channel
 |🐶 Bonus Effect Channel| Value|
 |-|-|
 |0|Off|
