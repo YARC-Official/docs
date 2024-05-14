@@ -2,7 +2,7 @@
 title: 🐕 DMX
 description: 
 published: true
-date: 2024-05-14T20:15:38.552Z
+date: 2024-05-14T20:17:07.258Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T18:13:08.409Z
@@ -235,7 +235,7 @@ Each channel is one byte, which is 8 bits. Each bit can be a 1(on) or 0(off). If
 |bit 8|bit 7|bit 6|bit 5|bit 4|bit 3|bit 2|bit 1|
 |0|0|0|0|0|0|0|0|
 |128|64|32|16|8|4|2|1|
-so in the above example would be shown as:
+so in the above example of a value of 14 would be shown as:
 |||||||||
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |bit 8|bit 7|bit 6|bit 5|bit 4|bit 3|bit 2|bit 1|
