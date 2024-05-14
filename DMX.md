@@ -2,7 +2,7 @@
 title: 🐕 DMX
 description: 
 published: true
-date: 2024-05-14T20:17:07.258Z
+date: 2024-05-14T20:20:08.569Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T18:13:08.409Z
@@ -231,17 +231,17 @@ A bitmath channel sums up total of the frets currently hit and sets that as the 
 
 Each channel is one byte, which is 8 bits. Each bit can be a 1(on) or 0(off). If we think about each bit as having a decimal value we can understand the following:
 |||||||||
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|bit 8|bit 7|bit 6|bit 5|bit 4|bit 3|bit 2|bit 1|
-|0|0|0|0|0|0|0|0|
-|128|64|32|16|8|4|2|1|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+Bit name:|bit 8|bit 7|bit 6|bit 5|bit 4|bit 3|bit 2|bit 1|
+Bits value:|0|0|0|0|0|0|0|0|
+Decimal value:|128|64|32|16|8|4|2|1|
 so in the above example of a value of 14 would be shown as:
 |||||||||
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|bit 8|bit 7|bit 6|bit 5|bit 4|bit 3|bit 2|bit 1|
-|0|0|0|0|1|1|1|0|
-|128|64|32|16|8|4|2|1|
-|n/a|n/a|Open|Blue|Yellow|Red|Green|Open|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+Bit name:|bit 8|bit 7|bit 6|bit 5|bit 4|bit 3|bit 2|bit 1|
+Bits value:|0|0|0|0|1|1|1|0|
+Decimal value:|128|64|32|16|8|4|2|1|
+Guitar Fret:|n/a|n/a|Open|Blue|Yellow|Red|Green|Open|
 
 So instead of checking the decimal total, we can check which bits are set. If bit 3 is ever 1 we know this value has the red fret pressed!
 
@@ -251,7 +251,7 @@ Please note that while humans start numbering things at 1, a computer will start
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 Computers call it:|bit 7|bit 6|bit 5|bit 4|bit 3|bit 2|bit 1|bit 0|
 Humans call it: |bit 8|bit 7|bit 6|bit 5|bit 4|bit 3|bit 2|bit 1|
-Bits:|0|0|0|0|1|1|1|0|
-decimal value:|128|64|32|16|8|4|2|1|
-guitar fret:|n/a|n/a|Open|Blue|Yellow|Red|Green|Open|
+Bit value:|0|0|0|0|1|1|1|0|
+Decimal value:|128|64|32|16|8|4|2|1|
+Guitar fret:|n/a|n/a|Open|Blue|Yellow|Red|Green|Open|
 
