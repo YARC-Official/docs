@@ -2,7 +2,7 @@
 title: 🎸 Instruments
 description: Information about hardware game controllers
 published: true
-date: 2024-05-15T21:58:32.444Z
+date: 2024-05-15T21:59:24.573Z
 tags: instruments, vocals, guitar, bass, drums, pro guitar, pro drums, pro bass, keys, pro keys, elite drums
 editor: markdown
 dateCreated: 2023-07-30T03:57:46.912Z
@@ -11,7 +11,7 @@ dateCreated: 2023-07-30T03:57:46.912Z
 This is an inexhaustive list of instrument controllers and their compatibility with YARG. Most undocumented controllers should work as well.
 
 | Legend |     |
-| --- | --- |
+| :---: | :--- |
 | ➖   | Does not exist. |
 | ❌   | Does not work. |
 | ✅   | Plug it in and rock! |
@@ -20,7 +20,7 @@ This is an inexhaustive list of instrument controllers and their compatibility w
 🌭
 
 |Software needed|     |
-|---|---|
+|:---:|:---|
 |A| Need to use [GHLtarUtility](https://github.com/ghlre/GHLtarUtility). |
 |B| Need to use [WiitarThing](https://github.com/Meowmaritus/WiitarThing). |
 |C| Need to use [RB4InstrumentMapper](https://github.com/TheNathannator/RB4InstrumentMapper). |
@@ -28,7 +28,7 @@ This is an inexhaustive list of instrument controllers and their compatibility w
 🔩
 
 | Hardware needed |     |
-| --- | --- |
+|:---:|:--- |
 | 4   | Need a console-specific controller to USB adapter.\* |
 | 5   | Need the Xbox 360 wireless adapter. |
 | 6   | Need the Xbox One wireless adapter. |
