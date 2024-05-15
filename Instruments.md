@@ -2,7 +2,7 @@
 title: 🎸 Instruments
 description: Information about hardware game controllers
 published: true
-date: 2024-05-15T21:46:57.435Z
+date: 2024-05-15T21:58:32.444Z
 tags: instruments, vocals, guitar, bass, drums, pro guitar, pro drums, pro bass, keys, pro keys, elite drums
 editor: markdown
 dateCreated: 2023-07-30T03:57:46.912Z
@@ -46,7 +46,7 @@ This is an inexhaustive list of instrument controllers and their compatibility w
 **Guitar Hero**
 
 | Picture | Guitar | PlayStation 2 | PlayStation 3 | Xbox 360 | Wii | Kiosk |
-| --- | --- | --- | --- | --- | --- | --- |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | <img src="/instruments/guitars/gh1sg.png" width="300"> | SG  | 4   | ➖   | ➖   | ➖   | ➖   |
 | <img src="/instruments/gh1kramer.png" width="300"> | Kramer | 4☑️ | ➖   | ➖   | ➖   | ➖   |
 | <img src="/instruments/guitars/ghxplorer.png" width="300"> | X-plorer | ➖   | ➖   | ✅   | ➖   | ✅   |
@@ -64,7 +64,7 @@ PS3 Les Pauls have bad input latency
 **Rock Band**
 
 | Picture | Guitar | PlayStation 2 | PlayStation 3 | PlayStation 4 | Xbox 360 | Xbox One | Wii | Kiosk |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | <img src="/instruments/guitars/rb1strat.png>" width="300"> | Rock Band 1 Stratocaster | ☑️  | ☑️  | ➖   | 5 or ✅ | ➖   | ☑️  | ✅  
 | <img src="/instruments/guitars/rb2strat.png>" width="300"> | Rock Band 2 Stratocaster | ☑️  | ☑️  | ➖   | 5   | ➖   | ☑️  | ✅|
 | <img src="/instruments/guitars/rb2strat.png>" width="300"> | Rock Band 3 Stratocaster | ☑️  | ☑️  | ➖   | 5   | ➖   | ☑️  | ✅|
@@ -80,14 +80,14 @@ PS3 Les Pauls have bad input latency
 **3rd Party**
 
 | Picture | Company | Guitar | Xbox One | PlayStation 4 |
-| --- | --- | --- | --- | --- |
+| :---: | :---: | :---: | :---: | :---: |
 | <img src="/instruments/guitars/pdpriffmaster.png>" width="300"> | PDP | Riffmaster | ☑️C | ☑️|
 ##  6 Fret
 
 **Guitar Hero**
 
 | Picture | Gutiar | PlayStation 3 | PlayStation 4 | Xbox 360 | Xbox One | Wii U | iOS | Kiosk |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | <img src="/instruments/guitars/ghlive.gif" width="300"> | Live | ☑️  | ☑️  | ☑️  | ☑️C | ☑️  | A   | ✅   |
 
 ###  ⚠️Note!
@@ -100,7 +100,7 @@ See [play-modes](/play-modes) for more information.
 **Rock Band**
 
 | Picture | Guitar | PlayStation 3 | Xbox 360 | Wii |
-| --- | --- | --- | --- | --- |
+| :---: | :---: | :---: | :---: | :---: |
 | <img src="/instruments/rbmustang.png" width="300"> | Mustang | ☑️  | 5   | ☑️  |
 | <img src="/instruments/rbsquire.png" width="300"> | Squire | 8   | 8   | 8   |
 
@@ -115,7 +115,7 @@ Pro mode will be re-implemented in version 0.13
 **Rock Band**
 
 | Picture | Drums | PlayStation 2 | PlayStation 3 | PlayStation 4 | Xbox 360 | Xbox One | Wii |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | <img src="/instruments/drums/rb1drums.png" width="300"> | Rock Band 1 | ✅   | ✅   | ➖   | ✅   | ➖   | ✅   |
 | <img src="/instruments/rb2drums.png" width="300"> | Rock Band 2 | ☑️  | ☑️  | ➖   | 5   | ➖   | ☑️  |
 | <img src="/instruments/rb2drums.png" width="300"> | Rock Band 3 | ☑️  | ☑️  | ➖   | 5   | ➖   | ☑️  |
@@ -125,7 +125,7 @@ Pro mode will be re-implemented in version 0.13
 **3rd Party**
 
 | Picture | Drums | Gamecube |
-| --- | --- | --- |
+| :---: | :---: | :---: |
 | <img src="/instruments/drums/dkbongos.png" width="300"> | DK Bongos | 4   |
 
 ###  ⚠️Note!
@@ -137,7 +137,7 @@ Each drum has 2 buttons, the 5th button is the clap microphone.
 **Guitar Hero**
 
 | Picture | Drums | PlayStation 2 | PlayStation 3 | Xbox 360 | Wii |
-| --- | --- | --- | --- | --- | --- |
+| :---: | :---: | :---: | :---: | :---: | :---: |
 | <img src="/instruments/drums/ghhwtdrums.png" width="300"> | World Tour | 4   | ☑️  |5|B|
 | <img src="/instruments/drums/gh5drums.png" width="300"> | Guitar Hero 5 | 4   | ☑️  |5|B|
 | <img src="/instruments/drums/gh5drums.png" width="300"> | Band Hero | 4   | ☑️  |5|B|
@@ -146,7 +146,7 @@ Each drum has 2 buttons, the 5th button is the clap microphone.
 ##  E-kit
 
 | Picture | Company | Model | Compatibilty |
-| --- | --- | --- | --- |
+| :---: | :---: | :---: | :---: |
 | <img src="/instruments/drums/alesisnitromesh.png" width="300"> | Alesis | Nitro Mesh | ✅   |
 | <img src="/instruments/drums/alesisnitromax.png" width="300"> | Alesis | Nitro Max | ✅   |
 | <img src="/instruments/drums/rolandtd1.png" width="300"> | Roland | TD-1 | ✅   |
@@ -166,7 +166,7 @@ Make sure you hit something on the kit before hitting "Add Device", the list doe
 **3rd Party**
 
 | Picture | Company | Microphone | Xbox 360 | XLR |
-| --- | --- | --- | --- | --- |
+| :---: | :---: | :---: | :---: | :---: |
 | <img src="/instruments/microphones/mslips.png" width="300"> | Microsoft | Lips | ❌   | ➖   |
 | <img src="/instruments/microphones/shuresm57.png" width="300"> | Shure | SM57 | ➖   | 4   |
 
@@ -186,7 +186,7 @@ On mac, YARG might not ask for mic access. Launch the .app manually instead of g
 **Rock Band**
 
 | Picture | Keyboard | PlayStation 3 | Xbox 360 | Wii |
-| --- | --- |:---: | :---: | :---: |
+| :---: | :---: |:---: | :---: | :---: |
 | <img src="/instruments/keyboards/rb3piano.png" width="300"> | Rock Band 3 | ❌  | 5   | ☑️  |
 
 ###  ⚠️Note!
@@ -196,7 +196,7 @@ Gamepad mode is being worked on. In the mean time, choose Five Fret and All HOPO
 # 🪇 Miscellaneous
 **Guitar Hero**
 |Picture|Name|DS|
-|--|--|--|
+|:--:|:--:|:-:|
 |<img src="/instruments/miscellaneous/ghguitargrip.png" width="300">|Guitar Grip|4|
 ###  ⚠️Note!
 YARG doesn't have a Blitz mode yet. You won't be able to hit the 5th lane!
