@@ -2,7 +2,7 @@
 title: 🎸 Instruments
 description: Information about hardware game controllers
 published: true
-date: 2024-05-13T07:39:31.248Z
+date: 2024-05-15T21:46:57.435Z
 tags: instruments, vocals, guitar, bass, drums, pro guitar, pro drums, pro bass, keys, pro keys, elite drums
 editor: markdown
 dateCreated: 2023-07-30T03:57:46.912Z
@@ -186,8 +186,8 @@ On mac, YARG might not ask for mic access. Launch the .app manually instead of g
 **Rock Band**
 
 | Picture | Keyboard | PlayStation 3 | Xbox 360 | Wii |
-| --- | --- | --- | --- | --- |
-| <img src="/instruments/keyboards/rb3piano.png" width="300"> | Rock Band 3 | ☑️  | 5   | ☑️  |
+| --- | --- |:---: | :---: | :---: |
+| <img src="/instruments/keyboards/rb3piano.png" width="300"> | Rock Band 3 | ❌  | 5   | ☑️  |
 
 ###  ⚠️Note!
 
