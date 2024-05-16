@@ -2,7 +2,7 @@
 title: ▶️ Play Modes
 description: Useful information about the current supported play modes
 published: true
-date: 2024-05-13T21:43:51.206Z
+date: 2024-05-16T21:13:05.285Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-03T20:39:05.082Z
@@ -54,7 +54,7 @@ Four pads, three cymbals, and a kick pedal; an expanded Band kit.
 Pro drums use the same four-lane highway as regular 4 Lane drums, but with distinct note shapes to distinguish between pads and cymbals for the 2nd, 3rd and 4th lanes. In Pro Drums mode, the pad and cymbal of a color are *not* interchangable - a pad note requires a pad hit; a cymbal note requires a cymbal hit.
 
 ## Elite
-Designed for play with a typical midi e-drum kit, elite drum support is planned for YARG version 0.13.0.
+Designed for play with a typical midi e-drum kit, elite drum support is planned for YARG version 0.14.0.
 Planned features include:
 - Seven or eight lanes, for a Snare, three Toms, a Hi-hat, a Ride cymbal, and one or two Crash cymbals, plus bass kicks.
 - Lane reordering, so the highway can reflect your kit's arrangement.
