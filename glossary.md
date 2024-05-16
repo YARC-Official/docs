@@ -2,7 +2,7 @@
 title: 📖 Glossary
 description: Some common terms and what they mean
 published: true
-date: 2024-05-12T21:41:56.593Z
+date: 2024-05-16T21:28:13.926Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-12T21:41:56.593Z
@@ -75,12 +75,12 @@ Playing with 3+ players, covering Guitar, Bass, Drums, Vocals, and potentially o
 
 ## 💥 Big Rock Ending (BREs)
 Big Rock Endings are a section near the end of the song where charted notes are irrelevant, and players are instead encouraged to wail on their instruments as much as they can for bonus points. Often there can be several final, proper notes placed <em>after</em> the BRE comcludes, so be prepared to play them.
-BRE support is planned for YARG version 0.13.0
+BRE support is planned for YARG version 0.14.0
 
 ## 🎓 Pro
 Instruments with the Pro prefix are generally intended to better represent really playing that instrument. In YARG, Pro Drums expands 4-lane play with the additon of three cymbals, Pro Guitar ditches the 5 buttons and strum bar for an entire fretboard and six strings, and Pro Keys sees you using a whole two-octive keyboard.
 The planned Elite Drums mode is set to further expand on the realism and complexity of Pro Drums.
-Pro Guitar, Pro Keys and Elite Drums are all planned for YARG 0.13.0
+Pro Guitar and Pro Keys are planned for YARG 0.13.0. Elite Drums is planned for 0.14.0.
 
 ## 💫 Unison
 A Star Power phrase happening simultaneously across multiple instruments may be marked as a Unison phrase. If everyone plays this phrase correctly, additional SP energy will be awarded.
@@ -130,7 +130,7 @@ MIDI can also refer to `.mid` files containing a sequence of MIDI events. Many r
 ## 🥁 E-Kit (aka E-Drums)
 an Electronic Drum Kit, consisting of a drum module/brain, a series of pads/triggers wired to the module, and commonly some hardware to support the pads in a comfortable playing position.  Hitting a pad with a drumstick will generate a signal which the module can recognize, and it will either produce a sound, a MIDI note, or both.
 A typical entry-level E-Kit will include pads/triggers to represent a snare, three toms, two cymbals, a hihat, a hihat-control pedal, and a bass-kick pedal.
-Beyond its use as an instrument, E-Kits are also great for playing YARG's drum modes, especially the upcoming Elite Drums planned for version 0.13.0.
+Beyond its use as an instrument, E-Kits are also great for playing YARG's drum modes, especially the upcoming Elite Drums planned for version 0.14.0.
 
 ## ➿ Debounce
 Debounce is a means for filtering out unintended repeat inputs from a button or switch - when a state change is detected, the system will ignore further changes from that switch until a small period of time has passed. In YARG, debounce can be configured on a per-button basis, as part of the input bindings for each profile.
