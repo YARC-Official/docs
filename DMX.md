@@ -2,7 +2,7 @@
 title: 🐕 DMX
 description: 
 published: true
-date: 2024-05-17T02:56:00.421Z
+date: 2024-05-17T02:59:10.067Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T18:13:08.409Z
@@ -13,22 +13,22 @@ Digital multiplex with 512 pieces of information revision a, aka DMX512-A, is a 
 
 ![stagelights.png](/dmx/stagelights.png)
 
-DMX uses RS-485 serial communications over 3 and 5 pin XLR connections to send and recieve the digital signals. Since a PC doesn't natively support these signals, YARG send DMX packets over a network connection using sACN to bundle the DMX data into a TCP/IP packet. Then these sACN packets can be read by other devices and programs on the network as well as converters that can turn the packet back into raw DMX data, for the fixtures.
+DMX uses RS-485 serial communications over 3 and 5 pin XLR connections to send and receive the digital signals. Since a PC doesn't natively support these signals, YARG send DMX packets over a network connection using sACN to bundle the DMX data into a TCP/IP packet. Then these sACN packets can be read by other devices and programs on the network as well as converters that can turn the packet back into raw DMX data, for the fixtures.
 ![3pinxlr.png](/dmx/3pinxlr.png =x300)![5pinxlr.png](/dmx/5pinxlr.png =x300)
-This flexiblity allows for unlimited possiblites in your YARG light shows!
+This flexibility allows for unlimited possibilities in your YARG light shows!
 
 ![fixtures.png](/dmx/fixtures.png =x300)
 
 # Quickstart guide using <a href="https://www.lightjams.com/">Lightjams</a>
 Lightjams and QLC+ are both DMX sequencer programs that can read sACN packets, so they can be used to control DMX Light fixtures.
-The following quickstart template for Lightjams has all the default YARG DMX channels already setup and ready to go!
+The following quick start template for Lightjams has all the default YARG DMX channels already setup and ready to go!
 [yarg-template-v1.0.ljp](/dmx/yarg-template-v1.0.ljp)
 
 # Hardware Setup
 ![yarg-docs-dmx-diagram.png](/dmx/yarg-docs-dmx-diagram.png)
 There are many options available for hardware
 # DMX Channels
-Each of the  512 bytes, known  as channels,  in a DMX  packets  can hold a value from 0 to 255. YARG  will  set these values to indciate  various changes as follows:
+Each of the  512 bytes, known  as channels,  in a DMX  packets  can hold a value from 0 to 255. YARG  will  set these values to indicate  various changes as follows:
 |Channel Type Legend|||
 |-|-|-|
 |🐶| Toggled| This channel will stay set at this value until set to another value|
@@ -80,7 +80,7 @@ Fog channel represents the fog machine of stage kit.
 |255|On|
 
 ### 🐶  Strobe Channel
-Strobe channel represents the built-in strobe of the stage kit. In offical songs, only Slow and Fast are used.
+Strobe channel represents the built-in strobe of the stage kit. In official songs, only Slow and Fast are used.
 | Value| Meaning|
 |-|-|
 |0|Off|
