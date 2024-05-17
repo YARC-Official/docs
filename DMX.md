@@ -2,7 +2,7 @@
 title: 🐕 DMX
 description: 
 published: true
-date: 2024-05-14T21:02:12.137Z
+date: 2024-05-17T00:53:22.729Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T18:13:08.409Z
@@ -19,7 +19,10 @@ This flexiblity allows for unlimited possiblites in your YARG light shows!
 
 ![fixtures.png](/dmx/fixtures.png =x300)
 
-
+# Quickstart guide using <a href="https://www.lightjams.com/">Lightjams</a>
+Lightjams and QLC+ are both DMX sequencer programs that can read sACN packets, so they can be used to control DMX Light fixtures.
+The following quickstart template for Lightjams has all the default YARG DMX channels already setup and ready to go!
+[yarg-template-v1.0.ljp](/dmx/yarg-template-v1.0.ljp)
 
 # DMX Channels
 Each of the  512 bytes, known  as channels,  in a DMX  packets  can hold a value from 0 to 255. YARG  will  set these values to indciate  various changes as follows:
