@@ -2,7 +2,7 @@
 title: 🐕 DMX
 description: 
 published: true
-date: 2024-05-17T03:02:35.684Z
+date: 2024-05-17T03:20:16.556Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T18:13:08.409Z
@@ -25,7 +25,7 @@ The following quick start template for Lightjams has all the default YARG DMX ch
 [yarg-template-v1.0.ljp](/dmx/yarg-template-v1.0.ljp)
 
 # Hardware Setup
-A simple example of a harware layout. There are many options available for the sACN-to-DMX converter and fixtures.
+A simple example of a harware layout with 20 channel fixtures. There are many options available for the sACN-to-DMX converter and fixtures.
 ![yarg-docs-dmx-diagram.png](/dmx/yarg-docs-dmx-diagram.png)
 A more advanced setup would have a DMX sequencer, either in between the PC and network or as a replacement for the converter.
 
