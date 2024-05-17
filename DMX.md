@@ -2,7 +2,7 @@
 title: 🐕 DMX
 description: 
 published: true
-date: 2024-05-17T03:20:16.556Z
+date: 2024-05-17T03:24:04.713Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T18:13:08.409Z
@@ -16,8 +16,6 @@ Digital multiplex with 512 pieces of information revision a, aka DMX512-A, is a 
 DMX uses RS-485 serial communications over 3 and 5 pin XLR connections to send and receive the digital signals. Since a PC doesn't natively support these signals, YARG send DMX packets over a network connection using sACN to bundle the DMX data into a TCP/IP packet. Then these sACN packets can be read by other devices and programs on the network as well as converters that can turn the packet back into raw DMX data, for the fixtures.
 ![3pinxlr.png](/dmx/3pinxlr.png =x300)![5pinxlr.png](/dmx/5pinxlr.png =x300)
 This flexibility allows for unlimited possibilities in your YARG light shows!
-
-![fixtures.png](/dmx/fixtures.png =x300)
 
 # Quickstart guide using <a href="https://www.lightjams.com/">Lightjams</a>
 Lightjams and QLC+ are both DMX sequencer programs that can read sACN packets, so they can be used to control DMX Light fixtures.
