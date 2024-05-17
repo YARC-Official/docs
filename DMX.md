@@ -2,7 +2,7 @@
 title: 🐕 DMX
 description: 
 published: true
-date: 2024-05-17T01:06:08.476Z
+date: 2024-05-17T02:54:42.196Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T18:13:08.409Z
@@ -24,9 +24,12 @@ Lightjams and QLC+ are both DMX sequencer programs that can read sACN packets, s
 The following quickstart template for Lightjams has all the default YARG DMX channels already setup and ready to go!
 [yarg-template-v1.0.ljp](/dmx/yarg-template-v1.0.ljp)
 
+# Hardware Setup
+![yarg-docs-dmx-diagram.png](/dmx/yarg-docs-dmx-diagram.png)
+There are many options available for hardware
 # DMX Channels
 Each of the  512 bytes, known  as channels,  in a DMX  packets  can hold a value from 0 to 255. YARG  will  set these values to indciate  various changes as follows:
-|Channel Type Ledgend|||
+|Channel Type Legend|||
 |-|-|-|
 |🐶| Toggled| This channel will stay set at this value until set to another value|
 |🦮| Note length| This channel will stay at this value until the note  ends, then set to 0
@@ -87,7 +90,7 @@ Strobe channel represents the built-in strobe of the stage kit. In offical songs
 |255|Fastest|
 
 ## Advanced channels
-These channels provide additional information as to what YARG is doing, usseful  for DMX sequencers to make complex lighting effects.
+These channels provide additional information as to what YARG is doing, useful  for DMX sequencers to make complex lighting effects.
 
 ### 🐶 Cue Change Channel
 This channel changes whenever a lighting cue is read from the Venue track of a song, load into the score screen, or load into the general menu.
@@ -100,25 +103,25 @@ NoCue is only briefly used when YARG first boots but hasn't loaded Menu Lighting
 |         Intro | 30|
 |        Verse | 40|
 |       Chorus | 50|
-|      CoolLoop | 60|
-|     WarmLoop | 70|
-|    CoolManual | 80|
-|   WarmManual | 90|
+|      Cool (Loop) | 60|
+|     Warm (Loop) | 70|
+|    Cool (Manual) | 80|
+|   Warm (Manual) | 90|
 |  Dischord | 100|
 | Stomp | 110|
 | Default | 120|
 | Harmony | 130|
 | Frenzy|  140|
 | Silhouettes|  150|
-| SilhouettesSpotlight| 160|
+| Silhouettes Spotlight| 160|
 | Searchlights| 170|
 | Sweep|  180|
-| BlackoutFast|  190|
-| BlackoutSlow|  200|
-| BlackoutSpotlight|  210|
-| FlareSlow|  220|
-| FlareFast|  230|
-| BigRockEnding|  240|
+| Blackout (Fast)|  190|
+| Blackout (Slow)|  200|
+| Blackout (Spotlight)|  210|
+| Flare (Slow)|  220|
+| Flare (Fast)|  230|
+| Big Rock Ending|  240|
 
 ### 🐶 Post-Processing Channel
 Post-processing is the visual effects that are happening to the on screen venue and characters.
