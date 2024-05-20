@@ -2,7 +2,7 @@
 title: 👤 Profiles
 description: Information about User Profiles
 published: true
-date: 2024-05-12T21:18:39.513Z
+date: 2024-05-20T01:17:02.458Z
 tags: profile, customization, color, bots, binding
 editor: markdown
 dateCreated: 2023-07-31T16:54:45.414Z
@@ -116,9 +116,10 @@ Colors here correspond to the Default color profile.
 - Yellow Pad (Second)
 - Blue Pad (Third)
 - Green Pad (Fourth)
-- Yellow Cymbal (First)
-- Blue Cymbal (Second)
-- Green Cymbal (Third)
+- Yellow Cymbal (Second)
+- Blue Cymbal (Third)
+- Green Cymbal (Fourth)
+  - aka Red Cymbal (First)
 - Kick Pedal
 
 ## 5-Lane Drums
