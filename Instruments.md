@@ -2,7 +2,7 @@
 title: 🎸 Instruments
 description: Information about hardware game controllers
 published: true
-date: 2024-05-21T22:47:20.534Z
+date: 2024-05-21T22:48:29.063Z
 tags: instruments, vocals, guitar, bass, drums, pro guitar, pro drums, pro bass, keys, pro keys, elite drums
 editor: markdown
 dateCreated: 2023-07-30T03:57:46.912Z
@@ -199,11 +199,11 @@ Gamepad mode is being worked on. In the mean time, choose Five Fret and All HOPO
 |:--:|:--:|:-:|
 |<img src="/instruments/miscellaneous/ghguitargrip.png" width="300">|Guitar Grip|4|
 ###  ⚠️Note!
-YARG doesn't have a Blitz mode yet. You won't be able to hit the 5th lane!
+Only has 4 buttons! You will need another device for the 5th lane!
 
 **3rd Party**
 |Picture|Company|Name|Wii|
 |:--:|:--:|:-:|
 |<img src="/instruments/miscellaneous/taikodrum.png" width="300">|Hori|Taiko Drum|✅|
 ###  ⚠️Note!
-YARG doesn't have a Blitz mode yet. You won't be able to hit the 5th lane!
+Only has 4 buttons! You will need another device for the 5th lane!
