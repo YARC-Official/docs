@@ -2,7 +2,7 @@
 title: 🐕 DMX
 description: 
 published: true
-date: 2024-05-27T01:51:03.848Z
+date: 2024-05-27T01:53:26.635Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T18:13:08.409Z
@@ -254,7 +254,7 @@ So in the above example of a value of 14, we turn on the following bits to get t
 Bit name:|bit 8|bit 7|bit 6|bit 5|bit 4|bit 3|bit 2|bit 1|
 Bits value:|0|0|0|0|1|1|1|0|
 Decimal value:|128|64|32|16|8|4|2|1|
-Guitar Fret:|n/a|n/a|Open|Blue|Yellow|Red|Green|Open|
+Guitar Fret:|n/a|n/a|Orange|Blue|Yellow|Red|Green|Open|
 
 So instead of checking the decimal total, we can check which bits are set. If bit 3 is ever on (1) we know this value has the red fret pressed!
 
@@ -266,7 +266,7 @@ Computers call it:|bit 7|bit 6|bit 5|bit 4|bit 3|bit 2|bit 1|bit 0|
 Humans call it: |bit 8|bit 7|bit 6|bit 5|bit 4|bit 3|bit 2|bit 1|
 Bit value:|0|0|0|0|1|1|1|0|
 Decimal value:|128|64|32|16|8|4|2|1|
-Guitar fret:|n/a|n/a|Open|Blue|Yellow|Red|Green|Open|
+Guitar fret:|n/a|n/a|Orange|Blue|Yellow|Red|Green|Open|
 
 So if we turn every bit on we get 255, that is why that is the max value!
 
