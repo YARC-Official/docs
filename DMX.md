@@ -2,7 +2,7 @@
 title: 🐕 DMX
 description: 
 published: true
-date: 2024-05-27T01:45:50.837Z
+date: 2024-05-27T01:51:03.848Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T18:13:08.409Z
@@ -256,7 +256,7 @@ Bits value:|0|0|0|0|1|1|1|0|
 Decimal value:|128|64|32|16|8|4|2|1|
 Guitar Fret:|n/a|n/a|Open|Blue|Yellow|Red|Green|Open|
 
-So instead of checking the decimal total, we can check which bits are set. If bit 3 is ever 1 we know this value has the red fret pressed!
+So instead of checking the decimal total, we can check which bits are set. If bit 3 is ever on (1) we know this value has the red fret pressed!
 
 Please note that while humans start numbering things at 1, a computer will start numbering things at 0. Some programs use the 0 start, some use the 1 start so be sure to double check how your program does it. You might see the bits numbered like this:
 
