@@ -2,7 +2,7 @@
 title: 🎸 Instruments
 description: Information about hardware game controllers
 published: true
-date: 2024-05-29T03:36:59.340Z
+date: 2024-05-31T04:13:21.625Z
 tags: instruments, vocals, guitar, bass, drums, pro guitar, pro drums, pro bass, keys, pro keys, elite drums
 editor: markdown
 dateCreated: 2023-07-30T03:57:46.912Z
@@ -204,8 +204,9 @@ Gamepad mode is being worked on. In the mean time, choose Five Fret and All HOPO
 Only has 4 buttons! You will need another device for the 5th lane!
 
 **3rd Party**
-|Picture|Company|Name|Wii|
+|Picture|Company|Name|Wii|Dreamcast|
 |:--:|:--:|:-:|:-:|
-|<img src="/instruments/miscellaneous/taikodrum.png" width="300">|Hori|Taiko Drum|✅|
+|<img src="/instruments/miscellaneous/taikodrum.png" width="300">|Hori|Taiko Drum|✅|➖
+|<img src="/instruments/miscellaneous/segamaracas.png" width="300">|Sega|Samba de Amigo maracas|➖|4|
 ###  ⚠️Note!
 Only has 4 buttons! You will need another device for the 5th lane!
