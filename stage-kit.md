@@ -1,8 +1,8 @@
 ---
-title: Stage Kit
-description: 
+title: 💡 Stage Kit
+description: Information about the Stage Kit hardware
 published: true
-date: 2024-06-06T02:31:10.812Z
+date: 2024-06-06T03:23:58.244Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-06T00:19:52.182Z
