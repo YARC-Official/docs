@@ -2,7 +2,7 @@
 title: 🐕 DMX
 description: 
 published: true
-date: 2024-05-27T01:53:26.635Z
+date: 2024-06-08T23:48:58.010Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T18:13:08.409Z
@@ -16,11 +16,6 @@ Digital multiplex with 512 pieces of information revision a, aka DMX512-A, is a 
 DMX uses RS-485 serial communications over 3 and 5 pin XLR connections to send and receive the digital signals. Since a PC doesn't natively support these signals, YARG send DMX packets over a network connection using sACN to bundle the DMX data into a TCP/IP packet. These sACN packets can be read by other devices and programs on the network as well as converters that can turn the packet back into raw DMX data, for the light fixtures.
 ![3pinxlr.png](/dmx/3pinxlr.png =x300)![5pinxlr.png](/dmx/5pinxlr.png =x300)
 This flexibility allows for unlimited possibilities in your YARG light shows!
-
-# Quickstart guide using <a href="https://www.lightjams.com/">Lightjams</a>
-Lightjams and QLC+ are both DMX sequencer programs that can read sACN packets, so they can be used to control DMX Light fixtures.
-The following quick start template for Lightjams has all the default YARG DMX channels already setup and ready to go!
-[yarg-template-v1.0.ljp](/dmx/yarg-template-v1.0.ljp)
 
 # Hardware Setup
 A simple example of a harware layout with 20 channel fixtures. There are many options available for the sACN-to-DMX converter and fixtures.
@@ -274,3 +269,8 @@ So if we turn every bit on we get 255, that is why that is the max value!
 Sing-alongs
 Spotlights
 Camera Cuts
+
+# Quickstart guide for advanced DMX channels using <a href="https://www.lightjams.com/">Lightjams</a>
+Lightjams and QLC+ are both DMX sequencer programs that can read sACN packets, so they can be used to control DMX Light fixtures.
+The following quick start template for Lightjams has all the default YARG DMX channels already setup and ready to go!
+[yarg-template-v1.0.ljp](/dmx/yarg-template-v1.0.ljp)
