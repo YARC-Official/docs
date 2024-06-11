@@ -2,7 +2,7 @@
 title: 💽 Setlist
 description: More information about the songs in our Official Setlist
 published: true
-date: 2024-06-11T02:42:21.839Z
+date: 2024-06-11T02:54:10.843Z
 tags: songs, setlist, official
 editor: markdown
 dateCreated: 2023-07-30T21:18:21.243Z
@@ -52,6 +52,14 @@ The main setlist covers a variety of genres, and all songs feature charts for Gu
 | Overdrive | Vessel | Behind the Walls | Rock | 2008 | ⚪⚪⚪⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚪⚫⚫ | No Part | ⚪⚪⚪⚫⚫ | 06/10/2024 [Wave 7](https://youtu.be/M2UBkkk7GgA) | [🎧 Spotify](https://open.spotify.com/track/0EXh4UCmOmKRtm1qTqG8tc) |
 | Discipline | Nine Inch Nails | The Slip | Industrial | 2008 | ⚪⚪⚪⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚪⚫⚫ | 06/10/2024 [Wave 7](https://youtu.be/M2UBkkk7GgA) | [🎧 Spotify](https://open.spotify.com/track/0Z4pLlygCvkTHmeQtYAbNH) |
 | Choked Up | See You at Rogers | Single | Punk | 2023 | ⚪⚪⚪⚫⚫ | ⚪⚫⚫⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚫ | 06/10/2024 [Wave 7](https://youtu.be/M2UBkkk7GgA) | [🎧 Spotify](https://open.spotify.com/track/1ykrUNyOmL7oPs1jcx3Eob) |
+
+## Creative Commons and free-to-use songs attribution:
+| Track | Artist | Licence | Source Link |
+| :-- | :-- | :-- | :--: |
+| 322 | Creo | released under [CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/) | [▶ Youtube](https://www.youtube.com/watch?v=JmobbPTaFcw&t=0s) |
+| Discipline | Nine Inch Nails | released under [CC-BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) | [▶ Youtube](https://www.youtube.com/watch?v=wHxOiAz4NF8&t=0s) |
+| Vehemence | Reo | general use described in the given source link | [▶ Youtube](https://www.youtube.com/watch?v=xtsvZX2lES4&t=0s) |
+
 
 # 📥 DLC
 While it's all technically downloadable content, we're using the DLC label for songs that we want to make available without putting them in the main setlist. Maybe we want to spotlight a particular artist without overrepresenting their work; maybe we wish to cover some music that doesn't lend itself to full-band play. Whatever the reason, DLC is what we'll be calling it.
