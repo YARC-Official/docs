@@ -2,7 +2,7 @@
 title: 💽 Setlist
 description: More information about the songs in our Official Setlist
 published: true
-date: 2024-06-11T02:59:49.825Z
+date: 2024-06-11T02:59:59.693Z
 tags: songs, setlist, official
 editor: markdown
 dateCreated: 2023-07-30T21:18:21.243Z
@@ -56,7 +56,7 @@ The main setlist covers a variety of genres, and all songs feature charts for Gu
 ## Creative Commons and free-to-use songs attribution:
 | Track | Artist | Licence | Source Link |
 | :-- | :-- | :-- | :--: |
-| 322 | Creo | released under [CC-BY 3.0](https://creativecommons.org/licenses/by/4.0/) | [▶ Youtube](https://www.youtube.com/watch?v=JmobbPTaFcw&t=0s) |
+| 322 | Creo | released under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [▶ Youtube](https://www.youtube.com/watch?v=JmobbPTaFcw&t=0s) |
 | Discipline | Nine Inch Nails | released under [CC-BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) | [▶ Youtube](https://www.youtube.com/watch?v=wHxOiAz4NF8&t=0s) |
 | Vehemence | Reo | general use described in the given source link | [▶ Youtube](https://www.youtube.com/watch?v=xtsvZX2lES4&t=0s) |
 
