@@ -2,7 +2,7 @@
 title: 💽 Setlist
 description: More information about the songs in our Official Setlist
 published: true
-date: 2024-05-12T21:27:53.157Z
+date: 2024-06-11T02:23:54.168Z
 tags: songs, setlist, official
 editor: markdown
 dateCreated: 2023-07-30T21:18:21.243Z
@@ -47,6 +47,11 @@ The main setlist covers a variety of genres, and all songs feature charts for Gu
 | 322 | Creo | Single | Electronic Rock | 2016 | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚫⚫ | ⚫⚫⚫⚫⚫ | 04/20/2024 [Wave 6](https://www.youtube.com/watch?v=Qjsc-3hxwnU) | [🎧 Spotify](https://open.spotify.com/track/62LzqBPmzShFzJgcI9aPHT) |
 | About the Author | The Sterns | Sinners Stick Together | Pop-Rock | 2006 | ⚪⚪⚪⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚫⚫⚫⚫ | ⚪⚪⚪⚪⚪ | 04/20/2024 [Wave 6](https://www.youtube.com/watch?v=Qjsc-3hxwnU) | [🎧 Spotify](https://open.spotify.com/track/7u2HgAJ5mxb5IHKGvj4DRp) |
 | Sadness (feat. Sapphire Noel) | Heartsick | Single | Nu-Metal | 2023 | ⚪⚪⚫⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚪⚪⚪ | ⚪⚪⚫⚫⚫ | ⚪⚪⚫⚫⚫ | 04/20/2024 [Wave 6](https://www.youtube.com/watch?v=Qjsc-3hxwnU) | [🎧 Spotify](https://open.spotify.com/track/3nVsH2XHxkHJ6oX42eFCbh) |
+| Vehemence | Reo | Single | J-Rock | 2024 | 🔴🔴🔴🔴🔴 | ⚪⚪⚪⚪⚫ | 🔴🔴🔴🔴🔴 | No Part | No Part | 06/10/2024 [Wave 7](https://youtu.be/M2UBkkk7GgA) | [🎧 Spotify](https://open.spotify.com/track/17nQQ0TKGm9d1d3y9NLaSz) |
+| All of a Sudden | Adamic | Adamic | Alternative | 2023 | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚫ | ⚪⚪⚫⚫⚫ | ⚪⚫⚫⚫⚫ | 06/10/2024 [Wave 7](https://youtu.be/M2UBkkk7GgA) | [🎧 Spotify](https://open.spotify.com/track/7FW7ez941HIGgE0nVU8vqh) |
+| Overdrive | Vessel | Behind the Walls | Rock | 2008 | ⚪⚪⚪⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚪⚫⚫ | No Part | ⚪⚪⚪⚫⚫ | 06/10/2024 [Wave 7](https://youtu.be/M2UBkkk7GgA) | [🎧 Spotify](https://open.spotify.com/track/0EXh4UCmOmKRtm1qTqG8tc) |
+| Discipline | Nine Inch Nails | The Slip | Industrial | 2008 | ⚪⚪⚪⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚪⚫⚫ | 06/10/2024 [Wave 7](https://youtu.be/M2UBkkk7GgA) | [🎧 Spotify](https://open.spotify.com/track/0Z4pLlygCvkTHmeQtYAbNH) |
+| Choked Up | See You at Rogers | Single | Punk | 2023 | ⚪⚪⚪⚫⚫ | ⚪⚫⚫⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚫ | 06/10/2024 [Wave 7](https://youtu.be/M2UBkkk7GgA) | [🎧 Spotify](https://open.spotify.com/track/1ykrUNyOmL7oPs1jcx3Eob) |
 
 # 📥 DLC
 While it's all technically downloadable content, we're using the DLC label for songs that we want to make available without putting them in the main setlist. Maybe we want to spotlight a particular artist without overrepresenting their work; maybe we wish to cover some music that doesn't lend itself to full-band play. Whatever the reason, DLC is what we'll be calling it.
