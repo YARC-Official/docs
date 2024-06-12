@@ -2,7 +2,7 @@
 title: 💽 Setlist
 description: More information about the songs in our Official Setlist
 published: true
-date: 2024-06-11T21:28:20.247Z
+date: 2024-06-12T21:55:59.519Z
 tags: songs, setlist, official
 editor: markdown
 dateCreated: 2023-07-30T21:18:21.243Z
@@ -53,7 +53,7 @@ The main setlist covers a variety of genres, and most of the songs feature chart
 | Discipline | Nine Inch Nails | The Slip | Industrial | 2008 | ⚪⚪⚪⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚪⚫⚫ | 06/10/2024 [Wave 7](https://youtu.be/M2UBkkk7GgA) | [🎧 Spotify](https://open.spotify.com/track/0Z4pLlygCvkTHmeQtYAbNH) |
 | Choked Up | See You at Rogers | Single | Punk | 2023 | ⚪⚪⚪⚫⚫ | ⚪⚫⚫⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚫ | 06/10/2024 [Wave 7](https://youtu.be/M2UBkkk7GgA) | [🎧 Spotify](https://open.spotify.com/track/1ykrUNyOmL7oPs1jcx3Eob) |
 
-## Creative Commons and free-to-use songs attribution:
+##  Creative Commons and free-to-use songs attribution:
 | Track | Artist | Licence | Source Link |
 | :-- | :-- | :-- | :--: |
 | 322 | Creo | released under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [▶ Youtube](https://www.youtube.com/watch?v=JmobbPTaFcw&t=0s) |
