@@ -2,7 +2,7 @@
 title: 🎸 Instruments
 description: Information about hardware game controllers
 published: true
-date: 2024-05-31T04:14:08.160Z
+date: 2024-06-18T19:30:26.008Z
 tags: instruments, vocals, guitar, bass, drums, pro guitar, pro drums, pro bass, keys, pro keys, elite drums
 editor: markdown
 dateCreated: 2023-07-30T03:57:46.912Z
@@ -23,7 +23,6 @@ This is an inexhaustive list of instrument controllers and their compatibility w
 |:---:|:---|
 |A| Need to use [GHLtarUtility](https://github.com/ghlre/GHLtarUtility). |
 |B| Need to use [WiitarThing](https://github.com/Meowmaritus/WiitarThing). |
-|C| Need to use [RB4InstrumentMapper](https://github.com/TheNathannator/RB4InstrumentMapper). |
 
 🔩
 
@@ -68,8 +67,8 @@ PS3 Les Pauls have bad input latency
 | <img src="/instruments/guitars/rb1strat.png>" width="300"> | Rock Band 1 Stratocaster | ☑️  | ☑️  | ➖   | 5 or ✅ | ➖   | ☑️  | ✅  
 | <img src="/instruments/guitars/rb2strat.png>" width="300"> | Rock Band 2 Stratocaster | ☑️  | ☑️  | ➖   | 5   | ➖   | ☑️  | ✅|
 | <img src="/instruments/guitars/rb2strat.png>" width="300"> | Rock Band 3 Stratocaster | ☑️  | ☑️  | ➖   | 5   | ➖   | ☑️  | ✅|
-| <img src="/instruments/guitars/rb4strat.png>" width="300"> | Rock Band 4 Stratocaster | ➖   | ➖   | 7   | ➖   | 6C  | ➖   |➖|
-| <img src="/instruments/guitars/rb4jaguar.png>" width="300"> | Rock Band 4 Jaguar | ➖   | ➖   | 7   | ➖   | 6C  |➖|➖|
+| <img src="/instruments/guitars/rb4strat.png>" width="300"> | Rock Band 4 Stratocaster | ➖   | ➖   | 7   | ➖   | 6  | ➖   |➖|
+| <img src="/instruments/guitars/rb4jaguar.png>" width="300"> | Rock Band 4 Jaguar | ➖   | ➖   | 7   | ➖   | 6  |➖|➖|
 | <img src="/instruments/rbbass.png>" width="300"> | Precision Bass | ➖   | ☑️  | ➖   | 5 or ✅ | ➖   | ☑️  | ➖   |
 | <img src="/instruments/guitars/rbrick.png>" width="300"> | Rickenbacker 325 | ➖   | ☑️  | ➖   | 5   | ➖   | ☑️  |➖|
 | <img src="/instruments/rbgretsch.png>" width="300"> | Gretsch 6128 | ➖   | ☑️  | ➖   | 5   | ➖   | ☑️  | ➖   |
@@ -83,14 +82,14 @@ The Jaguar will need a firmware update. <a href="https://harmonix.zendesk.com/hc
 
 | Picture | Company | Guitar | Xbox One | PlayStation 4 |
 | :---: | :---: | :---: | :---: | :---: |
-| <img src="/instruments/guitars/pdpriffmaster.png>" width="300"> | PDP | Riffmaster | ☑️C | ☑️|
+| <img src="/instruments/guitars/pdpriffmaster.png>" width="300"> | PDP | Riffmaster | ☑️ | ☑️|
 ##  6 Fret
 
 **Guitar Hero**
 
 | Picture | Gutiar | PlayStation 3 | PlayStation 4 | Xbox 360 | Xbox One | Wii U | iOS | Kiosk |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="/instruments/guitars/ghlive.gif" width="300"> | Live | ☑️  | ☑️  | ☑️  | ☑️C | ☑️  | A   | ✅   |
+| <img src="/instruments/guitars/ghlive.gif" width="300"> | Live | ☑️  | ☑️  | ☑️  | ☑️ | ☑️  | A   | ✅   |
 
 ###  ⚠️Note!
 
@@ -122,7 +121,7 @@ Pro mode will be re-implemented in version 0.13
 | <img src="/instruments/rb2drums.png" width="300"> | Rock Band 2 | ☑️  | ☑️  | ➖   | 5   | ➖   | ☑️  |
 | <img src="/instruments/rb2drums.png" width="300"> | Rock Band 3 | ☑️  | ☑️  | ➖   | 5   | ➖   | ☑️  |
 | <img src="/instruments//drums/rbbeatlesdrums.png" width="300"> | Beatles | ☑️  | ☑️  | ➖   | 5   | ➖   |☑️|
-| <img src="/instruments/drums/rb4drums.png" width="300"> | Rock Band 4 | ➖   | ➖   | 7   | ➖   | 6C  |➖|
+| <img src="/instruments/drums/rb4drums.png" width="300"> | Rock Band 4 | ➖   | ➖   | 7   | ➖   | 6  |➖|
 | <img src="/instruments/drums/rbportable.png" width="300"> | Portable | ➖   | ➖   | ➖   | ✅   | ➖   |➖|
 **3rd Party**
 
