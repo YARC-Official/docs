@@ -2,7 +2,7 @@
 title: Lighting Datagram
 description: 
 published: true
-date: 2024-06-21T18:38:25.422Z
+date: 2024-06-21T18:48:13.553Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-21T17:46:56.078Z
@@ -23,21 +23,40 @@ Your content here
 |5|Packet type|0x00|No other packet types at the current time |
 |6|Packet size|byte|Calculated|
 |7|Platform|byte|Windows = 0x01, Linux = 0x02, Mac = 0x04|
-|8|Scene, pause, and venue size|byte|See LINK|
+|8|Scene, pause, and venue size|byte|See below|
 |Current Instrument Notes||||
-|9|Guitar|byte|See LINK|
-|10|Bass|byte|See LINK|
-|11|Drums|byte|See LINK|
-|12|Keys|byte|See LINK|
-|13|Vocals|byte|See LINK|
+|9|Guitar|byte|See below|
+|10|Bass|byte|See below|
+|11|Drums|byte|See below|
+|12|Keys|byte|See below|
+|13|Vocals|byte|?|
 |Lighting Information||||
-|14|Lighting Cue|byte|See LINK|
-|15|Post Processing|byte|See LINK|
-|16|Fog and Strobe|byte|See Link|
+|14|Lighting Cue|byte|See below|
+|15|Post Processing|byte|See below|
+|16|Fog and Strobe|byte|See below|
 |17|Performer|byte|See Link|
 |18|Beat|byte| Strong = 0x01, Measure = 0x02|
 |19|Keyframe|byte|Next = 0x01, Previous = 0x02, First = 0x04|
 |20|Bonus effects|byte| Triggered = 0x01|
+
+### Fog and Strobe
+|Meaning| Value| Bit|
+|-|-|-|
+|Fog On|1|1|
+|Strobe Slow|2|2|
+|Strobe Medium|4|3|
+|Strobe Fast|8|4|
+|Strobe Fastest|16|5|
+
+### Scene, pause, and venue size
+|Meaning| Value| Bit|
+|-|-|-|
+|Menu|1|1|
+|Gameplay|2|2|
+|Score|4|3|
+|Paused|8|4|
+|Large venue|16|5|
+Pause and Large Venue are only ever set during the Gameplay scene.
 
 ### 🐶 Cue Change Channel
 This channel changes whenever a lighting cue is read from the Venue track of a song, load into the score screen, or load into the general menu.
