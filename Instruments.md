@@ -2,7 +2,7 @@
 title: 🎸 Instruments
 description: Information about hardware game controllers
 published: true
-date: 2024-06-18T23:24:37.776Z
+date: 2024-06-21T03:33:05.839Z
 tags: instruments, vocals, guitar, bass, drums, pro guitar, pro drums, pro bass, keys, pro keys, elite drums
 editor: markdown
 dateCreated: 2023-07-30T03:57:46.912Z
@@ -196,17 +196,13 @@ Gamepad mode is being worked on. In the mean time, choose Five Fret and All HOPO
 
 # 🪇 Miscellaneous
 **Guitar Hero**
-|Picture|Name|DS|
-|:--:|:--:|:-:|
-|<img src="/instruments/miscellaneous/ghguitargrip.png" width="300">|Guitar Grip|4|
-###  ⚠️Note!
-Only has 4 buttons! You will need another device for the 5th lane!
+|Picture|Name|DS|Notes|
+|:--:|:--:|:-:|:-:|
+|<img src="/instruments/miscellaneous/ghguitargrip.png" width="300">|Guitar Grip|4|Only has 4 buttons! |
 
 **3rd Party**
-|Picture|Company|Name|Wii|Dreamcast|
-|:--:|:--:|:-:|:-:|:-:|
-|<img src="/instruments/miscellaneous/taikodrum.png" width="300">|Hori|Taiko Drum|✅|➖
-|<img src="/instruments/miscellaneous/segamaracas.png" width="300">|Sega|Samba de Amigo maracas|➖|4|
-|<img src="/instruments/miscellaneous/segafishingrod.png" width="300">|Sega|Fishing Rod|➖|4|
-###  ⚠️Note!
-Taiko Drum and Samba de Amigo maracas only have 4 buttons! You will need another device for the 5th lane!
+|Picture|Company|Name|Wii|Dreamcast|Notes
+|:--:|:--:|:-:|:-:|:-:|:-:|
+|<img src="/instruments/miscellaneous/taikodrum.png" width="300">|Hori|Taiko Drum|✅|➖|Only has 4 buttons!|
+|<img src="/instruments/miscellaneous/segamaracas.png" width="300">|Sega|Samba de Amigo maracas|➖|4|Only has 4 buttons!|
+|<img src="/instruments/miscellaneous/segafishingrod.png" width="300">|Sega|Fishing Rod|➖|4| |
