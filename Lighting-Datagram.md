@@ -2,7 +2,7 @@
 title: Lighting Datagram
 description: 
 published: true
-date: 2024-06-21T18:48:13.553Z
+date: 2024-06-21T18:51:41.134Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-21T17:46:56.078Z
@@ -21,7 +21,7 @@ Your content here
 |Information||||
 |4|Datagram Version|0x00|This should be incremented when this protocol changes|
 |5|Packet type|0x00|No other packet types at the current time |
-|6|Packet size|byte|Calculated|
+|6|Packet size|0x15| 21 bytes|
 |7|Platform|byte|Windows = 0x01, Linux = 0x02, Mac = 0x04|
 |8|Scene, pause, and venue size|byte|See below|
 |Current Instrument Notes||||
@@ -34,10 +34,15 @@ Your content here
 |14|Lighting Cue|byte|See below|
 |15|Post Processing|byte|See below|
 |16|Fog and Strobe|byte|See below|
-|17|Performer|byte|See Link|
+|17|Performer|byte|See below|
 |18|Beat|byte| Strong = 0x01, Measure = 0x02|
 |19|Keyframe|byte|Next = 0x01, Previous = 0x02, First = 0x04|
 |20|Bonus effects|byte| Triggered = 0x01|
+
+## ⚠️ Performer Not Yet Implemented!
+Sing-alongs
+Spotlights
+Camera Cuts
 
 ### Fog and Strobe
 |Meaning| Value| Bit|
