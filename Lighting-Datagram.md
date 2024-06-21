@@ -2,7 +2,7 @@
 title: Lighting Datagram
 description: 
 published: true
-date: 2024-06-21T19:46:19.078Z
+date: 2024-06-21T19:48:06.048Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-21T17:46:56.078Z
@@ -19,7 +19,7 @@ Your content here
 |2|Header 3|0x52|"R"|
 |3|Header 4|0x47|"G"|
 |Information||||
-|4|Datagram Version|0x00|This should be incremented when this protocol changes|
+|4|Datagram Version|0x00|Will be incremented when this protocol changes|
 |7|Platform|byte|Windows = 0x01, Linux = 0x02, Mac = 0x04|
 |8|Scene, pause, and venue size|byte|See below|
 |Current Instrument Notes||||
