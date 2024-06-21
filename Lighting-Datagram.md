@@ -2,7 +2,7 @@
 title: Lighting Datagram
 description: 
 published: true
-date: 2024-06-21T20:06:40.532Z
+date: 2024-06-21T22:25:06.169Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-21T17:46:56.078Z
@@ -31,7 +31,8 @@ Your content here
 |Lighting Information||||
 |12|Lighting Cue|byte|See below|
 |13|Post Processing|byte|See below|
-|14|Fog and Strobe|byte|See below|
+|14|Fog|byte|Off = 0x00, On = 0x01|
+|14|Strobe|byte|See below|
 |15|Performer|byte|See below|
 |16|Beat|byte| Strong = 0x01, Measure = 0x02|
 |17|Keyframe|byte|Next = 0x01, Previous = 0x02, First = 0x04|
@@ -45,7 +46,7 @@ Camera Cuts
 ### Fog and Strobe
 |Meaning| Value| Bit|
 |-|-|-|
-|Fog On|1|1|
+|Strobe On|1|1|
 |Strobe Slow|2|2|
 |Strobe Medium|4|3|
 |Strobe Fast|8|4|
