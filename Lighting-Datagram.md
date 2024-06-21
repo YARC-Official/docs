@@ -2,7 +2,7 @@
 title: Lighting Datagram
 description: 
 published: true
-date: 2024-06-21T20:01:08.049Z
+date: 2024-06-21T20:06:40.532Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-21T17:46:56.078Z
@@ -20,22 +20,22 @@ Your content here
 |3|Header 4|0x47|"G"|
 |Information||||
 |4|Datagram Version|0x00|Will be incremented when this protocol changes|
-|7|Platform|byte|Unknown = 0x00, Windows = 0x01, Linux = 0x02, Mac = 0x04|
-|8|Scene, pause, and venue size|byte|See below|
+|5|Platform|byte|Unknown = 0x00, Windows = 0x01, Linux = 0x02, Mac = 0x04|
+|6|Scene, pause, and venue size|byte|See below|
 |Current Instrument Notes||||
-|9|Guitar|byte|See below|
-|10|Bass|byte|See below|
-|11|Drums|byte|See below|
-|12|Keys|byte|See below|
-|13|Vocals|byte|?|
+|7|Guitar|byte|See below|
+|8|Bass|byte|See below|
+|9|Drums|byte|See below|
+|10|Keys|byte|See below|
+|11|Vocals|byte|?|
 |Lighting Information||||
-|14|Lighting Cue|byte|See below|
-|15|Post Processing|byte|See below|
-|16|Fog and Strobe|byte|See below|
-|17|Performer|byte|See below|
-|18|Beat|byte| Strong = 0x01, Measure = 0x02|
-|19|Keyframe|byte|Next = 0x01, Previous = 0x02, First = 0x04|
-|20|Bonus effects|byte| Triggered = 0x01|
+|12|Lighting Cue|byte|See below|
+|13|Post Processing|byte|See below|
+|14|Fog and Strobe|byte|See below|
+|15|Performer|byte|See below|
+|16|Beat|byte| Strong = 0x01, Measure = 0x02|
+|17|Keyframe|byte|Next = 0x01, Previous = 0x02, First = 0x04|
+|18|Bonus effects|byte| Triggered = 0x01|
 
 ## ⚠️ Performer Not Yet Implemented!
 Sing-alongs
