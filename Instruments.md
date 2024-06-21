@@ -2,7 +2,7 @@
 title: 🎸 Instruments
 description: Information about hardware game controllers
 published: true
-date: 2024-06-21T03:34:51.572Z
+date: 2024-06-21T03:35:46.424Z
 tags: instruments, vocals, guitar, bass, drums, pro guitar, pro drums, pro bass, keys, pro keys, elite drums
 editor: markdown
 dateCreated: 2023-07-30T03:57:46.912Z
@@ -196,9 +196,9 @@ Gamepad mode is being worked on. In the mean time, choose Five Fret and All HOPO
 
 # 🪇 Miscellaneous
 **Guitar Hero**
-|Picture|Name|DS|
-|:--:|:--:|:-:|
-|<img src="/instruments/miscellaneous/ghguitargrip.png" width="300">|Guitar Grip|4|Only has 4 buttons!
+|Picture|Name|DS|Notes|
+|:--:|:--:|:-:|:-:|
+|<img src="/instruments/miscellaneous/ghguitargrip.png" width="300">|Guitar Grip|4|Only has 4 buttons!|
 
 **3rd Party**
 |Picture|Company|Name|Wii|Dreamcast|Notes
