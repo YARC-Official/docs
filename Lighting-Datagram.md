@@ -2,7 +2,7 @@
 title: Lighting Datagram
 description: 
 published: true
-date: 2024-06-21T22:51:07.012Z
+date: 2024-06-22T04:29:11.083Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-21T17:46:56.078Z
@@ -43,14 +43,14 @@ Sing-alongs
 Spotlights
 Camera Cuts
 
-### Fog and Strobe
+### Strobe
 |Meaning| Value| Bit|
 |-|-|-|
-|Strobe On|1|1|
-|Strobe Slow|2|2|
-|Strobe Medium|4|3|
-|Strobe Fast|8|4|
-|Strobe Fastest|16|5|
+|Strobe Off|0|0|
+|Strobe Slow|1|1|
+|Strobe Medium|2|2|
+|Strobe Fast|4|3|
+|Strobe Fastest|8|4|
 
 ### Scene, pause, and venue size
 |Meaning| Value| Bit|
