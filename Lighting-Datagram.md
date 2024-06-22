@@ -2,7 +2,7 @@
 title: Lighting Datagram
 description: 
 published: true
-date: 2024-06-22T04:29:11.083Z
+date: 2024-06-22T04:36:01.573Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-21T17:46:56.078Z
@@ -44,13 +44,13 @@ Spotlights
 Camera Cuts
 
 ### Strobe
-|Meaning| Value| Bit|
+|Meaning| Value|
 |-|-|-|
-|Strobe Off|0|0|
-|Strobe Slow|1|1|
-|Strobe Medium|2|2|
-|Strobe Fast|4|3|
-|Strobe Fastest|8|4|
+|Strobe Off|0|
+|Strobe Slow|1|
+|Strobe Medium|2|
+|Strobe Fast|3|
+|Strobe Fastest|4|
 
 ### Scene, pause, and venue size
 |Meaning| Value| Bit|
