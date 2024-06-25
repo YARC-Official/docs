@@ -2,7 +2,7 @@
 title: Lighting Datagram
 description: 
 published: true
-date: 2024-06-25T23:16:32.843Z
+date: 2024-06-25T23:18:13.420Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-21T17:46:56.078Z
@@ -45,16 +45,6 @@ Your content here
 Sing-alongs
 Spotlights
 Camera Cuts
-
-### Scene, pause, and venue size
-|Meaning| Value| Bit|
-|-|-|-|
-|Menu|1|1|
-|Gameplay|2|2|
-|Score|4|3|
-|Paused|8|4|
-|Large venue|16|5|
-Pause and Large Venue are only ever set during the Gameplay scene.
 
 ### 🐶 Cue Change Channel
 This channel changes whenever a lighting cue is read from the Venue track of a song, load into the score screen, or load into the general menu.
