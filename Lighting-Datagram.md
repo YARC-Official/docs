@@ -2,7 +2,7 @@
 title: Lighting Datagram
 description: 
 published: true
-date: 2024-06-25T23:04:00.640Z
+date: 2024-06-25T23:16:32.843Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-21T17:46:56.078Z
@@ -35,7 +35,7 @@ Your content here
 |12|Lighting Cue|byte|See below|
 |13|Post Processing|byte|See below|
 |14|Fog|byte|Off = 0, On = 1|
-|15|Strobe|byte|See below|
+|15|Strobe|byte|Off=0, Slow=1, Medium=2, Fast=3, Fastest=4|
 |16|Performer|byte|See below|
 |17|Beat|byte| Off = 0, Measure = 1, Strong = 2, Weak 3|
 |18|Keyframe|byte|Off = 0, Next = 1, Previous = 2, First = 3|
@@ -45,15 +45,6 @@ Your content here
 Sing-alongs
 Spotlights
 Camera Cuts
-
-### Strobe
-|Meaning| Value|
-|-|-|-|
-|Strobe Off|0|
-|Strobe Slow|1|
-|Strobe Medium|2|
-|Strobe Fast|3|
-|Strobe Fastest|4|
 
 ### Scene, pause, and venue size
 |Meaning| Value| Bit|
