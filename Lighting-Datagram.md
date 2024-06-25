@@ -2,7 +2,7 @@
 title: Lighting Datagram
 description: 
 published: true
-date: 2024-06-25T22:49:48.515Z
+date: 2024-06-25T22:51:22.780Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-21T17:46:56.078Z
@@ -37,9 +37,9 @@ Your content here
 |14|Fog|byte|Off = 0, On = 1|
 |15|Strobe|byte|See below|
 |16|Performer|byte|See below|
-|17|Beat|byte| Measure = 1, Strong = 2, Weak 3|
-|18|Keyframe|byte|Next = 1, Previous = 2, First = 3|
-|19|Bonus effects|byte| Triggered = 1|
+|17|Beat|byte| Off = 0, Measure = 1, Strong = 2, Weak 3|
+|18|Keyframe|byte|Off = 0, Next = 1, Previous = 2, First = 3|
+|19|Bonus effects|byte| Off = 0, Triggered = 1|
 
 ## ⚠️ Performer Not Yet Implemented!
 Sing-alongs
