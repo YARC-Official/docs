@@ -2,7 +2,7 @@
 title: Lighting Datagram
 description: 
 published: true
-date: 2024-06-25T22:43:32.242Z
+date: 2024-06-25T22:49:48.515Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-21T17:46:56.078Z
@@ -24,7 +24,7 @@ Your content here
 |Game Information||||
 |6|Current Scene|byte| Unknown = 0, Menu = 1, Game = 2, Score = 3, Calibration = 4|
 |7|Pause state|byte|Not paused = 0, Paused = 1|
-|8|Venue size|byte|Not in venue = 0, Small venue = 1, Large Venue 2|
+|8|Venue size|byte|Not in venue = 0, Small venue = 1, Large Venue = 2|
 |Current Instrument Notes||||
 |7|Guitar|byte|See below|
 |8|Bass|byte|See below|
