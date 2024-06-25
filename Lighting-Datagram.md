@@ -2,7 +2,7 @@
 title: Lighting Datagram
 description: 
 published: true
-date: 2024-06-25T23:18:13.420Z
+date: 2024-06-25T23:20:59.025Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-21T17:46:56.078Z
@@ -36,7 +36,7 @@ Your content here
 |13|Post Processing|byte|See below|
 |14|Fog|byte|Off = 0, On = 1|
 |15|Strobe|byte|Off=0, Slow=1, Medium=2, Fast=3, Fastest=4|
-|16|Performer|byte|See below|
+|16|Performer|0x00|Not yet implemented|
 |17|Beat|byte| Off = 0, Measure = 1, Strong = 2, Weak 3|
 |18|Keyframe|byte|Off = 0, Next = 1, Previous = 2, First = 3|
 |19|Bonus effects|byte| Off = 0, Triggered = 1|
