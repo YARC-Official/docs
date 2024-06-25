@@ -2,7 +2,7 @@
 title: Lighting Datagram
 description: 
 published: true
-date: 2024-06-25T22:51:22.780Z
+date: 2024-06-25T23:04:00.640Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-21T17:46:56.078Z
@@ -22,7 +22,7 @@ Your content here
 |4|Datagram Version|0x00|Will be incremented when this protocol changes|
 |5|Platform|byte|Unknown = 0, Windows = 1, Linux = 2, Mac = 3|
 |Game Information||||
-|6|Current Scene|byte| Unknown = 0, Menu = 1, Game = 2, Score = 3, Calibration = 4|
+|6|Current Scene|byte| Unknown = 0, Menu = 1, Gameplay = 2, Score = 3, Calibration = 4|
 |7|Pause state|byte|Not paused = 0, Paused = 1|
 |8|Venue size|byte|Not in venue = 0, Small venue = 1, Large Venue = 2|
 |Current Instrument Notes||||
