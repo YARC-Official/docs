@@ -2,7 +2,7 @@
 title: Lighting Datagram
 description: 
 published: true
-date: 2024-06-22T22:24:52.162Z
+date: 2024-06-25T03:30:49.634Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-21T17:46:56.078Z
@@ -18,10 +18,13 @@ Your content here
 |1|Header 2|0x41|"A"|
 |2|Header 3|0x52|"R"|
 |3|Header 4|0x47|"G"|
-|Information||||
+| Technical Information||||
 |4|Datagram Version|0x00|Will be incremented when this protocol changes|
 |5|Platform|byte|Unknown = 0, Windows = 1, Linux = 2, Mac = 3|
-|6|Scene, pause, and venue size|byte|See below|
+|Game Information||||
+|6|Current Scene|byte|Menu = 0, Game = 1, Score = 2|
+|7|Pause state|byte|Not paused = 0, Paused = 1|
+|8|Venue size|byte|Not in venue = 0, Small venue = 1, Large Venue 2|
 |Current Instrument Notes||||
 |7|Guitar|byte|See below|
 |8|Bass|byte|See below|
