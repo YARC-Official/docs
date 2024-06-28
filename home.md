@@ -2,7 +2,7 @@
 title: 📖 Documentation
 description: Official YARG Documentation
 published: true
-date: 2024-04-09T22:41:03.873Z
+date: 2024-06-28T19:29:05.234Z
 tags: yarg
 editor: markdown
 dateCreated: 2023-06-08T20:33:03.654Z
@@ -17,7 +17,7 @@ dateCreated: 2023-06-08T20:33:03.654Z
 Welcome to the YARG Official Documentation! Here we have some articles that can help with any question about the game, how the engine works, setting instruments, or any other question.
 <br>
   
-<br>Current stable version: 0.12.3
+<br>Current stable version: 0.12.4
 Current stable and nightly versions can be downloaded with the <a href="https://github.com/YARC-Official/YARC-Launcher/releases/latest">YARC Launcher</a>.
 
 <p>
