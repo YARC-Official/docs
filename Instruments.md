@@ -2,7 +2,7 @@
 title: 🎸 Instruments
 description: Information about hardware game controllers
 published: true
-date: 2024-06-21T03:35:46.424Z
+date: 2024-07-19T22:11:21.661Z
 tags: instruments, vocals, guitar, bass, drums, pro guitar, pro drums, pro bass, keys, pro keys, elite drums
 editor: markdown
 dateCreated: 2023-07-30T03:57:46.912Z
@@ -102,7 +102,7 @@ See [play-modes](/play-modes) for more information.
 
 | Picture | Guitar | PlayStation 3 | Xbox 360 | Wii |
 | :---: | :---: | :---: | :---: | :---: |
-| <img src="/instruments/rbmustang.png" width="300"> | Mustang | ☑️  | 5   | ☑️  |
+| <img src="/instruments/rbmustang.png" width="300"> | Mustang | ❌  | 5   | ☑️  |
 | <img src="/instruments/rbsquire.png" width="300"> | Squire | 8   | 8   | 8   |
 
 ###  ⚠️Note!
