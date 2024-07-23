@@ -2,7 +2,7 @@
 title: 💽 Setlist
 description: More information about the songs in our Official Setlist
 published: true
-date: 2024-07-23T00:43:34.246Z
+date: 2024-07-23T00:53:26.106Z
 tags: songs, setlist, official
 editor: markdown
 dateCreated: 2023-07-30T21:18:21.243Z
@@ -12,7 +12,7 @@ What good is a rhythm game without music?  The YARG team works with a number of 
 
 # 💽 Main Setlist
 The main setlist covers a variety of genres, and most of the songs feature charts for Guitar, Bass, Drums and Vocals, making them ideal for full-band play.
-37 songs, and growing!
+42 songs, and growing!
 | Track | Artist | Album | Genre | Year |  Guitar | Bass | Drums | Keys | Vocals | Release | Link |
 | :-- | :-- | :-- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | pizza rolls | bottom bunk | Single | Emo | 2023 | ⚪⚪⚪⚪⚪ | ⚪⚫⚫⚫⚫ | ⚪⚪⚫⚫⚫ | No Part | ⚪⚪⚫⚫⚫ | 07/09/2023 [Wave 1](https://www.youtube.com/watch?v=Xk_HqhzvdgQ) | [🎧 Spotify](https://open.spotify.com/track/4fqnReVr3UWKT0tjtyt7Lb) |
