@@ -2,7 +2,7 @@
 title: 💽 Setlist
 description: More information about the songs in our Official Setlist
 published: true
-date: 2024-06-12T21:56:29.061Z
+date: 2024-07-23T00:43:34.246Z
 tags: songs, setlist, official
 editor: markdown
 dateCreated: 2023-07-30T21:18:21.243Z
@@ -52,6 +52,12 @@ The main setlist covers a variety of genres, and most of the songs feature chart
 | Overdrive | Vessel | Behind the Walls | Rock | 2008 | ⚪⚪⚪⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚪⚫⚫ | No Part | ⚪⚪⚪⚫⚫ | 06/10/2024 [Wave 7](https://youtu.be/M2UBkkk7GgA) | [🎧 Spotify](https://open.spotify.com/track/0EXh4UCmOmKRtm1qTqG8tc) |
 | Discipline | Nine Inch Nails | The Slip | Industrial | 2008 | ⚪⚪⚪⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚪⚫⚫ | 06/10/2024 [Wave 7](https://youtu.be/M2UBkkk7GgA) | [🎧 Spotify](https://open.spotify.com/track/0Z4pLlygCvkTHmeQtYAbNH) |
 | Choked Up | See You at Rogers | Single | Punk | 2023 | ⚪⚪⚪⚫⚫ | ⚪⚫⚫⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚫ | 06/10/2024 [Wave 7](https://youtu.be/M2UBkkk7GgA) | [🎧 Spotify](https://open.spotify.com/track/1ykrUNyOmL7oPs1jcx3Eob) |
+| I DON'T WANNA TALK | Carter Vail | The Interstellar Tennis Championship Vol. II | Indie Rock | 2023 | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚫⚫⚫ | 07/22/2024 [Wave 8](https://youtu.be/8IZ_f-BtcLk) | [🎧 Spotify](https://open.spotify.com/track/5SJNQjnloYeMYKA5Pn3Tlq) |
+| Avatar the Last Cakebender | Palette Knife | New Game+ | Emo | 2023 | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚪ | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚪⚫ | 07/22/2024 [Wave 8](https://youtu.be/8IZ_f-BtcLk) | [🎧 Spotify](https://open.spotify.com/track/6bb95SwAVEWeTqkILdaBVO) |
+| Guess I'll Never Know | TrackTribe | Single | Folk | 2023 | ⚪⚫⚫⚫⚫ | ⚫⚫⚫⚫⚫ | ⚪⚪⚪⚫⚫ | ⚫⚫⚫⚫⚫ | ⚪⚪⚫⚫⚫ | 07/22/2024 [Wave 8](https://youtu.be/8IZ_f-BtcLk) | [🎧 Spotify](https://open.spotify.com/track/6zIDWNCCbqMspl0nLH8FIQ) |
+| Long in the Tooth | Flying Raccoon Suit | Moonflower | Reggae, Ska | 2023 | ⚪⚪⚪⚪⚪ | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚪ | ⚪⚪⚪⚫⚫ | ⚪⚪⚫⚫⚫ | 07/22/2024 [Wave 8](https://youtu.be/8IZ_f-BtcLk) | [🎧 Spotify](https://open.spotify.com/track/1eGlfXgXCp1Ikkc4ADgZfh) |
+| is this what you wanted | Scro | on my own | Alternative | 2023 | ⚪⚪⚪⚪⚫ | ⚪⚫⚫⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚪⚪⚪ | 07/22/2024 [Wave 8](https://youtu.be/8IZ_f-BtcLk) | [🎧 Spotify](https://open.spotify.com/track/33WUbp3DX0VQJCLspApITe) |
+
 
 ## 🆓 Creative Commons and free-to-use songs attribution:
 | Track | Artist | Licence | Source Link |
@@ -62,7 +68,7 @@ The main setlist covers a variety of genres, and most of the songs feature chart
 
 
 # 📥 DLC
-While it's all technically downloadable content, we're using the DLC label for songs that we want to make available without putting them in the main setlist. Maybe we want to spotlight a particular artist without overrepresenting their work; maybe we wish to cover some music that doesn't lend itself to full-band play. Whatever the reason, DLC is what we'll be calling it.
+These are songs that which we're making available separately from the main setlist. Maybe we want to spotlight a particular artist without overrepresenting their work; maybe we wish to cover some music that doesn't lend itself to full-band play. Whatever the reason, DLC is what we'll be calling it.
 
 Coming Soon...
 
