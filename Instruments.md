@@ -2,7 +2,7 @@
 title: 🎸 Instruments
 description: Information about hardware game controllers
 published: true
-date: 2024-07-19T22:11:21.661Z
+date: 2024-07-29T22:34:18.946Z
 tags: instruments, vocals, guitar, bass, drums, pro guitar, pro drums, pro bass, keys, pro keys, elite drums
 editor: markdown
 dateCreated: 2023-07-30T03:57:46.912Z
@@ -173,8 +173,7 @@ Make sure you hit something on the kit before hitting "Add Device", the list doe
 
 ###  ⚠️Note!
 
-Since microphones are just input devices and not controllers, nearly all will work.  
-If a microphone needs a speical driver, such as the Lips mics, it won't work.
+Since USB microphones are just input devices, instead of controllers, nearly all will work. If your computer detects it normally, you are ready to rock! However, if a microphone needs a speical driver that has to be installed before it will work, such as the Lips mics, it won't work with YARG.
 
 ###  🛠️Troubleshooting
 
