@@ -2,7 +2,7 @@
 title: 📖 Glossary
 description: Some common terms and what they mean
 published: true
-date: 2024-05-16T21:28:13.926Z
+date: 2024-07-30T20:09:59.453Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-12T21:41:56.593Z
@@ -52,7 +52,7 @@ Songs with Stems have multiple audio streams, separating different instruments/p
 Not to be confused with Keysounds, which is another technique some other rhythm games use for dynamic audio.
 
 ## 🔴 Intensity
-An aproximation of how much effort a player will have to exert to play a particular instrument's part in a given song. Often represented as a series of filled circles, or in YARG as a set of segments surrounding the part's icon.
+An approximation of how much effort a player will have to exert to play a particular instrument's part in a given song. Often represented as a series of filled circles, or in YARG as a set of segments surrounding the part's icon.
 
 ## 📊 Chart, aka Note Chart
 The sequence of notes for one instrument on one difficulty on one song. Alternatively, could refer to multiple difficulties for multiple instruments for one song, collected in a single .mid, .chart, or con file.
