@@ -2,7 +2,7 @@
 title: ⚙️ Engine
 description: Information about YARG default engines
 published: true
-date: 2024-05-12T21:02:47.866Z
+date: 2024-07-30T19:58:28.288Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-30T03:59:19.435Z
@@ -100,7 +100,7 @@ That action will open a window asking which file you want to load.
 Upon selecting the correct file, the preset will be imported, with all of its values.
 
 # 📈 Scoring
-These are on a separate category because they aren't editable, unlike the other engine settings.
+These are in a separate category because they aren't editable, unlike the other engine settings.
 
 ## 💯 Points
 Each note awards 50 points, except for Pro Drums, where each notes award 60 points.
