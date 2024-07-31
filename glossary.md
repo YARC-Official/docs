@@ -2,7 +2,7 @@
 title: 📖 Glossary
 description: Some common terms and what they mean
 published: true
-date: 2024-07-30T20:09:59.453Z
+date: 2024-07-31T04:58:04.774Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-12T21:41:56.593Z
@@ -40,7 +40,7 @@ Playing a series of notes correctly. Many rhythm games will reward combos with i
 A factor by which the points you score will be multiplied. In YARG your multiplier is an integer, and will typically range from 1× to 4× if your Star Power is not currently active.
 
 ## 🔥 Hot Start, 🏋️‍♀️ Strong Finish
-YARG displays Hot Start when you reach your maximum multiplier without having missed a single note or otherwise breaking your combo.
+YARG displays Hot Start if you play the first 30 notes of the song without missing a note or otherwise breaking your combo.
 Similarly, Strong Finish signifies completing the song with your maximum multiplier active.
 
 ## 🌟 Star Power (aka Overdrive)
