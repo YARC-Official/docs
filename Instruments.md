@@ -2,7 +2,7 @@
 title: 🎸 Instruments
 description: Information about hardware game controllers
 published: true
-date: 2024-07-29T22:34:18.946Z
+date: 2024-08-03T18:13:06.002Z
 tags: instruments, vocals, guitar, bass, drums, pro guitar, pro drums, pro bass, keys, pro keys, elite drums
 editor: markdown
 dateCreated: 2023-07-30T03:57:46.912Z
@@ -22,7 +22,7 @@ This is an inexhaustive list of instrument controllers and their compatibility w
 |Software needed|     |
 |:---:|:---|
 |A| Need to use [GHLtarUtility](https://github.com/ghlre/GHLtarUtility). |
-|B| Need to use [WiitarThing](https://github.com/Meowmaritus/WiitarThing). |
+|B| Need to use [WiitarThing](https://github.com/TheNathannator/WiitarThing). |
 
 🔩
 
