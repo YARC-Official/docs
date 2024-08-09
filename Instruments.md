@@ -2,7 +2,7 @@
 title: 🎸 Instruments
 description: Information about hardware game controllers
 published: true
-date: 2024-08-08T02:50:06.732Z
+date: 2024-08-09T00:22:32.755Z
 tags: instruments, vocals, guitar, bass, drums, pro guitar, pro drums, pro bass, keys, pro keys, elite drums
 editor: markdown
 dateCreated: 2023-07-30T03:57:46.912Z
@@ -75,14 +75,16 @@ PS3 Les Pauls have bad input latency
 | <img src="/instruments/rbhofner.png>" width="300"> | Höfner 500/1 Violin Bass | ➖   | ☑️  | ➖   | 5   | ➖   | ☑️  | ➖   |
 | <img src="/instruments/rbwooden.png>" width="300"> | Wooden Stratocaster | ➖   | ➖   | ➖   | 5   | ➖   | ➖   | ➖   |
 | <img src="/instruments/guitars/rbtelecaster.png>" width="300"> | Player's Edition Telecaster | ➖   | ☑️   | ➖   | 5   | ➖   | ➖   | ➖   |
+
 ###  ⚠️Note!
 The Jaguar will need a firmware update. <a href="https://harmonix.zendesk.com/hc/en-us/articles/115004839308-MANDATORY-Xbox-One-Jaguar-guitar-controller-firmware-update">See this link</a>
 
 **3rd Party**
 
-| Picture | Company | Guitar | Xbox One | PlayStation 4 |
-| :---: | :---: | :---: | :---: | :---: |
-| <img src="/instruments/guitars/pdpriffmaster.png>" width="300"> | PDP | Riffmaster | ☑️ | ☑️|
+| Picture | Company | Guitar | PlayStation 3 | PlayStation 4 |Xbox 360 |Xbox One | 
+| :---: | :---: | :---: | :---: | :---: |:---: |:---: |
+| <img src="/instruments/guitars/pdpriffmaster.png>" width="300"> | PDP | Riffmaster |➖| ☑️ |➖|☑️|
+|<img src="/instruments/guitars/logitechguitar.png>" width="300">|Logitech|Wirelesss guitar controller|☑️|➖|5|➖|
 ##  6 Fret
 
 **Guitar Hero**
