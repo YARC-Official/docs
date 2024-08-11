@@ -2,7 +2,7 @@
 title: 🎸 Instruments
 description: Information about hardware game controllers
 published: true
-date: 2024-08-09T00:22:32.755Z
+date: 2024-08-11T22:01:09.598Z
 tags: instruments, vocals, guitar, bass, drums, pro guitar, pro drums, pro bass, keys, pro keys, elite drums
 editor: markdown
 dateCreated: 2023-07-30T03:57:46.912Z
@@ -165,7 +165,10 @@ Make sure nothing else is open that is also using the e-kit, Windows only allows
 Make sure you hit something on the kit before hitting "Add Device", the list doesn't refresh automatically.
 
 #  🎤 Vocals
-
+**Rock Band**
+|Picture|Microphone|Xbox 360|
+| :---: | :---: | :---: |
+|<img src="/instruments/microphones/rbm.i.c.png" width="300">|M.I.C|✅|
 **3rd Party**
 
 | Picture | Company | Microphone | Xbox 360 | XLR |
