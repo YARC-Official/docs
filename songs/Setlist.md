@@ -2,7 +2,7 @@
 title: 💽 Setlist
 description: More information about the songs in our Official Setlist
 published: true
-date: 2024-07-23T00:53:26.106Z
+date: 2024-08-14T03:05:03.334Z
 tags: songs, setlist, official
 editor: markdown
 dateCreated: 2023-07-30T21:18:21.243Z
@@ -68,7 +68,7 @@ The main setlist covers a variety of genres, and most of the songs feature chart
 
 
 # 📥 DLC
-These are songs that which we're making available separately from the main setlist. Maybe we want to spotlight a particular artist without overrepresenting their work; maybe we wish to cover some music that doesn't lend itself to full-band play. Whatever the reason, DLC is what we'll be calling it.
+These are songs which we're making available separately from the main setlist. Maybe we want to spotlight a particular artist without overrepresenting their work; maybe we wish to cover some music that doesn't lend itself to full-band play. Whatever the reason, DLC is what we'll be calling it.
 
 Coming Soon...
 
