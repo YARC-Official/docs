@@ -2,7 +2,7 @@
 title: 💽 Setlist
 description: More information about the songs in our Official Setlist
 published: true
-date: 2024-08-30T13:51:32.074Z
+date: 2024-08-30T13:55:18.746Z
 tags: songs, setlist, official
 editor: markdown
 dateCreated: 2023-07-30T21:18:21.243Z
@@ -67,7 +67,7 @@ YARG's Official Setlist is a multi-genre, full-band full-difficulty, in developm
 
 
 # 📥 DLC
-These are songs which we're making available separately from the main setlist. Maybe we want to spotlight a particular artist without overrepresenting their work; maybe we wish to cover some music that doesn't lend itself to full-band play. Whatever the reason, DLC is what we'll be calling it.
+These are songs which we're making available separately from the main setlist. Maybe we want to spotlight a particular artist without overrepresenting their work; maybe we wish to cover some music that doesn't lend itself to full-band play. Whatever the reason, DLC is what we're calling it.
 
 ## 1️⃣ Assorted Pack 1
 Join us for our first pack of DLC with a collection of friendly rock songs for the whole party, featuring Troubled Minds, Fisher Wagg, and Walter Ralts!
