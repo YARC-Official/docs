@@ -2,7 +2,7 @@
 title: 💽 Setlist
 description: More information about the songs in our Official Setlist
 published: true
-date: 2024-08-14T03:05:03.334Z
+date: 2024-08-30T13:51:32.074Z
 tags: songs, setlist, official
 editor: markdown
 dateCreated: 2023-07-30T21:18:21.243Z
@@ -11,8 +11,7 @@ dateCreated: 2023-07-30T21:18:21.243Z
 What good is a rhythm game without music?  The YARG team works with a number of artists to bring their music to our game, skillfully charted and freely downloadable through the [YARC Launcher](/launcher).
 
 # 💽 Main Setlist
-The main setlist covers a variety of genres, and most of the songs feature charts for Guitar, Bass, Drums and Vocals, making them ideal for full-band play.
-42 songs, and growing!
+YARG's Official Setlist is a multi-genre, full-band full-difficulty, in development setlist brought to you by YARG's amazing and talented charting team. Its eventual goal is to have 80 to 100 songs, all made with love and lots of care. The setlist contains songs from underappreciated artists, along with more well known songs.
 | Track | Artist | Album | Genre | Year |  Guitar | Bass | Drums | Keys | Vocals | Release | Link |
 | :-- | :-- | :-- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | pizza rolls | bottom bunk | Single | Emo | 2023 | ⚪⚪⚪⚪⚪ | ⚪⚫⚫⚫⚫ | ⚪⚪⚫⚫⚫ | No Part | ⚪⚪⚫⚫⚫ | 07/09/2023 [Wave 1](https://www.youtube.com/watch?v=Xk_HqhzvdgQ) | [🎧 Spotify](https://open.spotify.com/track/4fqnReVr3UWKT0tjtyt7Lb) |
@@ -70,6 +69,26 @@ The main setlist covers a variety of genres, and most of the songs feature chart
 # 📥 DLC
 These are songs which we're making available separately from the main setlist. Maybe we want to spotlight a particular artist without overrepresenting their work; maybe we wish to cover some music that doesn't lend itself to full-band play. Whatever the reason, DLC is what we'll be calling it.
 
-Coming Soon...
+## 1️⃣ Assorted Pack 1
+Join us for our first pack of DLC with a collection of friendly rock songs for the whole party, featuring Troubled Minds, Fisher Wagg, and Walter Ralts!
 
+| Track | Artist | Album | Genre | Year |  Guitar | Bass | Drums | Keys | Vocals | Release | Link |
+| :-- | :-- | :-- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| Burn | Troubled Minds | Single | Punk | 2020 | ⚪⚫⚫⚫⚫ | ⚫⚫⚫⚫⚫ | ⚪⚫⚫⚫⚫ | No Part | ⚪⚫⚫⚫⚫ | 08/24/2024 | [🎧 Spotify](https://open.spotify.com/track/53HV6yGFXHzrl8CuXVB1uy) |
+| Drunken Monday (Freeway Mix) | Fisher Wagg | Leftovers | Indie Rock | 2024 | ⚪⚪⚪⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚫⚫⚫⚫ | No Part | ⚪⚪⚪⚫⚫ | 08/24/2024 | [🎧 Spotify](https://open.spotify.com/track/4eeek5JylA8LNb7PfbiOqI) |
+| Middle of The City Road | Walter Ralts | Rock On | Electronic Rock | 2022 | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚫⚫⚫⚫ | No Part | 08/24/2024 | [🎧 Spotify](https://open.spotify.com/track/48D48RrEqhtyA8iyvnhAkm) |
 
+## 2️⃣ Assorted Pack 2
+Here is a pack of energetic electronic songs, providing challenges on all instruments! Featuring SO87 & Jelly Hoshiumi, Waterflame, and tv room.
+
+| Track | Artist | Album | Genre | Year |  Guitar | Bass | Drums | Keys | Vocals | Release | Link |
+| :-- | :-- | :-- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| Radioactive | Waterflame | Age of Flash | Techno | 2007 | ⚪⚪⚫⚫⚫ | 🔴🔴🔴🔴🔴 | ⚪⚪⚪⚪⚪ | ⚪⚪⚪⚪⚫ | ⚫⚫⚫⚫⚫ | 08/29/2024 | [🎧 Spotify](https://open.spotify.com/track/1W3zDYmJR3g6qpwwOb82dw) |
+| Say It Back | tv room | Single | Dance | 2019 | ⚪⚪⚪⚪⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚪⚪ | 08/29/2024 | [🎧 Spotify](https://open.spotify.com/track/3k3brViymSaqnYEV5g0pKN) |
+| SPACE AND TIME! (feat. Jelly Hoshiumi) | SO87 | Single | House | 2024 | 🔴🔴🔴🔴🔴 | ⚪⚪⚫⚫⚫ | ⚫⚫⚫⚫⚫ | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚫⚫ | 08/29/2024 | [🎧 Spotify](https://open.spotify.com/track/197RUywoDgUu5pHWDjU0lz) |
+
+### 🆓 Creative Commons and free-to-use songs attribution:
+| Track | Artist | Licence | Source Link |
+| :-- | :-- | :-- | :--: |
+| Radioactive | Waterflame | released under [CC-BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) | [Newgrounds](https://www.newgrounds.com/audio/listen/106783) |
+| Say It Back | tv room | released under [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) | [Newgrounds](https://www.newgrounds.com/audio/listen/1044389) |
