@@ -2,7 +2,7 @@
 title: 💽 Setlist
 description: More information about the songs in our Official Setlist
 published: true
-date: 2024-08-30T13:55:18.746Z
+date: 2024-09-01T06:25:56.106Z
 tags: songs, setlist, official
 editor: markdown
 dateCreated: 2023-07-30T21:18:21.243Z
@@ -90,5 +90,5 @@ Here is a pack of energetic electronic songs, providing challenges on all instru
 ### 🆓 Creative Commons and free-to-use songs attribution:
 | Track | Artist | Licence | Source Link |
 | :-- | :-- | :-- | :--: |
-| Radioactive | Waterflame | released under [CC-BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) | [Newgrounds](https://www.newgrounds.com/audio/listen/106783) |
-| Say It Back | tv room | released under [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) | [Newgrounds](https://www.newgrounds.com/audio/listen/1044389) |
+| Radioactive | Waterflame | released under [CC-BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) | [🆖 Newgrounds](https://www.newgrounds.com/audio/listen/106783) |
+| Say It Back | tv room | released under [CC-BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) | [🆖 Newgrounds](https://www.newgrounds.com/audio/listen/1044389) |
