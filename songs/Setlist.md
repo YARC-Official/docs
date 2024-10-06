@@ -2,7 +2,7 @@
 title: 💽 Setlist
 description: More information about the songs in our Official Setlist
 published: true
-date: 2024-09-13T03:49:50.656Z
+date: 2024-10-06T18:47:24.208Z
 tags: songs, setlist, official
 editor: markdown
 dateCreated: 2023-07-30T21:18:21.243Z
@@ -103,8 +103,23 @@ Keep summer in your heart with this brilliant pop and electronic album from Aloh
 | Heart of Glass (feat. Rachie) | Alohaii | SUMMERTIDE | Pop | 2024 | ⚪⚪⚫⚫⚫ | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚫⚫ Pro:⚪⚪⚪⚫⚫ | 🔴🔴🔴🔴🔴 2&nbsp;parts | 09/11/2024 | [🎧 Spotify](https://open.spotify.com/track/6SWDzvB4bHJWFAFvblO5U5) |
 | Through the Night (feat. Yuuka Bear) | Alohaii | SUMMERTIDE | Pop | 2024 | ⚪⚪⚪⚪⚪ | ⚪⚪⚪⚪⚫ Rthm:⚪⚪⚪⚪⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚫⚫⚫ Pro:⚪⚪⚫⚫⚫ | ⚪⚪⚪⚪⚫ 3&nbsp;parts | 09/11/2024 | [🎧 Spotify](https://open.spotify.com/track/3XYRRPX0doELITJcYa5i4g) |
 | Cinnamon (feat. Miori Celesta & Yuuna Nini) | Alohaii | SUMMERTIDE | Electronic | 2024 | ⚪⚪⚫⚫⚫ | ⚪⚫⚫⚫⚫ | ⚪⚪⚪⚫⚫ | ⚪⚪⚫⚫⚫ Pro:⚪⚪⚫⚫⚫ | 🔴🔴🔴🔴🔴 3&nbsp;parts | 09/11/2024 | [🎧 Spotify](https://open.spotify.com/track/0Mtjq8Q6Z7gPVhqKkUPHtI) |
-| Magazines (feat. Nia Suzune) | Alohaii | SUMMERTIDE | Pop | 2024 | ⚪⚪⚪⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚫⚫⚫⚫ Pro:⚪⚪⚪⚪⚫ | ⚪⚪⚪⚪⚪ 3&nbsp;parts | 09/11/2024 | [🎧 Spotify](https://open.spotify.com/track/7rWHfBdZyWsMBueZq03t64) |
+| Magazines (feat. Nia Suzune) | Alohaii | SUMMERTIDE | Pop | 2024 | ⚪⚪⚪⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚫⚫⚫⚫ Pro:⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚪ 3&nbsp;parts | 09/11/2024 | [🎧 Spotify](https://open.spotify.com/track/7rWHfBdZyWsMBueZq03t64) |
 | Hopeless Romantic (feat. JubyPhonic) | Alohaii | SUMMERTIDE | Electronic | 2024 | ⚫⚫⚫⚫⚫ | ⚫⚫⚫⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚫⚫⚫ Pro:⚪⚪⚪⚫⚫ | ⚪⚪⚪⚫⚫ 3&nbsp;parts | 09/11/2024 | [🎧 Spotify](https://open.spotify.com/track/36Lwn5WBH9XZNpyDa5ZBQM) |
 | One Step at a Time (feat. Miori Celesta) | Alohaii | SUMMERTIDE | Pop | 2024 | ⚪⚪⚪⚫⚫ | ⚪⚪⚫⚫⚫ Rthm:🔴🔴🔴🔴🔴 | ⚪⚪⚪⚫⚫ | ⚪⚪⚫⚫⚫ Pro:⚪⚪⚫⚫⚫ | ⚪⚪⚪⚫⚫ 3&nbsp;parts | 09/11/2024 | [🎧 Spotify](https://open.spotify.com/track/5uI7OuSoyjSZvfLFhWTSaw) |
 | Love Me Not (feat. TOFIE) | Alohaii | SUMMERTIDE | R&B, Soul, Funk | 2024 | ⚪⚪⚪⚪⚫ | ⚫⚫⚫⚫⚫ | ⚪⚫⚫⚫⚫ | ⚪⚪⚫⚫⚫ Pro:⚪⚪⚫⚫⚫ | ⚪⚪⚪⚪⚫ 3&nbsp;parts | 09/11/2024 | [🎧 Spotify](https://open.spotify.com/track/6q66zeUuOKPyjLl8tug9RB) |
 
+## 🌈 WANDERKID by JW Francis
+Follow the journey of WANDERKID in JW Francis's sophomore album! Escape with warm lo-fi indie rock vibes and nostalgically jangly guitar.
+(The first track from this album - John, Take Me With You - is absent from this DLC, as it's already present in the main setlist.)
+| Track | Artist | Album | Genre | Year |  Guitar | Bass | Drums | Keys | Vocals | Release | Link |
+| :-- | :-- | :-- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| I Love You | JW Francis | WANDERKID | Indie Rock | 2021 | ⚪⚪⚫⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚫⚫⚫⚫ Pro:⚪⚪⚫⚫⚫ | ⚪⚪⚫⚫⚫ 2&nbsp;parts | 09/30/2024 | [🎧 Spotify](https://open.spotify.com/track/2ClWBJQK4MBcrg892bsepV) |
+| Maybe | JW Francis | WANDERKID | Indie Rock | 2021 | ⚪⚫⚫⚫⚫ | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚫ | ⚪⚪⚫⚫⚫ Pro:⚪⚪⚫⚫⚫ | ⚪⚪⚪⚪⚫ 3&nbsp;parts | 09/30/2024 | [🎧 Spotify](https://open.spotify.com/track/2YEK1s81PKs3Npl2h24EjH) |
+| Make Another Record | JW Francis | WANDERKID | Indie Rock | 2021 | ⚪⚪⚪⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚪⚪⚫ | ⚪⚫⚫⚫⚫ Pro:⚪⚫⚫⚫⚫ | ⚪⚪⚫⚫⚫ | 09/30/2024 | [🎧 Spotify](https://open.spotify.com/track/2DFsPP7RyEr2jG3b0RczwY) |
+| Only With You | JW Francis | WANDERKID | Indie Rock | 2021 | ⚫⚫⚫⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚫⚫⚫⚫ Elite:⚪⚫⚫⚫⚫ | ⚪⚫⚫⚫⚫ Pro:⚪⚪⚫⚫⚫ | ⚪⚪⚪⚫⚫ 3&nbsp;parts | 09/30/2024 | [🎧 Spotify](https://open.spotify.com/track/1wOOxarfzqdtKlJxizKgff) |
+| Holy Mountain | JW Francis | WANDERKID | Indie Rock | 2021 | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚫ Rhtm:⚪⚪⚪⚪⚫ | ⚪⚪⚪⚪⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚪⚪⚫ | 09/30/2024 | [🎧 Spotify](https://open.spotify.com/track/3PH2uuaa75gOGEAWdSmtii) |
+| WANDERKID | JW Francis | WANDERKID | Indie Rock | 2021 | ⚪⚫⚫⚫⚫ | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚫ | ⚫⚫⚫⚫⚫ Pro:⚫⚫⚫⚫⚫ | ⚪⚪⚪⚪⚫ 2&nbsp;parts | 09/30/2024 | [🎧 Spotify](https://open.spotify.com/track/6RGuisufVRgFtoVBjl9g8M) |
+| Don't Fall Apart | JW Francis | WANDERKID | Indie Rock | 2021 | ⚪⚪⚪⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚫⚫⚫ | ⚫⚫⚫⚫⚫ | ⚪⚪⚫⚫⚫ 2&nbsp;parts | 09/30/2024 | [🎧 Spotify](https://open.spotify.com/track/6WtrVMS2JKwoQ4Z99fQgRV) |
+| Fake It Till You Make It | JW Francis | WANDERKID | Indie Rock | 2021 | ⚪⚫⚫⚫⚫ Pro:⚪⚫⚫⚫⚫ | ⚫⚫⚫⚫⚫ Pro:⚫⚫⚫⚫⚫ | ⚪⚫⚫⚫⚫ Elite:⚪⚫⚫⚫⚫ | ⚫⚫⚫⚫⚫ Pro:⚫⚫⚫⚫⚫ | ⚪⚫⚫⚫⚫ | 09/30/2024 | [🎧 Spotify](https://open.spotify.com/track/6j4s2ABN0YMCfaIH3mIS4S) |
+| I'm Probably a Ghost | JW Francis | WANDERKID | Indie Rock | 2021 | ⚪⚪⚪⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚪⚪⚫ Elite:⚪⚪⚪⚪⚫ | ⚫⚫⚫⚫⚫ Pro:⚫⚫⚫⚫⚫ | ⚪⚪⚫⚫⚫ | 09/30/2024 | [🎧 Spotify](https://open.spotify.com/track/1gJ0T4LxNJQ5JWC9CxrPps) |
+| Cars | JW Francis | WANDERKID | Indie Rock | 2021 | ⚪⚪⚪⚫⚫ | ⚪⚫⚫⚫⚫ | No Part | No Part | ⚪⚪⚫⚫⚫ 3&nbsp;parts | 09/30/2024 | [🎧 Spotify](https://open.spotify.com/track/06wJFNzV0i738fVdq5LvoC) |
