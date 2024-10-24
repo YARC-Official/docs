@@ -2,7 +2,7 @@
 title: 💽 Setlist
 description: More information about the songs in our Official Setlist
 published: true
-date: 2024-10-06T18:47:24.208Z
+date: 2024-10-24T00:04:14.999Z
 tags: songs, setlist, official
 editor: markdown
 dateCreated: 2023-07-30T21:18:21.243Z
@@ -123,3 +123,25 @@ Follow the journey of WANDERKID in JW Francis's sophomore album! Escape with war
 | Fake It Till You Make It | JW Francis | WANDERKID | Indie Rock | 2021 | ⚪⚫⚫⚫⚫ Pro:⚪⚫⚫⚫⚫ | ⚫⚫⚫⚫⚫ Pro:⚫⚫⚫⚫⚫ | ⚪⚫⚫⚫⚫ Elite:⚪⚫⚫⚫⚫ | ⚫⚫⚫⚫⚫ Pro:⚫⚫⚫⚫⚫ | ⚪⚫⚫⚫⚫ | 09/30/2024 | [🎧 Spotify](https://open.spotify.com/track/6j4s2ABN0YMCfaIH3mIS4S) |
 | I'm Probably a Ghost | JW Francis | WANDERKID | Indie Rock | 2021 | ⚪⚪⚪⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚪⚪⚫ Elite:⚪⚪⚪⚪⚫ | ⚫⚫⚫⚫⚫ Pro:⚫⚫⚫⚫⚫ | ⚪⚪⚫⚫⚫ | 09/30/2024 | [🎧 Spotify](https://open.spotify.com/track/1gJ0T4LxNJQ5JWC9CxrPps) |
 | Cars | JW Francis | WANDERKID | Indie Rock | 2021 | ⚪⚪⚪⚫⚫ | ⚪⚫⚫⚫⚫ | No Part | No Part | ⚪⚪⚫⚫⚫ 3&nbsp;parts | 09/30/2024 | [🎧 Spotify](https://open.spotify.com/track/06wJFNzV0i738fVdq5LvoC) |
+
+## 🎹 Classical Keys Pack 1
+Explore world-famous pieces for piano, organ, and even calliope with YARG's first collection of public domain classical music. Learn authentic right-hand parts on Pro Keys, or play five-lane versions of each hand on Keys and Bass!
+| Track | Artist | Album | Genre | Year |  Guitar | Bass | Drums | Keys | Vocals | Release | Link | 
+| :-- | :-- | :-- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| Bridal Chorus | Richard Wagner | Classical Keys 01 | Classical | 1850 | No Part | ⚪⚪⚪⚫⚫ | No Part | ⚪⚪⚪⚫⚫ Pro:⚪⚪⚪⚫⚫ | No Part | 10/22/2024 |  |
+| Clair de Lune | Claude Debussy | Classical Keys 01 | Classical | 1905 | No Part | ⚪⚪⚫⚫⚫ | No Part | ⚪⚪⚫⚫⚫ Pro:⚪⚪⚫⚫⚫ | No Part | 10/22/2024 |  |
+| Entrance of the Gladiators | Julius Fučík | Classical Keys 01 | Classical | 1899 | No Part | ⚪⚪⚪⚪⚫ | No Part | ⚪⚪⚪⚪⚫ Pro:⚪⚪⚪⚪⚫ | No Part | 10/22/2024 |  |
+| Maple Leaf Rag | Scott Joplin | Classical Keys 01 | Jazz | 1899 | No Part | ⚪⚪⚪⚫⚫ | No Part | ⚪⚪⚪⚪⚪ Pro:⚪⚪⚪⚪⚪ | No Part | 10/22/2024 |  |
+| Marche Funèbre | Frédéric Chopin | Classical Keys 01 | Classical | 1840 | No Part | ⚪⚪⚫⚫⚫ | No Part | ⚪⚪⚫⚫⚫ Pro:⚪⚪⚫⚫⚫ | No Part | 10/22/2024 |  |
+| Scherzo No. 1 | Frédéric Chopin | Classical Keys 01 | Classical | 1835 | No Part | ⚪⚪⚪⚪⚪ | No Part | 🔴🔴🔴🔴🔴 Pro:🔴🔴🔴🔴🔴 | No Part | 10/22/2024 |  |
+
+## 🎹 Children's Keys Pack 1
+If you have a budding pianist in your life (or if the classical songs are too hard for you), try this easy pack of classic children's songs and nursery rhymes. Learn real melodies on Pro Keys, or play five-lane versions of both the melody and harmony with the Keys and Bass parts.
+| Track | Artist | Album | Genre | Year |  Guitar | Bass | Drums | Keys | Vocals | Release | Link | 
+| :-- | :-- | :-- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| Frère Jacques | Jean-Philippe Rameau | Children's Keys 01 | Children's Music | 1811 | No Part | ⚫⚫⚫⚫⚫ | No Part | ⚪⚫⚫⚫⚫ Pro:⚪⚫⚫⚫⚫ | No Part | 10/22/2024 |  |
+| Happy Birthday to You | Patty and Mildred J. Hill | Children's Keys 01 | Children's Music | 1893 | No Part | ⚫⚫⚫⚫⚫ | No Part | ⚫⚫⚫⚫⚫ Pro:⚫⚫⚫⚫⚫ | No Part | 10/22/2024 |  |
+| Mary Had a Little Lamb | Sarah Josepha Hale | Children's Keys 01 | Children's Music | 1830 | No Part | ⚫⚫⚫⚫⚫ | No Part | ⚫⚫⚫⚫⚫ Pro:⚫⚫⚫⚫⚫ | No Part | 10/22/2024 |  |
+| Rock-a-Bye Baby | Effie I. Canning | Children's Keys 01 | Children's Music | 1884 | No Part | ⚪⚫⚫⚫⚫ | No Part | ⚪⚫⚫⚫⚫ Pro:⚪⚫⚫⚫⚫ | No Part | 10/22/2024 |  |
+| Row, Row, Row Your Boat | Eliphalet Oram Lyte | Children's Keys 01 | Children's Music | 1881 | No Part | ⚫⚫⚫⚫⚫ | No Part | ⚪⚫⚫⚫⚫ Pro:⚪⚫⚫⚫⚫ | No Part | 10/22/2024 |  |
+| Twinkle, Twinkle, Little Star | Jane Taylor | Children's Keys 01 | Children's Music | 1806 | No Part | ⚫⚫⚫⚫⚫ | No Part | ⚫⚫⚫⚫⚫ Pro:⚫⚫⚫⚫⚫ | No Part | 10/22/2024 |  |
