@@ -2,7 +2,7 @@
 title: 💽 Setlist
 description: More information about the songs in our Official Setlist
 published: true
-date: 2024-10-24T00:14:35.583Z
+date: 2024-10-27T01:25:20.706Z
 tags: songs, setlist, official
 editor: markdown
 dateCreated: 2023-07-30T21:18:21.243Z
@@ -56,7 +56,12 @@ YARG's Official Setlist is a multi-genre, full-band full-difficulty, in developm
 | Guess I'll Never Know | TrackTribe | Single | Folk | 2023 | ⚪⚫⚫⚫⚫ | ⚫⚫⚫⚫⚫ | ⚪⚪⚪⚫⚫ | ⚫⚫⚫⚫⚫ <br/> Pro:⚫⚫⚫⚫⚫ | ⚪⚪⚫⚫⚫ <br/> 3&nbsp;parts | 07/22/2024 [Wave 8](https://youtu.be/8IZ_f-BtcLk) | [🎧 Spotify](https://open.spotify.com/track/6zIDWNCCbqMspl0nLH8FIQ) |
 | Long in the Tooth | Flying Raccoon Suit | Moonflower | Reggae, Ska | 2023 | ⚪⚪⚪⚪⚪ | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚪ <br/> Elite:⚪⚪⚪⚪⚪ | ⚪⚪⚪⚫⚫ <br/> Pro:⚪⚪⚪⚫⚫ | ⚪⚪⚫⚫⚫ <br/> 3&nbsp;parts | 07/22/2024 [Wave 8](https://youtu.be/8IZ_f-BtcLk) | [🎧 Spotify](https://open.spotify.com/track/1eGlfXgXCp1Ikkc4ADgZfh) |
 | is this what you wanted | Scro | on my own | Alternative | 2023 | ⚪⚪⚪⚪⚫ <br/> Pro:🔴🔴🔴🔴🔴 | ⚪⚫⚫⚫⚫ <br/> Pro:⚪⚫⚫⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚫⚫⚫ <br/> Pro:⚪⚪⚫⚫⚫ | ⚪⚪⚪⚪⚪ <br/> 3&nbsp;parts | 07/22/2024 [Wave 8](https://youtu.be/8IZ_f-BtcLk) | [🎧 Spotify](https://open.spotify.com/track/33WUbp3DX0VQJCLspApITe) |
-
+| Blue (feat. Miori Celesta) | InVerSe | Single | Pop | 2023 | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚪  | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚪⚪ <br/> Pro:⚪⚪⚪⚪⚪ | ⚪⚪⚪⚪⚪ <br/> 3&nbsp;parts | 10/26/2024 [Wave 9](https://youtu.be/i33ztJerVkg) | [🎧 Spotify](https://open.spotify.com/track/0ylX5IFbfggtXWu41iDvJo) |
+| Stowaway Ants | Alpha Boötis | Stowaway Ants EP | Metal | 2020 | ⚪⚪⚪⚫⚫ <br/> Pro:⚪⚪⚪⚫⚫ | ⚪⚪⚫⚫⚫ <br/> Pro:⚪⚫⚫⚫⚫ | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚪⚫ <br/> Pro:⚪⚪⚪⚪⚫ | ⚪⚪⚪⚫⚫ <br/> 3&nbsp;parts | 10/26/2024 [Wave 9](https://youtu.be/i33ztJerVkg) | [🎧 Spotify](https://open.spotify.com/track/6bjGbiI7v5Pq9GkZ6D7TxJ) |
+| Half Measures | Aaron Musslewhite | Single | R&B, Soul, Funk | 2018 | ⚫⚫⚫⚫⚫ <br/> Pro:⚪⚫⚫⚫⚫ | ⚫⚫⚫⚫⚫ <br/> Pro:⚫⚫⚫⚫⚫ | ⚪⚫⚫⚫⚫ | ⚫⚫⚫⚫⚫ <br/> Pro:⚪⚫⚫⚫⚫ | 🔴🔴🔴🔴🔴 <br/> 3&nbsp;parts | 10/26/2024 [Wave 9](https://youtu.be/i33ztJerVkg) | [🎧 Spotify](https://open.spotify.com/track/42t6Z6k2FXQPH2HFJquGFe) |
+| CRUISIN' | raphaelgoulart | Single | Electronic Rock | 2021 | ⚪⚪⚪⚪⚪ <br/> Pro:⚪⚪⚪⚪⚪ | ⚪⚪⚪⚫⚫ <br/> Pro:⚪⚪⚪⚪⚫ | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚫⚫ <br/> Pro:⚪⚪⚪⚫⚫ | No Part | 10/26/2024 [Wave 9](https://youtu.be/i33ztJerVkg) | [🎧 Soundcloud](https://soundcloud.com/raphaelgoulart/cruisin) |
+| A Visitant (feat. Victor Borba) | RO1 | Single | Progressive | 2021 | ⚪⚪⚪⚫⚫ <br/> Pro:⚪⚪⚫⚫⚫ | ⚪⚫⚫⚫⚫ <br/> Pro:⚪⚫⚫⚫⚫ | ⚪⚪⚪⚪⚪ | 🔴🔴🔴🔴🔴 <br/> Pro:🔴🔴🔴🔴🔴 | ⚪⚪⚪⚪⚫ <br/> 2&nbsp;parts | 10/26/2024 [Wave 9](https://youtu.be/i33ztJerVkg) | [🎧 Spotify](https://open.spotify.com/track/1JgRcx0qAixYbKisWYWT5E) |
+| Plastic Boogie | King Gizzard and the Lizard Wizard | Fishing for Fishies | Southern Rock | 2019 | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚫⚫ | ⚪⚫⚫⚫⚫ | No Part | ⚪⚪⚫⚫⚫ <br/> 3&nbsp;parts | 10/26/2024 [Wave 9](https://youtu.be/i33ztJerVkg) | [🎧 Spotify](https://open.spotify.com/track/32gxALA5ZZdh6XVKmf67eH) |
 
 ## 🆓 Creative Commons and free-to-use songs attribution:
 | Track | Artist | Licence | Source Link |
