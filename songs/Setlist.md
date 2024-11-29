@@ -2,7 +2,7 @@
 title: 💽 Setlist
 description: More information about the songs in our Official Setlist
 published: true
-date: 2024-11-29T06:33:19.259Z
+date: 2024-11-29T06:33:43.930Z
 tags: songs, setlist, official
 editor: markdown
 dateCreated: 2023-07-30T21:18:21.243Z
@@ -14,7 +14,7 @@ What good is a rhythm game without music?  The YARG team works with a number of 
 YARG's Official Setlist is a multi-genre, full-band full-difficulty, in development setlist brought to you by YARG's amazing and talented charting team. Its eventual goal is to have 80 to 100 songs, all made with love and lots of care. The setlist contains songs from underappreciated artists, along with more well known songs.
 | Track | Artist | Album | Genre | Year |  Guitar | Bass | Drums | Keys | Vocals | Release | Link |
 | :-- | :-- | :-- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| pizza rolls | bottom bunk | Single | Emo | 2023 | ⚪⚪⚪⚪⚪ | ⚪⚫⚫⚫⚫ | ⚪⚪⚫⚫⚫ | No Part | ⚪⚪⚫⚫⚫ <br/> 3&nbsp;parts | 07/09/2023 [Wave 1](https://www.youtube.com/watch?v=Xk_HqhzvdgQ) | [🎧 Spotify](https://open.spotify.com/track/4fqnReVr3UWKT0tjtyt7Lb) |
+| pizza rolls | bottom bunk | Single | Emo | 2023 | ⚪⚪⚪⚪⚪ | ⚪⚫⚫⚫⚫ | ⚪⚪⚫⚫⚫ | No Part | ⚪⚪⚫⚫⚫ <br/> 3&nbsp;parts | 07/09/2023 <br/> [Wave 1](https://www.youtube.com/watch?v=Xk_HqhzvdgQ) | [🎧 Spotify](https://open.spotify.com/track/4fqnReVr3UWKT0tjtyt7Lb) |
 | Butterflies | KINGSEEKER | Daily Reminders | Metal | 2022 | ⚪⚪⚪⚫⚫ <br/> Pro:⚪⚪⚪⚫⚫ | ⚪⚪⚪⚫⚫ <br/> Pro:⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚫ <br/> Elite:⚪⚪⚪⚪⚫ | No Part | ⚪⚫⚫⚫⚫ <br/> 3&nbsp;parts | 07/09/2023 <br/> [Wave 1](https://www.youtube.com/watch?v=Xk_HqhzvdgQ)| [🎧 Spotify](https://open.spotify.com/track/0eFd0NmzbuvqUtUCmFyGHT) |
 | The Afterparty | Portraits Of Tracy | Drive Home | R&B, Soul, Funk | 2023 | ⚪⚪⚪⚫⚫ <br/> Pro:⚪⚪⚪⚪⚫ | ⚪⚫⚫⚫⚫ <br/> Pro:⚪⚫⚫⚫⚫ | ⚪⚪⚫⚫⚫ <br/> Elite:⚪⚪⚫⚫⚫ | ⚪⚪⚫⚫⚫ <br/> Pro:⚪⚪⚪⚫⚫ | ⚪⚪⚪⚫⚫ <br/> 3&nbsp;parts | 07/09/2023 <br/> [Wave 1](https://www.youtube.com/watch?v=Xk_HqhzvdgQ)| [🎧 Spotify](https://open.spotify.com/track/18PhERYp4pOPUXax7LBzu5) |
 | Runnin Man | Stone Deep | Nashville | Hip-Hop, Rap | 1993 | ⚪⚪⚪⚫⚫ <br/> Pro:⚪⚪⚪⚫⚫ | ⚪⚪⚪⚫⚫ <br/> Pro:⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚪ <br/> Elite:⚪⚪⚪⚪⚪ | No Part | ⚫⚫⚫⚫⚫ <br/> 3&nbsp;parts | 07/09/2023 <br/> [Wave 1](https://www.youtube.com/watch?v=Xk_HqhzvdgQ)| [🎧 Spotify](https://open.spotify.com/track/7mhzzoA8702byGwU2taDdQ) |
