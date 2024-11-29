@@ -2,7 +2,7 @@
 title: 💽 Setlist
 description: More information about the songs in our Official Setlist
 published: true
-date: 2024-11-29T06:26:54.032Z
+date: 2024-11-29T06:29:44.652Z
 tags: songs, setlist, official
 editor: markdown
 dateCreated: 2023-07-30T21:18:21.243Z
@@ -62,7 +62,7 @@ YARG's Official Setlist is a multi-genre, full-band full-difficulty, in developm
 | CRUISIN' | raphaelgoulart | Single | Electronic Rock | 2021 | ⚪⚪⚪⚪⚪ <br/> Pro:⚪⚪⚪⚪⚪ | ⚪⚪⚪⚫⚫ <br/> Pro:⚪⚪⚪⚪⚫ | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚫⚫ <br/> Pro:⚪⚪⚪⚫⚫ | No Part | 10/26/2024 [Wave 9](https://youtu.be/i33ztJerVkg) | [🎧 Soundcloud](https://soundcloud.com/raphaelgoulart/cruisin) |
 | A Visitant (feat. Victor Borba) | RO1 | Single | Progressive | 2021 | ⚪⚪⚪⚫⚫ <br/> Pro:⚪⚪⚫⚫⚫ | ⚪⚫⚫⚫⚫ <br/> Pro:⚪⚫⚫⚫⚫ | ⚪⚪⚪⚪⚪ | 🔴🔴🔴🔴🔴 <br/> Pro:🔴🔴🔴🔴🔴 | ⚪⚪⚪⚪⚫ <br/> 2&nbsp;parts | 10/26/2024 [Wave 9](https://youtu.be/i33ztJerVkg) | [🎧 Spotify](https://open.spotify.com/track/1JgRcx0qAixYbKisWYWT5E) |
 | Plastic Boogie | King Gizzard and the Lizard Wizard | Fishing for Fishies | Southern Rock | 2019 | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚫⚫ | ⚪⚫⚫⚫⚫ | No Part | ⚪⚪⚫⚫⚫ <br/> 3&nbsp;parts | 10/26/2024 [Wave 9](https://youtu.be/i33ztJerVkg) | [🎧 Spotify](https://open.spotify.com/track/32gxALA5ZZdh6XVKmf67eH) |
-| Song of November | Frantic Memories | Homecoming | Indie Rock | 2023 | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚪⚫ | ⚪⚫⚫⚫⚫ <br/> Pro:⚪⚫⚫⚫⚫ | ⚪⚪⚪⚫⚫ <br/> 3&nbsp;parts | 11/29/2024 [Single release](https://youtu.be/kkAZOOKlXLo) | [🎧 Spotify](https://open.spotify.com/track/32gxALA5ZZdh6XVKmf67eH) |
+| Song of November | Frantic Memories | Homecoming | Indie Rock | 2023 | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚪⚫ | ⚪⚫⚫⚫⚫ <br/> Pro:⚪⚫⚫⚫⚫ | ⚪⚪⚪⚫⚫ <br/> 3&nbsp;parts | 11/29/2024 [Single release](https://youtu.be/kkAZOOKlXLo) | [🎧 Spotify](https://open.spotify.com/track/2S5FMKK8LqSb6WCER39nbZ) |
 
 ## 🆓 Creative Commons and free-to-use songs attribution:
 | Track | Artist | Licence | Source Link |
