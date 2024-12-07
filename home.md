@@ -2,7 +2,7 @@
 title: 📖 Documentation
 description: Official YARG Documentation
 published: true
-date: 2024-12-07T03:42:58.109Z
+date: 2024-12-07T03:54:39.029Z
 tags: yarg
 editor: markdown
 dateCreated: 2023-06-08T20:33:03.654Z
@@ -11,7 +11,7 @@ dateCreated: 2023-06-08T20:33:03.654Z
 > YARG is not done yet! Expect incomplete features and bugs!
 {.is-warning}
 
-![home_yarg_preview.png](/home_yarg_preview.png)
+![home_yarg_preview.png](https://github.com/kaduwaengertner/YAGR/blob/main/documentation/home_yarg_preview.png?raw=true)
 
 **Welcome to the YARG Official Documentation! Here we have some articles that can help with any question about the game, how the engine works, setting instruments, or any other question.**
 
