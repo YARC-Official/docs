@@ -2,7 +2,7 @@
 title: 💽 Setlist
 description: More information about the songs in our Official Setlist
 published: true
-date: 2024-12-03T06:08:24.753Z
+date: 2024-12-09T04:14:07.719Z
 tags: songs, setlist, official
 editor: markdown
 dateCreated: 2023-07-30T21:18:21.243Z
@@ -74,22 +74,31 @@ YARG's Official Setlist is a multi-genre, full-band full-difficulty, in developm
 
 # 📥 DLC
 These are songs which we're making available separately from the main setlist. Maybe we want to spotlight a particular artist without overrepresenting their work; maybe we wish to cover some music that doesn't lend itself to full-band play. Whatever the reason, DLC is what we're calling it.
-
-## 1️⃣ Assorted Pack 1
-Join us for our first pack of DLC with a collection of friendly rock songs for the whole party, featuring Troubled Minds, Fisher Wagg, and Walter Ralts!
+## 🎸 Assorted Rock 1
+Join us for our first pack of DLC with a collection of indie performances and electronic rock tracks!
+(A smaller version of this pack was originally released as Assorted Pack 1.)
 
 | Track | Artist | Album | Genre | Year |  Guitar | Bass | Drums | Keys | Vocals | Release | Link |
 | :-- | :-- | :-- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | Burn | Troubled Minds | Single | Punk | 2020 | ⚪⚫⚫⚫⚫ | ⚫⚫⚫⚫⚫ | ⚪⚫⚫⚫⚫ | No Part | ⚪⚫⚫⚫⚫ <br/> 3&nbsp;parts | 08/24/2024 | [🎧 Spotify](https://open.spotify.com/track/53HV6yGFXHzrl8CuXVB1uy) |
 | Drunken Monday (Freeway Mix) | Fisher Wagg | Leftovers | Indie Rock | 2024 | ⚪⚪⚪⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚫⚫⚫⚫ <br/> Elite:⚪⚫⚫⚫⚫ | No Part | ⚪⚪⚪⚫⚫ <br/> 3&nbsp;parts | 08/24/2024 | [🎧 Spotify](https://open.spotify.com/track/4eeek5JylA8LNb7PfbiOqI) |
-| Middle of The City Road | Walter Ralts | Rock On | Electronic Rock | 2022 | ⚪⚪⚪⚫⚫ <br/> Pro:⚪⚪⚪⚫⚫ | ⚪⚪⚪⚫⚫ <br/> Pro:⚪⚪⚪⚪⚫| ⚪⚪⚫⚫⚫ <br/> Elite:⚪⚪⚫⚫⚫ | ⚪⚫⚫⚫⚫ <br/> Pro:⚪⚫⚫⚫⚫ | No Part | 08/24/2024 | [🎧 Spotify](https://open.spotify.com/track/48D48RrEqhtyA8iyvnhAkm) |
+| Middle of the City Road | Walter Ralts | Rock On | Electronic Rock | 2022 | ⚪⚪⚪⚫⚫ <br/> Pro:⚪⚪⚪⚫⚫ | ⚪⚪⚪⚫⚫ <br/> Pro:⚪⚪⚪⚪⚫| ⚪⚪⚫⚫⚫ <br/> Elite:⚪⚪⚫⚫⚫ | ⚪⚫⚫⚫⚫ <br/> Pro:⚪⚫⚫⚫⚫ | No Part | 08/24/2024 | [🎧 Spotify](https://open.spotify.com/track/48D48RrEqhtyA8iyvnhAkm) |
+| Moonlight | Chill | Single | Ballad | 2022 | ⚪⚪⚫⚫⚫ <br/> Pro:⚪⚫⚫⚫⚫ | ⚫⚫⚫⚫⚫ <br/> Pro:⚫⚫⚫⚫⚫ | No Part | ⚪⚫⚫⚫⚫ <br/> Pro:⚪⚫⚫⚫⚫ | ⚪⚫⚫⚫⚫ | 12/08/2024 |  |
+| Rock Thing | Creo | Single | Electronic Rock | 2017 | ⚪⚪⚪⚫⚫ | ⚪⚫⚫⚫⚫ | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚫ <br/> Pro:⚪⚪⚪⚪⚫ | No Part | 12/08/2024 | [🎧 Spotify](https://open.spotify.com/track/6bcBoFC5XTNHSNZ5GjR4oU) |
+| Simplicity | Scott Buckley | Single | Folk | 2024 | ⚪⚫⚫⚫⚫ | ⚫⚫⚫⚫⚫ | ⚪⚫⚫⚫⚫ | ⚪⚪⚫⚫⚫ <br/> Pro:⚪⚪⚫⚫⚫ | No Part | 12/08/2024 | [🎧 Spotify](https://open.spotify.com/track/1O50EaBNwByMP3rTi6pymY) |
+| Turtleneck | TrackTribe | And One for Good Luck | Rock | 2019 | ⚪⚪⚪⚫⚫ | ⚪⚫⚫⚫⚫ | ⚪⚪⚪⚫⚫ | ⚪⚪⚫⚫⚫ <br/> Pro:⚪⚪⚫⚫⚫ | No Part | 12/08/2024 | [🎧 Spotify](https://open.spotify.com/track/53imu7YC3rp9s1j9YSV1hW) |
 
-## 2️⃣ Assorted Pack 2
-Here is a pack of energetic electronic songs, providing challenges on all instruments! Featuring SO87 & Jelly Hoshiumi, Waterflame, and tv room.
+## 💻 Assorted Electronic 1
+Here is a pack of energetic pop/dance/electronic songs, providing challenges on all instruments!
+(A smaller version of this pack was originally released as Assorted Pack 2.)
 
 | Track | Artist | Album | Genre | Year |  Guitar | Bass | Drums | Keys | Vocals | Release | Link |
 | :-- | :-- | :-- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| By the Seaside (feat. Kitsui Akira) | Kirara Magic | Single | Pop | 2024 | ⚪⚪⚪⚫⚫ | ⚪⚫⚫⚫⚫ | 🔴🔴🔴🔴🔴 | ⚪⚪⚪⚫⚫ <br/> Pro:⚪⚪⚪⚫⚫ | ⚪⚪⚪⚫⚫ <br/> 2&nbsp;parts | 12/08/2024 | [🎧 Spotify](https://open.spotify.com/track/0GRNAV7pfxIsxS0x3wDBIs) |
+| Feel Good | Syn Cole | Single | House | 2016 | ⚪⚪⚫⚫⚫ | ⚪⚫⚫⚫⚫ | ⚪⚫⚫⚫⚫ | ⚪⚪⚫⚫⚫ <br/> Pro:⚪⚪⚪⚫⚫ | ⚪⚪⚪⚫⚫ <br/> 2&nbsp;parts | 12/08/2024 | [🎧 Spotify](https://open.spotify.com/track/0dkV8DuMfWAVhfi3iMnIX3) |
+| Ghost | Aaron Musslewhite | Single | House | 2018 | ⚪⚪⚪⚫⚫ | ⚪⚫⚫⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚫⚫⚫ <br/> Pro:⚪⚪⚫⚫⚫ | ⚪⚪⚪⚪⚫ <br/> 2&nbsp;parts | 12/08/2024 | [🎧 Spotify](https://open.spotify.com/track/2Kp4WjaiVVqOhXCgB1vue2) |
 | Radioactive | Waterflame | Age of Flash | Techno | 2007 | ⚪⚪⚫⚫⚫ | 🔴🔴🔴🔴🔴 <br/> Rthm:⚪⚪⚫⚫⚫ | ⚪⚪⚪⚪⚪ <br/> Elite:⚪⚪⚪⚪⚪ | ⚪⚪⚪⚪⚫ <br/> Pro:⚪⚪⚪⚪⚪ | ⚫⚫⚫⚫⚫ | 08/29/2024 | [🎧 Spotify](https://open.spotify.com/track/1W3zDYmJR3g6qpwwOb82dw) |
+| Rot for Clout (feat. Kasane Teto) | Jamie Paige | Constant Companiona | Synthpop, Electropop | 2024 | ⚪⚪⚫⚫⚫ | ⚪⚪⚪⚪⚫ <br/> Rthm:⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚪⚫ <br/> Pro:⚪⚪⚪⚪⚪ | 🔴🔴🔴🔴🔴 | 12/08/2024 | [🎧 Spotify](https://open.spotify.com/track/6oodgVJsVi06ocDO9rwNig) |
 | Say It Back | tv room | Single | Dance | 2019 | ⚪⚪⚪⚪⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚪⚫ <br/> Pro:⚪⚪⚪⚪⚪ | ⚪⚪⚪⚪⚪ <br/> 2&nbsp;parts | 08/29/2024 | [🎧 Spotify](https://open.spotify.com/track/3k3brViymSaqnYEV5g0pKN) |
 | SPACE AND TIME! (feat. Jelly Hoshiumi) | SO87 | Single | House | 2024 | 🔴🔴🔴🔴🔴 | ⚪⚪⚫⚫⚫ | ⚫⚫⚫⚫⚫ | ⚪⚪⚪⚪⚫ <br/> Pro:⚪⚪⚪⚪⚪ | ⚪⚪⚪⚫⚫ <br/> 3&nbsp;parts | 08/29/2024 | [🎧 Spotify](https://open.spotify.com/track/197RUywoDgUu5pHWDjU0lz) |
 
