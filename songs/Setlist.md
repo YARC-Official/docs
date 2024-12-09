@@ -2,7 +2,7 @@
 title: 💽 Setlist
 description: More information about the songs in our Official Setlist
 published: true
-date: 2024-12-09T04:14:07.719Z
+date: 2024-12-09T04:32:50.276Z
 tags: songs, setlist, official
 editor: markdown
 dateCreated: 2023-07-30T21:18:21.243Z
@@ -83,7 +83,7 @@ Join us for our first pack of DLC with a collection of indie performances and el
 | Burn | Troubled Minds | Single | Punk | 2020 | ⚪⚫⚫⚫⚫ | ⚫⚫⚫⚫⚫ | ⚪⚫⚫⚫⚫ | No Part | ⚪⚫⚫⚫⚫ <br/> 3&nbsp;parts | 08/24/2024 | [🎧 Spotify](https://open.spotify.com/track/53HV6yGFXHzrl8CuXVB1uy) |
 | Drunken Monday (Freeway Mix) | Fisher Wagg | Leftovers | Indie Rock | 2024 | ⚪⚪⚪⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚫⚫⚫⚫ <br/> Elite:⚪⚫⚫⚫⚫ | No Part | ⚪⚪⚪⚫⚫ <br/> 3&nbsp;parts | 08/24/2024 | [🎧 Spotify](https://open.spotify.com/track/4eeek5JylA8LNb7PfbiOqI) |
 | Middle of the City Road | Walter Ralts | Rock On | Electronic Rock | 2022 | ⚪⚪⚪⚫⚫ <br/> Pro:⚪⚪⚪⚫⚫ | ⚪⚪⚪⚫⚫ <br/> Pro:⚪⚪⚪⚪⚫| ⚪⚪⚫⚫⚫ <br/> Elite:⚪⚪⚫⚫⚫ | ⚪⚫⚫⚫⚫ <br/> Pro:⚪⚫⚫⚫⚫ | No Part | 08/24/2024 | [🎧 Spotify](https://open.spotify.com/track/48D48RrEqhtyA8iyvnhAkm) |
-| Moonlight | Chill | Single | Ballad | 2022 | ⚪⚪⚫⚫⚫ <br/> Pro:⚪⚫⚫⚫⚫ | ⚫⚫⚫⚫⚫ <br/> Pro:⚫⚫⚫⚫⚫ | No Part | ⚪⚫⚫⚫⚫ <br/> Pro:⚪⚫⚫⚫⚫ | ⚪⚫⚫⚫⚫ | 12/08/2024 |  |
+| Moonlight | Chill | Single | Ballad | 2022 | ⚪⚪⚫⚫⚫ <br/> Pro:⚪⚫⚫⚫⚫ | ⚫⚫⚫⚫⚫ <br/> Pro:⚫⚫⚫⚫⚫ | No Part | ⚪⚫⚫⚫⚫ <br/> Pro:⚪⚫⚫⚫⚫ | ⚪⚫⚫⚫⚫ | 12/08/2024 | [🎧 Youtube](https://www.youtube.com/watch?v=G0BWgshAp-E) |
 | Rock Thing | Creo | Single | Electronic Rock | 2017 | ⚪⚪⚪⚫⚫ | ⚪⚫⚫⚫⚫ | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚫ <br/> Pro:⚪⚪⚪⚪⚫ | No Part | 12/08/2024 | [🎧 Spotify](https://open.spotify.com/track/6bcBoFC5XTNHSNZ5GjR4oU) |
 | Simplicity | Scott Buckley | Single | Folk | 2024 | ⚪⚫⚫⚫⚫ | ⚫⚫⚫⚫⚫ | ⚪⚫⚫⚫⚫ | ⚪⚪⚫⚫⚫ <br/> Pro:⚪⚪⚫⚫⚫ | No Part | 12/08/2024 | [🎧 Spotify](https://open.spotify.com/track/1O50EaBNwByMP3rTi6pymY) |
 | Turtleneck | TrackTribe | And One for Good Luck | Rock | 2019 | ⚪⚪⚪⚫⚫ | ⚪⚫⚫⚫⚫ | ⚪⚪⚪⚫⚫ | ⚪⚪⚫⚫⚫ <br/> Pro:⚪⚪⚫⚫⚫ | No Part | 12/08/2024 | [🎧 Spotify](https://open.spotify.com/track/53imu7YC3rp9s1j9YSV1hW) |
