@@ -2,7 +2,7 @@
 title: 💽 Setlist
 description: More information about the songs in our Official Setlist
 published: true
-date: 2024-12-09T04:32:50.276Z
+date: 2024-12-09T04:56:53.059Z
 tags: songs, setlist, official
 editor: markdown
 dateCreated: 2023-07-30T21:18:21.243Z
@@ -88,6 +88,12 @@ Join us for our first pack of DLC with a collection of indie performances and el
 | Simplicity | Scott Buckley | Single | Folk | 2024 | ⚪⚫⚫⚫⚫ | ⚫⚫⚫⚫⚫ | ⚪⚫⚫⚫⚫ | ⚪⚪⚫⚫⚫ <br/> Pro:⚪⚪⚫⚫⚫ | No Part | 12/08/2024 | [🎧 Spotify](https://open.spotify.com/track/1O50EaBNwByMP3rTi6pymY) |
 | Turtleneck | TrackTribe | And One for Good Luck | Rock | 2019 | ⚪⚪⚪⚫⚫ | ⚪⚫⚫⚫⚫ | ⚪⚪⚪⚫⚫ | ⚪⚪⚫⚫⚫ <br/> Pro:⚪⚪⚫⚫⚫ | No Part | 12/08/2024 | [🎧 Spotify](https://open.spotify.com/track/53imu7YC3rp9s1j9YSV1hW) |
 
+### 🆓 Creative Commons and free-to-use songs attribution:
+| Track | Artist | Licence | Source Link |
+| :-- | :-- | :-- | :--: |
+| Rock Thing | Creo | released under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [▶ Youtube](https://www.youtube.com/watch?v=-W52cDdeAuI) |
+| Simplicity | Scott Buckley | released under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [🌐 ScottBuckley.com.au](https://www.scottbuckley.com.au) |
+
 ## 💻 Assorted Electronic 1
 Here is a pack of energetic pop/dance/electronic songs, providing challenges on all instruments!
 (A smaller version of this pack was originally released as Assorted Pack 2.)
@@ -105,6 +111,8 @@ Here is a pack of energetic pop/dance/electronic songs, providing challenges on 
 ### 🆓 Creative Commons and free-to-use songs attribution:
 | Track | Artist | Licence | Source Link |
 | :-- | :-- | :-- | :--: |
+| Feel Good | Syn Cole | Music provided by NoCopyrightSounds | [🎵 NoCopyrightSounds](https://ncs.io/feelgood) |
+| Ghost | Aaron Musslewhite | released under [CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/) | [🆖 Newgrounds](https://www.newgrounds.com/audio/listen/812621) 
 | Radioactive | Waterflame | released under [CC-BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) | [🆖 Newgrounds](https://www.newgrounds.com/audio/listen/106783) |
 | Say It Back | tv room | released under [CC-BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) | [🆖 Newgrounds](https://www.newgrounds.com/audio/listen/1044389) |
 
