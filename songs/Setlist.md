@@ -2,7 +2,7 @@
 title: 💽 Setlist
 description: More information about the songs in our Official Setlist
 published: true
-date: 2024-12-16T04:05:18.724Z
+date: 2024-12-16T04:06:27.325Z
 tags: songs, setlist, official
 editor: markdown
 dateCreated: 2023-07-30T21:18:21.243Z
@@ -173,9 +173,9 @@ If you have a budding pianist in your life (or if the classical songs are too ha
 Ring in the holiday season with six public domain Christmas classics. Learn authentic right-hand parts on Pro Keys, or play five-lane versions of each hand on Keys and Bass!
 | Track | Artist | Album | Genre | Year |  Guitar | Bass | Drums | Keys | Vocals | Release | Link | 
 | :-- | :-- | :-- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| Dance of the Sugar Plum Fairy | Pyotr Ilyich Tchaikovsky | Christmas Keys 01 | Classical | 1892 | No Part | ⚪⚪⚪⚪⚫ | No Part | ⚪⚪⚪⚪⚫ <br/> Pro:⚪⚪⚪⚪⚫ | No Part | 12/15/2024 [preview](https://youtu.be/FPsL2l40Nx8) |  |
-| Deck the Halls | Thomas Oliphant | Christmas Keys 01 | Holiday | 1862 | No Part | ⚪⚪⚫⚫⚫ | No Part | ⚪⚪⚪⚫⚫ <br/> Pro:⚪⚪⚪⚫⚫ | No Part | 12/15/2024 [preview](https://youtu.be/FPsL2l40Nx8) |  |
-| Good King Wenceslas | John Mason Neale and Thomas Helmore | Christmas Keys 01 | Holiday | 1853 | No Part | ⚫⚫⚫⚫⚫ | No Part | ⚫⚫⚫⚫⚫ <br/> Pro:⚫⚫⚫⚫⚫ | No Part | 12/15/2024 [preview](https://youtu.be/FPsL2l40Nx8) |  |
-| Jingle Bells | James Lord Pierpont | Christmas Keys 01 | Holiday | 1857 | No Part | ⚪⚪⚪⚫⚫ | No Part | ⚪⚪⚫⚫⚫ <br/> Pro:⚪⚪⚫⚫⚫ | No Part | 12/15/2024 [preview](https://youtu.be/FPsL2l40Nx8) |  |
-| Jolly Old Saint Nicholas | Emily Huntington Miller and James R. Murray | Christmas Keys 01 | Holiday | 1874 | No Part | ⚫⚫⚫⚫⚫ | No Part | ⚪⚫⚫⚫⚫ <br/> Pro:⚪⚫⚫⚫⚫ | No Part | 12/15/2024 [preview](https://youtu.be/FPsL2l40Nx8) |  |
-| Joy to the World | Isaac Watts | Christmas Keys 01 | Holiday | 1719 | No Part | ⚪⚫⚫⚫⚫ | No Part | ⚪⚪⚫⚫⚫ <br/> Pro:⚪⚪⚫⚫⚫ | No Part | 12/15/2024 [preview](https://youtu.be/FPsL2l40Nx8) |  |
+| Dance of the Sugar Plum Fairy | Pyotr Ilyich Tchaikovsky | Christmas Keys 01 | Classical | 1892 | No Part | ⚪⚪⚪⚪⚫ | No Part | ⚪⚪⚪⚪⚫ <br/> Pro:⚪⚪⚪⚪⚫ | No Part | 12/15/2024 <br/> [preview](https://youtu.be/FPsL2l40Nx8) |  |
+| Deck the Halls | Thomas Oliphant | Christmas Keys 01 | Holiday | 1862 | No Part | ⚪⚪⚫⚫⚫ | No Part | ⚪⚪⚪⚫⚫ <br/> Pro:⚪⚪⚪⚫⚫ | No Part | 12/15/2024 <br/> [preview](https://youtu.be/FPsL2l40Nx8) |  |
+| Good King Wenceslas | John Mason Neale and Thomas Helmore | Christmas Keys 01 | Holiday | 1853 | No Part | ⚫⚫⚫⚫⚫ | No Part | ⚫⚫⚫⚫⚫ <br/> Pro:⚫⚫⚫⚫⚫ | No Part | 12/15/2024 <br/> [preview](https://youtu.be/FPsL2l40Nx8) |  |
+| Jingle Bells | James Lord Pierpont | Christmas Keys 01 | Holiday | 1857 | No Part | ⚪⚪⚪⚫⚫ | No Part | ⚪⚪⚫⚫⚫ <br/> Pro:⚪⚪⚫⚫⚫ | No Part | 12/15/2024 <br/> [preview](https://youtu.be/FPsL2l40Nx8) |  |
+| Jolly Old Saint Nicholas | Emily Huntington Miller and James R. Murray | Christmas Keys 01 | Holiday | 1874 | No Part | ⚫⚫⚫⚫⚫ | No Part | ⚪⚫⚫⚫⚫ <br/> Pro:⚪⚫⚫⚫⚫ | No Part | 12/15/2024 <br/> [preview](https://youtu.be/FPsL2l40Nx8) |  |
+| Joy to the World | Isaac Watts | Christmas Keys 01 | Holiday | 1719 | No Part | ⚪⚫⚫⚫⚫ | No Part | ⚪⚪⚫⚫⚫ <br/> Pro:⚪⚪⚫⚫⚫ | No Part | 12/15/2024 <br/> [preview](https://youtu.be/FPsL2l40Nx8) |  |
