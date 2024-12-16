@@ -2,7 +2,7 @@
 title: 💽 Setlist
 description: More information about the songs in our Official Setlist
 published: true
-date: 2024-12-16T04:03:50.349Z
+date: 2024-12-16T04:05:18.724Z
 tags: songs, setlist, official
 editor: markdown
 dateCreated: 2023-07-30T21:18:21.243Z
@@ -158,7 +158,7 @@ Explore world-famous pieces for piano, organ, and even calliope with YARG's firs
 | Marche Funèbre | Frédéric Chopin | Classical Keys 01 | Classical | 1840 | No Part | ⚪⚪⚫⚫⚫ | No Part | ⚪⚪⚫⚫⚫ <br/> Pro:⚪⚪⚫⚫⚫ | No Part | 10/22/2024 |  |
 | Scherzo No. 1 | Frédéric Chopin | Classical Keys 01 | Classical | 1835 | No Part | ⚪⚪⚪⚪⚪ | No Part | 🔴🔴🔴🔴🔴 <br/> Pro:🔴🔴🔴🔴🔴 | No Part | 10/22/2024 |  |
 
-## 🧸 Children's Keys Pack 1
+## 🎹 Children's Keys Pack 1
 If you have a budding pianist in your life (or if the classical songs are too hard for you), try this easy pack of classic children's songs and nursery rhymes. Learn real melodies on Pro Keys, or play five-lane versions of both the melody and harmony with the Keys and Bass parts.
 | Track | Artist | Album | Genre | Year |  Guitar | Bass | Drums | Keys | Vocals | Release | Link | 
 | :-- | :-- | :-- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
@@ -169,7 +169,7 @@ If you have a budding pianist in your life (or if the classical songs are too ha
 | Row, Row, Row Your Boat | Eliphalet Oram Lyte | Children's Keys 01 | Children's Music | 1881 | No Part | ⚫⚫⚫⚫⚫ | No Part | ⚪⚫⚫⚫⚫ <br/> Pro:⚪⚫⚫⚫⚫ | No Part | 10/22/2024 |  |
 | Twinkle, Twinkle, Little Star | Jane Taylor | Children's Keys 01 | Children's Music | 1806 | No Part | ⚫⚫⚫⚫⚫ | No Part | ⚫⚫⚫⚫⚫ <br/> Pro:⚫⚫⚫⚫⚫ | No Part | 10/22/2024 |  |
 
-## 🎄 Christmas Keys 1
+## 🎹 Christmas Keys 1
 Ring in the holiday season with six public domain Christmas classics. Learn authentic right-hand parts on Pro Keys, or play five-lane versions of each hand on Keys and Bass!
 | Track | Artist | Album | Genre | Year |  Guitar | Bass | Drums | Keys | Vocals | Release | Link | 
 | :-- | :-- | :-- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
