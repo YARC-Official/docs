@@ -2,7 +2,7 @@
 title: 🎵 Songs
 description: Useful information about supported Songs and Music Library
 published: true
-date: 2023-11-02T21:18:52.003Z
+date: 2024-12-16T06:00:36.387Z
 tags: songs, music, chart, mid, con, library
 editor: markdown
 dateCreated: 2023-07-30T05:09:13.000Z
@@ -89,7 +89,7 @@ We have our own source library maintained by the community, containing sources f
 If you're interested in creating icons or adding new sources, check our repository for full guidelines:
 
 - [📑 Repository *Guidelines on how to add new sources*](https://github.com/YARC-Official/OpenSource) 
-- [🔎 Webviewer *Easiest way to visualize our current sources*](https://yarc-official.github.io/OpenSource/ignore/webviewer/)
+- [🔎 Webviewer *Easiest way to visualize our current sources*](https://opensource.yarg.in/)
 {.links-list}
 
 # 🗂️ Related Articles
