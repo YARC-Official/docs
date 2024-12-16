@@ -2,7 +2,7 @@
 title: 💽 Setlist
 description: More information about the songs in our Official Setlist
 published: true
-date: 2024-12-09T04:56:53.059Z
+date: 2024-12-16T04:03:50.349Z
 tags: songs, setlist, official
 editor: markdown
 dateCreated: 2023-07-30T21:18:21.243Z
@@ -67,9 +67,9 @@ YARG's Official Setlist is a multi-genre, full-band full-difficulty, in developm
 ## 🆓 Creative Commons and free-to-use songs attribution:
 | Track | Artist | Licence | Source Link |
 | :-- | :-- | :-- | :--: |
-| 322 | Creo | released under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [▶ Youtube](https://www.youtube.com/watch?v=JmobbPTaFcw&t=0s) |
-| Discipline | Nine Inch Nails | released under [CC-BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) | [▶ Youtube](https://www.youtube.com/watch?v=wHxOiAz4NF8&t=0s) |
-| Vehemence | Reo | general use described in the given source link | [▶ Youtube](https://www.youtube.com/watch?v=xtsvZX2lES4&t=0s) |
+| 322 | Creo | released under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [▶ Youtube](https://youtu.be/JmobbPTaFcw&t=0s) |
+| Discipline | Nine Inch Nails | released under [CC-BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) | [▶ Youtube](https://youtu.be/wHxOiAz4NF8&t=0s) |
+| Vehemence | Reo | general use described in the given source link | [▶ Youtube](https://youtu.be/xtsvZX2lES4&t=0s) |
 
 
 # 📥 DLC
@@ -83,7 +83,7 @@ Join us for our first pack of DLC with a collection of indie performances and el
 | Burn | Troubled Minds | Single | Punk | 2020 | ⚪⚫⚫⚫⚫ | ⚫⚫⚫⚫⚫ | ⚪⚫⚫⚫⚫ | No Part | ⚪⚫⚫⚫⚫ <br/> 3&nbsp;parts | 08/24/2024 | [🎧 Spotify](https://open.spotify.com/track/53HV6yGFXHzrl8CuXVB1uy) |
 | Drunken Monday (Freeway Mix) | Fisher Wagg | Leftovers | Indie Rock | 2024 | ⚪⚪⚪⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚫⚫⚫⚫ <br/> Elite:⚪⚫⚫⚫⚫ | No Part | ⚪⚪⚪⚫⚫ <br/> 3&nbsp;parts | 08/24/2024 | [🎧 Spotify](https://open.spotify.com/track/4eeek5JylA8LNb7PfbiOqI) |
 | Middle of the City Road | Walter Ralts | Rock On | Electronic Rock | 2022 | ⚪⚪⚪⚫⚫ <br/> Pro:⚪⚪⚪⚫⚫ | ⚪⚪⚪⚫⚫ <br/> Pro:⚪⚪⚪⚪⚫| ⚪⚪⚫⚫⚫ <br/> Elite:⚪⚪⚫⚫⚫ | ⚪⚫⚫⚫⚫ <br/> Pro:⚪⚫⚫⚫⚫ | No Part | 08/24/2024 | [🎧 Spotify](https://open.spotify.com/track/48D48RrEqhtyA8iyvnhAkm) |
-| Moonlight | Chill | Single | Ballad | 2022 | ⚪⚪⚫⚫⚫ <br/> Pro:⚪⚫⚫⚫⚫ | ⚫⚫⚫⚫⚫ <br/> Pro:⚫⚫⚫⚫⚫ | No Part | ⚪⚫⚫⚫⚫ <br/> Pro:⚪⚫⚫⚫⚫ | ⚪⚫⚫⚫⚫ | 12/08/2024 | [🎧 Youtube](https://www.youtube.com/watch?v=G0BWgshAp-E) |
+| Moonlight | Chill | Single | Ballad | 2022 | ⚪⚪⚫⚫⚫ <br/> Pro:⚪⚫⚫⚫⚫ | ⚫⚫⚫⚫⚫ <br/> Pro:⚫⚫⚫⚫⚫ | No Part | ⚪⚫⚫⚫⚫ <br/> Pro:⚪⚫⚫⚫⚫ | ⚪⚫⚫⚫⚫ | 12/08/2024 | [🎧 Youtube](https://youtu.be/G0BWgshAp-E) |
 | Rock Thing | Creo | Single | Electronic Rock | 2017 | ⚪⚪⚪⚫⚫ | ⚪⚫⚫⚫⚫ | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚫ <br/> Pro:⚪⚪⚪⚪⚫ | No Part | 12/08/2024 | [🎧 Spotify](https://open.spotify.com/track/6bcBoFC5XTNHSNZ5GjR4oU) |
 | Simplicity | Scott Buckley | Single | Folk | 2024 | ⚪⚫⚫⚫⚫ | ⚫⚫⚫⚫⚫ | ⚪⚫⚫⚫⚫ | ⚪⚪⚫⚫⚫ <br/> Pro:⚪⚪⚫⚫⚫ | No Part | 12/08/2024 | [🎧 Spotify](https://open.spotify.com/track/1O50EaBNwByMP3rTi6pymY) |
 | Turtleneck | TrackTribe | And One for Good Luck | Rock | 2019 | ⚪⚪⚪⚫⚫ | ⚪⚫⚫⚫⚫ | ⚪⚪⚪⚫⚫ | ⚪⚪⚫⚫⚫ <br/> Pro:⚪⚪⚫⚫⚫ | No Part | 12/08/2024 | [🎧 Spotify](https://open.spotify.com/track/53imu7YC3rp9s1j9YSV1hW) |
@@ -158,7 +158,7 @@ Explore world-famous pieces for piano, organ, and even calliope with YARG's firs
 | Marche Funèbre | Frédéric Chopin | Classical Keys 01 | Classical | 1840 | No Part | ⚪⚪⚫⚫⚫ | No Part | ⚪⚪⚫⚫⚫ <br/> Pro:⚪⚪⚫⚫⚫ | No Part | 10/22/2024 |  |
 | Scherzo No. 1 | Frédéric Chopin | Classical Keys 01 | Classical | 1835 | No Part | ⚪⚪⚪⚪⚪ | No Part | 🔴🔴🔴🔴🔴 <br/> Pro:🔴🔴🔴🔴🔴 | No Part | 10/22/2024 |  |
 
-## 🎹 Children's Keys Pack 1
+## 🧸 Children's Keys Pack 1
 If you have a budding pianist in your life (or if the classical songs are too hard for you), try this easy pack of classic children's songs and nursery rhymes. Learn real melodies on Pro Keys, or play five-lane versions of both the melody and harmony with the Keys and Bass parts.
 | Track | Artist | Album | Genre | Year |  Guitar | Bass | Drums | Keys | Vocals | Release | Link | 
 | :-- | :-- | :-- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
@@ -168,3 +168,14 @@ If you have a budding pianist in your life (or if the classical songs are too ha
 | Rock-a-Bye Baby | Effie I. Canning | Children's Keys 01 | Children's Music | 1884 | No Part | ⚪⚫⚫⚫⚫ | No Part | ⚪⚫⚫⚫⚫ <br/> Pro:⚪⚫⚫⚫⚫ | No Part | 10/22/2024 |  |
 | Row, Row, Row Your Boat | Eliphalet Oram Lyte | Children's Keys 01 | Children's Music | 1881 | No Part | ⚫⚫⚫⚫⚫ | No Part | ⚪⚫⚫⚫⚫ <br/> Pro:⚪⚫⚫⚫⚫ | No Part | 10/22/2024 |  |
 | Twinkle, Twinkle, Little Star | Jane Taylor | Children's Keys 01 | Children's Music | 1806 | No Part | ⚫⚫⚫⚫⚫ | No Part | ⚫⚫⚫⚫⚫ <br/> Pro:⚫⚫⚫⚫⚫ | No Part | 10/22/2024 |  |
+
+## 🎄 Christmas Keys 1
+Ring in the holiday season with six public domain Christmas classics. Learn authentic right-hand parts on Pro Keys, or play five-lane versions of each hand on Keys and Bass!
+| Track | Artist | Album | Genre | Year |  Guitar | Bass | Drums | Keys | Vocals | Release | Link | 
+| :-- | :-- | :-- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| Dance of the Sugar Plum Fairy | Pyotr Ilyich Tchaikovsky | Christmas Keys 01 | Classical | 1892 | No Part | ⚪⚪⚪⚪⚫ | No Part | ⚪⚪⚪⚪⚫ <br/> Pro:⚪⚪⚪⚪⚫ | No Part | 12/15/2024 [preview](https://youtu.be/FPsL2l40Nx8) |  |
+| Deck the Halls | Thomas Oliphant | Christmas Keys 01 | Holiday | 1862 | No Part | ⚪⚪⚫⚫⚫ | No Part | ⚪⚪⚪⚫⚫ <br/> Pro:⚪⚪⚪⚫⚫ | No Part | 12/15/2024 [preview](https://youtu.be/FPsL2l40Nx8) |  |
+| Good King Wenceslas | John Mason Neale and Thomas Helmore | Christmas Keys 01 | Holiday | 1853 | No Part | ⚫⚫⚫⚫⚫ | No Part | ⚫⚫⚫⚫⚫ <br/> Pro:⚫⚫⚫⚫⚫ | No Part | 12/15/2024 [preview](https://youtu.be/FPsL2l40Nx8) |  |
+| Jingle Bells | James Lord Pierpont | Christmas Keys 01 | Holiday | 1857 | No Part | ⚪⚪⚪⚫⚫ | No Part | ⚪⚪⚫⚫⚫ <br/> Pro:⚪⚪⚫⚫⚫ | No Part | 12/15/2024 [preview](https://youtu.be/FPsL2l40Nx8) |  |
+| Jolly Old Saint Nicholas | Emily Huntington Miller and James R. Murray | Christmas Keys 01 | Holiday | 1874 | No Part | ⚫⚫⚫⚫⚫ | No Part | ⚪⚫⚫⚫⚫ <br/> Pro:⚪⚫⚫⚫⚫ | No Part | 12/15/2024 [preview](https://youtu.be/FPsL2l40Nx8) |  |
+| Joy to the World | Isaac Watts | Christmas Keys 01 | Holiday | 1719 | No Part | ⚪⚫⚫⚫⚫ | No Part | ⚪⚪⚫⚫⚫ <br/> Pro:⚪⚪⚫⚫⚫ | No Part | 12/15/2024 [preview](https://youtu.be/FPsL2l40Nx8) |  |
