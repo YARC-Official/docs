@@ -2,7 +2,7 @@
 title: 📖 Glossary
 description: Some common terms and what they mean
 published: true
-date: 2024-07-31T04:58:04.774Z
+date: 2024-12-18T23:40:34.332Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-12T21:41:56.593Z
@@ -74,7 +74,7 @@ Expert+ drum charts are the same as Expert with the addition of double-bass kick
 Playing with 3+ players, covering Guitar, Bass, Drums, Vocals, and potentially other supported play modes.
 
 ## 💥 Big Rock Ending (BREs)
-Big Rock Endings are a section near the end of the song where charted notes are irrelevant, and players are instead encouraged to wail on their instruments as much as they can for bonus points. Often there can be several final, proper notes placed <em>after</em> the BRE comcludes, so be prepared to play them.
+a Big Rock Ending is a section near the end of the song where charted notes are irrelevant, and players are instead encouraged to wail on their instruments as much as they can for bonus points. Often there can be several final, proper notes placed *after* the BRE comcludes, so be prepared to play them.
 BRE support is planned for YARG version 0.14.0
 
 ## 🎓 Pro
@@ -107,7 +107,7 @@ Tap notes are similar to HOPOs, in that they may be played without strumming, bu
 Some custom charts may use tap notes to represent non-guitar melodies that are nevertheless being giving to a Guitar player.
 
 ## 🆖 Overstrum
-You strummed when the game didn't want you to. This will generally break your combo.
+To overstrum is to strum when the game didn't want you to. This will generally break your combo.
 
 ## 👻 Ghosts, 🚫 Anti-Ghosting
 In guitar play, ghosts are when you fret something that doesn't correspond to an upcoming note, usually as a result of 'mashing' to try to pass a particularly difficult span of HOPOs or Taps. YARG's Default engine preset enables an Anti-Ghosting feature, which punishes ghosts by requiring you to strum the next HOPO/Tap.
@@ -133,5 +133,5 @@ A typical entry-level E-Kit will include pads/triggers to represent a snare, thr
 Beyond its use as an instrument, E-Kits are also great for playing YARG's drum modes, especially the upcoming Elite Drums planned for version 0.14.0.
 
 ## ➿ Debounce
-Debounce is a means for filtering out unintended repeat inputs from a button or switch - when a state change is detected, the system will ignore further changes from that switch until a small period of time has passed. In YARG, debounce can be configured on a per-button basis, as part of the input bindings for each profile.
-Longer time periods means it's harder to double-tap that input, intentionally or unintentionally. As such, you'll want to set your debounce windows *just long enough* to filter out the unwanted inputs your instrument produces, to minimize the impact on your actual rapid-inputs.
+Debounce is a means for filtering out unintended repeat inputs from a button, switch, or sensor - when a state change is detected, the system will ignore further changes from that input until a small period of time has passed. In YARG, debounce can be configured on a per-button basis, as part of the input bindings for each profile.
+Longer time periods means it's harder to double-tap that input, intentionally or unintentionally. As such, you'll want to set your debounce windows *just long enough* to filter out the unwanted inputs your instrument produces, to minimize the impact on deliberate rapid-inputs.
