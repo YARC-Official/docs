@@ -2,7 +2,7 @@
 title: 📓 F.A.Q.
 description: Frequently Asked Questions
 published: true
-date: 2024-05-12T21:26:26.302Z
+date: 2024-12-18T23:43:58.278Z
 tags: faq
 editor: markdown
 dateCreated: 2023-08-07T16:52:31.163Z
@@ -29,10 +29,10 @@ Check out our [issue tracker](https://yarg.youtrack.cloud/issues) or use the /ro
 
 ## 🎵 What songs can I use in YARG?
 We DO NOT support piracy, however, you can use song.ini with .mid and .chart, .sng, and unencrypted (RB) CON files.
-You can also download our [official setlist](/songs/Setlist) from the [YARC Launcher](/launcher)!
+You can also download our [official setlist](/songs/Setlist) and DLC packs from the [YARC Launcher](/launcher)!
 
 ## 💁‍ How do I support YARG?
-YARG is open-source and is therefore free. If you have any programming knowledge or do art, please feel free to help out! If not, that's okay, just telling us that you enjoy the game is enough!
+YARG is open-source and is therefore free. If you have any programming knowledge or do art, please feel free to help out! If not, that's okay; just telling us that you enjoy the game is enough!
 
 ## 🎼 I have a band, and we want our song in YARG. How can we go about requesting it?
 We have a Google Form that you can fill out, [here](https://forms.gle/cHWuGqzrFchgzZHU7). The charting team will vote for whether the song should be part of the main setlist, DLC, or if we reject it (as unfortunately we cannot accept all songs). We'll try to respond to you ASAP!
@@ -45,4 +45,4 @@ Of course! Feel free to pitch us the idea in our #sugestions channel on [discord
 Future-proofing. The YARC "Yet Another Rhythm Company" branding gives us an umbrella that can encompass more than YARG itself, should we eventually wish to distribute some other related software or another game entirely.
 
 ## 🏢 Is YARC a business?
-❌ No. "Yet Another Rhythm Company" is not actually a company, corporation, or any sort of business.
+❌ No. Despite the name, "Yet Another Rhythm Company" is not actually a company, corporation, or any sort of business.
