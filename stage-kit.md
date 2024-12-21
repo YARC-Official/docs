@@ -2,7 +2,7 @@
 title: 💡 Stage Kit
 description: Information about the Stage Kit hardware
 published: true
-date: 2024-12-21T03:52:02.294Z
+date: 2024-12-21T04:03:10.994Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-06T00:19:52.182Z
@@ -15,6 +15,8 @@ Consisting of a fogger, strobe light, and a colored led array consisting of 32 l
 
 YARG has added support for the Stage Kit and aftermarket Light Shows like the one from FatsCo.
 
+## Venue Size
+Venues themsevles are either "large" or "small". Some cues have different lighting patterns for each size.
 ## Venue Cues
 Many songs have a 'venue' track which sets the current state of the fog machine, light array, and strobe machine. If the song is missing its venue track, YARG will automatically generate one for it at play time.
 
@@ -37,19 +39,19 @@ Many songs have a 'venue' track which sets the current state of the fog machine,
 |name|description|
 |:-:|:-|
 |Cool|2 blue and 1 green, rotating.|
-|Warm|2 Red and 1 yellow, rotating.|
-|Dischord| All red on drums, 1 yellow on beat, alternating blue, and rotating Green|
-|Stomp| Flash all colors|
-|Default| Red and blue alternating|
-|harmony| Blue and green rotating on beat|
-|frenzy| Quickly alternating all colors|
-|silhouettes| Green ring|
-|silhouettes spotlight| Toggles previous call|
+|Warm|2 red and 1 yellow, rotating.|
+|Dischord| All red on drum red pad, 1 yellow on beat, alternating blue pattern, and rotating green.|
+|Stomp| Flashes all colors.|
+|Default| Red and blue rings alternating.|
+|harmony| 2 blue and 1 green rotating on beat.|
+|frenzy| Quickly alternating all colors.|
+|silhouettes| Green ring.|
+|silhouettes spotlight| Toggles previous call.|
 |searchlights| 2 leds rotating together on beat.|
-|sweep| alternate colors of searchlights|  
-|blackout| Turn everything off|
-|flare (slow)|          All LEDS on.|
-|flare (fast)|			All blue LEDS on.|
+|sweep| Alternate colors of searchlights.|  
+|blackout| Turn everything off.|
+|flare (slow)|All LEDS on.|
+|flare (fast)|All blue LEDS on.|
 |Big rock ending| Quickly turn on and alternate every color and led|
 |Score card|2 yellow and a blue, timed rotation|
-|Menu|        1 blue, timed rotation|
+|Menu|1 blue, timed rotation.|
