@@ -2,7 +2,7 @@
 title: 🐕 DMX
 description: 
 published: true
-date: 2024-06-08T23:48:58.010Z
+date: 2024-12-21T03:48:52.781Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T18:13:08.409Z
@@ -30,7 +30,7 @@ Each of the  512 bytes, known  as channels,  in a DMX  packets  can hold a value
 |🦮| Note length| This channel will stay at this value until the note  ends, then set to 0
 |🐕‍🦺| Triggered| This channel will stay at this value for exactly one DMX packet, then set to 0
 ## Basic channels
-Basic channels replicate the Rock Bane Stage  Kit.
+Basic channels replicate the three componets of the Rock Band Stage Kit: Strobe light, Fogger, and Light Array. As the various lighting cues cycle the 32 leds (8 of each red, yellow, green, blue) of the light array and the corosponding channels will change values, as for the fog and strobe as well. See [stage-kit](/stage-kit) for more information on it.
 
 ### 🐶 Master Dimmer
 Some DMX fixtures have a  channel  that controls the  dimming of all colors. These channels are set to On when YARG starts.
@@ -40,42 +40,42 @@ Some DMX fixtures have a  channel  that controls the  dimming of all colors. The
 |255|On|
 
 ### 🐶  Red Channels
-There is 8 Red channels, representing each LED in the light array
+There is 8 Red channels, representing each red LED in the Stage Kit light array.
 | Value| Meaning|
 |-|-|
 |0|Off|
 |255|On|
 
 ### 🐶 Blue Channels
-There is 8 Blue channels, representing each LED in the light array
+There is 8 Blue channels, representing each blue LED in the Stage Kit light array.
 | Value| Meaning|
 |-|-|
 |0|Off|
 |255|On|
 
 ###  🐶  Green Channels
-There is 8 Green channels, representing each LED in the light array
+There is 8 Green channels, representing each green LED in the Stage Kit light array.
 | Value| Meaning|
 |-|-|
 |0|Off|
 |255|On|
 
 ### 🐶 Yellow Channels
-There is 8 Yellow channels, representing each LED in the light array
+There is 8 Yellow channels, representing each yellow LED in the Stage Kit light array.
 | Value| Meaning|
 |-|-|
 |0|Off|
 |255|On|
 
 ### 🐶  Fog Channel
-Fog channel represents the fog machine of stage kit.
+Fog channel represents the fog machine of the Stage Kit.
 | Value| Meaning|
 |-|-|
 |0|Off|
 |255|On|
 
 ### 🐶  Strobe Channel
-Strobe channel represents the built-in strobe of the stage kit. In official songs, only Slow and Fast are used.
+Strobe channel represents the strobe light of the Stage Kit. In official songs, only Slow and Fast are used.
 | Value| Meaning|
 |-|-|
 |0|Off|
