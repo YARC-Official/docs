@@ -2,7 +2,7 @@
 title: 💡 Stage Kit
 description: Information about the Stage Kit hardware
 published: true
-date: 2024-06-06T03:23:58.244Z
+date: 2024-12-21T03:52:02.294Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-06T00:19:52.182Z
@@ -11,7 +11,7 @@ dateCreated: 2024-06-06T00:19:52.182Z
 # Rock Band Stage kit
 ![stagekit.png](/stagekit/stagekit.png)
 	The Rock Band Stage Kit was a licensed peripheral made by PDP (formerly known as Pelican Accessories) released on November 11, 2008 for the xbox 360. 
-Consisting of a fog machine, strobe light, and a colored led array, it read the light data of the in-game venue and translated that to real world effects. It supported Rock Band 1, Rock Band 2, and Rock Band 3 on xbox only.
+Consisting of a fogger, strobe light, and a colored led array consisting of 32 leds (8 of each red, yellow, blue, and green), it reads the light data of the in-game venue and translates that to real world effects. It supported Rock Band 1, Rock Band 2, and Rock Band 3 on xbox only.
 
 YARG has added support for the Stage Kit and aftermarket Light Shows like the one from FatsCo.
 
