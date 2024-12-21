@@ -2,7 +2,7 @@
 title: 💡 Stage Kit
 description: Information about the Stage Kit hardware
 published: true
-date: 2024-12-21T04:04:36.535Z
+date: 2024-12-21T04:05:08.863Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-06T00:19:52.182Z
@@ -23,8 +23,8 @@ Many songs have a 'venue' track which sets the current state of the fog machine,
 ### Fog Machine cues
 |name|description|
 |:-:|:-|
-|Off| No fog|
-|On| Sprays fog|
+|Off|No fog.|
+|On|Sprays fog.|
 
 ### Strobe Light cues
 |name|description|
