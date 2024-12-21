@@ -2,7 +2,7 @@
 title: 🐕 DMX
 description: 
 published: true
-date: 2024-12-21T03:56:19.050Z
+date: 2024-12-21T03:57:21.040Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T18:13:08.409Z
@@ -30,7 +30,7 @@ Each of the  512 bytes, known  as channels,  in a DMX  packets  can hold a value
 |🦮| Note length| This channel will stay at this value until the note  ends, then set to 0
 |🐕‍🦺| Triggered| This channel will stay at this value for exactly one DMX packet, then set to 0
 ## Basic channels
-Basic channels replicate the three componets of the Rock Band Stage Kit: Strobe light, Fogger, and Light Array. As the various lighting cues cycle the 32 leds (8 of each red, yellow, green, blue) of the light array and the corresponding channels will change values, as for the fog and strobe as well. See [stage-kit](/stage-kit) for more information on it.
+Basic channels replicate the three componets of the Rock Band Stage Kit: Strobe light, Fogger, and Light Array. As the various lighting cues cycle the 32 leds (8 of each red, yellow, green, blue) of the light array the corresponding channels will change values, as for the fog and strobe as well. See [stage-kit](/stage-kit) for more information on it.
 
 ### 🐶 Master Dimmer
 Some DMX fixtures have a  channel  that controls the  dimming of all colors. These channels are set to On when YARG starts.
