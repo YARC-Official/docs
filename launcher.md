@@ -2,7 +2,7 @@
 title: 🖥️ Launcher
 description: YARC Launcher
 published: true
-date: 2025-01-03T01:15:44.487Z
+date: 2025-01-03T23:24:09.671Z
 tags: launcher
 editor: markdown
 dateCreated: 2024-01-18T22:31:51.246Z
@@ -10,26 +10,34 @@ dateCreated: 2024-01-18T22:31:51.246Z
 
 The YARC Launcher is the preferred way to download and update YARG, as well as its official setlist.
 
-Download it from the GitHub: [https://github.com/YARC-Official/YARC-Launcher/releases/latest](https://github.com/YARC-Official/YARC-Launcher/releases/latest)
+You can download it [from the GitHub](https://github.com/YARC-Official/YARC-Launcher/releases/latest).
 
 ![launcher.png](/launcher/launcher.png)
 
-## 🛠️ Troubleshooting
+# 🛠️ Troubleshooting Common Issues
 
--   **1.**  Be sure Webview2 is properly installed.
+-   **1.**  "Windows protected your PC" popup.
+
+Windows may show a popup when you first try to install and/or run the launcher. In some instances, Windows will flag the launcher as “unrecognised” as it is not ran by Windows users frequently. To get around this, click on “More info” and then press the “Run anyway” button, as seen below:
+
+![windows_protected_your_pc.png](/launcher/windows_protected_your_pc.png)
+
+-   **2.**  Be sure Webview2 is properly installed.
+
+The YARC Launcher relies on WebView2, as it uses [Tauri](https://tauri.app). WebView2 comes pre-installed with Windows 10 and 11.
 
 In “Control Panel” → “Programs and features” check for “Microsoft Edge WebView2 Runtime”
 
 ![](/launcher/webview2.png)
 
-The launcher relies on WebView2
-
 Right click on it, select “Change”, and do a repair install.
 
--   **2.**  Be sure “Unblock” is **checked** in the launcher installer properties
+-   **3.**  Be sure “Unblock” is **checked** in the launcher installer properties
 
 ![](/launcher/unblock.png)
 
 Be sure “Unblock” is checked, here it is not checked.
 
--   **3.**  Be sure your anti-virus is not stopping the execution of the launcher or installer.
+-   **4.**  Be sure your anti-virus is not stopping the execution of the launcher or installer.
+
+The YARC Launcher may get some antivirus warnings from Windows Defender, along with other antiviruses. This is a false-positive! YARC Launcher is not a virus. The main reason for this is that the YARC Launcher is not certified with Microsoft, which immediately deems the program suspicious in some antiviruses. As this application increases in popularity, some antiviruses may start to trust the launcher more, and in which case, no issues will be found.
