@@ -2,7 +2,7 @@
 title: 🎸 Instruments
 description: Information about hardware game controllers
 published: true
-date: 2025-01-03T02:59:08.233Z
+date: 2025-01-03T02:59:35.369Z
 tags: instruments, vocals, guitar, bass, drums, pro guitar, pro drums, pro bass, keys, pro keys, elite drums
 editor: markdown
 dateCreated: 2023-07-30T03:57:46.912Z
@@ -31,7 +31,7 @@ This is an inexhaustive list of instrument controllers and their compatibility w
 | 4   | Need a console-specific controller to USB adapter.\* |
 | 5   | Need the Xbox 360 wireless adapter. |<img src="/instruments/adapters/xbox360receiver.png" width="300">|
 | 6   | Need the Xbox One wireless adapter. |<img src="/instruments/adapters/xbonereceiver.png" width="300">|
-| 7   | Need Bluetooth adapter. |<img src="/instruments/adapters/bluetoothadapter.png" width="300">|
+| 7   | Need a Bluetooth adapter. |<img src="/instruments/adapters/bluetoothadapter.png" width="300">|
 | 8   | Need a console-specific midi adapter. |<img src="/instruments/adapters/midiproadapter.png" width="300">|
 
 ###  ⚠️Note!
