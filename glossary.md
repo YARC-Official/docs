@@ -2,7 +2,7 @@
 title: 📖 Glossary
 description: Some common terms and what they mean
 published: true
-date: 2024-12-18T23:40:34.332Z
+date: 2025-01-03T15:37:00.118Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-12T21:41:56.593Z
@@ -37,7 +37,7 @@ A region of time and the notes within it.
 Playing a series of notes correctly. Many rhythm games will reward combos with improved scores. YARG does this by increasing your score multiplier as your combo grows; by 1 for each perfect phrase on vocals, or for each 10 consecutive notes on typical instruments. If you break your combo - typically by missing a note or playing something unintended, like an overstrum - you'll drop back down to a 1× multipler.
 
 ## ④ Multiplier
-A factor by which the points you score will be multiplied. In YARG your multiplier is an integer, and will typically range from 1× to 4× if your Star Power is not currently active.
+A factor by which the points you score will be multiplied. In YARG your multiplier is an integer, and will typically range from 1× to 4× (or 6× on Bass) if your Star Power is not currently active.
 
 ## 🔥 Hot Start, 🏋️‍♀️ Strong Finish
 YARG displays Hot Start if you play the first 30 notes of the song without missing a note or otherwise breaking your combo.
@@ -49,7 +49,7 @@ Star Power and Overdrive both refer to these same elements, having originated fr
 
 ## 🎼 Stems
 Songs with Stems have multiple audio streams, separating different instruments/parts out from one-another. These stems allow the game to apply different volume levels, effects and muting, depending on how the players are performing.
-Not to be confused with Keysounds, which is another technique some other rhythm games use for dynamic audio.
+Not to be confused with Keysounds, which is a different technique some other rhythm games use for dynamic audio.
 
 ## 🔴 Intensity
 An approximation of how much effort a player will have to exert to play a particular instrument's part in a given song. Often represented as a series of filled circles, or in YARG as a set of segments surrounding the part's icon.
@@ -68,7 +68,7 @@ YARG supports several different charts for each instrument on a given song. The 
 - Expert+
 
 By convention, 5-Fret Guitar/Bass charts will typically limit Easy charts to the first three frets, Medium charts to the first four, and Hard/Expert can use all five frets.
-Expert+ drum charts are the same as Expert with the addition of double-bass kick notes.
+Expert+ is only for drum charts, being generally the same as the Expert chart, with the addition of double-bass kick notes.
 
 ## 👨‍👩‍👧‍👦 Full Band play
 Playing with 3+ players, covering Guitar, Bass, Drums, Vocals, and potentially other supported play modes.
@@ -77,9 +77,9 @@ Playing with 3+ players, covering Guitar, Bass, Drums, Vocals, and potentially o
 a Big Rock Ending is a section near the end of the song where charted notes are irrelevant, and players are instead encouraged to wail on their instruments as much as they can for bonus points. Often there can be several final, proper notes placed *after* the BRE comcludes, so be prepared to play them.
 BRE support is planned for YARG version 0.14.0
 
-## 🎓 Pro
+## 🎓 Pro, Elite
 Instruments with the Pro prefix are generally intended to better represent really playing that instrument. In YARG, Pro Drums expands 4-lane play with the additon of three cymbals, Pro Guitar ditches the 5 buttons and strum bar for an entire fretboard and six strings, and Pro Keys sees you using a whole two-octive keyboard.
-The planned Elite Drums mode is set to further expand on the realism and complexity of Pro Drums.
+The planned Elite Drums mode is set to further expand upon Pro Drums.
 Pro Guitar and Pro Keys are planned for YARG 0.13.0. Elite Drums is planned for 0.14.0.
 
 ## 💫 Unison
@@ -98,28 +98,48 @@ YARG does not currently have a Crowd Meter, but we do expect to get one eventual
 ## ⑥ Bass Groove
 In YARG, Bass Guitar players can push their multiplier higher than other instruments, up to 6× before Star Power. Bass Groove is when you reach that 6× multiplier.
 
+## 🎸 Strum notes
+Strum notes are the primary sort of note in Guitar and Bass charts, requiring the player to hold down one or more specific fret buttons, and hit the strum bar at the right moment.
+Being the main note type, strum notes are frequently just called Notes.
+
 ## 🔃 Hammer-On/Pull-Off notes (HOPOs)
-HOPOs are a special kind of note in Guitar charts, which may be played either in the normal manner (fret + strum) or, if you have a non-zero combo, you can play them merely by fretting the note at the right moment.
+HOPOs are a special kind of note in Guitar and Bass charts, which may be played either in the normal manner (fret + strum) or, if you have a non-zero combo, you can play them merely by fretting the note at the right moment.
 HOPOs are meant to aproximate the technique of playing a new note by changing which fret you're holding for an already-vibrating string.
 
 ## ⤵ Tap notes
-Tap notes are similar to HOPOs, in that they may be played without strumming, but they don't typically care whether you have a combo or not. A series of Taps are more forgiving than the same sequence of HOPOs, as if you make an error with HOPOs you'll have to strum the next note to recover, while if you miss a Tap you can still just Tap the next note.
+Tap notes are similar to HOPOs, in that they may be played without strumming, but they don't typically care whether you have a combo or not. A series of Taps can be more forgiving than the same sequence of HOPOs, as if you make an error with HOPOs you'll have to strum the next note to recover, while if you miss a Tap you can still just Tap the next note.
 Some custom charts may use tap notes to represent non-guitar melodies that are nevertheless being giving to a Guitar player.
 
+## 🆙 Open notes
+Generally, open notes are notes that are played without holding any frets down, depicted as a colorful line across the whole highway. They may be regular strum notes, or they may be HOPOs/Taps, with distinct appearances. They may also be sustain notes, with a trail extending up the highway.
+Originally appearing only in Bass charts, Open notes may be used to represent exceptionally deep notes in a given sequence.
+
 ## 🆖 Overstrum
-To overstrum is to strum when the game didn't want you to. This will generally break your combo.
+To overstrum is to strum when the game didn't want you to. This will generally break your combo and reset your multiplier.
 
 ## 👻 Ghosts, 🚫 Anti-Ghosting
 In guitar play, ghosts are when you fret something that doesn't correspond to an upcoming note, usually as a result of 'mashing' to try to pass a particularly difficult span of HOPOs or Taps. YARG's Default engine preset enables an Anti-Ghosting feature, which punishes ghosts by requiring you to strum the next HOPO/Tap.
 
 # 🥁 Drum play terms
-## 👻 Ghost notes, 💥 Accent notes
-Although not yet supported, YARG plans to include support for drum notes that care about the velocity at which they're played. In this context, ghost notes represent very light drum hits, and are correctly played with a lower velocity. Conversely, accent notes represent heavier hits, requiring a greater velocity.
+## 👻 Ghost notes, 💥 Accent notes, Dynamics
+Although not yet supported, YARG plans to include support for drum notes that care about the velocity at which they're played, aka Dynamics. In this context, ghost notes represent very light drum hits, and are correctly played with a lower velocity. Conversely, accent notes represent heavier hits, requiring a greater velocity.
+Some games treat dynamics as an aspect of Expert+ difficulty, but YARG intends to support them at any difficulty.
+
+## 2️⃣ Double bass, Double kicks
+Some drummers' kits include a second kick pedal. Depending on their setup, this could beat upon a second bass drum, or be mechanically linked to a second beater on a singular bass drum. Either way it can allow for very rapid bass hits, which would be difficult to accomplish with a single kick pedal.
+Older games have traditionally lacked any way to signify a kick note as being specific to players with double bass setups, leading some charters to release two variants of the chart: one for regular drums, another specifically for double bass.
+At the Expert difficulty, YARG supports charting for both single and double kick pedals in the same chart, with the double kick version being assigned its own special difficulty tier: Expert+
+
+## ➕ Expert+
+An additional difficulty tier specific to drums, built on top of to the regular Expert chart. YARG's version of ‍Expert+ adds more bass drum notes, to support double bass pedals, but is otherwise identical to the normal Expert chart. Some other games also include Ghost notes and Accent notes in their Expert+ mode.
 
 # 🔩 Hardware terms
 ## 🔱 Dongle
-Some wireless rhythm game controllers cannot communicate directly with the host console/computer. In such cases, they'll commonly come with a small device which plugs into USB or the machine's controller port, to receive the wireless signals from the controller and pass them on to the game. We call this device a 'dongle'; a small object required for a larger device to operate. Controllers meant for use with a dongle often cannot work without one, and many controllers are compatible only with the specific dongle model they shipped with.
+Some wireless game controllers cannot communicate directly with the host console/computer. In such cases, they'll commonly come with a small device which plugs into USB or the machine's controller port, to receive the wireless signals from the controller and pass them on to the game. We call this device a 'dongle'; a small object required for a larger device to operate. Controllers meant for use with a dongle often cannot work without one, and many controllers are compatible only with the specific dongle model they shipped with.
 For details on which controllers require dongles, check out the [Instruments](/Instruments) page.
+
+## ᚼᛒ Bluetooth
+A common short-range wireless communications protocol, supported by many devices, including the official Rock Band 4 PS4 instruments.
 
 ## 🎶 MIDI
 Musical Instrument Digital Interface is a standard for communication between music-related devices, typically controllers/instruments, and synthesizers. Instead of transmitting actual audio, MIDI carries data about specific notes, devoid of any sound. It's up to the receiving device to determine how to interpret and sound those notes.
