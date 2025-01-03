@@ -2,7 +2,7 @@
 title: 💡 Stage Kit
 description: Information about the Stage Kit hardware
 published: true
-date: 2024-12-23T05:21:59.538Z
+date: 2025-01-03T23:51:47.036Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-06T00:19:52.182Z
@@ -57,3 +57,18 @@ Many songs have a 'venue' track which sets the current state of the fog machine,
 |Big rock ending| Quickly turn on and alternate every color and led|
 |Score card|2 yellow and a blue, timed rotation|
 |Menu|1 blue, timed rotation.|
+## F.A.Q
+❓I don't have the fog machine, can I use just the light pod?
+Yes, but you need to power it somehow. Get a ps/2 to usb adapter, a usb cord, and a power brick. Connect it all together into the light pod to give it power.
+
+❓My strobe doesn't seem to be working?
+First, test with a song that starts with a strobe, such as RB2 Painkiller.
+If that works it is one of three problems with the songs:
+1) The song doesn't have any strobe effects. Not all songs do.
+Sometimes the strobe just isn't the right fit!
+2) The song doesn't have a venue track at all which happens with most custom songs.
+YARG will automatically generate a light show for songs which do not have a venue track. It changes on section change and tends to be more sedate than authored venue tracks. Fog will turn on every 8 measures. Strobe is NOT auto-generated.
+3) The song had its venue track stripped out.
+The dlc format xbox uses is a Con file which package together the files a song chart needs. One file the charts need is the midi file. In RB1 and RB2, plus all their dlc, the Venue track is within the .mid. When RB3 came out they moved some data (including the Venue track) from the midi file to its own file, called a milo, within the con. When people converted these that extra data was lost, which is why song_updates exists to put it back. The Rock Band Network songs have a venue track in the midi, but they tend to use Magma's auto-generated venue track. RB4 con files are the same as RB3.
+
+
