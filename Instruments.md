@@ -2,7 +2,7 @@
 title: 🎸 Instruments
 description: Information about hardware game controllers
 published: true
-date: 2025-01-03T02:19:59.951Z
+date: 2025-01-03T02:29:18.250Z
 tags: instruments, vocals, guitar, bass, drums, pro guitar, pro drums, pro bass, keys, pro keys, elite drums
 editor: markdown
 dateCreated: 2023-07-30T03:57:46.912Z
@@ -26,10 +26,10 @@ This is an inexhaustive list of instrument controllers and their compatibility w
 
 🔩
 
-| Hardware needed |     |
-|:---:|:--- |
+| Hardware needed |     ||
+|:---:|:--- |:--:|
 | 4   | Need a console-specific controller to USB adapter.\* |
-| 5   | Need the Xbox 360 wireless adapter. |
+| 5   | Need the Xbox 360 wireless adapter. |<img src="/instruments/adapters/xbox360receiver.png" width="300">|
 | 6   | Need the Xbox One wireless adapter. |
 | 7   | Need Bluetooth adapter. |
 | 8   | Need a console-specific midi adapter. |
@@ -49,7 +49,7 @@ This is an inexhaustive list of instrument controllers and their compatibility w
 | <img src="/instruments/guitars/gh1sg.png" width="300"> | SG  | 4   | ➖   | ➖   | ➖   | ➖   |
 | <img src="/instruments/gh1kramer.png" width="300"> | Kramer | 4☑️ | ➖   | ➖   | ➖   | ➖   |
 | <img src="/instruments/guitars/ghxplorer.png" width="300"> | X-plorer | ➖   | ➖   | ✅   | ➖   | ✅   |
-| <img src="/instruments/ghlespaul.png" width="300"> | Les Paul | ➖   | ☑️  |<img src="/instruments/adapters/xbox360receiver.png" width="300">| B   | ✅   |
+| <img src="/instruments/ghlespaul.png" width="300"> | Les Paul | ➖   | ☑️  |5| B   | ✅   |
 | <img src="/instruments/ghwt.png>" width="300"> | World Tour | 4☑️ | ☑️  | 5   | B   | ✅   |
 | <img src="/instruments/gh5.png>" width="300"> | Guitar Hero 5 | ☑️  | ☑️  | ➖   | B   | ✅   |
 | <img src="/instruments/guitars/ghworguitar.png>" width="300"> | Warriors of Rock | ➖   | ☑️  | 5   | B   | ✅   |
