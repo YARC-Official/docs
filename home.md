@@ -2,7 +2,7 @@
 title: 📖 Documentation
 description: Official YARG Documentation
 published: true
-date: 2025-01-03T23:06:02.017Z
+date: 2025-01-03T23:27:01.244Z
 tags: yarg
 editor: markdown
 dateCreated: 2023-06-08T20:33:03.654Z
@@ -28,7 +28,7 @@ Current stable and nightly versions can be downloaded with the <a href="https://
 	<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/White/Twitter_white.svg" width="40">
 </a>
   
-<a href="https://discord.gg/yarg">
+<a href="https://discord.gg/sqpu4R552r">
 	<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/White/Discord_white.svg" width="40">
 </a>
 
