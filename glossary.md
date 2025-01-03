@@ -2,7 +2,7 @@
 title: 📖 Glossary
 description: Some common terms and what they mean
 published: true
-date: 2025-01-03T15:37:00.118Z
+date: 2025-01-03T17:05:06.335Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-12T21:41:56.593Z
@@ -25,13 +25,13 @@ A four-lane drum highway has four lanes, one for each pad. Cymbals share a lane 
 A five-lane drum highway has five lanes, one for each pad or cymbal. Kicks span the highway.
 
 ## 🆗 Hit Window
-The range wherein notes can be successfully played.
+The range wherein notes can be successfully played. Can be conceptualized both temporally (how many milliseconds of leniency there is from the correct instant) and visually (how much space ahead of or behind the Strike Line can a note be played).
 
 ## 🔛 Strike line
 The point where notes are meant to be played. Commonly at the center of the Hit Window. Visually, often also indicates which inputs are currently being hit, which can be helpful for verifying your controls work and that your hand is positioned where you expect.
 
 ## 🔢 Phrase
-A region of time and the notes within it.
+A region of time and the notes within it. Can be used to refer to Star Power phrases which grant Star Power when performed well, or to the periods of time by which YARG scores vocal/harmony players.
 
 ## 📈 Combo
 Playing a series of notes correctly. Many rhythm games will reward combos with improved scores. YARG does this by increasing your score multiplier as your combo grows; by 1 for each perfect phrase on vocals, or for each 10 consecutive notes on typical instruments. If you break your combo - typically by missing a note or playing something unintended, like an overstrum - you'll drop back down to a 1× multipler.
