@@ -2,7 +2,7 @@
 title: 🖥️ Launcher
 description: YARC Launcher
 published: true
-date: 2024-05-14T18:15:07.817Z
+date: 2025-01-03T01:15:44.487Z
 tags: launcher
 editor: markdown
 dateCreated: 2024-01-18T22:31:51.246Z
@@ -11,6 +11,8 @@ dateCreated: 2024-01-18T22:31:51.246Z
 The YARC Launcher is the preferred way to download and update YARG, as well as its official setlist.
 
 Download it from the GitHub: [https://github.com/YARC-Official/YARC-Launcher/releases/latest](https://github.com/YARC-Official/YARC-Launcher/releases/latest)
+
+![launcher.png](/launcher/launcher.png)
 
 ## 🛠️ Troubleshooting
 
