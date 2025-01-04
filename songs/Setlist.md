@@ -2,7 +2,7 @@
 title: 💽 Setlist
 description: More information about the songs in our Official Setlist
 published: true
-date: 2024-12-16T04:06:27.325Z
+date: 2025-01-04T00:22:14.246Z
 tags: songs, setlist, official
 editor: markdown
 dateCreated: 2023-07-30T21:18:21.243Z
@@ -76,7 +76,7 @@ YARG's Official Setlist is a multi-genre, full-band full-difficulty, in developm
 These are songs which we're making available separately from the main setlist. Maybe we want to spotlight a particular artist without overrepresenting their work; maybe we wish to cover some music that doesn't lend itself to full-band play. Whatever the reason, DLC is what we're calling it.
 ## 🎸 Assorted Rock 1
 Join us for our first pack of DLC with a collection of indie performances and electronic rock tracks!
-(A smaller version of this pack was originally released as Assorted Pack 1.)
+(A subset of this pack was originally released as Assorted Pack 1.)
 
 | Track | Artist | Album | Genre | Year |  Guitar | Bass | Drums | Keys | Vocals | Release | Link |
 | :-- | :-- | :-- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
@@ -96,7 +96,7 @@ Join us for our first pack of DLC with a collection of indie performances and el
 
 ## 💻 Assorted Electronic 1
 Here is a pack of energetic pop/dance/electronic songs, providing challenges on all instruments!
-(A smaller version of this pack was originally released as Assorted Pack 2.)
+(A subset of this pack was originally released as Assorted Pack 2.)
 
 | Track | Artist | Album | Genre | Year |  Guitar | Bass | Drums | Keys | Vocals | Release | Link |
 | :-- | :-- | :-- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
