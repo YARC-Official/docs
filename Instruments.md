@@ -2,7 +2,7 @@
 title: 🎸 Instruments
 description: Information about hardware game controllers
 published: true
-date: 2025-01-04T00:57:32.830Z
+date: 2025-01-04T01:02:33.075Z
 tags: instruments, vocals, guitar, bass, drums, pro guitar, pro drums, pro bass, keys, pro keys, elite drums
 editor: markdown
 dateCreated: 2023-07-30T03:57:46.912Z
@@ -28,11 +28,11 @@ This is an inexhaustive list of instrument controllers and their compatibility w
 
 | Hardware needed |   |  |||
 |:---:|:--- |:--:|:--:|:--:|
-| 4   | Need a console-specific controller to USB adapter.\* |<img src="/instruments/adapters/ps2adapter.png" width="300">|<img src="/instruments/adapters/gamecubeadapter.png" width="300">|<img src="/instruments/adapters/dreamcastadapter.png" width="300">|
-| 5   | Need the Xbox 360 wireless adapter. |<img src="/instruments/adapters/xbox360receiver.png" width="300">|<img src="/instruments/adapters/whitexbox360adapter.png" width="300">
-| 6   | Need the Xbox One wireless adapter. |<img src="/instruments/adapters/xbonereceiver.png" width="300">|<img src="/instruments/adapters/xbonesmalladapter.png" width="300">
-| 7   | Need a Bluetooth adapter. |<img src="/instruments/adapters/bluetoothadapter.png" width="300">|
-| 8   | Need a console-specific midi adapter. |<img src="/instruments/adapters/midipropsadapter.png" width="300">|<img src="/instruments/adapters/midiproxboxadapter.png" width="300">|<img src="/instruments/adapters/midiprowiiadapter.png" width="300">|
+| 4   | Need a console-specific controller to USB adapter.\* |<img src="/instruments/adapters/ps2adapter.png" height="130">|<img src="/instruments/adapters/gamecubeadapter.png" height="130">|<img src="/instruments/adapters/dreamcastadapter.png" height="130">|
+| 5   | Need the Xbox 360 wireless adapter. |<img src="/instruments/adapters/xbox360receiver.png" height="130">|<img src="/instruments/adapters/whitexbox360adapter.png" height="130">
+| 6   | Need the Xbox One wireless adapter. |<img src="/instruments/adapters/xbonereceiver.png" height="130">|<img src="/instruments/adapters/xbonesmalladapter.png" height="130">
+| 7   | Need a Bluetooth adapter. |<img src="/instruments/adapters/bluetoothadapter.png" height="130">|
+| 8   | Need a console-specific midi adapter. |<img src="/instruments/adapters/midipropsadapter.png" height="130">|<img src="/instruments/adapters/midiproxboxadapter.png" height="130">|<img src="/instruments/adapters/midiprowiiadapter.png" height="130">|
 
 ###  ⚠️Note!
 
