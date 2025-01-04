@@ -2,7 +2,7 @@
 title: 🎸 Instruments
 description: Information about hardware game controllers
 published: true
-date: 2025-01-04T00:38:49.707Z
+date: 2025-01-04T00:41:30.536Z
 tags: instruments, vocals, guitar, bass, drums, pro guitar, pro drums, pro bass, keys, pro keys, elite drums
 editor: markdown
 dateCreated: 2023-07-30T03:57:46.912Z
@@ -26,9 +26,9 @@ This is an inexhaustive list of instrument controllers and their compatibility w
 
 🔩
 
-| Hardware needed |   |  ||
-|:---:|:--- |:--:|:--:|
-| 4   | Need a console-specific controller to USB adapter.\* |<img src="/instruments/adapters/ps2adapter.png" width="300">|<img src="/instruments/adapters/gamecubeadapter.png" width="300">|
+| Hardware needed |   |  |||
+|:---:|:--- |:--:|:--:|:--:|
+| 4   | Need a console-specific controller to USB adapter.\* |<img src="/instruments/adapters/ps2adapter.png" width="300">|<img src="/instruments/adapters/gamecubeadapter.png" width="300">|<img src="/instruments/adapters/dreamcastadapter.png" width="300">
 | 5   | Need the Xbox 360 wireless adapter. |<img src="/instruments/adapters/xbox360receiver.png" width="300">|
 | 6   | Need the Xbox One wireless adapter. |<img src="/instruments/adapters/xbonereceiver.png" width="300">|
 | 7   | Need a Bluetooth adapter. |<img src="/instruments/adapters/bluetoothadapter.png" width="300">|
