@@ -2,7 +2,7 @@
 title: 📓 F.A.Q.
 description: Frequently Asked Questions
 published: true
-date: 2025-01-06T13:19:53.889Z
+date: 2025-01-06T13:21:13.357Z
 tags: faq
 editor: markdown
 dateCreated: 2023-08-07T16:52:31.163Z
@@ -38,7 +38,7 @@ YARG is open-source and is therefore free. If you have any programming knowledge
 We have a Google Form that you can fill out, [here](https://forms.gle/cHWuGqzrFchgzZHU7). The charting team will vote for whether the song should be part of the main setlist, DLC, or if we reject it (as unfortunately we cannot accept all songs). We'll try to respond to you ASAP!
 
 ## 💡 I have an idea for YARG. Can I suggest it?
-Of course! Feel free to pitch us the idea in our #suggestions channel on [discord](https://discord.gg/sqpu4R552r)!
+Of course! Feel free to pitch us the idea in our #suggestions channel on [Discord](https://discord.gg/sqpu4R552r)!
 
 # YARC Launcher
 ## 😵 If the game is YARG, why YARC Launcher?
