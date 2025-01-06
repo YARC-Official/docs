@@ -2,7 +2,7 @@
 title: 🖼️ Backgrounds
 description: Informations about backgrounds supported by YARG
 published: true
-date: 2023-08-02T21:54:17.335Z
+date: 2025-01-06T21:55:37.638Z
 tags: backgrounds, venues
 editor: markdown
 dateCreated: 2023-06-08T21:19:44.919Z
@@ -72,7 +72,7 @@ YARG supports video playback during gameplay. Videos are played per song if an a
 
 To successfully see video playback during gameplay:
 
-1. The video must be in .mp4 or .webm format.
+1. The video must be in .mp4 or .webm format. Note that the Unity video player on Linux does not support .mp4; use VP8 .webm instead.
 
 2. Per song videos must be stored in a song's folder and labeled as "video" or "bg" or "background"
 
