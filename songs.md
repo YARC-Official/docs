@@ -2,7 +2,7 @@
 title: 🎵 Songs
 description: Useful information about supported Songs and Music Library
 published: true
-date: 2024-12-16T06:00:36.387Z
+date: 2025-01-07T16:42:23.475Z
 tags: songs, music, chart, mid, con, library
 editor: markdown
 dateCreated: 2023-07-30T05:09:13.000Z
@@ -47,16 +47,39 @@ Due to some legacy CONs missing metadata later added in RB3, YARG also supports 
 
 # 🗂️ Music Library
 ## Sorting
-Pressing `Yellow Fret` will change the sorting for the library, each time pressed will change to next sorting:
+Pressing `Orange Fret` will show a song selection menu:
 
-- Genre
-- Album
-- Charter
-- Song
-- Artist
-- Source
-- Year
-- Duration
+- Random song: jump to a random song
+- Back to top: jump to the top of the song selection menu
+- Sort by:
+Artist
+Album
+Artist
+Genre
+Year
+Charter
+Playlist: sorts by folder, then by band difficulty
+Source
+Duration
+Date added
+Playable songs: shows only songs with a playable part for all active profiles
+Five fret guitar: shows only songs with a five fret guitar part
+Five fret bass: shows only songs with a five fret bass part
+Keys: shows only songs with a five-lane keys part
+Four lane drums: shows only songs with a four-lane drum part
+Pro drums: shows only songs with a pro drums part
+Pro guitar (17-fret): shows only songs with a 17-fret pro guitar part
+Pro guitar (22-fret): shows only songs with a 22-fret pro guitar part
+Pro bass (17-fret): shows only songs with a 17-fret pro bass part
+Pro bass (22-fret): shows only songs with a 22-fret pro bass part
+Pro keys: shows only songs with a pro keys part
+Vocals: shows only songs with a vocal part
+Harmony: shows only songs with at least 2 vocal parts
+Band difficulty
+- Go to section: 0-9, A...Z
+- Add to favorites
+- View song folder: this opens the song folder in the operating system
+- Copy song checksum
 
 You can navigate between each header of the current sorting holding the `Orange Fret` and using `Up/Down`
 
