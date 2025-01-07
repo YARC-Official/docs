@@ -2,7 +2,7 @@
 title: 🎸 Instruments
 description: Information about hardware game controllers
 published: true
-date: 2025-01-07T20:28:59.228Z
+date: 2025-01-07T20:29:22.744Z
 tags: instruments, vocals, guitar, bass, drums, pro guitar, pro drums, pro bass, keys, pro keys, elite drums
 editor: markdown
 dateCreated: 2023-07-30T03:57:46.912Z
@@ -50,11 +50,6 @@ This is an inexhaustive list of instrument controllers and their compatibility w
 | <img src="/instruments/gh5.png>" width="300"> | Guitar Hero 5 | ☑️  | ☑️  | ➖   | B   | ✅   |
 | <img src="/instruments/guitars/ghworguitar.png>" width="300"> | Warriors of Rock | ➖   | ☑️  | 5   | B   | ✅   |
 
-###  🛠️Troubleshooting
-
-PS3 Les Paul often has a capacitor issue that prevents it from syncing  
-PS2 wireless have bad input latency  
-PS3 Les Pauls have bad input latency
 
 **Rock Band**
 
