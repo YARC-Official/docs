@@ -2,7 +2,7 @@
 title: 🎸 Instruments
 description: Information about hardware game controllers
 published: true
-date: 2025-01-07T00:55:43.952Z
+date: 2025-01-07T01:37:57.177Z
 tags: instruments, vocals, guitar, bass, drums, pro guitar, pro drums, pro bass, keys, pro keys, elite drums
 editor: markdown
 dateCreated: 2023-07-30T03:57:46.912Z
@@ -195,8 +195,9 @@ Higher end Roland kits support Foot Splash, where releasing the hi-hat pedal wil
 Since USB microphones are just input devices instead of being controllers, nearly all will work. If your computer detects it normally, you are ready to rock! However, if a microphone needs a speical driver that has to be installed before it will work, such as the Lips mics, it won't work with YARG.
 
 ###  🛠️Troubleshooting
+❗Windows: If you are experiencing echo, make sure *Audio enhancements* are turned off.  Outside of YARG, check System / Sound / Properties / Microphone, and under Input settings, make sure *Audio enhancements* is set to *Off* instead of the default *Device Default Effects.
 
-On mac, YARG might not ask for mic access. Launch the .app manually instead of going through the launcher
+❗Mac: YARG might not ask for mic access. Launch the .app manually instead of going through the launcher
 
 #  🎹 Keys
 
