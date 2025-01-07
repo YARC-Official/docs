@@ -2,7 +2,7 @@
 title: Troubleshooting instruments
 description: Tips and tricks to get your controllers working!
 published: true
-date: 2025-01-07T20:33:05.825Z
+date: 2025-01-07T20:34:17.516Z
 tags: instruments, troubleshooting
 editor: markdown
 dateCreated: 2025-01-07T20:23:14.531Z
@@ -31,3 +31,24 @@ Since USB microphones are just input devices instead of being controllers, nearl
 ❗Windows: If you are experiencing echo, make sure *Audio enhancements* are turned off.  Outside of YARG, check Windows' System / Sound / Properties / Microphone, and under Input settings, make sure *Audio enhancements* is set to **Off** instead of the default *Device Default Effects*.
 
 ❗Mac: YARG might not ask for mic access. Launch the .app manually instead of going through the launcher
+
+
+###  🛠️Troubleshooting
+
+❗E-kit not being detected  
+Make sure you have the [Microsoft Visual C++ redistributables](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170) installed.
+Make sure nothing else is open that is also using the e-kit. Windows only allows one program to access a MIDI device at a time.  
+Make sure you hit something on the kit before hitting "Add Device"; the list doesn't refresh automatically.
+
+❗Extra triggers breaking combo
+Some lower budget e-kits have issues with occasional extra triggers.  In YARG's Bindings menu, you can pull down each input pad and access a more detailed menu with options for Debounce and Threshold that may help.
+
+**Roland-specific troubleshooting**
+❗Open/closed hi-hat
+Most Roland kits allow mapping open and closed hi-hat to different MIDI notes.  Look for something like this in the documentation - for example, [TD-27](https://static.roland.com/assets/media/pdf/TD-27_Data_List_eng04_W.pdf):
+*MIDI note numbers transmitted and received by the hi-hat
+HI-HAT OPEN <BOW|EDGE>  Midi number transmitted and received by open hi-hat (bow, edge)
+HI-HAT CLOSE <BOW|EDGE>  Midi number transmitted and received by closed hi-hat (bow, edge)*
+
+❗Extra trigger when releasing hi-hat pedal
+Higher end Roland kits support Foot Splash, where releasing the hi-hat pedal will cause an extra hi-hat trigger.  You can avoid this by reducing the *Foot Splash Sens* parameter.
