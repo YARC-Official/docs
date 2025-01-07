@@ -2,7 +2,7 @@
 title: ▶️ Play Modes
 description: Useful information about the current supported play modes
 published: true
-date: 2024-05-16T21:13:05.285Z
+date: 2025-01-07T00:37:14.598Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-03T20:39:05.082Z
@@ -11,7 +11,7 @@ dateCreated: 2024-04-03T20:39:05.082Z
 # 🎸 Guitar & Bass
 
 ## 5 Fret
-The classic model; five color-coded fret buttons on the neck, a two-way strum bar on the body, a tilt sensor and a whammy bar.
+The classic model; five color-coded fret buttons on the neck, a two-way strum bar on the body, a tilt sensor, and a whammy bar.
 
 Note gems come towards you along a five-lane highway; you play those notes primarily by holding down the matching fret buttons and strumming as they reach the strike line, though some notes - HOPOs and Taps - may be played merely with well-timed fretting. Sustain notes have a visible trail that follows behind them, with extra points awarded for keeping the right frets held throughout. Lastly, Open notes span the width of the highway, and are played without holding any fret buttons.
 Playing enough notes correctly in sequence will increase your score multiplier, up to a maximum of 4× for Guitar, or 6× for Bass. A missed or incorrect note will reset the multiplier to 1×.
@@ -21,7 +21,7 @@ When judging single-fret notes, higher notes (closer to the guitar's body) take 
 Correctly playing all notes in a special glowing Star Power phrase will fill your SP meter by 25%. Additional SP energy can be gained by using the whammy bar during Sustain notes in an SP phrase.
 When your SP meter is at or above 50%, you can activate Star Power with a button press or your guitar's tilt sensor. When Star Power is active, your SP meter will gradually drain and your score multiplier will be doubled for the duration, for a max of 8× for Guitar or 12× for Bass. When the SP meter fully drains, Star Power is deactivated and your multiplier returns to normal.
 
-In addition to the typical Guitar and Bass charts, some songs may include charts for Co-Op Guitar, Rhythm Guitar, or 5 lane Keys. Any of these charts may be played on 5 fret Guitar.
+In addition to the typical Guitar and Bass charts, some songs may include charts for Co-op Guitar, Rhythm Guitar, or 5-lane Keys. Any of these charts may be played on 5 fret Guitar.
 
 Some guitars may have extra controls, such as a fret slider or a second set of fret buttons. These won't confer their original game-specific gimmicks in YARG, but you may be able to map them to regular guitar inputs.
 
@@ -60,7 +60,7 @@ Planned features include:
 - Lane reordering, so the highway can reflect your kit's arrangement.
 - Ghost and Accent notes - velocity matters.
 - Flam notes.
-- hi-hat Open, Closed, and Stomp notes - hi-hat control matters.
+- Hi-hat Open, Closed, and Stomp notes - hi-hat control matters.
 
 # 🎤 Vocals
 
@@ -82,7 +82,7 @@ Five white piano keys, plus a tilt sensor and a pitch bend. Plays similarly to 5
 Proper keys support is planned for YARG v0.13.0, but in the meantime you can play 5 fret keys charts in guitar mode, and enable the All Taps modifier to remove any need to strum.
 
 ## Pro
-Two octives of a keyboard, with color-coded segments for a wide highway. Pro keys support is planned for YARG v0.13.0.
+Two octaves of a keyboard, with color-coded segments for a wide highway. Pro keys support is planned for YARG v0.13.0.
 
 # 🔮 Potential future play modes
 These have no specific timeframe, but are either in the issue tracker or at least under consideration.
