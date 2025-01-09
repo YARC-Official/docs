@@ -2,7 +2,7 @@
 title: 🖼️ Backgrounds
 description: Informations about backgrounds supported by YARG
 published: true
-date: 2025-01-06T21:55:37.638Z
+date: 2025-01-09T03:44:46.476Z
 tags: backgrounds, venues
 editor: markdown
 dateCreated: 2023-06-08T21:19:44.919Z
@@ -12,6 +12,13 @@ dateCreated: 2023-06-08T21:19:44.919Z
 
 > Venues are still pretty early and anything can change during the development, we accept a few events from the Rock Band games for now, more events will be added in the future.
 {.is-info}
+
+## Installing a Venue
+To install a new venue:
+1. Open the **Settings** menu
+1. Click on the **General** tab
+1. In the **Venues/Backgrounds** section, click on **Open Backgrounds/Venue Folder**
+1. Copy your venue files into that folder, then restart YARG.
 
 ## Creating a Venue
 
