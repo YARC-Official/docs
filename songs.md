@@ -2,7 +2,7 @@
 title: 🎵 Songs
 description: Useful information about supported Songs and Music Library
 published: true
-date: 2025-01-07T16:42:23.475Z
+date: 2025-01-09T03:40:29.584Z
 tags: songs, music, chart, mid, con, library
 editor: markdown
 dateCreated: 2023-07-30T05:09:13.000Z
@@ -22,11 +22,18 @@ To add new songs into YARG you need to follow some simple steps
 ![library_scanning.png](/library_scanning.png)
 
 ## Song Scanning
-After adding all your song folder you can click the Refresh All Caches, that will scan all your libraries
-If you added new songs to a specific song folder you can click the individual Refresh button to scan only that folder
+After adding all your song folder you can click the Refresh All Caches; that will scan all your libraries.
+If you added new songs to a specific song folder you can click the individual Refresh button to scan only that folder.
 
-> We recommend adding a folder slot for each song folder you have, that will improve the song scanning and makes it easier to scan in case you add new songs
+> We recommend adding a folder slot for each song folder you have, that will improve the song scanning and makes it easier to scan in case you add new songs.
 {.is-info}
+
+## Song Export
+To export a list of your songs:
+1. Go to **Settings**
+1. Click on **All Settings**
+1. Click on **File Management**
+1. In the **Export** section, you can export a songs list in plain text or in Ouvert bot format.
 
 # 🏷️ Formats
 
