@@ -2,7 +2,7 @@
 title: 🎸 Instruments
 description: Information about hardware game controllers
 published: true
-date: 2025-01-07T20:34:02.041Z
+date: 2025-01-10T01:04:20.488Z
 tags: instruments, vocals, guitar, bass, drums, pro guitar, pro drums, pro bass, keys, pro keys, elite drums
 editor: markdown
 dateCreated: 2023-07-30T03:57:46.912Z
@@ -144,7 +144,7 @@ Each drum has 2 buttons, the 5th button is the clap microphone.
 
 ###  ⚠️Note!
 
-YARG natively supports midi input.
+YARG natively supports e-kits with USB MIDI output.  For older kits with only 5-pin DIN MIDI output, YARG supports USB MIDI adapters.
 
 #  🎤 Vocals
 **Rock Band**
