@@ -2,7 +2,7 @@
 title: 🖼️ Backgrounds
 description: Informations about backgrounds supported by YARG
 published: true
-date: 2025-01-09T03:44:46.476Z
+date: 2025-01-15T01:11:21.133Z
 tags: backgrounds, venues
 editor: markdown
 dateCreated: 2023-06-08T21:19:44.919Z
@@ -86,6 +86,8 @@ To successfully see video playback during gameplay:
 3. As of update v0.11.1, CON files must be in extracted ("ex-con") form in order to be used for video playback.
 
 4. Also as of update v0.11.1, video offsets are not supported but support is planned for the future.
+
+5. Ensure that per-song backgrounds are not disabled in Settings / General / Venues/Backgrounds.
 
 ## Editing Tips
 ### Useful Links
