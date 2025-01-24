@@ -2,7 +2,7 @@
 title: ▶️ Play Modes
 description: Useful information about the current supported play modes
 published: true
-date: 2025-01-07T00:37:14.598Z
+date: 2025-01-24T22:44:32.982Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-03T20:39:05.082Z
@@ -48,6 +48,10 @@ Some drum charts may include an Expert+ difficulty level. Expert+ is the same as
 ## 5 Lane
 Three pads, two cymbals, and a kick pedal; a Heroic kit.
 Similar to 4 Lane drums, you play the notes that come at you along a five lane highway. The 1st, 3rd and 5th lanes map to pads, while the 2nd and 4th go to the cymbals.
+
+4 Lane drums map to 5 Lane kits as follows:
+- 4 Lane Yellow tom -> 5 Lane Blue tom
+- 4 Lane Blue or Green cymbal -> 5 Lane Orange cymbal
 
 ## Pro
 Four pads, three cymbals, and a kick pedal; an expanded Band kit.
