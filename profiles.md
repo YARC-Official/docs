@@ -2,7 +2,7 @@
 title: 👤 Profiles
 description: Information about User Profiles
 published: true
-date: 2024-05-20T01:17:02.458Z
+date: 2025-01-25T21:10:11.751Z
 tags: profile, customization, color, bots, binding
 editor: markdown
 dateCreated: 2023-07-31T16:54:45.414Z
@@ -29,8 +29,10 @@ Which sort of play is this profile going to experience?  Current options are:
 See [Play Modes](/play-modes) for more information.
 
 ### Note Speed
+Change this parameter from the default value of 5.0 to change how fast notes approach on the highway.  For example: 10.0 is twice as fast as 5.0, while 2.5 would be half as fast.
 
 ### Track Length
+Change this parameter from the default value of 1.0 to change the amount of time represented by the highway.  For example, a value of 2.0 doubles the time, while 0.5 cuts the time in half.
 
 ### Lefty Flip
 When enabled, Lefty Flip mirrors the input display for Guitar and Drums gameplay. On guitars this will display the whole highway in right-to-left order. On drums, the lanes will retain their colors, but the note gems will have moved across the highway, and the Green Cymbal (if present) will become a Red Cymbal.
@@ -53,7 +55,7 @@ Select a theme for how the notes and strike line to be styled. The options are:
 Select a color scheme to apply to the notes and strike line. In addition to profiles designed for each of the Note Themes, you can create and customize your own in the Settings menu.
 
 ### Camera Preset
-Select how you want the your highway presented on screen; it's size, angle, and so on. The default options are:
+Select how you want the your highway presented on screen; its size, angle, and so on. The default options are:
 - Default
 - Circular
 - High FOV
@@ -61,7 +63,7 @@ Select how you want the your highway presented on screen; it's size, angle, and 
 - Hero (2, 3, Traveling the World, or Live)
 - Clone
 
-In addition to these presets, you can create and customize your own in the Settings menu.
+In addition to these presets, you can create and customize your own in the Settings menu.  You cannot change the options in the built-in presets, but you can make a copy and then change the options.
 
 ### Input Calibration
 Does this profile's controller require some extra latency compensation not already factored into your Audio Calibration? Specify how many milliseconds here.
