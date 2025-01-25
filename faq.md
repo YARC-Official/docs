@@ -2,7 +2,7 @@
 title: 📓 F.A.Q.
 description: Frequently Asked Questions
 published: true
-date: 2025-01-25T14:19:04.679Z
+date: 2025-01-25T23:28:51.252Z
 tags: faq
 editor: markdown
 dateCreated: 2023-08-07T16:52:31.163Z
@@ -37,8 +37,9 @@ YARG is not yet optimized, and fairly demanding in its current state. General gu
 - Meteor Lake (Core 7 Ultra 155H and up, Arc Xe LPG integrated GPU): ok
 - Steam Deck or Ryzen Z1 (ROG Ally, etc.): ok, reported struggle with 4 players and vocals
 - Radeon 780M: ok
+- Intel Iris Xe: ok
 - Radeon 760M or 680M: questionable
-- Intel UHD or Iris Xe: not recommended
+- Intel UHD: not recommended
 
 ## 💁‍ How do I support YARG?
 YARG is open-source and is therefore free. If you have any programming knowledge or do art, please feel free to help out! If not, that's okay; just telling us that you enjoy the game is enough!
