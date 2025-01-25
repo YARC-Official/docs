@@ -2,7 +2,7 @@
 title: 📓 F.A.Q.
 description: Frequently Asked Questions
 published: true
-date: 2025-01-06T13:21:13.357Z
+date: 2025-01-25T14:19:04.679Z
 tags: faq
 editor: markdown
 dateCreated: 2023-08-07T16:52:31.163Z
@@ -30,6 +30,15 @@ Check out our [issue tracker](https://yarg.youtrack.cloud/issues) or use the /ro
 ## 🎵 What songs can I use in YARG?
 We DO NOT support piracy, however, you can use song.ini with .mid and .chart, .sng, and unencrypted (RB) CON files.
 You can also download our [official setlist](/songs/Setlist) and DLC packs from the [YARC Launcher](/launcher)!
+
+## 🖥️ What is the minimum hardware needed to run YARG?
+YARG is not yet optimized, and fairly demanding in its current state. General guidelines:
+- Anything with discrete NVIDIA: ok
+- Meteor Lake (Core 7 Ultra 155H and up, Arc Xe LPG integrated GPU): ok
+- Steam Deck or Ryzen Z1 (ROG Ally, etc.): ok, reported struggle with 4 players and vocals
+- Radeon 780M: ok
+- Radeon 760M or 680M: questionable
+- Intel UHD or Iris Xe: not recommended
 
 ## 💁‍ How do I support YARG?
 YARG is open-source and is therefore free. If you have any programming knowledge or do art, please feel free to help out! If not, that's okay; just telling us that you enjoy the game is enough!
