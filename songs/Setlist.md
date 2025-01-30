@@ -2,7 +2,7 @@
 title: 💽 Setlist
 description: More information about the songs in our Official Setlist
 published: true
-date: 2025-01-04T00:22:14.246Z
+date: 2025-01-30T03:19:04.980Z
 tags: songs, setlist, official
 editor: markdown
 dateCreated: 2023-07-30T21:18:21.243Z
@@ -104,7 +104,7 @@ Here is a pack of energetic pop/dance/electronic songs, providing challenges on 
 | Feel Good | Syn Cole | Single | House | 2016 | ⚪⚪⚫⚫⚫ | ⚪⚫⚫⚫⚫ | ⚪⚫⚫⚫⚫ | ⚪⚪⚫⚫⚫ <br/> Pro:⚪⚪⚪⚫⚫ | ⚪⚪⚪⚫⚫ <br/> 2&nbsp;parts | 12/08/2024 | [🎧 Spotify](https://open.spotify.com/track/0dkV8DuMfWAVhfi3iMnIX3) |
 | Ghost | Aaron Musslewhite | Single | House | 2018 | ⚪⚪⚪⚫⚫ | ⚪⚫⚫⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚫⚫⚫ <br/> Pro:⚪⚪⚫⚫⚫ | ⚪⚪⚪⚪⚫ <br/> 2&nbsp;parts | 12/08/2024 | [🎧 Spotify](https://open.spotify.com/track/2Kp4WjaiVVqOhXCgB1vue2) |
 | Radioactive | Waterflame | Age of Flash | Techno | 2007 | ⚪⚪⚫⚫⚫ | 🔴🔴🔴🔴🔴 <br/> Rthm:⚪⚪⚫⚫⚫ | ⚪⚪⚪⚪⚪ <br/> Elite:⚪⚪⚪⚪⚪ | ⚪⚪⚪⚪⚫ <br/> Pro:⚪⚪⚪⚪⚪ | ⚫⚫⚫⚫⚫ | 08/29/2024 | [🎧 Spotify](https://open.spotify.com/track/1W3zDYmJR3g6qpwwOb82dw) |
-| Rot for Clout (feat. Kasane Teto) | Jamie Paige | Constant Companiona | Synthpop, Electropop | 2024 | ⚪⚪⚫⚫⚫ | ⚪⚪⚪⚪⚫ <br/> Rthm:⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚪⚫ <br/> Pro:⚪⚪⚪⚪⚪ | 🔴🔴🔴🔴🔴 | 12/08/2024 | [🎧 Spotify](https://open.spotify.com/track/6oodgVJsVi06ocDO9rwNig) |
+| Rot for Clout (feat. Kasane Teto) | Jamie Paige | Constant Companiona | Synthpop, Electropop | 2024 | ⚪⚪⚫⚫⚫ | ⚪⚪⚪⚪⚫ <br/> Rthm:⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚪⚫ <br/> Pro:⚪⚪⚪⚪⚪ | 🔴🔴🔴🔴🔴 <br/> 2&nbsp;parts | 12/08/2024 | [🎧 Spotify](https://open.spotify.com/track/6oodgVJsVi06ocDO9rwNig) |
 | Say It Back | tv room | Single | Dance | 2019 | ⚪⚪⚪⚪⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚪⚫ <br/> Pro:⚪⚪⚪⚪⚪ | ⚪⚪⚪⚪⚪ <br/> 2&nbsp;parts | 08/29/2024 | [🎧 Spotify](https://open.spotify.com/track/3k3brViymSaqnYEV5g0pKN) |
 | SPACE AND TIME! (feat. Jelly Hoshiumi) | SO87 | Single | House | 2024 | 🔴🔴🔴🔴🔴 | ⚪⚪⚫⚫⚫ | ⚫⚫⚫⚫⚫ | ⚪⚪⚪⚪⚫ <br/> Pro:⚪⚪⚪⚪⚪ | ⚪⚪⚪⚫⚫ <br/> 3&nbsp;parts | 08/29/2024 | [🎧 Spotify](https://open.spotify.com/track/197RUywoDgUu5pHWDjU0lz) |
 
