@@ -2,7 +2,7 @@
 title: 💽 Setlist
 description: More information about the songs in our Official Setlist
 published: true
-date: 2025-01-30T03:19:04.980Z
+date: 2025-01-30T03:28:13.852Z
 tags: songs, setlist, official
 editor: markdown
 dateCreated: 2023-07-30T21:18:21.243Z
@@ -68,8 +68,9 @@ YARG's Official Setlist is a multi-genre, full-band full-difficulty, in developm
 | Track | Artist | Licence | Source Link |
 | :-- | :-- | :-- | :--: |
 | 322 | Creo | released under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [▶ Youtube](https://youtu.be/JmobbPTaFcw&t=0s) |
-| Discipline | Nine Inch Nails | released under [CC-BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) | [▶ Youtube](https://youtu.be/wHxOiAz4NF8&t=0s) |
-| Vehemence | Reo | general use described in the given source link | [▶ Youtube](https://youtu.be/xtsvZX2lES4&t=0s) |
+| Discipline | Nine Inch Nails | released under [CC-BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) | [🆓 Free Music Archive](https://freemusicarchive.org/music/Nine_Inch_Nails/The_Slip/Discipline/) |
+| Half Measures | Aaron Musslewhite | released under [CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/) | [🆖 Newgrounds](https://www.newgrounds.com/audio/listen/817529)  
+| Vehemence | Reo | General use described in the given source link. | [▶ Youtube](https://youtu.be/xtsvZX2lES4&t=0s) |
 
 
 # 📥 DLC
