@@ -2,7 +2,7 @@
 title: 💽 Setlist
 description: More information about the songs in our Official Setlist
 published: true
-date: 2025-01-30T03:28:13.852Z
+date: 2025-02-01T21:27:33.732Z
 tags: songs, setlist, official
 editor: markdown
 dateCreated: 2023-07-30T21:18:21.243Z
@@ -63,6 +63,12 @@ YARG's Official Setlist is a multi-genre, full-band full-difficulty, in developm
 | A Visitant (feat. Victor Borba) | RO1 | Single | Progressive | 2021 | ⚪⚪⚪⚫⚫ <br/> Pro:⚪⚪⚫⚫⚫ | ⚪⚫⚫⚫⚫ <br/> Pro:⚪⚫⚫⚫⚫ | ⚪⚪⚪⚪⚪ | 🔴🔴🔴🔴🔴 <br/> Pro:🔴🔴🔴🔴🔴 | ⚪⚪⚪⚪⚫ <br/> 2&nbsp;parts | 10/26/2024 <br/> [Wave 9](https://youtu.be/i33ztJerVkg) | [🎧 Spotify](https://open.spotify.com/track/1JgRcx0qAixYbKisWYWT5E) |
 | Plastic Boogie | King Gizzard and the Lizard Wizard | Fishing for Fishies | Southern Rock | 2019 | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚫⚫ | ⚪⚫⚫⚫⚫ | No Part | ⚪⚪⚫⚫⚫ <br/> 3&nbsp;parts | 10/26/2024 <br/> [Wave 9](https://youtu.be/i33ztJerVkg) | [🎧 Spotify](https://open.spotify.com/track/32gxALA5ZZdh6XVKmf67eH) |
 | Song of November | Frantic Memories | Homecoming | Indie Rock | 2023 | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚪⚫ | ⚪⚫⚫⚫⚫ <br/> Pro:⚪⚫⚫⚫⚫ | ⚪⚪⚪⚫⚫ <br/> 3&nbsp;parts | 11/29/2024 <br/> [Single release](https://youtu.be/kkAZOOKlXLo) | [🎧 Spotify](https://open.spotify.com/track/2S5FMKK8LqSb6WCER39nbZ) |
+| Synthespian | Prototype | Continuum | Thrash, Speed Metal | 2006 | ⚪⚪⚪⚪⚪ | ⚪⚪⚪⚪⚪ | 🔴🔴🔴🔴🔴 | No Part | ⚪⚪⚫⚫⚫ <br/> 2&nbsp;parts | 02/01/2025 <br/> [Wave 10](https://www.youtube.com/watch?v=k2dhT_j1X1U) | [🎧 Spotify](https://open.spotify.com/track/5X6S6RgQuSHaEpTtVbR9h1) |
+| They Call | Auris | Once Upon a Time in the House of Flies | Heavy Metal | 2019 | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚪⚫ | No Part | ⚪⚪⚫⚫⚫ <br/> 3&nbsp;parts | 02/01/2025 <br/> [Wave 10](https://www.youtube.com/watch?v=k2dhT_j1X1U) | [🎧 Spotify](https://open.spotify.com/track/4TrrUPV3oorqbuCNcLXml0) |
+| Avatara | Heteromorphic Zoo | New World | Death, Black Metal | 2024 | ⚪⚪⚫⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚪⚪⚫ <br/> Elite:⚪⚪⚪⚪⚫ | ⚪⚪⚫⚫⚫ <br/> Pro:⚪⚪⚫⚫⚫ | ⚫⚫⚫⚫⚫ <br/> 2&nbsp;parts | 02/01/2025 <br/> [Wave 10](https://www.youtube.com/watch?v=k2dhT_j1X1U) | [🎧 Spotify](https://open.spotify.com/track/4rwAQ558BhMBW25i3UcZ6q) |
+| Smile for Me | The Robot's Guide to Living | Separation Anxiety | Punk | 2024 | ⚪⚪⚪⚪⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚪⚪⚫ | No Part | ⚪⚪⚪⚫⚫ <br/> 3&nbsp;parts | 02/01/2025 <br/> [Wave 10](https://www.youtube.com/watch?v=k2dhT_j1X1U) | [🎧 Spotify](https://open.spotify.com/track/3VNSseXGogCvInBbb3RH6j) |
+| Dreamweaver | Glass Guillotine | Glass Guillotine | Djent | 2024 | ⚪⚪⚪⚫⚫ <br/> Pro:⚪⚪⚫⚫⚫ | ⚪⚪⚪⚫⚫ <br/> Pro:⚪⚪⚫⚫⚫ | ⚪⚪⚪⚪⚫ <br/> Elite:⚪⚪⚪⚪⚫ | No Part | ⚫⚫⚫⚫⚫ <br/> 3&nbsp;parts | 02/01/2025 <br/> [Wave 10](https://www.youtube.com/watch?v=k2dhT_j1X1U) | [🎧 Spotify](https://open.spotify.com/track/0QTlePaFd1x3VZTL9kO4SV) |
+| Mass Gap | Mindiode | Elusive Perception | Djent | 2024 | 🔴🔴🔴🔴🔴 | 🔴🔴🔴🔴🔴 | 🔴🔴🔴🔴🔴 | 🔴🔴🔴🔴🔴 <br/> Pro:🔴🔴🔴🔴🔴 | no part | 02/01/2025 <br/> [Wave 10](https://www.youtube.com/watch?v=k2dhT_j1X1U) | [🎧 Spotify](https://open.spotify.com/track/12xcE1TDgnAJ85Xygy9X2p) |
 
 ## 🆓 Creative Commons and free-to-use songs attribution:
 | Track | Artist | Licence | Source Link |
