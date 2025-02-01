@@ -2,7 +2,7 @@
 title: 👤 Profiles
 description: Information about User Profiles
 published: true
-date: 2025-01-25T21:10:11.751Z
+date: 2025-02-01T13:10:50.618Z
 tags: profile, customization, color, bots, binding
 editor: markdown
 dateCreated: 2023-07-31T16:54:45.414Z
@@ -21,10 +21,11 @@ The first time you Connect a new profile, the game will ask you to Add a Device 
 ### Game Mode
 Which sort of play is this profile going to experience?  Current options are:
 
-- Five Fret Guitar
+- Five Fret Guitar or Bass
 - Standard Drums (covers 4-Lane and Pro)
 - 5-Lane Drums
-- Vocals
+- Vocals (covers Solo and Harmonies)
+- Pro Keys
 
 See [Play Modes](/play-modes) for more information.
 
