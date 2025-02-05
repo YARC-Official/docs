@@ -2,7 +2,7 @@
 title: 🐕 DMX
 description: 
 published: true
-date: 2024-12-21T03:57:21.040Z
+date: 2025-02-05T18:22:14.802Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T18:13:08.409Z
@@ -20,7 +20,7 @@ This flexibility allows for unlimited possibilities in your YARG light shows!
 # Hardware Setup
 A simple example of a harware layout with 20 channel fixtures. There are many options available for the sACN-to-DMX converter and fixtures.
 ![yarg-docs-dmx-diagram.png](/dmx/yarg-docs-dmx-diagram.png)
-A more advanced setup would have a DMX sequencer, either in between the PC and network or as a replacement for the converter.
+A more advanced setup would have a DMX sequencer (such as Lightjams and QLC+), either in between the PC and network or as a replacement for the converter.
 
 # DMX Channels
 Each of the  512 bytes, known  as channels,  in a DMX  packets  can hold a value from 0 to 255. YARG  will  set these values to indicate  various changes as follows:
