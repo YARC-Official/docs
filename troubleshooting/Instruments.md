@@ -2,7 +2,7 @@
 title: Troubleshooting instruments
 description: Tips and tricks to get your controllers working!
 published: true
-date: 2025-02-02T13:19:10.974Z
+date: 2025-02-09T20:05:59.475Z
 tags: instruments, troubleshooting
 editor: markdown
 dateCreated: 2025-01-07T20:23:14.531Z
@@ -30,6 +30,9 @@ If you are using a gamepad instead of a guitar, make sure you turn on the **All 
 ## Microphones
 
 Since USB microphones are just input devices instead of being controllers, nearly all will work. If your computer detects it normally, you are ready to rock! However, if a microphone needs a speical driver that has to be installed before it will work, such as the Lips mics, it won't work with YARG.
+
+❗Microphone bound in profile, but pitch doesn't register
+You may need to increase microphone sensitivity.  Check under Settings / Sound / Input / Microphone Sensitivity, and adjust the threshold *down* to something like -15 dB as a starting point.
 
 ❗Windows: If you are experiencing echo, make sure *Audio enhancements* are turned off.  Outside of YARG, check Windows' System / Sound / Properties / Microphone, and under Input settings, make sure *Audio enhancements* is set to **Off** instead of the default *Device Default Effects*.
 
