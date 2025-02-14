@@ -2,7 +2,7 @@
 title: 🖼️ Backgrounds
 description: Informations about backgrounds supported by YARG
 published: true
-date: 2025-02-14T13:36:42.153Z
+date: 2025-02-14T13:43:07.248Z
 tags: backgrounds, venues
 editor: markdown
 dateCreated: 2023-06-08T21:19:44.919Z
@@ -86,6 +86,9 @@ To successfully see video playback during gameplay:
 3. As of update v0.11.1, CON files must be in extracted ("ex-con") form in order to be used for video playback.
 
 4. Ensure that per-song backgrounds are not disabled in Settings / General / Venues/Backgrounds.
+
+5. To help synchronize the video with the song, you can add a *video_start_time* to the song.ini file: negative values delay the video, while positive values seek the video to the time where the song starts.  As an example, this starts the video at 4.5 seconds:
+`video_start_time=4.5`
 
 ## Editing Tips
 ### Useful Links
