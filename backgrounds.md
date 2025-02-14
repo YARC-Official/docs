@@ -2,7 +2,7 @@
 title: 🖼️ Backgrounds
 description: Informations about backgrounds supported by YARG
 published: true
-date: 2025-02-14T13:43:07.248Z
+date: 2025-02-14T13:55:08.257Z
 tags: backgrounds, venues
 editor: markdown
 dateCreated: 2023-06-08T21:19:44.919Z
@@ -87,7 +87,7 @@ To successfully see video playback during gameplay:
 
 4. Ensure that per-song backgrounds are not disabled in Settings / General / Venues/Backgrounds.
 
-5. To help synchronize the video with the song, you can add a *video_start_time* to the song.ini file: negative values delay the video, while positive values seek the video to the time where the song starts.  As an example, this starts the video at 4.5 seconds:
+5. To help synchronize the video with the song, you can add a *video_start_time* to the song.ini file: negative values delay the video, while positive values seek the video to the time where the song starts.  As an example, this jumps to 4.5 seconds within the video when the song audio starts:
 `video_start_time=4.5`
 
 ## Editing Tips
