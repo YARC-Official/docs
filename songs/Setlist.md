@@ -2,7 +2,7 @@
 title: 💽 Setlist
 description: More information about the songs in our Official Setlist
 published: true
-date: 2025-02-01T21:27:33.732Z
+date: 2025-02-15T02:13:14.758Z
 tags: songs, setlist, official
 editor: markdown
 dateCreated: 2023-07-30T21:18:21.243Z
@@ -69,6 +69,7 @@ YARG's Official Setlist is a multi-genre, full-band full-difficulty, in developm
 | Smile for Me | The Robot's Guide to Living | Separation Anxiety | Punk | 2024 | ⚪⚪⚪⚪⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚪⚪⚫ | No Part | ⚪⚪⚪⚫⚫ <br/> 3&nbsp;parts | 02/01/2025 <br/> [Wave 10](https://www.youtube.com/watch?v=k2dhT_j1X1U) | [🎧 Spotify](https://open.spotify.com/track/3VNSseXGogCvInBbb3RH6j) |
 | Dreamweaver | Glass Guillotine | Glass Guillotine | Djent | 2024 | ⚪⚪⚪⚫⚫ <br/> Pro:⚪⚪⚫⚫⚫ | ⚪⚪⚪⚫⚫ <br/> Pro:⚪⚪⚫⚫⚫ | ⚪⚪⚪⚪⚫ <br/> Elite:⚪⚪⚪⚪⚫ | No Part | ⚫⚫⚫⚫⚫ <br/> 3&nbsp;parts | 02/01/2025 <br/> [Wave 10](https://www.youtube.com/watch?v=k2dhT_j1X1U) | [🎧 Spotify](https://open.spotify.com/track/0QTlePaFd1x3VZTL9kO4SV) |
 | Mass Gap | Mindiode | Elusive Perception | Djent | 2024 | 🔴🔴🔴🔴🔴 | 🔴🔴🔴🔴🔴 | 🔴🔴🔴🔴🔴 | 🔴🔴🔴🔴🔴 <br/> Pro:🔴🔴🔴🔴🔴 | no part | 02/01/2025 <br/> [Wave 10](https://www.youtube.com/watch?v=k2dhT_j1X1U) | [🎧 Spotify](https://open.spotify.com/track/12xcE1TDgnAJ85Xygy9X2p) |
+| Beverly | Used to Be Valentines | The Good Years | Emo | 2023 | ⚪⚪⚫⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚫⚫⚫ | No Part | ⚪⚪⚫⚫⚫ <br/> 3&nbsp;parts | 02/14/2025 <br/> [Single release](https://www.youtube.com/watch?v=HrOjsLpF_3Q) | [🎧 Spotify](https://open.spotify.com/track/1i7ecHuQXTLg1ZnmeTkaMs)
 
 ## 🆓 Creative Commons and free-to-use songs attribution:
 | Track | Artist | Licence | Source Link |
