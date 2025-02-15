@@ -2,7 +2,7 @@
 title: 🎼 Charting
 description: Guidelines for charting YARG songs
 published: true
-date: 2025-02-15T19:57:16.305Z
+date: 2025-02-15T19:57:23.167Z
 tags: songs, charting, guidelines
 editor: markdown
 dateCreated: 2023-06-08T20:40:29.063Z
