@@ -2,7 +2,7 @@
 title: 💽 Setlist
 description: More information about the songs in our Official Setlist
 published: true
-date: 2025-02-15T02:46:06.507Z
+date: 2025-03-01T21:31:27.260Z
 tags: songs, setlist, official
 editor: markdown
 dateCreated: 2023-07-30T21:18:21.243Z
@@ -148,7 +148,7 @@ Follow the journey of Wanderkid in JW Francis's sophomore album! Escape with war
 | Maybe | JW Francis | Wanderkid | Indie Rock | 2021 | ⚪⚫⚫⚫⚫ | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚫ | ⚪⚪⚫⚫⚫ <br/> Pro:⚪⚪⚫⚫⚫ | ⚪⚪⚪⚪⚫ <br/> 3&nbsp;parts | 09/30/2024 | [🎧 Spotify](https://open.spotify.com/track/2YEK1s81PKs3Npl2h24EjH) |
 | Make Another Record | JW Francis | Wanderkid | Indie Rock | 2021 | ⚪⚪⚪⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚪⚪⚫ | ⚪⚫⚫⚫⚫ <br/> Pro:⚪⚫⚫⚫⚫ | ⚪⚪⚫⚫⚫ | 09/30/2024 | [🎧 Spotify](https://open.spotify.com/track/2DFsPP7RyEr2jG3b0RczwY) |
 | Only with You | JW Francis | Wanderkid | Indie Rock | 2021 | ⚫⚫⚫⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚫⚫⚫⚫ <br/> Elite:⚪⚫⚫⚫⚫ | ⚪⚫⚫⚫⚫ <br/> Pro:⚪⚪⚫⚫⚫ | ⚪⚪⚪⚫⚫ <br/> 3&nbsp;parts | 09/30/2024 | [🎧 Spotify](https://open.spotify.com/track/1wOOxarfzqdtKlJxizKgff) |
-| Holy Mountain | JW Francis | Wanderkid | Indie Rock | 2021 | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚫ <br/> Rhtm:⚪⚪⚪⚪⚫ | ⚪⚪⚪⚪⚫ | ⚪⚪⚫⚫⚫ <br/>Pro:⚪⚪⚫⚫⚫ | ⚪⚪⚪⚪⚫ | 09/30/2024 | [🎧 Spotify](https://open.spotify.com/track/3PH2uuaa75gOGEAWdSmtii) |
+| Holy Mountain | JW Francis | Wanderkid | Indie Rock | 2021 | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚫ <br/> Rthm:⚪⚪⚪⚪⚫ | ⚪⚪⚪⚪⚫ | ⚪⚪⚫⚫⚫ <br/>Pro:⚪⚪⚫⚫⚫ | ⚪⚪⚪⚪⚫ | 09/30/2024 | [🎧 Spotify](https://open.spotify.com/track/3PH2uuaa75gOGEAWdSmtii) |
 | Wanderkid | JW Francis | Wanderkid | Indie Rock | 2021 | ⚪⚫⚫⚫⚫ | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚫ | ⚫⚫⚫⚫⚫ <br/> Pro:⚫⚫⚫⚫⚫ | ⚪⚪⚪⚪⚫ <br/> 2&nbsp;parts | 09/30/2024 | [🎧 Spotify](https://open.spotify.com/track/6RGuisufVRgFtoVBjl9g8M) |
 | Don't Fall Apart | JW Francis | Wanderkid | Indie Rock | 2021 | ⚪⚪⚪⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚫⚫⚫ | ⚫⚫⚫⚫⚫ | ⚪⚪⚫⚫⚫ <br/> 2&nbsp;parts | 09/30/2024 | [🎧 Spotify](https://open.spotify.com/track/6WtrVMS2JKwoQ4Z99fQgRV) |
 | Fake It Till You Make It | JW Francis | Wanderkid | Indie Rock | 2021 | ⚪⚫⚫⚫⚫ <br/> Pro:⚪⚫⚫⚫⚫ | ⚫⚫⚫⚫⚫ <br/> Pro:⚫⚫⚫⚫⚫ | ⚪⚫⚫⚫⚫ <br/> Elite:⚪⚫⚫⚫⚫ | ⚫⚫⚫⚫⚫ <br/> Pro:⚫⚫⚫⚫⚫ | ⚪⚫⚫⚫⚫ | 09/30/2024 | [🎧 Spotify](https://open.spotify.com/track/6j4s2ABN0YMCfaIH3mIS4S) |
@@ -187,3 +187,15 @@ Ring in the holiday season with six public domain Christmas classics. Learn auth
 | Jingle Bells | James Lord Pierpont | Christmas Keys 01 | Holiday | 1857 | No Part | ⚪⚪⚪⚫⚫ | No Part | ⚪⚪⚫⚫⚫ <br/> Pro:⚪⚪⚫⚫⚫ | No Part | 12/15/2024 <br/> [preview](https://youtu.be/FPsL2l40Nx8) |  |
 | Jolly Old Saint Nicholas | Emily Huntington Miller and James R. Murray | Christmas Keys 01 | Holiday | 1874 | No Part | ⚫⚫⚫⚫⚫ | No Part | ⚪⚫⚫⚫⚫ <br/> Pro:⚪⚫⚫⚫⚫ | No Part | 12/15/2024 <br/> [preview](https://youtu.be/FPsL2l40Nx8) |  |
 | Joy to the World | Isaac Watts | Christmas Keys 01 | Holiday | 1719 | No Part | ⚪⚫⚫⚫⚫ | No Part | ⚪⚪⚫⚫⚫ <br/> Pro:⚪⚪⚫⚫⚫ | No Part | 12/15/2024 <br/> [preview](https://youtu.be/FPsL2l40Nx8) |  |
+
+## 🤘 Assorted Metal 1
+Rock out with an assortment of accessible metal songs, drawing from nu-metal, alternative, thrash, and djent!
+| Track | Artist | Album | Genre | Year |  Guitar | Bass | Drums | Keys | Vocals | Release | Link |
+| :-- | :-- | :-- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| Full Body Plutonium | Frostbitt | Machine Destroy | Industrial | 2023 | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚫⚫ <br/> Rthm:⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚪ <br/> Elite:⚪⚪⚪⚪⚪ | No Part | ⚪⚪⚪⚫⚫ <br/> 2 parts | 03/01/2025 | [🎧 Spotify](https://open.spotify.com/track/1Arj52jLedtrvOGAvroPkT) |
+| What You Really Want | Garlagan | If It Will | Alternative | 2022 | ⚪⚪⚪⚪⚪ | ⚪⚪⚪⚪⚫ <br/> Rthm:⚪⚪⚪⚪⚪ | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚪ <br/> Pro:⚪⚪⚪⚪⚪ | ⚪⚪⚪⚪⚫ <br/> 3 parts | 03/01/2025 | [🎧 Spotify](https://open.spotify.com/track/4CdzT1QOGfxcRK2Kq3eF6j) |
+| Sleep Cycles | Heartsick | Single | Nu-Metal | 2024 | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚫⚫ <br/> Rthm:⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚫ | ⚪⚪⚫⚫⚫ <br/> Pro:⚪⚪⚫⚫⚫ | ⚪⚫⚫⚫⚫ <br/> 3 parts | 03/01/2025 | [🎧 Spotify](https://open.spotify.com/track/3Q4o2s0ig9SwmLcMDEEjtb) |
+| The Mortal Plane | Mindiode | Elusive Perception | Djent | 2024 | ⚪⚪⚪⚪⚪ | ⚪⚪⚪⚫⚫ <br/> Rthm:⚪⚪⚪⚪⚫ | ⚪⚪⚪⚪⚪ | ⚪⚪⚪⚪⚪ <br/> Pro:⚪⚪⚪⚪⚪ | No Part | 03/01/2025 | [🎧 Spotify](https://open.spotify.com/track/6prdRCiAGX26G3aB2hnAXk) |
+| Harbinger of Pestilence | Silverhawk | Tomorrow's Too Late | Thrash, Speed Metal | 2024 | 🔴🔴🔴🔴🔴 | ⚪⚪⚪⚫⚫ <br/> Rthm:⚪⚪⚪⚪⚫ | 🔴🔴🔴🔴🔴 <br/> Elite:🔴🔴🔴🔴🔴 | No Part | No Part | 03/01/2025 | [🎧 bandcamp](https://silverhawkthrash.bandcamp.com/track/harbinger-of-pestilence) |
+| Control | Thousand Thoughts | Single | Nu-Metal | 2021 | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚫⚫ <br/> Rthm:⚪⚪⚪⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚪⚫⚫ <br/> Pro:⚪⚪⚪⚫⚫ | ⚪⚪⚪⚫⚫ <br/> 3 parts | 03/01/2025 | [🎧 Spotify](https://open.spotify.com/track/6U3V2gODkIrXKdL1D0uwKQ) |
+| Simple Folds | Zephyrianna, Tsyolin and BoffleFloffle | Single | Punk | 2023 | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚫⚫ <br/> Rthm:⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚫⚫ <br/> Pro:⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚫ <br/> 3 parts | 03/01/2025 | [🎧 Spotify](https://open.spotify.com/track/7ehBMuHNA3GLpCAMnVstjO) |
