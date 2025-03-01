@@ -2,7 +2,7 @@
 title: 💽 Setlist
 description: More information about the songs in our Official Setlist
 published: true
-date: 2025-03-01T21:31:27.260Z
+date: 2025-03-01T22:10:35.912Z
 tags: songs, setlist, official
 editor: markdown
 dateCreated: 2023-07-30T21:18:21.243Z
@@ -82,9 +82,13 @@ YARG's Official Setlist is a multi-genre, full-band full-difficulty, in developm
 
 # 📥 DLC
 These are songs which we're making available separately from the main setlist. Maybe we want to spotlight a particular artist without overrepresenting their work; maybe we wish to cover some music that doesn't lend itself to full-band play. Whatever the reason, DLC is what we're calling it.
+
+# 📻 Genre-themed DLC
+These DLC packs each feature tracks from a variety of artists, with music broadly falling under a common genre. Expand your setlist's representation of your favorite genre with the corresponding DLC!
+
 ## 🎸 Assorted Rock 1
 Join us for our first pack of DLC with a collection of indie performances and electronic rock tracks!
-(A subset of this pack was originally released as Assorted Pack 1.)
+(A subset of this pack was previously released as Assorted Pack 1.)
 
 | Track | Artist | Album | Genre | Year |  Guitar | Bass | Drums | Keys | Vocals | Release | Link |
 | :-- | :-- | :-- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
@@ -104,7 +108,7 @@ Join us for our first pack of DLC with a collection of indie performances and el
 
 ## 💻 Assorted Electronic 1
 Here is a pack of energetic pop/dance/electronic songs, providing challenges on all instruments!
-(A subset of this pack was originally released as Assorted Pack 2.)
+(A subset of this pack was previously released as Assorted Pack 2.)
 
 | Track | Artist | Album | Genre | Year |  Guitar | Bass | Drums | Keys | Vocals | Release | Link |
 | :-- | :-- | :-- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
@@ -124,6 +128,21 @@ Here is a pack of energetic pop/dance/electronic songs, providing challenges on 
 | Radioactive | Waterflame | released under [CC-BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) | [🆖 Newgrounds](https://www.newgrounds.com/audio/listen/106783) |
 | Say It Back | tv room | released under [CC-BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) | [🆖 Newgrounds](https://www.newgrounds.com/audio/listen/1044389) |
 
+## 🤘 Assorted Metal 1
+Rock out with an assortment of accessible metal songs, drawing from nu-metal, alternative, thrash, and djent!
+| Track | Artist | Album | Genre | Year |  Guitar | Bass | Drums | Keys | Vocals | Release | Link |
+| :-- | :-- | :-- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| Full Body Plutonium | Frostbitt | Machine Destroy | Industrial | 2023 | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚫⚫ <br/> Rthm:⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚪ <br/> Elite:⚪⚪⚪⚪⚪ | No Part | ⚪⚪⚪⚫⚫ <br/> 2 parts | 03/01/2025 | [🎧 Spotify](https://open.spotify.com/track/1Arj52jLedtrvOGAvroPkT) |
+| What You Really Want | Garlagan | If It Will | Alternative | 2022 | ⚪⚪⚪⚪⚪ | ⚪⚪⚪⚪⚫ <br/> Rthm:⚪⚪⚪⚪⚪ | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚪ <br/> Pro:⚪⚪⚪⚪⚪ | ⚪⚪⚪⚪⚫ <br/> 3 parts | 03/01/2025 | [🎧 Spotify](https://open.spotify.com/track/4CdzT1QOGfxcRK2Kq3eF6j) |
+| Sleep Cycles | Heartsick | Single | Nu-Metal | 2024 | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚫⚫ <br/> Rthm:⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚫ | ⚪⚪⚫⚫⚫ <br/> Pro:⚪⚪⚫⚫⚫ | ⚪⚫⚫⚫⚫ <br/> 3 parts | 03/01/2025 | [🎧 Spotify](https://open.spotify.com/track/3Q4o2s0ig9SwmLcMDEEjtb) |
+| The Mortal Plane | Mindiode | Elusive Perception | Djent | 2024 | ⚪⚪⚪⚪⚪ | ⚪⚪⚪⚫⚫ <br/> Rthm:⚪⚪⚪⚪⚫ | ⚪⚪⚪⚪⚪ | ⚪⚪⚪⚪⚪ <br/> Pro:⚪⚪⚪⚪⚪ | No Part | 03/01/2025 | [🎧 Spotify](https://open.spotify.com/track/6prdRCiAGX26G3aB2hnAXk) |
+| Harbinger of Pestilence | Silverhawk | Tomorrow's Too Late | Thrash, Speed Metal | 2024 | 🔴🔴🔴🔴🔴 | ⚪⚪⚪⚫⚫ <br/> Rthm:⚪⚪⚪⚪⚫ | 🔴🔴🔴🔴🔴 <br/> Elite:🔴🔴🔴🔴🔴 | No Part | No Part | 03/01/2025 | [🎧 bandcamp](https://silverhawkthrash.bandcamp.com/track/harbinger-of-pestilence) |
+| Control | Thousand Thoughts | Single | Nu-Metal | 2021 | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚫⚫ <br/> Rthm:⚪⚪⚪⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚪⚫⚫ <br/> Pro:⚪⚪⚪⚫⚫ | ⚪⚪⚪⚫⚫ <br/> 3 parts | 03/01/2025 | [🎧 Spotify](https://open.spotify.com/track/6U3V2gODkIrXKdL1D0uwKQ) |
+| Simple Folds | Zephyrianna, Tsyolin and BoffleFloffle | Single | Punk | 2023 | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚫⚫ <br/> Rthm:⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚫⚫ <br/> Pro:⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚫ <br/> 3 parts | 03/01/2025 | [🎧 Spotify](https://open.spotify.com/track/7ehBMuHNA3GLpCAMnVstjO) |
+
+# 💿 Full-Album DLC
+These DLC packs each contain an entire music album from a given artist; great for fans of that artist!
+
 ## 🏖 SUMMERTIDE by Alohaii
 Keep summer in your heart with this brilliant pop and electronic album from Alohaii. Expect a challenge on vocals with these ten songs, featuring ten different virtual singers and Vtubers!
 | Track | Artist | Album | Genre | Year |  Guitar | Bass | Drums | Keys | Vocals | Release | Link |
@@ -141,7 +160,7 @@ Keep summer in your heart with this brilliant pop and electronic album from Aloh
 
 ## 🌈 Wanderkid by JW Francis
 Follow the journey of Wanderkid in JW Francis's sophomore album! Escape with warm lo-fi indie rock vibes and nostalgically jangly guitar.
-(The first track from this album - John, Take Me With You - is absent from this DLC, as it's already present in the main setlist.)
+(The first track from this album - John, Take Me With You - is absent from this DLC, and can instead be found in YARG's main setlist.)
 | Track | Artist | Album | Genre | Year |  Guitar | Bass | Drums | Keys | Vocals | Release | Link |
 | :-- | :-- | :-- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | I Love You | JW Francis | Wanderkid | Indie Rock | 2021 | ⚪⚪⚫⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚫⚫⚫⚫ <br/> Pro:⚪⚪⚫⚫⚫ | ⚪⚪⚫⚫⚫ <br/> 2&nbsp;parts | 09/30/2024 | [🎧 Spotify](https://open.spotify.com/track/2ClWBJQK4MBcrg892bsepV) |
@@ -154,6 +173,9 @@ Follow the journey of Wanderkid in JW Francis's sophomore album! Escape with war
 | Fake It Till You Make It | JW Francis | Wanderkid | Indie Rock | 2021 | ⚪⚫⚫⚫⚫ <br/> Pro:⚪⚫⚫⚫⚫ | ⚫⚫⚫⚫⚫ <br/> Pro:⚫⚫⚫⚫⚫ | ⚪⚫⚫⚫⚫ <br/> Elite:⚪⚫⚫⚫⚫ | ⚫⚫⚫⚫⚫ <br/> Pro:⚫⚫⚫⚫⚫ | ⚪⚫⚫⚫⚫ | 09/30/2024 | [🎧 Spotify](https://open.spotify.com/track/6j4s2ABN0YMCfaIH3mIS4S) |
 | I'm Probably a Ghost | JW Francis | Wanderkid | Indie Rock | 2021 | ⚪⚪⚪⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚪⚪⚫ <br/> Elite:⚪⚪⚪⚪⚫ | ⚫⚫⚫⚫⚫ <br/> Pro:⚫⚫⚫⚫⚫ | ⚪⚪⚫⚫⚫ | 09/30/2024 | [🎧 Spotify](https://open.spotify.com/track/1gJ0T4LxNJQ5JWC9CxrPps) |
 | Cars | JW Francis | Wanderkid | Indie Rock | 2021 | ⚪⚪⚪⚫⚫ | ⚪⚫⚫⚫⚫ | No Part | No Part | ⚪⚪⚫⚫⚫ <br/> 3&nbsp;parts | 09/30/2024 | [🎧 Spotify](https://open.spotify.com/track/06wJFNzV0i738fVdq5LvoC) |
+
+# 🎼 Music Lesson DLC
+These packs are geared towards helping to teach players to play real instruments, through YARG's Pro and Elite play modes.
 
 ## 🎹 Classical Keys Pack 1
 Explore world-famous pieces for piano, organ, and even calliope with YARG's first collection of public domain classical music. Learn authentic right-hand parts on Pro Keys, or play five-lane versions of each hand on Keys and Bass!
@@ -188,14 +210,3 @@ Ring in the holiday season with six public domain Christmas classics. Learn auth
 | Jolly Old Saint Nicholas | Emily Huntington Miller and James R. Murray | Christmas Keys 01 | Holiday | 1874 | No Part | ⚫⚫⚫⚫⚫ | No Part | ⚪⚫⚫⚫⚫ <br/> Pro:⚪⚫⚫⚫⚫ | No Part | 12/15/2024 <br/> [preview](https://youtu.be/FPsL2l40Nx8) |  |
 | Joy to the World | Isaac Watts | Christmas Keys 01 | Holiday | 1719 | No Part | ⚪⚫⚫⚫⚫ | No Part | ⚪⚪⚫⚫⚫ <br/> Pro:⚪⚪⚫⚫⚫ | No Part | 12/15/2024 <br/> [preview](https://youtu.be/FPsL2l40Nx8) |  |
 
-## 🤘 Assorted Metal 1
-Rock out with an assortment of accessible metal songs, drawing from nu-metal, alternative, thrash, and djent!
-| Track | Artist | Album | Genre | Year |  Guitar | Bass | Drums | Keys | Vocals | Release | Link |
-| :-- | :-- | :-- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| Full Body Plutonium | Frostbitt | Machine Destroy | Industrial | 2023 | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚫⚫ <br/> Rthm:⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚪ <br/> Elite:⚪⚪⚪⚪⚪ | No Part | ⚪⚪⚪⚫⚫ <br/> 2 parts | 03/01/2025 | [🎧 Spotify](https://open.spotify.com/track/1Arj52jLedtrvOGAvroPkT) |
-| What You Really Want | Garlagan | If It Will | Alternative | 2022 | ⚪⚪⚪⚪⚪ | ⚪⚪⚪⚪⚫ <br/> Rthm:⚪⚪⚪⚪⚪ | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚪ <br/> Pro:⚪⚪⚪⚪⚪ | ⚪⚪⚪⚪⚫ <br/> 3 parts | 03/01/2025 | [🎧 Spotify](https://open.spotify.com/track/4CdzT1QOGfxcRK2Kq3eF6j) |
-| Sleep Cycles | Heartsick | Single | Nu-Metal | 2024 | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚫⚫ <br/> Rthm:⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚫ | ⚪⚪⚫⚫⚫ <br/> Pro:⚪⚪⚫⚫⚫ | ⚪⚫⚫⚫⚫ <br/> 3 parts | 03/01/2025 | [🎧 Spotify](https://open.spotify.com/track/3Q4o2s0ig9SwmLcMDEEjtb) |
-| The Mortal Plane | Mindiode | Elusive Perception | Djent | 2024 | ⚪⚪⚪⚪⚪ | ⚪⚪⚪⚫⚫ <br/> Rthm:⚪⚪⚪⚪⚫ | ⚪⚪⚪⚪⚪ | ⚪⚪⚪⚪⚪ <br/> Pro:⚪⚪⚪⚪⚪ | No Part | 03/01/2025 | [🎧 Spotify](https://open.spotify.com/track/6prdRCiAGX26G3aB2hnAXk) |
-| Harbinger of Pestilence | Silverhawk | Tomorrow's Too Late | Thrash, Speed Metal | 2024 | 🔴🔴🔴🔴🔴 | ⚪⚪⚪⚫⚫ <br/> Rthm:⚪⚪⚪⚪⚫ | 🔴🔴🔴🔴🔴 <br/> Elite:🔴🔴🔴🔴🔴 | No Part | No Part | 03/01/2025 | [🎧 bandcamp](https://silverhawkthrash.bandcamp.com/track/harbinger-of-pestilence) |
-| Control | Thousand Thoughts | Single | Nu-Metal | 2021 | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚫⚫ <br/> Rthm:⚪⚪⚪⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚪⚫⚫ <br/> Pro:⚪⚪⚪⚫⚫ | ⚪⚪⚪⚫⚫ <br/> 3 parts | 03/01/2025 | [🎧 Spotify](https://open.spotify.com/track/6U3V2gODkIrXKdL1D0uwKQ) |
-| Simple Folds | Zephyrianna, Tsyolin and BoffleFloffle | Single | Punk | 2023 | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚫⚫ <br/> Rthm:⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚫⚫ <br/> Pro:⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚫ <br/> 3 parts | 03/01/2025 | [🎧 Spotify](https://open.spotify.com/track/7ehBMuHNA3GLpCAMnVstjO) |
