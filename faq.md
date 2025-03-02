@@ -2,7 +2,7 @@
 title: 📓 F.A.Q.
 description: Frequently Asked Questions
 published: true
-date: 2025-01-25T23:28:51.252Z
+date: 2025-03-02T15:00:53.346Z
 tags: faq
 editor: markdown
 dateCreated: 2023-08-07T16:52:31.163Z
@@ -56,3 +56,10 @@ Future-proofing. The YARC "Yet Another Rhythm Company" branding gives us an umbr
 
 ## 🏢 Is YARC a business?
 ❌ No. Despite the name, "Yet Another Rhythm Company" is not actually a company, corporation, or any sort of business.
+
+## 🏪 What is the YARC Launcher Marketplace?
+The Marketplace is where official YARG song packs can be freely downloaded. This includes our main setlist, a variety of DLC, and even community creations submitted through YARN.
+
+# YARN
+## 🧶 What is YARN?
+Yet Another Rhythm Network is our community chart-distribution service! Inspired by Rock Band Network, YARN allows charters to submit their own charts for distribution through the YARC Launcher Marketplace, so long as the music is properly licensed and the charts meet our standards and requirements. For more information, see the [Charting](/songs/charting) page.
