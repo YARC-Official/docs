@@ -2,7 +2,7 @@
 title: ▶️ Play Modes
 description: Useful information about the current supported play modes
 published: true
-date: 2025-01-24T22:45:19.974Z
+date: 2025-03-02T04:00:24.244Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-03T20:39:05.082Z
@@ -95,7 +95,7 @@ These have no specific timeframe, but are either in the issue tracker or at leas
 A turntable, three buttons, and a fade slider; a Heroic spinoff.
 A task for this exists in the issue tracker.
 
-## 🦍 Bongos
+## 🪘 Bongos
 A pair of bongos and a clap detector; each bongo has two distinct sensors.
 A task for this exists in the issue tracker.
 
