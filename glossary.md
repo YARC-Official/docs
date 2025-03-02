@@ -2,7 +2,7 @@
 title: 📖 Glossary
 description: Some common terms and what they mean
 published: true
-date: 2025-03-02T04:22:39.189Z
+date: 2025-03-02T04:23:02.201Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-12T21:41:56.593Z
@@ -141,7 +141,7 @@ For details on which controllers require dongles, check out the [Instruments](/I
 ## ᚼᛒ Bluetooth
 A common short-range wireless communications protocol, supported by many devices, including the official Rock Band 4 PS4 instruments.
 
-## 🎘 MIDI
+## 🎶 MIDI
 Musical Instrument Digital Interface is a standard for communication between music-related devices, typically controllers/instruments, and synthesizers. Instead of transmitting actual audio, MIDI carries data about specific notes, devoid of any sound. It's up to the receiving device to determine how to interpret and sound those notes.
 While traditional MIDI cables use a 5-pin DIN connector, many recent devices can transmit MIDI over USB, making it convenient to connect such devices to a computer, either for music production or for rhythm games like YARG.
 
