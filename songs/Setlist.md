@@ -2,7 +2,7 @@
 title: 💽 Setlist
 description: More information about the songs in our Official Setlist
 published: true
-date: 2025-03-02T20:30:22.149Z
+date: 2025-03-02T20:55:10.940Z
 tags: songs, setlist, official
 editor: markdown
 dateCreated: 2023-07-30T21:18:21.243Z
@@ -181,32 +181,32 @@ These packs are geared towards helping to teach players to play real instruments
 Explore world-famous pieces for piano, organ, and even calliope with YARG's first collection of public domain classical music. Learn authentic right-hand parts on Pro Keys, or play five-lane versions of each hand on Keys and Bass!
 | Track | Artist | Album | Genre | Year |  Guitar | Bass | Drums | Keys | Vocals | Release | Link | 
 | :-- | :-- | :-- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| Bridal Chorus | Richard Wagner | Classical Keys 01 | Classical | 1850 | No Part | ⚪⚪⚪⚫⚫ | No Part | ⚪⚪⚪⚫⚫ <br/> Pro:⚪⚪⚪⚫⚫ | No Part | 10/22/2024 |  |
-| Clair de Lune | Claude Debussy | Classical Keys 01 | Classical | 1905 | No Part | ⚪⚪⚫⚫⚫ | No Part | ⚪⚪⚫⚫⚫ <br/> Pro:⚪⚪⚫⚫⚫ | No Part | 10/22/2024 |  |
-| Entrance of the Gladiators | Julius Fučík | Classical Keys 01 | Classical | 1899 | No Part | ⚪⚪⚪⚪⚫ | No Part | ⚪⚪⚪⚪⚫ <br/> Pro:⚪⚪⚪⚪⚫ | No Part | 10/22/2024 |  |
-| Maple Leaf Rag | Scott Joplin | Classical Keys 01 | Jazz | 1899 | No Part | ⚪⚪⚪⚫⚫ | No Part | ⚪⚪⚪⚪⚪ <br/> Pro:⚪⚪⚪⚪⚪ | No Part | 10/22/2024 |  |
-| Marche Funèbre | Frédéric Chopin | Classical Keys 01 | Classical | 1840 | No Part | ⚪⚪⚫⚫⚫ | No Part | ⚪⚪⚫⚫⚫ <br/> Pro:⚪⚪⚫⚫⚫ | No Part | 10/22/2024 |  |
-| Scherzo No. 1 | Frédéric Chopin | Classical Keys 01 | Classical | 1835 | No Part | ⚪⚪⚪⚪⚪ | No Part | 🔴🔴🔴🔴🔴 <br/> Pro:🔴🔴🔴🔴🔴 | No Part | 10/22/2024 |  |
+| Bridal Chorus | ⿻ Richard Wagner | Classical Keys 01 | Classical | 1850 | No Part | ⚪⚪⚪⚫⚫ | No Part | ⚪⚪⚪⚫⚫ <br/> Pro:⚪⚪⚪⚫⚫ | No Part | 10/22/2024 |  |
+| Clair de Lune | ⿻ Claude Debussy | Classical Keys 01 | Classical | 1905 | No Part | ⚪⚪⚫⚫⚫ | No Part | ⚪⚪⚫⚫⚫ <br/> Pro:⚪⚪⚫⚫⚫ | No Part | 10/22/2024 |  |
+| Entrance of the Gladiators | ⿻ Julius Fučík | Classical Keys 01 | Classical | 1899 | No Part | ⚪⚪⚪⚪⚫ | No Part | ⚪⚪⚪⚪⚫ <br/> Pro:⚪⚪⚪⚪⚫ | No Part | 10/22/2024 |  |
+| Maple Leaf Rag | ⿻ Scott Joplin | Classical Keys 01 | Jazz | 1899 | No Part | ⚪⚪⚪⚫⚫ | No Part | ⚪⚪⚪⚪⚪ <br/> Pro:⚪⚪⚪⚪⚪ | No Part | 10/22/2024 |  |
+| Marche Funèbre | ⿻ Frédéric Chopin | Classical Keys 01 | Classical | 1840 | No Part | ⚪⚪⚫⚫⚫ | No Part | ⚪⚪⚫⚫⚫ <br/> Pro:⚪⚪⚫⚫⚫ | No Part | 10/22/2024 |  |
+| Scherzo No. 1 | ⿻ Frédéric Chopin | Classical Keys 01 | Classical | 1835 | No Part | ⚪⚪⚪⚪⚪ | No Part | 🔴🔴🔴🔴🔴 <br/> Pro:🔴🔴🔴🔴🔴 | No Part | 10/22/2024 |  |
 
 ## 🎹 Children's Keys Pack 1
 If you have a budding pianist in your life (or if the classical songs are too hard for you), try this easy pack of classic children's songs and nursery rhymes. Learn real melodies on Pro Keys, or play five-lane versions of both the melody and harmony with the Keys and Bass parts.
 | Track | Artist | Album | Genre | Year |  Guitar | Bass | Drums | Keys | Vocals | Release | Link | 
 | :-- | :-- | :-- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| Frère Jacques | Jean-Philippe Rameau | Children's Keys 01 | Children's Music | 1811 | No Part | ⚫⚫⚫⚫⚫ | No Part | ⚪⚫⚫⚫⚫ <br/> Pro:⚪⚫⚫⚫⚫ | No Part | 10/22/2024 |  |
-| Happy Birthday to You | Patty and Mildred J. Hill | Children's Keys 01 | Children's Music | 1893 | No Part | ⚫⚫⚫⚫⚫ | No Part | ⚫⚫⚫⚫⚫ <br/> Pro:⚫⚫⚫⚫⚫ | No Part | 10/22/2024 |  |
-| Mary Had a Little Lamb | Sarah Josepha Hale | Children's Keys 01 | Children's Music | 1830 | No Part | ⚫⚫⚫⚫⚫ | No Part | ⚫⚫⚫⚫⚫ <br/> Pro:⚫⚫⚫⚫⚫ | No Part | 10/22/2024 |  |
-| Rock-a-Bye Baby | Effie I. Canning | Children's Keys 01 | Children's Music | 1884 | No Part | ⚪⚫⚫⚫⚫ | No Part | ⚪⚫⚫⚫⚫ <br/> Pro:⚪⚫⚫⚫⚫ | No Part | 10/22/2024 |  |
-| Row, Row, Row Your Boat | Eliphalet Oram Lyte | Children's Keys 01 | Children's Music | 1881 | No Part | ⚫⚫⚫⚫⚫ | No Part | ⚪⚫⚫⚫⚫ <br/> Pro:⚪⚫⚫⚫⚫ | No Part | 10/22/2024 |  |
-| Twinkle, Twinkle, Little Star | Jane Taylor | Children's Keys 01 | Children's Music | 1806 | No Part | ⚫⚫⚫⚫⚫ | No Part | ⚫⚫⚫⚫⚫ <br/> Pro:⚫⚫⚫⚫⚫ | No Part | 10/22/2024 |  |
+| Frère Jacques | ⿻ Jean-Philippe Rameau | Children's Keys 01 | Children's Music | 1811 | No Part | ⚫⚫⚫⚫⚫ | No Part | ⚪⚫⚫⚫⚫ <br/> Pro:⚪⚫⚫⚫⚫ | No Part | 10/22/2024 |  |
+| Happy Birthday to You | ⿻ Patty and Mildred J. Hill | Children's Keys 01 | Children's Music | 1893 | No Part | ⚫⚫⚫⚫⚫ | No Part | ⚫⚫⚫⚫⚫ <br/> Pro:⚫⚫⚫⚫⚫ | No Part | 10/22/2024 |  |
+| Mary Had a Little Lamb | ⿻ Sarah Josepha Hale | Children's Keys 01 | Children's Music | 1830 | No Part | ⚫⚫⚫⚫⚫ | No Part | ⚫⚫⚫⚫⚫ <br/> Pro:⚫⚫⚫⚫⚫ | No Part | 10/22/2024 |  |
+| Rock-a-Bye Baby | ⿻ Effie I. Canning | Children's Keys 01 | Children's Music | 1884 | No Part | ⚪⚫⚫⚫⚫ | No Part | ⚪⚫⚫⚫⚫ <br/> Pro:⚪⚫⚫⚫⚫ | No Part | 10/22/2024 |  |
+| Row, Row, Row Your Boat | ⿻ Eliphalet Oram Lyte | Children's Keys 01 | Children's Music | 1881 | No Part | ⚫⚫⚫⚫⚫ | No Part | ⚪⚫⚫⚫⚫ <br/> Pro:⚪⚫⚫⚫⚫ | No Part | 10/22/2024 |  |
+| Twinkle, Twinkle, Little Star | ⿻ Jane Taylor | Children's Keys 01 | Children's Music | 1806 | No Part | ⚫⚫⚫⚫⚫ | No Part | ⚫⚫⚫⚫⚫ <br/> Pro:⚫⚫⚫⚫⚫ | No Part | 10/22/2024 |  |
 
 ## 🎹 Christmas Keys 1
 Ring in the holiday season with six public domain Christmas classics. Learn authentic right-hand parts on Pro Keys, or play five-lane versions of each hand on Keys and Bass!
 | Track | Artist | Album | Genre | Year |  Guitar | Bass | Drums | Keys | Vocals | Release | Link | 
 | :-- | :-- | :-- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| Dance of the Sugar Plum Fairy | Pyotr Ilyich Tchaikovsky | Christmas Keys 01 | Classical | 1892 | No Part | ⚪⚪⚪⚪⚫ | No Part | ⚪⚪⚪⚪⚫ <br/> Pro:⚪⚪⚪⚪⚫ | No Part | 12/15/2024 <br/> [preview](https://youtu.be/FPsL2l40Nx8) |  |
-| Deck the Halls | Thomas Oliphant | Christmas Keys 01 | Holiday | 1862 | No Part | ⚪⚪⚫⚫⚫ | No Part | ⚪⚪⚪⚫⚫ <br/> Pro:⚪⚪⚪⚫⚫ | No Part | 12/15/2024 <br/> [preview](https://youtu.be/FPsL2l40Nx8) |  |
-| Good King Wenceslas | John Mason Neale and Thomas Helmore | Christmas Keys 01 | Holiday | 1853 | No Part | ⚫⚫⚫⚫⚫ | No Part | ⚫⚫⚫⚫⚫ <br/> Pro:⚫⚫⚫⚫⚫ | No Part | 12/15/2024 <br/> [preview](https://youtu.be/FPsL2l40Nx8) |  |
-| Jingle Bells | James Lord Pierpont | Christmas Keys 01 | Holiday | 1857 | No Part | ⚪⚪⚪⚫⚫ | No Part | ⚪⚪⚫⚫⚫ <br/> Pro:⚪⚪⚫⚫⚫ | No Part | 12/15/2024 <br/> [preview](https://youtu.be/FPsL2l40Nx8) |  |
-| Jolly Old Saint Nicholas | Emily Huntington Miller and James R. Murray | Christmas Keys 01 | Holiday | 1874 | No Part | ⚫⚫⚫⚫⚫ | No Part | ⚪⚫⚫⚫⚫ <br/> Pro:⚪⚫⚫⚫⚫ | No Part | 12/15/2024 <br/> [preview](https://youtu.be/FPsL2l40Nx8) |  |
-| Joy to the World | Isaac Watts | Christmas Keys 01 | Holiday | 1719 | No Part | ⚪⚫⚫⚫⚫ | No Part | ⚪⚪⚫⚫⚫ <br/> Pro:⚪⚪⚫⚫⚫ | No Part | 12/15/2024 <br/> [preview](https://youtu.be/FPsL2l40Nx8) |  |
+| Dance of the Sugar Plum Fairy | ⿻ Pyotr Ilyich Tchaikovsky | Christmas Keys 01 | Classical | 1892 | No Part | ⚪⚪⚪⚪⚫ | No Part | ⚪⚪⚪⚪⚫ <br/> Pro:⚪⚪⚪⚪⚫ | No Part | 12/15/2024 <br/> [preview](https://youtu.be/FPsL2l40Nx8) |  |
+| Deck the Halls | ⿻ Thomas Oliphant | Christmas Keys 01 | Holiday | 1862 | No Part | ⚪⚪⚫⚫⚫ | No Part | ⚪⚪⚪⚫⚫ <br/> Pro:⚪⚪⚪⚫⚫ | No Part | 12/15/2024 <br/> [preview](https://youtu.be/FPsL2l40Nx8) |  |
+| Good King Wenceslas | ⿻ John Mason Neale and Thomas Helmore | Christmas Keys 01 | Holiday | 1853 | No Part | ⚫⚫⚫⚫⚫ | No Part | ⚫⚫⚫⚫⚫ <br/> Pro:⚫⚫⚫⚫⚫ | No Part | 12/15/2024 <br/> [preview](https://youtu.be/FPsL2l40Nx8) |  |
+| Jingle Bells | ⿻ James Lord Pierpont | Christmas Keys 01 | Holiday | 1857 | No Part | ⚪⚪⚪⚫⚫ | No Part | ⚪⚪⚫⚫⚫ <br/> Pro:⚪⚪⚫⚫⚫ | No Part | 12/15/2024 <br/> [preview](https://youtu.be/FPsL2l40Nx8) |  |
+| Jolly Old Saint Nicholas | ⿻ Emily Huntington Miller and James R. Murray | Christmas Keys 01 | Holiday | 1874 | No Part | ⚫⚫⚫⚫⚫ | No Part | ⚪⚫⚫⚫⚫ <br/> Pro:⚪⚫⚫⚫⚫ | No Part | 12/15/2024 <br/> [preview](https://youtu.be/FPsL2l40Nx8) |  |
+| Joy to the World | ⿻ Isaac Watts | Christmas Keys 01 | Holiday | 1719 | No Part | ⚪⚫⚫⚫⚫ | No Part | ⚪⚪⚫⚫⚫ <br/> Pro:⚪⚪⚫⚫⚫ | No Part | 12/15/2024 <br/> [preview](https://youtu.be/FPsL2l40Nx8) |  |
 
