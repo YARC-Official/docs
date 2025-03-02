@@ -2,7 +2,7 @@
 title: 🎼 Charting
 description: Guidelines for charting YARG songs
 published: true
-date: 2025-03-02T14:39:00.773Z
+date: 2025-03-02T14:45:40.013Z
 tags: songs, charting, guidelines
 editor: markdown
 dateCreated: 2023-06-08T20:40:29.063Z
@@ -56,5 +56,5 @@ We hope to see your submissions soon!
 
 # 🧶 YARN
 YARN, short for Yet Another Rhythm Network, is a chart distribution service that allows all charters to make charts officially for YARG. Inspired by Rock Band Network, it is legally robust and is more direct than downloading from a separate site. Packs of YARN charts will be downloadable from the YARG Launcher Marketplace (for free!).
-- [🧶 YARN Submission Guidelines *Details how submissions work, how songs can be licensed, and standards/requirements for charts*](https://docs.google.com/document/d/1OI2YjFrHDwAJd152UuSc1r0GcauhHSxPqFKHGXvlAQ0/view)
+- [📑 YARN Submission Guidelines *Details the submission process, song licensing, and standards/requirements for charts*](https://docs.google.com/document/d/1OI2YjFrHDwAJd152UuSc1r0GcauhHSxPqFKHGXvlAQ0/view)
 {.links-list}
