@@ -2,7 +2,7 @@
 title: 💽 Setlist
 description: More information about the songs in our Official Setlist
 published: true
-date: 2025-03-02T03:55:45.822Z
+date: 2025-03-02T04:20:22.229Z
 tags: songs, setlist, official
 editor: markdown
 dateCreated: 2023-07-30T21:18:21.243Z
@@ -83,7 +83,7 @@ YARG's Official Setlist is a multi-genre, full-band full-difficulty, in developm
 # 📥 DLC
 These are songs which we're making available separately from the main setlist. Maybe we want to spotlight a particular artist without overrepresenting their work; maybe we wish to cover some music that doesn't lend itself to full-band play. Whatever the reason, DLC is what we're calling it.
 
-# 🖭 Genre-themed DLC
+# 📻 Genre-themed DLC
 These DLC packs each feature tracks from a variety of artists, with music broadly falling under a common genre. Expand your setlist's representation of your favorite genre with the corresponding DLC!
 
 ## 🎸 Assorted Rock 1
