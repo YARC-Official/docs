@@ -2,7 +2,7 @@
 title: 💽 Setlist
 description: More information about the songs in our Official Setlist
 published: true
-date: 2025-03-02T20:22:59.694Z
+date: 2025-03-02T20:30:22.149Z
 tags: songs, setlist, official
 editor: markdown
 dateCreated: 2023-07-30T21:18:21.243Z
@@ -74,10 +74,10 @@ YARG's Official Setlist is a multi-genre, full-band full-difficulty, in developm
 ## 🆓 Creative Commons and free-to-use songs attribution:
 | Track | Artist | Licence | Source Link |
 | :-- | :-- | :-- | :--: |
-| 322 | Creo | released under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [▶&nbsp;Youtube](https://youtu.be/JmobbPTaFcw&t=0s) |
+| 322 | Creo | released under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [▶&nbsp;YouTube](https://youtu.be/JmobbPTaFcw&t=0s) |
 | Discipline | Nine Inch Nails | released under [CC-BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) | [🆓 Free Music Archive](https://freemusicarchive.org/music/Nine_Inch_Nails/The_Slip/Discipline/) |
 | Half Measures | Aaron Musslewhite | released under [CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/) | [🆖&nbsp;Newgrounds](https://www.newgrounds.com/audio/listen/817529)  
-| Vehemence | Reo | General use described in the given source link. | [▶&nbsp;Youtube](https://youtu.be/xtsvZX2lES4&t=0s) |
+| Vehemence | Reo | General use described in the given source link. | [▶&nbsp;YouTube](https://youtu.be/xtsvZX2lES4&t=0s) |
 
 
 # 📥 DLC
@@ -95,7 +95,7 @@ Join us for our first pack of DLC with a collection of indie performances and el
 | Burn | Troubled Minds | Single | Punk | 2020 | ⚪⚫⚫⚫⚫ | ⚫⚫⚫⚫⚫ | ⚪⚫⚫⚫⚫ | No Part | ⚪⚫⚫⚫⚫ <br/> 3&nbsp;parts | 08/24/2024 | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/53HV6yGFXHzrl8CuXVB1uy) <br/> [▰&nbsp;bandcamp](https://troubledminds.bandcamp.com/track/burn) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=s6U9kPJL8JM) |
 | Drunken Monday (Freeway Mix) | Fisher Wagg | Leftovers | Indie Rock | 2024 | ⚪⚪⚪⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚫⚫⚫⚫ <br/> Elite:⚪⚫⚫⚫⚫ | No Part | ⚪⚪⚪⚫⚫ <br/> 3&nbsp;parts | 08/24/2024 | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/4eeek5JylA8LNb7PfbiOqI) <br/> [▰&nbsp;bandcamp](https://fisherwagg.bandcamp.com/track/drunken-monday-freeway-mix) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=GjAYfKcZUh8) |
 | Middle of the City Road | Walter Ralts | Rock On | Electronic Rock | 2022 | ⚪⚪⚪⚫⚫ <br/> Pro:⚪⚪⚪⚫⚫ | ⚪⚪⚪⚫⚫ <br/> Pro:⚪⚪⚪⚪⚫| ⚪⚪⚫⚫⚫ <br/> Elite:⚪⚪⚫⚫⚫ | ⚪⚫⚫⚫⚫ <br/> Pro:⚪⚫⚫⚫⚫ | No Part | 08/24/2024 | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/48D48RrEqhtyA8iyvnhAkm) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=3NGXaniozEU) |
-| Moonlight | Chill | Single | Ballad | 2022 | ⚪⚪⚫⚫⚫ <br/> Pro:⚪⚫⚫⚫⚫ | ⚫⚫⚫⚫⚫ <br/> Pro:⚫⚫⚫⚫⚫ | No Part | ⚪⚫⚫⚫⚫ <br/> Pro:⚪⚫⚫⚫⚫ | ⚪⚫⚫⚫⚫ | 12/08/2024 | [▶&nbsp;Youtube](https://youtu.be/G0BWgshAp-E) |
+| Moonlight | Chill | Single | Ballad | 2022 | ⚪⚪⚫⚫⚫ <br/> Pro:⚪⚫⚫⚫⚫ | ⚫⚫⚫⚫⚫ <br/> Pro:⚫⚫⚫⚫⚫ | No Part | ⚪⚫⚫⚫⚫ <br/> Pro:⚪⚫⚫⚫⚫ | ⚪⚫⚫⚫⚫ | 12/08/2024 | [▶&nbsp;YouTube](https://youtu.be/G0BWgshAp-E) |
 | Rock Thing | Creo | Single | Electronic Rock | 2017 | ⚪⚪⚪⚫⚫ | ⚪⚫⚫⚫⚫ | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚫ <br/> Pro:⚪⚪⚪⚪⚫ | No Part | 12/08/2024 | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/6bcBoFC5XTNHSNZ5GjR4oU) <br/> [▰&nbsp;bandcamp](https://creo-music.com/track/rock-thing) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=-W52cDdeAuI) <br/> [☁&nbsp;SoundCloud](https://soundcloud.com/creo/rock-thing) |
 | Simplicity | Scott Buckley | Single | Folk | 2024 | ⚪⚫⚫⚫⚫ | ⚫⚫⚫⚫⚫ | ⚪⚫⚫⚫⚫ | ⚪⚪⚫⚫⚫ <br/> Pro:⚪⚪⚫⚫⚫ | No Part | 12/08/2024 | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/1O50EaBNwByMP3rTi6pymY) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=qPL5gh8OxCw) <br/> [☁&nbsp;SoundCloud](https://soundcloud.com/scottbuckley/simplicity-cc-by) |
 | Turtleneck | TrackTribe | And One for Good Luck | Rock | 2019 | ⚪⚪⚪⚫⚫ | ⚪⚫⚫⚫⚫ | ⚪⚪⚪⚫⚫ | ⚪⚪⚫⚫⚫ <br/> Pro:⚪⚪⚫⚫⚫ | No Part | 12/08/2024 | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/53imu7YC3rp9s1j9YSV1hW) <br/> [▰&nbsp;bandcamp](https://tracktribealbums.bandcamp.com/track/turtleneck) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=MkGRIr1rAhs) <br/> [☁&nbsp;SoundCloud](https://soundcloud.com/tracktribemusic/turtleneck) |
@@ -103,7 +103,7 @@ Join us for our first pack of DLC with a collection of indie performances and el
 ### 🆓 Creative Commons and free-to-use songs attribution:
 | Track | Artist | Licence | Source Link |
 | :-- | :-- | :-- | :--: |
-| Rock Thing | Creo | released under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [▶&nbsp;Youtube](https://www.youtube.com/watch?v=-W52cDdeAuI) |
+| Rock Thing | Creo | released under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [▶&nbsp;YouTube](https://www.youtube.com/watch?v=-W52cDdeAuI) |
 | Simplicity | Scott Buckley | released under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [🌐&nbsp;ScottBuckley.com.au](https://www.scottbuckley.com.au) |
 
 ## 💻 Assorted Electronic 1
