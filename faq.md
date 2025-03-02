@@ -2,7 +2,7 @@
 title: 📓 F.A.Q.
 description: Frequently Asked Questions
 published: true
-date: 2025-03-02T15:00:53.346Z
+date: 2025-03-02T15:10:35.342Z
 tags: faq
 editor: markdown
 dateCreated: 2023-08-07T16:52:31.163Z
@@ -63,3 +63,12 @@ The Marketplace is where official YARG song packs can be freely downloaded. This
 # YARN
 ## 🧶 What is YARN?
 Yet Another Rhythm Network is our community chart-distribution service! Inspired by Rock Band Network, YARN allows charters to submit their own charts for distribution through the YARC Launcher Marketplace, so long as the music is properly licensed and the charts meet our standards and requirements. For more information, see the [Charting](/songs/charting) page.
+
+# Weaver
+## What is Weaver?
+Weaver is our upcoming chart editing software. Initially announced as YACE - Yet Another Chart Editor - Weaver is meant to be a comprehensive tool for producing charts, incorporating all relevant features and instruments which YARG supports.
+
+## Why the name 'Weaver'?
+Two reasons: Firstly, it's evocative of REAPER, one of the more fully-featured packages for chart editing, and the one which was officially used when charting for Rock Band Network.
+
+Secondly, it fits thematically with the name of our chart distribution service, YARN.
