@@ -2,7 +2,7 @@
 title: 🎸 Instruments
 description: Information about hardware game controllers
 published: true
-date: 2025-01-10T01:04:20.488Z
+date: 2025-03-07T04:08:22.958Z
 tags: instruments, vocals, guitar, bass, drums, pro guitar, pro drums, pro bass, keys, pro keys, elite drums
 editor: markdown
 dateCreated: 2023-07-30T03:57:46.912Z
@@ -151,6 +151,9 @@ YARG natively supports e-kits with USB MIDI output.  For older kits with only 5-
 |Picture|Microphone|Xbox 360|
 | :---: | :---: | :---: |
 |<img src="/instruments/microphones/rbm.i.c.png" width="300">|M.I.C|✅|
+###  ⚠️Note!
+The M.I.C. is treated as two separate devices: a microphone, and a gamepad. Be sure to add both to your profile.
+
 **3rd Party**
 
 | Picture | Company | Microphone | Xbox 360 | XLR |
