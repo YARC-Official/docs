@@ -2,7 +2,7 @@
 title: 💽 Setlist
 description: More information about the songs in our Official Setlist
 published: true
-date: 2025-03-08T19:52:42.011Z
+date: 2025-03-08T20:00:47.912Z
 tags: songs, setlist, official
 editor: markdown
 dateCreated: 2023-07-30T21:18:21.243Z
@@ -227,3 +227,9 @@ Our first grab-bag pack from YARN authors. Check out what they've submitted!
 | Second Wind | Walter Ralts | Sharp Ears | Math Rock | 2022 | Walterralts | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚪⚫ <br/> Elite:⚪⚪⚪⚪⚫ | ⚪⚪⚪⚫⚫ <br/> Pro:⚪⚪⚪⚫⚫ | No Part | 3/8/2024 | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/7gRximb6cZNM09F7IN8EON) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=y3Vyk5XV4R0) |
 | Ways of Torment | Silverhawk | Thunder on a Distant Horizon | Technical Thrash Metal | 2024 | EmilyFC's | ⚪⚪⚪⚪⚪ | No Part | No Part | No Part | No Part | 3/8/2024 | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/1csppuq0xd5xXlXa5O0LQ7) <br/> [▰&nbsp;bandcamp](https://silverhawkthrash.bandcamp.com/track/ways-of-torment) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=ekKsA_pdepE) |
 | Whispers (Rose Ver.) | Asilveras | Single | Rock | 2025 | Hubbubble | ⚪⚪⚫⚫⚫ | ⚪⚫⚫⚫⚫ | ⚪⚪⚫⚫⚫ | No Part | No Part | 3/8/2024 | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/5QOw13H4JGuvZ6ls8PhhXx) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=lA0j-Ps7jYE) <br/> [☁&nbsp;SoundCloud](https://soundcloud.com/asilveras/whispers-rose-ver) |
+
+### 🆓 Creative Commons and free-to-use songs attribution:
+| Track | Artist | Licence | Source Link |
+| :-- | :-- | :-- | :--: |
+| Burn | Counterparts | released under [CC-BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/) | [▰&nbsp;bandcamp](https://counterpartshc.bandcamp.com/track/burn) |
+| How | Exyl and Paper Skies | released under [CC-BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) | [▰&nbsp;bandcamp](https://exyl.bandcamp.com/track/exyl-paper-skies-how) |
