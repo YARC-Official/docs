@@ -2,7 +2,7 @@
 title: 💽 Setlist
 description: More information about the songs in our Official Setlist
 published: true
-date: 2025-03-03T14:30:45.265Z
+date: 2025-03-08T19:39:23.454Z
 tags: songs, setlist, official
 editor: markdown
 dateCreated: 2023-07-30T21:18:21.243Z
@@ -210,3 +210,20 @@ Ring in the holiday season with six public domain Christmas classics. Learn auth
 | Jolly Old Saint Nicholas | ⿻ Emily Huntington Miller and James R. Murray | Christmas Keys 01 | Holiday | 1874 | No Part | ⚫⚫⚫⚫⚫ | No Part | ⚪⚫⚫⚫⚫ <br/> Pro:⚪⚫⚫⚫⚫ | No Part | 12/15/2024 <br/> [preview](https://youtu.be/FPsL2l40Nx8) |  |
 | Joy to the World | ⿻ Isaac Watts | Christmas Keys 01 | Holiday | 1719 | No Part | ⚪⚫⚫⚫⚫ | No Part | ⚪⚪⚫⚫⚫ <br/> Pro:⚪⚪⚫⚫⚫ | No Part | 12/15/2024 <br/> [preview](https://youtu.be/FPsL2l40Nx8) |  |
 
+# 🧶 YARN
+YARN, short for Yet Another Rhythm Network, is a chart distribution service that allows all charters to make charts officially for YARG. Inspired by Rock Band Network, it is legally robust and is more direct than downloading from a separate site.
+
+## 🧶 YARN Pack 1
+Our first grab-bag pack from YARN authors. Check out what they've submitted!
+| Track | Artist | Album | Genre | Year |  Guitar | Bass | Drums | Keys | Vocals | Release | Link | 
+| :-- | :-- | :-- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| Amelioration | Chaotrope | The Pursuit of Happiness | Progressive Metal | 2022 | 🔴🔴🔴🔴🔴 | ⚪⚪⚪⚫⚫ | 🔴🔴🔴🔴🔴 | No Part | No Part | 3/8/2024 | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/2EsYYucgQpBKhpxwgcWYKB) <br/> [▰&nbsp;bandcamp](https://chaotrope.bandcamp.com/track/amelioration) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=L4IpprOJKHE) <br/> [☁&nbsp;SoundCloud](https://soundcloud.com/chaotrope/amelioration) |
+| Burn | Counterparts | Tragedy Will Find Us | Post-Hardcore | 2015 | ⚪⚪⚫⚫⚫ | ⚪⚫⚫⚫⚫ <br/> Rthm:⚪⚪⚫⚫⚫ | No Part | No Part | No Part | 3/8/2024 | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/2s4MzLJfUR9bS3mfJbrGLn) <br/> [▰&nbsp;bandcamp](https://counterpartshc.bandcamp.com/track/burn) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=5ZjHpbDkGww) <br/> [☁&nbsp;SoundCloud](https://soundcloud.com/counterparts-official/burn) |
+| Eviternal | James Paddock | Single | Progressive Metal | 2024 | ⚪⚪⚪⚪⚪ <br/> Pro:⚪⚪⚪⚪⚪ | ⚪⚪⚪⚪⚫ <br/> Pro:⚪⚪⚪⚪⚪ | 🔴🔴🔴🔴🔴 | ⚪⚪⚪⚪⚫ <br/> Pro:⚪⚪⚪⚪⚪ | ⚪⚪⚪⚪⚪ <br/> 3 Parts | 3/8/2024 | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/3zhfF3V3Fz3CJPD6blcSyw) <br/> [▰&nbsp;bandcamp](https://jamespaddock.bandcamp.com/track/eviternal) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=_CK_d8ODbaU) |
+| Fearfulness | Jaden (ft. Various Artists) | Single | Bleep Bloop | 2024 | 🔴🔴🔴🔴🔴10 | No Part | No Part | No Part | No Part | 3/8/2024 |  |
+| How | Exyl and Paper Skies | Save This World EP | Complextro | 2023 | ⚪⚪⚪⚪⚫ | No Part | No Part | No Part | No Part | 3/8/2024 | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/0RVI7xHaIPyE7PcRwxS9qu) <br/> [▰&nbsp;bandcamp](https://exyl.bandcamp.com/track/exyl-paper-skies-how) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=EEnzDZFy5oY) <br/> [☁&nbsp;SoundCloud](https://soundcloud.com/exyl_sounds/exyl-x-paper-skies-how) |
+| I'm mindless :3 | Catastrophe | Single | Bit Metal | 2024 | 🔴🔴🔴🔴🔴8 | No Part | No Part | No Part | No Part | 3/8/2024 |  |
+| Reaper (2023 Remaster) | Chaotrope | Single | Progressive Metal | 2023 | 🔴🔴🔴🔴🔴 | ⚪⚪⚪⚫⚫ | 🔴🔴🔴🔴🔴 | No Part | No Part | 3/8/2024 | [▶&nbsp;YouTube](https://www.youtube.com/watch?v=FS92ADOfS3c) <br/> [☁&nbsp;SoundCloud](https://soundcloud.com/chaotrope/reaper-2023-remaster) |
+| Second Wind | Walter Ralts | Sharp Ears | Math Rock | 2022 | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚪⚫ <br/> Elite:⚪⚪⚪⚪⚫ | ⚪⚪⚪⚫⚫ <br/> Pro:⚪⚪⚪⚫⚫ | No Part | 3/8/2024 | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/7gRximb6cZNM09F7IN8EON) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=y3Vyk5XV4R0) |
+| Ways of Torment | Silverhawk | Thunder on a Distant Horizon | Technical Thrash Metal | 2024 | ⚪⚪⚪⚪⚪ | No Part | No Part | No Part | No Part | 3/8/2024 | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/1csppuq0xd5xXlXa5O0LQ7) <br/> [▰&nbsp;bandcamp](https://silverhawkthrash.bandcamp.com/track/ways-of-torment) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=ekKsA_pdepE) |
+| Whispers (Rose Ver.) | Asilveras | Single | Rock | 2025 | ⚪⚪⚫⚫⚫ | ⚪⚫⚫⚫⚫ | ⚪⚪⚫⚫⚫ | No Part | No Part | 3/8/2024 | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/5QOw13H4JGuvZ6ls8PhhXx) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=lA0j-Ps7jYE) <br/> [☁&nbsp;SoundCloud](https://soundcloud.com/asilveras/whispers-rose-ver) |
