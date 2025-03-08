@@ -2,7 +2,7 @@
 title: 💽 Setlist
 description: More information about the songs in our Official Setlist
 published: true
-date: 2025-03-08T19:39:23.454Z
+date: 2025-03-08T19:52:42.011Z
 tags: songs, setlist, official
 editor: markdown
 dateCreated: 2023-07-30T21:18:21.243Z
@@ -12,7 +12,7 @@ What good is a rhythm game without music?  The YARG team works with a number of 
 
 # 💽 Main Setlist
 YARG's Official Setlist is a multi-genre, full-band full-difficulty, in development setlist brought to you by YARG's amazing and talented charting team. Its eventual goal is to have 80 to 100 songs, all made with love and lots of care. The setlist contains songs from underappreciated artists, along with more well known songs.
-| Track | Artist | Album | Genre | Year |  Guitar | Bass | Drums | Keys | Vocals | Release | Link |
+| Track | Artist | Album | Genre | Year | Guitar | Bass | Drums | Keys | Vocals | Release | Link |
 | :-- | :-- | :-- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | Pizza Rolls | Bottom Bunk | Single | Emo | 2023 | ⚪⚪⚪⚪⚪ | ⚪⚫⚫⚫⚫ | ⚪⚪⚫⚫⚫ | No Part | ⚪⚪⚫⚫⚫ <br/> 3&nbsp;parts | 07/09/2023 <br/> [Wave 1](https://www.youtube.com/watch?v=Xk_HqhzvdgQ) | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/4fqnReVr3UWKT0tjtyt7Lb) <br/> [▰&nbsp;bandcamp](https://bottombunk.bandcamp.com/track/pizza-rolls) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=M5TxlaEpaKo) <br/> [☁&nbsp;SoundCloud](https://soundcloud.com/grayson-dela-fuente/bottom-bunk-pizza-rolls-master) |
 | Butterflies | Kingseeker | Daily Reminders | Metal | 2022 | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚫ | No Part | ⚪⚫⚫⚫⚫ <br/> 3&nbsp;parts | 07/09/2023 <br/> [Wave 1](https://www.youtube.com/watch?v=Xk_HqhzvdgQ)| [ᯤ&nbsp;Spotify](https://open.spotify.com/track/0eFd0NmzbuvqUtUCmFyGHT) <br/> [▰&nbsp;bandcamp](https://kingseekerno.bandcamp.com/track/butterflies) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=9AY4d6l_5TQ) <br/> [☁&nbsp;SoundCloud](https://soundcloud.com/kingseekerband/05-butterflies) |
@@ -90,7 +90,7 @@ These DLC packs each feature tracks from a variety of artists, with music broadl
 Join us for our first pack of DLC with a collection of indie performances and electronic rock tracks!
 (A subset of this pack was previously released as Assorted Pack 1.)
 
-| Track | Artist | Album | Genre | Year |  Guitar | Bass | Drums | Keys | Vocals | Release | Link |
+| Track | Artist | Album | Genre | Year | Guitar | Bass | Drums | Keys | Vocals | Release | Link |
 | :-- | :-- | :-- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | Burn | Troubled Minds | Single | Punk | 2020 | ⚪⚫⚫⚫⚫ | ⚫⚫⚫⚫⚫ | ⚪⚫⚫⚫⚫ | No Part | ⚪⚫⚫⚫⚫ <br/> 3&nbsp;parts | 08/24/2024 | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/53HV6yGFXHzrl8CuXVB1uy) <br/> [▰&nbsp;bandcamp](https://troubledminds.bandcamp.com/track/burn) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=s6U9kPJL8JM) |
 | Drunken Monday (Freeway Mix) | Fisher Wagg | Leftovers | Indie Rock | 2024 | ⚪⚪⚪⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚫⚫⚫⚫ <br/> Elite:⚪⚫⚫⚫⚫ | No Part | ⚪⚪⚪⚫⚫ <br/> 3&nbsp;parts | 08/24/2024 | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/4eeek5JylA8LNb7PfbiOqI) <br/> [▰&nbsp;bandcamp](https://fisherwagg.bandcamp.com/track/drunken-monday-freeway-mix) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=GjAYfKcZUh8) |
@@ -110,7 +110,7 @@ Join us for our first pack of DLC with a collection of indie performances and el
 Here is a pack of energetic pop/dance/electronic songs, providing challenges on all instruments!
 (A subset of this pack was previously released as Assorted Pack 2.)
 
-| Track | Artist | Album | Genre | Year |  Guitar | Bass | Drums | Keys | Vocals | Release | Link |
+| Track | Artist | Album | Genre | Year | Guitar | Bass | Drums | Keys | Vocals | Release | Link |
 | :-- | :-- | :-- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | By the Seaside (feat. Kitsui Akira) | Kirara Magic | Single | Pop | 2024 | ⚪⚪⚪⚫⚫ | ⚪⚫⚫⚫⚫ | 🔴🔴🔴🔴🔴 | ⚪⚪⚪⚫⚫ <br/> Pro:⚪⚪⚪⚫⚫ | ⚪⚪⚪⚫⚫ <br/> 2&nbsp;parts | 12/08/2024 | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/0GRNAV7pfxIsxS0x3wDBIs) <br/> [▰&nbsp;bandcamp](https://kiraramagic.bandcamp.com/track/by-the-seaside-feat-kitsui-akira) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=ZQTusRoV5EU) <br/> [☁&nbsp;SoundCloud](https://soundcloud.com/kiraramagic/by-the-seaside) |
 | Feel Good | Syn Cole | Single | House | 2016 | ⚪⚪⚫⚫⚫ | ⚪⚫⚫⚫⚫ | ⚪⚫⚫⚫⚫ | ⚪⚪⚫⚫⚫ <br/> Pro:⚪⚪⚪⚫⚫ | ⚪⚪⚪⚫⚫ <br/> 2&nbsp;parts | 12/08/2024 | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/0dkV8DuMfWAVhfi3iMnIX3) <br/> [▰&nbsp;bandcamp](https://syncole.bandcamp.com/track/syn-cole-feel-good) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=q1ULJ92aldE) <br/> [☁&nbsp;SoundCloud](https://soundcloud.com/nocopyrightsounds/syn-cole-feelgood-ncs-release) |
@@ -130,7 +130,7 @@ Here is a pack of energetic pop/dance/electronic songs, providing challenges on 
 
 ## 🤘 Assorted Metal 1
 Rock out with an assortment of accessible metal songs, drawing from nu-metal, alternative, thrash, and djent!
-| Track | Artist | Album | Genre | Year |  Guitar | Bass | Drums | Keys | Vocals | Release | Link |
+| Track | Artist | Album | Genre | Year | Guitar | Bass | Drums | Keys | Vocals | Release | Link |
 | :-- | :-- | :-- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | Full Body Plutonium | Frostbitt | Machine Destroy | Industrial | 2023 | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚫⚫ <br/> Rthm:⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚪ <br/> Elite:⚪⚪⚪⚪⚪ | No Part | ⚪⚪⚪⚫⚫ <br/> 2 parts | 03/01/2025 | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/1Arj52jLedtrvOGAvroPkT) <br/> [▰&nbsp;bandcamp](https://frostbitt.bandcamp.com/track/full-body-plutonium) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=I9RQF56zL6w) |
 | What You Really Want | Garlagan | If It Will | Alternative | 2022 | ⚪⚪⚪⚪⚪ | ⚪⚪⚪⚪⚫ <br/> Rthm:⚪⚪⚪⚪⚪ | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚪ <br/> Pro:⚪⚪⚪⚪⚪ | ⚪⚪⚪⚪⚫ <br/> 3 parts | 03/01/2025 | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/4CdzT1QOGfxcRK2Kq3eF6j) <br/> [▰&nbsp;bandcamp](https://garlagan.bandcamp.com/track/what-you-really-want-2) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=UTS4OU9qOEI) <br/> [☁&nbsp;SoundCloud](https://soundcloud.com/garlagan/what-you-really-want) |
@@ -145,7 +145,7 @@ These DLC packs each contain an entire music album from a given artist; great fo
 
 ## 🏖 SUMMERTIDE by Alohaii
 Keep summer in your heart with this brilliant pop and electronic album from Alohaii. Expect a challenge on vocals with these ten songs, featuring ten different virtual singers and Vtubers!
-| Track | Artist | Album | Genre | Year |  Guitar | Bass | Drums | Keys | Vocals | Release | Link |
+| Track | Artist | Album | Genre | Year | Guitar | Bass | Drums | Keys | Vocals | Release | Link |
 | :-- | :-- | :-- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | Embrace (feat. Kiyon) | Alohaii | SUMMERTIDE | Pop | 2024 | ⚪⚪⚪⚪⚪ | ⚪⚪⚪⚫⚫ <br/> Rthm:⚪⚪⚪⚪⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚪⚫⚫ <br/> Pro:⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚫ <br/> 3&nbsp;parts | 09/11/2024 | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/5C4h1RUUATp3eXVJe4HWQE) <br/> [▰&nbsp;bandcamp](https://lonealphamusic.bandcamp.com/track/embrace-feat-kiyon) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=qKOdgmqWCzk) <br/> [☁&nbsp;SoundCloud](https://soundcloud.com/lonealphamusic/embrace) |
 | Angel in Disguise (feat. Kitsui Akira) | Alohaii | SUMMERTIDE | Pop | 2024 | ⚪⚪⚫⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚪⚫⚫ <br/> Pro:⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚪ <br/> 2&nbsp;parts | 09/11/2024 | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/1j1ErGcs3h9yL6qjrnQgfZ) <br/> [▰&nbsp;bandcamp](https://lonealphamusic.bandcamp.com/track/angel-in-disguise-feat-kitsui-akira) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=gUgxw7PzOBg) <br/> [☁&nbsp;SoundCloud](https://soundcloud.com/lonealphamusic/angel-in-disguise-kiichan) |
@@ -161,7 +161,7 @@ Keep summer in your heart with this brilliant pop and electronic album from Aloh
 ## 🌈 Wanderkid by JW Francis
 Follow the journey of Wanderkid in JW Francis's sophomore album! Escape with warm lo-fi indie rock vibes and nostalgically jangly guitar.
 (The first track from this album - John, Take Me With You - is absent from this DLC, and can instead be found in YARG's main setlist.)
-| Track | Artist | Album | Genre | Year |  Guitar | Bass | Drums | Keys | Vocals | Release | Link |
+| Track | Artist | Album | Genre | Year | Guitar | Bass | Drums | Keys | Vocals | Release | Link |
 | :-- | :-- | :-- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | I Love You | JW Francis | Wanderkid | Indie Rock | 2021 | ⚪⚪⚫⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚫⚫⚫⚫ <br/> Pro:⚪⚪⚫⚫⚫ | ⚪⚪⚫⚫⚫ <br/> 2&nbsp;parts | 09/30/2024 | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/2ClWBJQK4MBcrg892bsepV) <br/> [▰&nbsp;bandcamp](https://jwfrancis.bandcamp.com/track/i-love-you-2) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=78HMFTb9xOw) <br/> [☁&nbsp;SoundCloud](https://soundcloud.com/jw_francis/02-i-love-you-v1-9-15-20) |
 | Maybe | JW Francis | Wanderkid | Indie Rock | 2021 | ⚪⚫⚫⚫⚫ | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚫ | ⚪⚪⚫⚫⚫ <br/> Pro:⚪⚪⚫⚫⚫ | ⚪⚪⚪⚪⚫ <br/> 3&nbsp;parts | 09/30/2024 | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/2YEK1s81PKs3Npl2h24EjH) <br/> [▰&nbsp;bandcamp](https://jwfrancis.bandcamp.com/track/maybe-2) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=6yyl87jrVJM) <br/> [☁&nbsp;SoundCloud](https://soundcloud.com/jw_francis/03-maybe-v1-9-15-20) |
@@ -179,7 +179,7 @@ These packs are geared towards helping to teach players to play real instruments
 
 ## 🎹 Classical Keys Pack 1
 Explore world-famous pieces for piano, organ, and even calliope with YARG's first collection of public domain classical music. Learn authentic right-hand parts on Pro Keys, or play five-lane versions of each hand on Keys and Bass!
-| Track | Artist | Album | Genre | Year |  Guitar | Bass | Drums | Keys | Vocals | Release | Link | 
+| Track | Artist | Album | Genre | Year | Guitar | Bass | Drums | Keys | Vocals | Release | Link | 
 | :-- | :-- | :-- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | Bridal Chorus | ⿻ Richard Wagner | Classical Keys 01 | Classical | 1850 | No Part | ⚪⚪⚪⚫⚫ | No Part | ⚪⚪⚪⚫⚫ <br/> Pro:⚪⚪⚪⚫⚫ | No Part | 10/22/2024 |  |
 | Clair de Lune | ⿻ Claude Debussy | Classical Keys 01 | Classical | 1905 | No Part | ⚪⚪⚫⚫⚫ | No Part | ⚪⚪⚫⚫⚫ <br/> Pro:⚪⚪⚫⚫⚫ | No Part | 10/22/2024 |  |
@@ -190,7 +190,7 @@ Explore world-famous pieces for piano, organ, and even calliope with YARG's firs
 
 ## 🎹 Children's Keys Pack 1
 If you have a budding pianist in your life (or if the classical songs are too hard for you), try this easy pack of classic children's songs and nursery rhymes. Learn real melodies on Pro Keys, or play five-lane versions of both the melody and harmony with the Keys and Bass parts.
-| Track | Artist | Album | Genre | Year |  Guitar | Bass | Drums | Keys | Vocals | Release | Link | 
+| Track | Artist | Album | Genre | Year | Guitar | Bass | Drums | Keys | Vocals | Release | Link | 
 | :-- | :-- | :-- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | Frère Jacques | ⿻ Jean-Philippe Rameau | Children's Keys 01 | Children's Music | 1811 | No Part | ⚫⚫⚫⚫⚫ | No Part | ⚪⚫⚫⚫⚫ <br/> Pro:⚪⚫⚫⚫⚫ | No Part | 10/22/2024 |  |
 | Happy Birthday to You | ⿻ Patty and Mildred J. Hill | Children's Keys 01 | Children's Music | 1893 | No Part | ⚫⚫⚫⚫⚫ | No Part | ⚫⚫⚫⚫⚫ <br/> Pro:⚫⚫⚫⚫⚫ | No Part | 10/22/2024 |  |
@@ -201,7 +201,7 @@ If you have a budding pianist in your life (or if the classical songs are too ha
 
 ## 🎹 Christmas Keys 1
 Ring in the holiday season with six public domain Christmas classics. Learn authentic right-hand parts on Pro Keys, or play five-lane versions of each hand on Keys and Bass!
-| Track | Artist | Album | Genre | Year |  Guitar | Bass | Drums | Keys | Vocals | Release | Link | 
+| Track | Artist | Album | Genre | Year | Guitar | Bass | Drums | Keys | Vocals | Release | Link | 
 | :-- | :-- | :-- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | Dance of the Sugar Plum Fairy | ⿻ Pyotr Ilyich Tchaikovsky | Christmas Keys 01 | Classical | 1892 | No Part | ⚪⚪⚪⚪⚫ | No Part | ⚪⚪⚪⚪⚫ <br/> Pro:⚪⚪⚪⚪⚫ | No Part | 12/15/2024 <br/> [preview](https://youtu.be/FPsL2l40Nx8) |  |
 | Deck the Halls | ⿻ Thomas Oliphant | Christmas Keys 01 | Holiday | 1862 | No Part | ⚪⚪⚫⚫⚫ | No Part | ⚪⚪⚪⚫⚫ <br/> Pro:⚪⚪⚪⚫⚫ | No Part | 12/15/2024 <br/> [preview](https://youtu.be/FPsL2l40Nx8) |  |
@@ -215,15 +215,15 @@ YARN, short for Yet Another Rhythm Network, is a chart distribution service that
 
 ## 🧶 YARN Pack 1
 Our first grab-bag pack from YARN authors. Check out what they've submitted!
-| Track | Artist | Album | Genre | Year |  Guitar | Bass | Drums | Keys | Vocals | Release | Link | 
-| :-- | :-- | :-- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| Amelioration | Chaotrope | The Pursuit of Happiness | Progressive Metal | 2022 | 🔴🔴🔴🔴🔴 | ⚪⚪⚪⚫⚫ | 🔴🔴🔴🔴🔴 | No Part | No Part | 3/8/2024 | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/2EsYYucgQpBKhpxwgcWYKB) <br/> [▰&nbsp;bandcamp](https://chaotrope.bandcamp.com/track/amelioration) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=L4IpprOJKHE) <br/> [☁&nbsp;SoundCloud](https://soundcloud.com/chaotrope/amelioration) |
-| Burn | Counterparts | Tragedy Will Find Us | Post-Hardcore | 2015 | ⚪⚪⚫⚫⚫ | ⚪⚫⚫⚫⚫ <br/> Rthm:⚪⚪⚫⚫⚫ | No Part | No Part | No Part | 3/8/2024 | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/2s4MzLJfUR9bS3mfJbrGLn) <br/> [▰&nbsp;bandcamp](https://counterpartshc.bandcamp.com/track/burn) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=5ZjHpbDkGww) <br/> [☁&nbsp;SoundCloud](https://soundcloud.com/counterparts-official/burn) |
-| Eviternal | James Paddock | Single | Progressive Metal | 2024 | ⚪⚪⚪⚪⚪ <br/> Pro:⚪⚪⚪⚪⚪ | ⚪⚪⚪⚪⚫ <br/> Pro:⚪⚪⚪⚪⚪ | 🔴🔴🔴🔴🔴 | ⚪⚪⚪⚪⚫ <br/> Pro:⚪⚪⚪⚪⚪ | ⚪⚪⚪⚪⚪ <br/> 3 Parts | 3/8/2024 | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/3zhfF3V3Fz3CJPD6blcSyw) <br/> [▰&nbsp;bandcamp](https://jamespaddock.bandcamp.com/track/eviternal) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=_CK_d8ODbaU) |
-| Fearfulness | Jaden (ft. Various Artists) | Single | Bleep Bloop | 2024 | 🔴🔴🔴🔴🔴10 | No Part | No Part | No Part | No Part | 3/8/2024 |  |
-| How | Exyl and Paper Skies | Save This World EP | Complextro | 2023 | ⚪⚪⚪⚪⚫ | No Part | No Part | No Part | No Part | 3/8/2024 | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/0RVI7xHaIPyE7PcRwxS9qu) <br/> [▰&nbsp;bandcamp](https://exyl.bandcamp.com/track/exyl-paper-skies-how) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=EEnzDZFy5oY) <br/> [☁&nbsp;SoundCloud](https://soundcloud.com/exyl_sounds/exyl-x-paper-skies-how) |
-| I'm mindless :3 | Catastrophe | Single | Bit Metal | 2024 | 🔴🔴🔴🔴🔴8 | No Part | No Part | No Part | No Part | 3/8/2024 |  |
-| Reaper (2023 Remaster) | Chaotrope | Single | Progressive Metal | 2023 | 🔴🔴🔴🔴🔴 | ⚪⚪⚪⚫⚫ | 🔴🔴🔴🔴🔴 | No Part | No Part | 3/8/2024 | [▶&nbsp;YouTube](https://www.youtube.com/watch?v=FS92ADOfS3c) <br/> [☁&nbsp;SoundCloud](https://soundcloud.com/chaotrope/reaper-2023-remaster) |
-| Second Wind | Walter Ralts | Sharp Ears | Math Rock | 2022 | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚪⚫ <br/> Elite:⚪⚪⚪⚪⚫ | ⚪⚪⚪⚫⚫ <br/> Pro:⚪⚪⚪⚫⚫ | No Part | 3/8/2024 | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/7gRximb6cZNM09F7IN8EON) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=y3Vyk5XV4R0) |
-| Ways of Torment | Silverhawk | Thunder on a Distant Horizon | Technical Thrash Metal | 2024 | ⚪⚪⚪⚪⚪ | No Part | No Part | No Part | No Part | 3/8/2024 | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/1csppuq0xd5xXlXa5O0LQ7) <br/> [▰&nbsp;bandcamp](https://silverhawkthrash.bandcamp.com/track/ways-of-torment) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=ekKsA_pdepE) |
-| Whispers (Rose Ver.) | Asilveras | Single | Rock | 2025 | ⚪⚪⚫⚫⚫ | ⚪⚫⚫⚫⚫ | ⚪⚪⚫⚫⚫ | No Part | No Part | 3/8/2024 | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/5QOw13H4JGuvZ6ls8PhhXx) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=lA0j-Ps7jYE) <br/> [☁&nbsp;SoundCloud](https://soundcloud.com/asilveras/whispers-rose-ver) |
+| Track | Artist | Album | Genre | Year | Charter | Guitar | Bass | Drums | Keys | Vocals | Release | Link | 
+| :-- | :-- | :-- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| Amelioration | Chaotrope | The Pursuit of Happiness | Progressive Metal | 2022 | Chaotrope | 🔴🔴🔴🔴🔴 | ⚪⚪⚪⚫⚫ | 🔴🔴🔴🔴🔴 | No Part | No Part | 3/8/2024 | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/2EsYYucgQpBKhpxwgcWYKB) <br/> [▰&nbsp;bandcamp](https://chaotrope.bandcamp.com/track/amelioration) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=L4IpprOJKHE) <br/> [☁&nbsp;SoundCloud](https://soundcloud.com/chaotrope/amelioration) |
+| Burn | Counterparts | Tragedy Will Find Us | Post-Hardcore | 2015 | SirMonkfish | ⚪⚪⚫⚫⚫ | ⚪⚫⚫⚫⚫ <br/> Rthm:⚪⚪⚫⚫⚫ | No Part | No Part | No Part | 3/8/2024 | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/2s4MzLJfUR9bS3mfJbrGLn) <br/> [▰&nbsp;bandcamp](https://counterpartshc.bandcamp.com/track/burn) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=5ZjHpbDkGww) <br/> [☁&nbsp;SoundCloud](https://soundcloud.com/counterparts-official/burn) |
+| Eviternal | James Paddock | Single | Progressive Metal | 2024 | Keagan Dunn, Goulart, Rulas | ⚪⚪⚪⚪⚪ <br/> Pro:⚪⚪⚪⚪⚪ | ⚪⚪⚪⚪⚫ <br/> Pro:⚪⚪⚪⚪⚪ | 🔴🔴🔴🔴🔴 | ⚪⚪⚪⚪⚫ <br/> Pro:⚪⚪⚪⚪⚪ | ⚪⚪⚪⚪⚪ <br/> 3 Parts | 3/8/2024 | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/3zhfF3V3Fz3CJPD6blcSyw) <br/> [▰&nbsp;bandcamp](https://jamespaddock.bandcamp.com/track/eviternal) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=_CK_d8ODbaU) |
+| Fearfulness | Jaden (ft. Various Artists) | Single | Bleep Bloop | 2024 | Jaden | 🔴🔴🔴🔴🔴10 | No Part | No Part | No Part | No Part | 3/8/2024 |  |
+| How | Exyl and Paper Skies | Save This World EP | Complextro | 2023 | Hubbubble | ⚪⚪⚪⚪⚫ | No Part | No Part | No Part | No Part | 3/8/2024 | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/0RVI7xHaIPyE7PcRwxS9qu) <br/> [▰&nbsp;bandcamp](https://exyl.bandcamp.com/track/exyl-paper-skies-how) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=EEnzDZFy5oY) <br/> [☁&nbsp;SoundCloud](https://soundcloud.com/exyl_sounds/exyl-x-paper-skies-how) |
+| I'm mindless :3 | Catastrophe | Single | Bit Metal | 2024 | Catonieca | 🔴🔴🔴🔴🔴8 | No Part | No Part | No Part | No Part | 3/8/2024 |  |
+| Reaper (2023 Remaster) | Chaotrope | Single | Progressive Metal | 2023 | Chaotrope | 🔴🔴🔴🔴🔴 | ⚪⚪⚪⚫⚫ | 🔴🔴🔴🔴🔴 | No Part | No Part | 3/8/2024 | [▶&nbsp;YouTube](https://www.youtube.com/watch?v=FS92ADOfS3c) <br/> [☁&nbsp;SoundCloud](https://soundcloud.com/chaotrope/reaper-2023-remaster) |
+| Second Wind | Walter Ralts | Sharp Ears | Math Rock | 2022 | Walterralts | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚪⚫ <br/> Elite:⚪⚪⚪⚪⚫ | ⚪⚪⚪⚫⚫ <br/> Pro:⚪⚪⚪⚫⚫ | No Part | 3/8/2024 | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/7gRximb6cZNM09F7IN8EON) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=y3Vyk5XV4R0) |
+| Ways of Torment | Silverhawk | Thunder on a Distant Horizon | Technical Thrash Metal | 2024 | EmilyFC's | ⚪⚪⚪⚪⚪ | No Part | No Part | No Part | No Part | 3/8/2024 | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/1csppuq0xd5xXlXa5O0LQ7) <br/> [▰&nbsp;bandcamp](https://silverhawkthrash.bandcamp.com/track/ways-of-torment) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=ekKsA_pdepE) |
+| Whispers (Rose Ver.) | Asilveras | Single | Rock | 2025 | Hubbubble | ⚪⚪⚫⚫⚫ | ⚪⚫⚫⚫⚫ | ⚪⚪⚫⚫⚫ | No Part | No Part | 3/8/2024 | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/5QOw13H4JGuvZ6ls8PhhXx) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=lA0j-Ps7jYE) <br/> [☁&nbsp;SoundCloud](https://soundcloud.com/asilveras/whispers-rose-ver) |
