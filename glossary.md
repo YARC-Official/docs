@@ -2,7 +2,7 @@
 title: 📖 Glossary
 description: Some common terms and what they mean
 published: true
-date: 2025-03-02T04:23:02.201Z
+date: 2025-03-09T17:08:23.630Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-12T21:41:56.593Z
@@ -44,22 +44,28 @@ YARG displays Hot Start if you play the first 30 notes of the song without missi
 Similarly, Strong Finish signifies completing the song with your maximum multiplier active.
 
 ## 🌟 Star Power (aka Overdrive)
-Star Power (SP) is both a resource - Star Power energy - and application of that resource. You gain SP energy by successfully playing special Star Power phrases. When your SP energy is at least 50% full, you can Activate your Star Power - the energy will begin to drain, and your score multiplier will be double what it otherwise would be, until your SP energy it runs out.
+Star Power (SP) is both a resource - Star Power energy - and application of that resource. You gain SP energy by successfully playing special Star Power phrases. When your SP energy is at least 50% full, you can Activate your Star Power - the energy will begin to drain, and your score multiplier will be double what it otherwise would be, until your SP energy runs out.
 Star Power and Overdrive both refer to these same elements, having originated from different games. Both terms can be used interchangably.
 
 ## 🎼 Stems
 Songs with Stems have multiple audio streams, separating different instruments/parts out from one-another. These stems allow the game to apply different volume levels, effects and muting, depending on how the players are performing.
-Not to be confused with Keysounds, which is a different technique some other rhythm games use for dynamic audio.
+Because all the audio streams start and end at the same time, games using Stem-based audio have an easier time compensating for latency, as all of the audio can be shifted in time by a static amount to account for the delay.
+Not to be confused with Keysounds, which is another technique rhythm games use for dynamic audio.
+
+## 🔊 Keysounds
+Similar to Stems, Keysounds are a device used by some rhythm games, whereby the sounds of your instrument are actually triggered by your playing of it. This goes beyond the simple muting effect allowed by Stems, in that the timing of the sound follows the timing of your play - if you play a note early, that sound plays early. Play it late? It plays late. Some games will even track when you play a wrong note, and play a sound that belongs to the input you made.
+Compared to Stems, Keysounds have some advantages and disadvantages. Keysounds allow the audio to be much more dynamic and respond to the user's play, which in some games may lend to an element of improvisation. However, that same dynamism can also make it more difficult for the player to recognize when their timing is a little off, as they hear what they're playing, not what they're *meant* to play. It's also much more difficult to account for latency with keysounds, as the game has little opportunity to meaningfully anticipate the player's actions, so Keysounds can end up sounding out of time in high-latency setups.
+YARG does not presently support song formats utilizing Keysounds.
 
 ## 🔴 Intensity
-An approximation of how much effort a player will have to exert to play a particular instrument's part in a given song. Often represented as a series of filled circles, or in YARG as a set of segments surrounding the part's icon.
+An approximation of how much effort a player will have to exert to play a particular instrument's part in a given song. Often represented as a series of filled circles, or in YARG as a set of segments surrounding the part's icon. The color of the circles/segments can also differ, to signify greater scales of intensity.
 
 ## 📊 Chart, aka Note Chart
 The sequence of notes for one instrument on one difficulty on one song. Alternatively, could refer to multiple difficulties for multiple instruments for one song, collected in a single .mid, .chart, or con file.
 As a verb, charting refers to the act of creating a chart. Decisions about how to represent various aspects of the song contribute to how it's charted.
 
 ## 📶 Difficulty tiers
-YARG supports several different charts for each instrument on a given song. The [official setlist](/songs/Setlist) will include most of these; custom songs may contain a subset.
+YARG supports several different charts for each instrument on a given song. The [official setlist](/songs/Setlist) will include most of these; custom songs (including ones from YARN) may contain a subset.
 
 - Easy
 - Medium
