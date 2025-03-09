@@ -2,7 +2,7 @@
 title: 📓 F.A.Q.
 description: Frequently Asked Questions
 published: true
-date: 2025-03-02T15:10:35.342Z
+date: 2025-03-09T16:16:41.323Z
 tags: faq
 editor: markdown
 dateCreated: 2023-08-07T16:52:31.163Z
@@ -29,7 +29,7 @@ Check out our [issue tracker](https://yarg.youtrack.cloud/issues) or use the /ro
 
 ## 🎵 What songs can I use in YARG?
 We DO NOT support piracy, however, you can use song.ini with .mid and .chart, .sng, and unencrypted (RB) CON files.
-You can also download our [official setlist](/songs/Setlist) and DLC packs from the [YARC Launcher](/launcher)!
+You can also download our [official setlist](/songs/Setlist) and DLC packs, along with YARN releases by our community, from the [YARC Launcher](/launcher)!
 
 ## 🖥️ What is the minimum hardware needed to run YARG?
 YARG is not yet optimized, and fairly demanding in its current state. General guidelines:
@@ -62,13 +62,14 @@ The Marketplace is where official YARG song packs can be freely downloaded. This
 
 # YARN
 ## 🧶 What is YARN?
-Yet Another Rhythm Network is our community chart-distribution service! Inspired by Rock Band Network, YARN allows charters to submit their own charts for distribution through the YARC Launcher Marketplace, so long as the music is properly licensed and the charts meet our standards and requirements. For more information, see the [Charting](/songs/charting) page.
+Yet Another Rhythm Network is our community chart-distribution service! Inspired by Rock Band Network, YARN allows charters to submit their own charts for distribution through the YARC Launcher Marketplace, so long as the music is properly licensed and the charts meet our standards and requirements. For more information, see the [Charting](/songs/charting#yarn) page. For information on existing YARN releases, see the [Setlist](/songs/Setlist#yarn) page.
 
 # Weaver
 ## What is Weaver?
-Weaver is our upcoming chart editing software. Initially announced as YACE - Yet Another Chart Editor - Weaver is meant to be a comprehensive tool for producing charts, incorporating all relevant features and instruments which YARG supports.
+Weaver is our upcoming chart editing software. Initially announced as YACE - Yet Another Chart Editor - Weaver is meant to be a comprehensive tool for producing song charts, incorporating all relevant features and instruments which YARG supports.
 
 ## Why the name 'Weaver'?
 Two reasons: Firstly, it's evocative of REAPER, one of the more fully-featured packages for chart editing, and the one which was officially used when charting for Rock Band Network.
 
-Secondly, it fits thematically with the name of our chart distribution service, YARN.
+Secondly, it fits thematically with the name of our community chart distribution service, YARN.
+
