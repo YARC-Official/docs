@@ -2,7 +2,7 @@
 title: 👤 Profiles
 description: Information about User Profiles
 published: true
-date: 2025-02-01T13:10:50.618Z
+date: 2025-03-09T16:25:07.063Z
 tags: profile, customization, color, bots, binding
 editor: markdown
 dateCreated: 2023-07-31T16:54:45.414Z
@@ -44,7 +44,7 @@ Select an existing Preset defining how the game should judge your performance. T
 - Casual
 - Precision
 
-In addition to these presets, you can create and customize your own in the Settings menu. See [Engine](/Engine) for more information.
+In addition to these presets, you can create and customize your own in the Settings menu. See [Engine](/Engine#engine-presets) page for more information.
 
 ### Note Theme
 Select a theme for how the notes and strike line to be styled. The options are:
