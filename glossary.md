@@ -2,7 +2,7 @@
 title: 📖 Glossary
 description: Some common terms and what they mean
 published: true
-date: 2025-03-09T17:08:23.630Z
+date: 2025-03-10T17:55:11.912Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-12T21:41:56.593Z
@@ -99,6 +99,10 @@ YARG's system of Engine Presets let you customize its judgement criteria to a ce
 ## 🌡 Crowd Meter
 Many rhythm games require you to maintain a certain level of performance in order to keep playing - play well and a bar will fill; miss too many notes and the bar will drain out, causing the song to end prematurely. Note that this indicator goes by many different names, depending on the game in question - it could be a Rock Meter, an Excite Gauge, or something play-mode specific like a Dance Gauge.
 YARG does not currently have a Crowd Meter, but we do expect to get one eventually, as a task for such can be found in the issue tracker.
+
+## 🔁 No-Fail Mode
+In rhythm games with something like a Crowd Meter, No-Fail Mode is an option which allows the song to complete even if the player met the failure condition that would normally have interrupted to song.
+Games with no such failure mechanism can be said to always be in a No-Fail Mode.
 
 # 🎸 Guitar play terms
 ## ⑥ Bass Groove
