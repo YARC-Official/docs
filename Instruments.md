@@ -2,13 +2,15 @@
 title: 🎸 Instruments
 description: Information about hardware game controllers
 published: true
-date: 2025-03-07T04:59:57.563Z
+date: 2025-03-11T21:30:35.652Z
 tags: instruments, vocals, guitar, bass, drums, pro guitar, pro drums, pro bass, keys, pro keys, elite drums
 editor: markdown
 dateCreated: 2023-07-30T03:57:46.912Z
 ---
 
 This is an inexhaustive list of instrument controllers and their compatibility with YARG. Most undocumented controllers should work as well. Be sure to check out [troubleshooting instruments](/troubleshooting/Instruments) for tips and tricks!
+
+**Note: No xbox instrument will work on Mac.**
 
 | Legend |     |
 | :---: | :--- |
