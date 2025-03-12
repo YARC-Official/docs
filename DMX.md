@@ -2,7 +2,7 @@
 title: 🐕 DMX
 description: 
 published: true
-date: 2025-03-12T18:54:55.135Z
+date: 2025-03-12T18:59:01.622Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T18:13:08.409Z
@@ -161,7 +161,6 @@ Post-processing is the visual effects that are happening to the on screen venue 
 Keyframes are used to change the status of the current lighting cue and/or current animations, for example, once Stomp is set as the current cue, subsequent Next calls will toggle all lights (both in-game and on the stage kit) either on or off.
 | Meaning | Value|
 |-|-|
-|0|Off|
 |            Off | 0|
 |           Keyframe Next | 3|
 |          Keyframe Previous | 13|
