@@ -2,7 +2,7 @@
 title: 🐕 DMX
 description: 
 published: true
-date: 2025-02-05T18:22:14.802Z
+date: 2025-03-12T18:54:55.135Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T18:13:08.409Z
@@ -13,7 +13,7 @@ Digital multiplex with 512 pieces of information revision a, aka DMX512-A, is a 
 
 ![stagelights.png](/dmx/stagelights.png)
 
-DMX uses RS-485 serial communications over 3 and 5 pin XLR connections to send and receive the digital signals. Since a PC doesn't natively support these signals, YARG send DMX packets over a network connection using sACN to bundle the DMX data into a TCP/IP packet. These sACN packets can be read by other devices and programs on the network as well as converters that can turn the packet back into raw DMX data, for the light fixtures.
+DMX uses RS-485 serial communications over 3 and 5 pin XLR connections to send and receive the digital signals. Since a PC doesn't natively support these signals, YARG sends DMX packets over a network connection using sACN to bundle the DMX data into a TCP/IP packet. These sACN packets can be read by other devices and programs on the network as well as converters that can turn the packet back into raw DMX data, for the light fixtures.
 ![3pinxlr.png](/dmx/3pinxlr.png =x300)![5pinxlr.png](/dmx/5pinxlr.png =x300)
 This flexibility allows for unlimited possibilities in your YARG light shows!
 
