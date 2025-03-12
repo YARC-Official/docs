@@ -2,7 +2,7 @@
 title: 💡 Stage Kit
 description: Information about the Stage Kit hardware
 published: true
-date: 2025-01-03T23:51:47.036Z
+date: 2025-03-12T18:51:37.270Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-06T00:19:52.182Z
@@ -20,7 +20,7 @@ The led light array consists of 32 single color clear 5mm leds. Eight of each co
 ## Venue Size
 Venues themsevles are either "large" or "small". Some cues have different lighting patterns for each size.
 ## Venue Cues
-Many songs have a 'venue' track which sets the current state of the fog machine, light array, and strobe machine. If the song is missing its venue track, YARG will automatically generate one for it at play time.
+Many songs have a 'venue' track which sets the current state of the fogger, light array, and strobe machine. If the song is missing its venue track, YARG will automatically generate one for it at play time.
 
 ### Fog Machine cues
 |name|description|
