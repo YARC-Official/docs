@@ -2,7 +2,7 @@
 title: 📖 Glossary
 description: Some common terms and what they mean
 published: true
-date: 2025-03-10T21:40:08.548Z
+date: 2025-03-12T01:47:17.349Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-12T21:41:56.593Z
@@ -101,7 +101,7 @@ Many rhythm games require you to maintain a certain level of performance in orde
 YARG does not currently have a Crowd Meter, but we do expect to get one eventually, as a task for such can be found in the issue tracker.
 
 ## 🔁 No-Fail Mode
-In rhythm games with something like a Crowd Meter, No-Fail Mode is an option which allows the song to complete even if the player met the failure condition that would normally have interrupted to song.
+In rhythm games with something like a Crowd Meter, No-Fail Mode is an option which allows the song to complete even if the player met the failure condition that would normally have interrupted the song.
 Games with no such failure mechanism can be said to always be in a No-Fail Mode.
 
 # 🎸 Guitar play terms
@@ -126,9 +126,8 @@ Originally appearing only in Bass charts, Open notes may be used to represent ex
 
 ## 🤝 Co-op/Melody Guitar, Rhythm Guitar
 Co-op (aka Melody) and Rhythm are two extra Guitar chart slots, originally defined by the early Guitar Hero games.
-The traditional lead Guitar chart was used for single player, and often contained notes from multiple parts of the song, to keep the player engaged and hit all the cool bits.
-With the introduction of cooperative multiplayer, there was a desire to have two separate charts, one for each player, each covering distinct aspects of the song. Thus the Co-op guitar chart was often similar to the Guitar chart - albeit more focused on the performance of one instrument/part - and either a Rhythm or Bass chart was made available for the other player to have a unique playing experience.
-(Separate charting for singleplayer and multiplayer is not unique to Guitar Hero; while structured differently, similar division of charting can be seen in other rhythm games like Guitar Freaks.)
+The traditional lead Guitar chart was used for single player, and often contained notes from multiple parts of the song, to keep the player engaged and hit all the cool bits. With the introduction of cooperative multiplayer, there was a desire to have two separate charts, one for each player, each covering distinct aspects of the song. Thus the Co-op guitar chart was often similar to the Guitar chart - albeit more focused on the performance of one specific part - and either a Rhythm or Bass chart was made available for the other player to have a unique playing experience.
+(Separate charting for singleplayer and multiplayer is not unique to Guitar Hero; while structured differently, similar division of charting can be seen in other games like Guitar Freaks.)
 
 Some community-made charts repurpose Co-op and/or Rhythm to provide additional charts, often for distinct parts or added difficulty tiers.
 While Melody and Rhythm parts are not currently a major part of YARG's setlist, they do appear in some of our DLC, and are currently supported as freely selectable charts for five-fret play.
