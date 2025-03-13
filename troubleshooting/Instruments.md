@@ -2,7 +2,7 @@
 title: Troubleshooting instruments
 description: Tips and tricks to get your controllers working!
 published: true
-date: 2025-03-09T16:22:28.789Z
+date: 2025-03-13T19:06:08.661Z
 tags: instruments, troubleshooting
 editor: markdown
 dateCreated: 2025-01-07T20:23:14.531Z
@@ -39,7 +39,7 @@ You may need to increase microphone sensitivity.  Check under Settings / Sound /
 ❗Mac: YARG might not ask for mic access. Launch the .app manually instead of going through the launcher
 
 ❗Mad Catz M.I.C. buttons not registering
-The Microphone with Integrated Controller is recognized as two separate devices: the microphone, and a gamepad. Both devices will need to be bound to your profile to make full use of the M.I.C.
+The Microphone with Integrated Controller is recognized as a USB hub with two attached devices: the Mad Catz USB microphone, and an XBox 360 gamepad. Both devices will need to be bound to your profile to make full use of the M.I.C.
 
 ## Drums
 
