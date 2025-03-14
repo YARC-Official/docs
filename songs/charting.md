@@ -2,7 +2,7 @@
 title: 🎼 Charting
 description: Guidelines for charting YARG songs
 published: true
-date: 2025-03-02T14:45:40.013Z
+date: 2025-03-14T01:14:09.655Z
 tags: songs, charting, guidelines
 editor: markdown
 dateCreated: 2023-06-08T20:40:29.063Z
@@ -39,7 +39,7 @@ We hope to see your submissions soon!
 
 
 # REAPER Charting Resources
-  
+- [📑 YARG Template](https://drive.google.com/file/d/1m_jl6vy4zQnVdY3ElS5hWrPtGa2Idhnf/view?usp=drivesdk)  
 - [📑 RBN Template](https://drive.google.com/file/d/1YJzSj0sf4F3w9fn0pf4yxXd0L3zQwE13/view) 
 - [📦 RBN Charting Resources Installer *Includes RBN chart preview plugin, which is 32-bit only*](https://drive.google.com/file/d/0B43TWusVEw7BV3lSQVNXRUxvMmc/view)
 - [📦 RBN Charting Resources *.7z Archive*](https://drive.google.com/file/d/13nrMNouEpxO5gcqt9W6mChUdQa3OseSp/view?usp=sharing)
