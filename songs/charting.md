@@ -2,7 +2,7 @@
 title: 🎼 Charting
 description: Guidelines for charting YARG songs
 published: true
-date: 2025-03-14T01:14:09.655Z
+date: 2025-03-14T15:02:39.666Z
 tags: songs, charting, guidelines
 editor: markdown
 dateCreated: 2023-06-08T20:40:29.063Z
@@ -45,12 +45,13 @@ We hope to see your submissions soon!
 - [📦 RBN Charting Resources *.7z Archive*](https://drive.google.com/file/d/13nrMNouEpxO5gcqt9W6mChUdQa3OseSp/view?usp=sharing)
 - [📦 RBN Charting Resources *Individual files*](https://drive.google.com/drive/folders/1tQ8iS0viXlJ8mB8u-CqdtIMMlvHQLsIi?usp=sharing)
 - [🔎 RBN Chart Preview Plugin *64-bit Version*](https://rhythmgamingworld.com/forums/topic/rbn-preview-plugin-64-bit-version/)
-- [🔎 Noah Baxter's Chart Preview Plugin](https://github.com/noahbaxter/chart-preview)
 {.links-list}
 
 > You will need the resources folder from the 32-bit version!
 {.is-info}
 
+- [🔎 Noah Baxter's Chart Preview Plugin](https://github.com/noahbaxter/chart-preview)
+- [🔎 GHCripto's 6-Fret Guitar Chart Preview Plugin](https://github.com/GHCripto/GHL-Preview)
 - [📑 C3 Documentation *Take charting advice from here with a grain of salt*](http://docs.c3universe.com/rbndocs/index.php?title=Authoring)
 {.links-list}
 
