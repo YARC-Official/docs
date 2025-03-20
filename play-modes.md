@@ -2,7 +2,7 @@
 title: ▶️ Play Modes
 description: Useful information about the current supported play modes
 published: true
-date: 2025-03-20T21:23:21.692Z
+date: 2025-03-20T21:30:36.936Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-03T20:39:05.082Z
@@ -98,7 +98,7 @@ A turntable, three buttons, and a fade slider; a Heroic spinoff.
 A task for this exists in the issue tracker.
 
 ## 🪘 Bongos
-A pair of bongos and a clap detector; each bongo has two distinct sensors.
+A pair of bongos and a clap detector, associated with a stubborn gorilla. Each bongo has two distinct sensors.
 A task for this exists in the issue tracker.
 
 ## 🎸 real Guitar
