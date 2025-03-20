@@ -2,7 +2,7 @@
 title: ▶️ Play Modes
 description: Useful information about the current supported play modes
 published: true
-date: 2025-03-02T04:00:24.244Z
+date: 2025-03-20T21:23:21.692Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-03T20:39:05.082Z
@@ -74,6 +74,8 @@ Some parts of a song may not require you to sing a specific pitch, but still nee
 
 The song's vocals are broken up into phrases. Singing the correct pitch at the correct time fills a meter, and at the end of the phrase you're judged by how full the meter got. If the meter was full then your score multiplier will increase, up to a maximum of 4×; otherwise it will reset to 1×.
 
+Some charts may incorporate vocal percussion notes, represented by a large circle at center height. These notes are optional, and can be hit either with a special controller bind on your profile, or with a sudden sound on the mic, traditionally from hitting it with your hand.
+
 The songs lyrics will also be displayed, but they do not factor into the game's judgement of your performance.
 
 ## Harmonies
@@ -82,11 +84,11 @@ YARG currently requires each harmony player to specify which part they'll be sin
 
 # 🎹 Keys
 ## 5 Fret
-Five white piano keys, plus a tilt sensor and a pitch bend. Plays similarly to 5 fret guitar - and can indeed play any 5 fret guitar or bass chart - but there's no need to strum, and each key has equal priority.
-Proper keys support is planned for YARG v0.13.0, but in the meantime you can play 5 fret keys charts in guitar mode, and enable the All Taps modifier to remove any need to strum.
+Five white piano keys, plus a tilt sensor and a pitch bend. Plays similarly to 5 fret guitar - and can indeed play any 5 fret guitar or bass chart - but there's no need to strum, and there's no 'anchoring'; each key has equal priority.
+Proper keys support is planned for YARG v0.13.0, but in the meantime you can play 5 fret keys charts in guitar mode, and enable the All Taps modifier to remove the need to strum.
 
 ## Pro
-Two octaves of a keyboard, with color-coded segments for a wide highway. Pro keys support is planned for YARG v0.13.0.
+Two octaves - 25 keys - of a piano keyboard, with color-coded segments for a wide highway. Pro keys support is planned for YARG v0.13.0.
 
 # 🔮 Potential future play modes
 These have no specific timeframe, but are either in the issue tracker or at least under consideration.
