@@ -2,7 +2,7 @@
 title: ⚙️ Engine
 description: Information about YARG default engines
 published: true
-date: 2024-07-30T19:58:28.288Z
+date: 2025-03-21T16:49:00.512Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-30T03:59:19.435Z
@@ -17,9 +17,13 @@ If enabled, HOPO/tap notes are disabled if the player presses an incorrect fret.
 Pressing a fret that is below a currently held one (i.e. pressing Green while holding Red) does **not** count as ghosting, and is allowed.
 If disabled, the player can press whatever they want, and as long as they eventually hit the correct fret within the hit window, the note will be hit.
 
+When playing with Anti-Ghosting disabled, the sides of the affected highway(s) will display an orange ring near the bottom of the screen.
+
 ## ♾ Infinite Front-End
 If enabled, HOPOs and Taps can be fretted before they enter the hit window, and will be scored as they enter it.
 If disabled, HOPOs and Taps can only be fretted while they are already within the hit window.
+
+When playing with Infinite Front-End enabled, the sides of the affected highway(s) will display a green ring near the bottom of the screen.
 
 ## 🔃 HOPO Leniency
 This setting dictates the amount of time during which a HOPO note is allowed to take a strum input. Strum inside this window, and the strum is consumed; strum outside this window and you'll overstrum, breaking your combo.
@@ -35,12 +39,17 @@ If disabled, the hit window size will always be the same (140ms in the Default p
 If enabled, the hit window will start at its maximum size (130ms in the Precision preset), but will shrink depending on the distance between the notes, up to a minimum value (40ms in the Precision preset).
 It is possible to edit the value of the hit window size, maximum hit window size and minimum hit window size.
 
+When playing with Dynamic Hit Window enabled, the sides of the affected highway(s) will display a red ring near the bottom of the screen.
+
 ## 👥 Crowd Meter
 Not yet implemented.
 
 # 📊 Engine Presets
 Engine presets are a collection of settings that allows the player to customize the engine to their liking. Players can easily share presets with each other by using the Import/Export function.
-Three default presets are included:
+
+To help distinguish custom Engine Presets from the official ones, each player's score multiplier is displayed in-game using either blue or red; blue for official presets, red for custom ones.
+
+YARG contains three official Engine Presets, which are as follows:
 
 ## 🌐 Default
 Aimed at the average player, this requires the player to be relatively accurate and have a clean playstyle, while not being overly strict.
@@ -58,6 +67,8 @@ Aimed at the average player, this requires the player to be relatively accurate 
 ## 🔰 Casual
 Aimed at players who play for fun rather than for the challenge, or players who are used to more lenient engines found in other games.
 
+When playing with the Casual preset, the sides of the affected highway(s) will display a purple ring near the bottom of the screen.
+
 | Parameter    | Value | Instruments |
 | -------- | :-------: | :-------: |
 | **Anti-Ghosting** | ❌ | 5-Fret |
@@ -71,6 +82,8 @@ Aimed at players who play for fun rather than for the challenge, or players who 
 ## 💎 Precision
 Aimed at hardcore players who want a greater challenge, and/or thrive on strict engines.
 
+When playing with the Precision preset, the sides of the affected highway(s) will display a yellow ring near the bottom of the screen.
+
 | Parameter    | Value | Instruments |
 | -------- | :-------: | :-------: |
 | **Anti-Ghosting** | ✅ | 5-Fret |
@@ -83,7 +96,7 @@ Aimed at hardcore players who want a greater challenge, and/or thrive on strict 
 | **Hit Window Min Size** | 40ms | All |
 
 ##  🆕 Creating new presets
-You cannot edit existing presets, but you can copy them by hitting the COPY button in Settings > Customization tab.
+You cannot edit the official presets, but you can copy them by hitting the COPY button in Settings > Customization tab.
 This will create a copy of the selected engine preset, and will show the values on screen, which you can edit.
 Values are different per game mode.
 Values are saved automatically upon exiting the settings screen.
