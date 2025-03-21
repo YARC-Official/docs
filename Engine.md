@@ -2,7 +2,7 @@
 title: ⚙️ Engine
 description: Information about YARG default engines
 published: true
-date: 2025-03-21T16:49:00.512Z
+date: 2025-03-21T16:51:14.168Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-30T03:59:19.435Z
@@ -17,13 +17,13 @@ If enabled, HOPO/tap notes are disabled if the player presses an incorrect fret.
 Pressing a fret that is below a currently held one (i.e. pressing Green while holding Red) does **not** count as ghosting, and is allowed.
 If disabled, the player can press whatever they want, and as long as they eventually hit the correct fret within the hit window, the note will be hit.
 
-When playing with Anti-Ghosting disabled, the sides of the affected highway(s) will display an orange ring near the bottom of the screen.
+When playing a custom Engine Preset with Anti-Ghosting disabled, the sides of the affected highway(s) will display an orange ring near the bottom of the screen.
 
 ## ♾ Infinite Front-End
 If enabled, HOPOs and Taps can be fretted before they enter the hit window, and will be scored as they enter it.
 If disabled, HOPOs and Taps can only be fretted while they are already within the hit window.
 
-When playing with Infinite Front-End enabled, the sides of the affected highway(s) will display a green ring near the bottom of the screen.
+When playing a custom Engine Preset with Infinite Front-End enabled, the sides of the affected highway(s) will display a green ring near the bottom of the screen.
 
 ## 🔃 HOPO Leniency
 This setting dictates the amount of time during which a HOPO note is allowed to take a strum input. Strum inside this window, and the strum is consumed; strum outside this window and you'll overstrum, breaking your combo.
@@ -39,7 +39,7 @@ If disabled, the hit window size will always be the same (140ms in the Default p
 If enabled, the hit window will start at its maximum size (130ms in the Precision preset), but will shrink depending on the distance between the notes, up to a minimum value (40ms in the Precision preset).
 It is possible to edit the value of the hit window size, maximum hit window size and minimum hit window size.
 
-When playing with Dynamic Hit Window enabled, the sides of the affected highway(s) will display a red ring near the bottom of the screen.
+When playing a custom Engine Preset with Dynamic Hit Window enabled, the sides of the affected highway(s) will display a red ring near the bottom of the screen.
 
 ## 👥 Crowd Meter
 Not yet implemented.
