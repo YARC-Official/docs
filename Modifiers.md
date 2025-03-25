@@ -2,7 +2,7 @@
 title: 🌟 Modifiers
 description: Information about the current available modifiers
 published: true
-date: 2024-05-13T21:48:16.411Z
+date: 2025-03-25T16:29:42.349Z
 tags: modifiers, all taps, all hopos, all strums, hopos to taps, taps to hopos, no kicks, unpitched only
 editor: markdown
 dateCreated: 2023-07-30T04:59:37.624Z
@@ -46,3 +46,7 @@ Lets you play with a peripheral that doesn't have a pedal, or just focus on your
 ## Unpitched Only
 Turns the whole song to talkies, for a more free-form performance.
 Wanna rap your way through a ballad? Have at it!
+
+## No Vocal Percussion
+Removes any Vocal Percussion notes that may be in the chart.
+Handy for folks singing with another instrument in their hands, or for those who just don't wanna smack their microphone.
