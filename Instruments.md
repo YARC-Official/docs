@@ -2,7 +2,7 @@
 title: 🎸 Instruments
 description: Information about hardware game controllers
 published: true
-date: 2025-03-13T19:07:13.915Z
+date: 2025-03-27T15:46:08.011Z
 tags: instruments, vocals, guitar, bass, drums, pro guitar, pro drums, pro bass, keys, pro keys, elite drums
 editor: markdown
 dateCreated: 2023-07-30T03:57:46.912Z
@@ -86,7 +86,7 @@ This is an inexhaustive list of instrument controllers and their compatibility w
 ###  ⚠️Note!
 
 6-fret play mode not yet supported but you can still connect them and map them as 5-fret.  
-See [play-modes](/play-modes) for more information.
+See [play-modes](/play-modes#h-6-fret) for more information.
 
 ##  Pro
 
