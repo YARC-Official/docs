@@ -2,7 +2,7 @@
 title: ▶️ Play Modes
 description: Useful information about the current supported play modes
 published: true
-date: 2025-03-20T21:30:36.936Z
+date: 2025-03-27T15:51:28.342Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-03T20:39:05.082Z
@@ -31,7 +31,8 @@ This play mode is not currently supported in YARG, but is likely to be added at 
 
 ## Pro
 *(Not to be confused with* Festival's ***Pro Lead** and **Pro Bass** modes, which more resemble YARG's **5 Fret** play.)*
-Meant to better represent a real guitar, the reference Pro Guitar controller has six short strings along the body for strumming, and six buttons for each of seventeen frets - 102 in total - arrayed down the neck. Support for pro guitar and pro bass is planned to return for YARG version 0.13.0.
+Meant to better represent a real guitar, the reference Pro Guitar controller has six short strings along the body for strumming, and six buttons for each of seventeen frets - 102 in total - arrayed down the neck. Charts also exist for 22 fret models.
+Support for Pro Guitar and Pro Bass is planned to return for YARG version 0.13.0.
 
 # 🥁 Drums
 
