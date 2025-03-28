@@ -2,7 +2,7 @@
 title: 🎸 Instruments
 description: Information about hardware game controllers
 published: true
-date: 2025-03-28T03:07:21.098Z
+date: 2025-03-28T03:10:23.287Z
 tags: instruments, vocals, guitar, bass, drums, pro guitar, pro drums, pro bass, keys, pro keys, elite drums
 editor: markdown
 dateCreated: 2023-07-30T03:57:46.912Z
@@ -185,7 +185,7 @@ Gamepad mode is being worked on. In the mean time, choose Five Fret and All HOPO
 **CRKD**
 |Picture|Name|PC|
 |:--:|:--:|:-:|:-:|
-|<img src="/instruments/miscellaneous/crkdneos.png" width="300">|Neo s|✅|
+|<img src="/instruments/miscellaneous/crkdneos.png" width="300">|NEO S|✅|
 **3rd Party**
 |Picture|Company|Name|Wii|Dreamcast|Notes
 |:--:|:--:|:-:|:-:|:-:|:-:|
