@@ -2,7 +2,7 @@
 title: 💽 Setlist
 description: More information about the songs in our Official Setlist
 published: true
-date: 2025-04-01T19:31:50.347Z
+date: 2025-04-01T19:57:05.124Z
 tags: songs, setlist, official
 editor: markdown
 dateCreated: 2023-07-30T21:18:21.243Z
@@ -250,4 +250,13 @@ An exclusive early sneak peek into our biggest chart launch to date, featuring s
 | Still Got It | The Coaᴛᴛablers | The Dark Side of the Sun | Novelty | 2025 | Bandipat, Cosmic Latte | ⚪⚪⚫⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚫⚫⚫ | No Part | No Part | 4/1/2025 | [▰&nbsp;bandcamp](https://thecoattablers.bandcamp.com/track/still-got-it) |
 | Wou Wou Wou | Yebert | Single | Drum and Bass | 2023 | Khromatical | 🔴🔴🔴🔴🔴 | No Part | No Part | No Part | ⚫⚫⚫⚫⚫ | 4/1/2025 | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/5jh2pxNIyLrmy4eaHZ8vn0) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=ZlJUul4QOMA) <br/> [☁&nbsp;SoundCloud](https://soundcloud.com/n-e-u-r-o-d-n-b/yebert-wou-wou-wou) |
 
-
+### 🆓 Creative Commons and free-to-use songs attribution:
+| Track | Artist | Licence | Source Link |
+| :-- | :-- | :-- | :--: |
+| Dance Mr. Funnybones (LOOP) | PuffballsUnited | released under [CC-BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | [🆖 NewGrounds](https://www.newgrounds.com/audio/listen/647890) |
+| Back To School Bitches (Kiraken-G Remix) | Gabber Cat | released under [CC-BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/) | [▰&nbsp;bandcamp](https://antropofagiarecords666.bandcamp.com/track/back-to-school-bitches-kiraken-g-remix) |
+| Brain Implosion Energy Drink (feat. Kasane Teto and Eleanor Forte) | Flanger Moose | released under [CC-BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) | [▰&nbsp;bandcamp](https://flangermoose.bandcamp.com/track/brain-implosion-energy-drink-feat-kasane-teto-eleanor-forte) |
+| Hard Licker | Flalcon | released under [CC-BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) | [🌐 Battle of the Bits](https://battleofthebits.com/arena/Entry/Hard+Licker/33600/) |
+| Wou Wou Wou | Yebert | released under [CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/) | [☁&nbsp;SoundCloud](https://soundcloud.com/n-e-u-r-o-d-n-b/yebert-wou-wou-wou) |
+| opus_10 | De Dubbelrieters | released under [CC-BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) | [🆓 Free Music Archive](http://freemusicarchive.org/music/De_Dubbelrieters/De_Dubbelrieters) |
+| Nice Logo | Exyl & Dalux | released under [CC-BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | [▰&nbsp;bandcamp](https://exyl.bandcamp.com/track/nice-logo) |
