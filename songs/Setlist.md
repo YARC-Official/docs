@@ -2,7 +2,7 @@
 title: 💽 Setlist
 description: More information about the songs in our Official Setlist
 published: true
-date: 2025-04-01T21:41:28.209Z
+date: 2025-04-05T02:07:27.940Z
 tags: songs, setlist, official
 editor: markdown
 dateCreated: 2023-07-30T21:18:21.243Z
@@ -70,6 +70,9 @@ YARG's Official Setlist is a multi-genre, full-band full-difficulty, in developm
 | Dreamweaver | Glass Guillotine | Glass Guillotine | Djent | 2024 | ⚪⚪⚪⚫⚫ <br/> Pro:⚪⚪⚫⚫⚫ | ⚪⚪⚪⚫⚫ <br/> Pro:⚪⚪⚫⚫⚫ | ⚪⚪⚪⚪⚫ <br/> Elite:⚪⚪⚪⚪⚫ | No Part | ⚫⚫⚫⚫⚫ <br/> 3&nbsp;parts | 02/01/2025 <br/> [Wave 10](https://www.youtube.com/watch?v=k2dhT_j1X1U) | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/0QTlePaFd1x3VZTL9kO4SV) <br/> [▰&nbsp;bandcamp](https://glassguillotine.bandcamp.com/track/dreamweaver) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=dnAjna2jmt4) |
 | Mass Gap | Mindiode | Elusive Perception | Djent | 2024 | 🔴🔴🔴🔴🔴 | 🔴🔴🔴🔴🔴 <br/> Rthm:🔴🔴🔴🔴🔴 | 🔴🔴🔴🔴🔴 | 🔴🔴🔴🔴🔴 <br/> Pro:🔴🔴🔴🔴🔴7 | no part | 02/01/2025 <br/> [Wave 10](https://www.youtube.com/watch?v=k2dhT_j1X1U) | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/12xcE1TDgnAJ85Xygy9X2p) <br/> [▰&nbsp;bandcamp](https://mindiodeband.bandcamp.com/track/mass-gap) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=EBXpsbAnS_g) |
 | Beverly | Used to Be Valentines | The Good Years | Emo | 2023 | ⚪⚪⚫⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚫⚫⚫ | No Part | ⚪⚪⚫⚫⚫ <br/> 3&nbsp;parts | 02/14/2025 <br/> [Single release](https://www.youtube.com/watch?v=HrOjsLpF_3Q) | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/1i7ecHuQXTLg1ZnmeTkaMs) <br/> [▰&nbsp;bandcamp](https://usedtobevalentines.bandcamp.com/track/beverly) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=OsjAZKGjY_c) <br/> [☁&nbsp;SoundCloud](https://soundcloud.com/usedtobevalentines/beverly) |
+| Join the Club | Tilly Louise | Join the Club | Indie Rock | 2023 | ⚪⚪⚪⚫⚫ <br/> Pro:⚪⚪⚪⚫⚫ | ⚪⚪⚫⚫⚫ <br/> Pro:⚪⚪⚫⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚪⚫⚫ <br/> Pro:⚪⚪⚪⚫⚫ | ⚪⚪⚪⚫⚫ <br/> 3 parts | 4/4/2025 <br/> [Yarg Mania wave 1](https://www.youtube.com/watch?v=2F7O4CI_Ug8) | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/3Km2mbHUBLCV3539E2Ayrj) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=wB3D9wujKio) <br/> [☁&nbsp;SoundCloud](https://soundcloud.com/tillylouise/join-the-club) |
+| Sweet Victory | Bob Kulick and David Glen Eisley | American Games | Glam | 1997 | ⚪⚪⚪⚫⚫ | ⚪⚫⚫⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚪⚫⚫ <br/> Pro:⚪⚪⚪⚫⚫ | ⚪⚪⚪⚫⚫ <br/> 3 parts | 4/4/2025 <br/> [Yarg Mania wave 1](https://www.youtube.com/watch?v=2F7O4CI_Ug8) | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/287pDdRjRYf7sd84fzupQo) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=Ci_M-DIkpeE) <br/> [☁&nbsp;SoundCloud](https://soundcloud.com/davidgleneisley/sweet-victory) |
+| Bottleneck | Groundlift | Single | Rock | 2023 | ⚪⚪⚪⚪⚪ | ⚪⚪⚪⚪⚪ | ⚪⚪⚪⚪⚪ | No Part | ⚪⚪⚪⚫⚫ <br/> 2 parts | 4/4/2025 <br/> [Yarg Mania wave 1](https://www.youtube.com/watch?v=2F7O4CI_Ug8) | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/7iDhEhvxFzB5csjvMN25aX) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=Qpvn7QBljsE) <br/> [☁&nbsp;SoundCloud](https://soundcloud.com/user-74110637/bottleneck) |
 
 ## 🆓 Creative Commons and free-to-use songs attribution:
 | Track | Artist | Licence | Source Link |
