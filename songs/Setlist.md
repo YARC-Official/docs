@@ -2,7 +2,7 @@
 title: 💽 Setlist
 description: More information about the songs in our Official Setlist
 published: true
-date: 2025-04-05T02:10:13.029Z
+date: 2025-04-11T16:25:37.908Z
 tags: songs, setlist, official
 editor: markdown
 dateCreated: 2023-07-30T21:18:21.243Z
@@ -142,6 +142,7 @@ Rock out with an assortment of accessible metal songs, drawing from nu-metal, al
 | Harbinger of Pestilence | Silverhawk | Tomorrow's Too Late | Thrash, Speed Metal | 2024 | 🔴🔴🔴🔴🔴 | ⚪⚪⚪⚫⚫ <br/> Rthm:⚪⚪⚪⚪⚫ | 🔴🔴🔴🔴🔴 <br/> Elite:🔴🔴🔴🔴🔴 | No Part | No Part | 03/01/2025 | [▰&nbsp;bandcamp](https://silverhawkthrash.bandcamp.com/track/harbinger-of-pestilence) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=qVNWEqmaHyY) |
 | Control | Thousand Thoughts | Single | Nu-Metal | 2021 | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚫⚫ <br/> Rthm:⚪⚪⚪⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚪⚫⚫ <br/> Pro:⚪⚪⚪⚫⚫ | ⚪⚪⚪⚫⚫ <br/> 3 parts | 03/01/2025 | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/6U3V2gODkIrXKdL1D0uwKQ) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=43albkLp_dI) <br/> [☁&nbsp;SoundCloud](https://soundcloud.com/tthoughtsmusic/control) |
 | Simple Folds | Zephyrianna, Tsyolin and BoffleFloffle | Single | Punk | 2023 | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚫⚫ <br/> Rthm:⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚫⚫ <br/> Pro:⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚫ <br/> 3 parts | 03/01/2025 | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/7ehBMuHNA3GLpCAMnVstjO) <br/> [▰&nbsp;bandcamp](https://bofflefloffle.bandcamp.com/track/patterns-simple-folds-pop-punk-cover-ft-zephyrianna-tsyolin-and-bofflefoffle) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=H-B8MX-09kI) <br/> [☁&nbsp;SoundCloud](https://soundcloud.com/bofflefloffle_music/patterns-simple-folds-pop-punk-cover-ft-zephyrianna-tsyolin-bofflefloffle) |
+| Hell | Vandalheart | Single | Metalcore | 2025 | ⚪⚪⚪⚪⚫ | ⚪⚪⚫⚫⚫ <br/> Rthm:⚪⚪⚪⚪⚫ | ⚪⚪⚪⚪⚪ | ⚫⚫⚫⚫⚫ <br/> Pro:⚫⚫⚫⚫⚫ | ⚪⚪⚪⚫⚫ <br/> 3 parts | 04/11/2025 [Preview](https://www.youtube.com/watch?v=Y0aAZTp0a8o) | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/64OdvflCppR0hB318xw8Fv) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=AwNJwmY-VCs) |
 
 # 💿 Full-Album DLC
 These DLC packs each contain an entire music album from a given artist; great for fans of that artist!
