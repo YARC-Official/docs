@@ -2,7 +2,7 @@
 title: 💽 Setlist
 description: More information about the songs in our Official Setlist
 published: true
-date: 2025-04-12T01:42:16.553Z
+date: 2025-04-12T01:44:23.284Z
 tags: songs, setlist, official
 editor: markdown
 dateCreated: 2023-07-30T21:18:21.243Z
@@ -75,7 +75,7 @@ YARG's Official Setlist is a multi-genre, full-band full-difficulty, in developm
 | Bottleneck | Groundlift | Single | Rock | 2023 | ⚪⚪⚪⚪⚪ | ⚪⚪⚪⚪⚪ | ⚪⚪⚪⚪⚪ | No Part | ⚪⚪⚪⚫⚫ <br/> 2 parts | 04/04/2025 <br/> [YARG Mania wave 1](https://www.youtube.com/watch?v=2F7O4CI_Ug8) | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/7iDhEhvxFzB5csjvMN25aX) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=Qpvn7QBljsE) <br/> [☁&nbsp;SoundCloud](https://soundcloud.com/user-74110637/bottleneck) |
 | Exeter | Another One Down! | A Bittter Descent | Punk | 2021 | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚪⚫ | ⚫⚫⚫⚫⚫ <br/> Pro:⚫⚫⚫⚫⚫ | No Part | 04/11/2025 <br/> [YARG Mania wave 2](https://www.youtube.com/watch?v=TB6pqoku6is) | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/5VXFiEq9cbbZP6ImoPatQt) <br/> [▰&nbsp;bandcamp](https://anotheronedown.bandcamp.com/track/exeter) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=hr7WK9thjvU) <br/> [☁&nbsp;SoundCloud](https://soundcloud.com/anotheronedown/exeter) |
 | Igowallah | Daniel Thrasher | Single | Hip-Hip, Rap | 2023 | ⚫⚫⚫⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚪⚪⚪ | ⚫⚫⚫⚫⚫ <br/> Pro:⚫⚫⚫⚫⚫ | ⚪⚪⚪⚪⚫ <br/> 2 parts | 04/11/2025 <br/> [YARG Mania wave 2](https://www.youtube.com/watch?v=TB6pqoku6is) | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/6WhJDKZz3n1FiIY3WtxGLO) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=MPBgDaTxIgQ) |
-| I With That I Could Fall | Jamie Paige | Constant Companions | Synthpop, Electropop | 2024 | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚪ | ⚪⚫⚫⚫⚫ | ⚪⚪⚪⚪⚪ <br/> Pro:⚪⚪⚪⚪⚪ | ⚪⚪⚪⚪⚪ <br/> 3 parts | 04/11/2025 <br/> [YARG Mania wave 2](https://www.youtube.com/watch?v=TB6pqoku6is) | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/51ZkX9yjcV55hMUJUfw2dC) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=FftLImzl1-k) <br/> [☁&nbsp;SoundCloud](https://soundcloud.com/jamieirl/i-wish-that-i-could-fall) |
+| I Wish That I Could Fall | Jamie Paige | Constant Companions | Synthpop, Electropop | 2024 | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚪ | ⚪⚫⚫⚫⚫ | ⚪⚪⚪⚪⚪ <br/> Pro:⚪⚪⚪⚪⚪ | ⚪⚪⚪⚪⚪ <br/> 3 parts | 04/11/2025 <br/> [YARG Mania wave 2](https://www.youtube.com/watch?v=TB6pqoku6is) | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/51ZkX9yjcV55hMUJUfw2dC) <br/> [▰&nbsp;bandcamp](https://jamiepaige.bandcamp.com/track/i-wish-that-i-could-fall) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=FftLImzl1-k) <br/> [☁&nbsp;SoundCloud](https://soundcloud.com/jamieirl/i-wish-that-i-could-fall) |
 
 ## 🆓 Creative Commons and free-to-use songs attribution:
 | Track | Artist | Licence | Source Link |
