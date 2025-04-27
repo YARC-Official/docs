@@ -2,7 +2,7 @@
 title: 💽 Setlist
 description: More information about the songs in our Official Setlist
 published: true
-date: 2025-04-19T01:21:44.217Z
+date: 2025-04-27T01:31:17.826Z
 tags: songs, setlist, official
 editor: markdown
 dateCreated: 2023-07-30T21:18:21.243Z
@@ -79,6 +79,9 @@ YARG's Official Setlist is a multi-genre, full-band full-difficulty, in developm
 | Alibi | Vera Kay | Pink Roses | Alternative | 2019 | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚫⚫ | 🔴🔴🔴🔴🔴 | ⚫⚫⚫⚫⚫ <br/> Pro:⚫⚫⚫⚫⚫ | ⚪⚪⚪⚪⚫ <br/> 3 parts | 04/18/2025 [YARG Mania wave 3](https://www.youtube.com/watch?v=5Nx4KFAxgkw) | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/1YwszNn7AlxtokZh9frZYP) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=Y3Pw0rNK0As) <br/> [☁&nbsp;SoundCloud](https://soundcloud.com/user-759413631/01-alibi) |
 | Pixel Galaxy | Snail's House | Single | Chiptune | 2017 | 🔴🔴🔴🔴🔴 | ⚪⚪⚫⚫⚫ | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚫ <br/> Pro:⚪⚪⚪⚪⚫ | No Part | 04/18/2025 [YARG Mania wave 3](https://www.youtube.com/watch?v=5Nx4KFAxgkw) | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/7zHq5ayXLxpJ89392EYm1L) <br/> [▰&nbsp;bandcamp](https://0101.bandcamp.com/track/pixel-galaxy) <br/> [▶&nbsp;YouTube]() <br/> [☁&nbsp;SoundCloud](https://soundcloud.com/ujico) |
 | Oxygen | Marta Vega | Single | Grunge | 2024 | ⚪⚪⚫⚫⚫ | ⚪⚫⚫⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚫⚫⚫ <br/> Pro:⚪⚪⚫⚫⚫ | ⚪⚪⚫⚫⚫ <br/> 3 parts | 04/18/2025 [YARG Mania wave 3](https://www.youtube.com/watch?v=5Nx4KFAxgkw) | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/1huV0ZHHl6swbFdvj8lG0y) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=CtoSWjgRucw) |
+| Boom Slayer (feat. Scott Foster Harris) | Boom Kitty | Single | Industrial | 2021 | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚫ | ⚪⚪⚫⚫⚫ <br/> Pro:⚪⚪⚫⚫⚫ | ⚪⚪⚪⚫⚫ <br/> 2 parts | 04/25/2025 [YARG Mania wave 4](https://www.youtube.com/watch?v=CND9CQrpUzM) | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/2zvenRIwZT9Rf9QfuIX76i) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=fI2pqFqlB-M) <br/> [☁&nbsp;SoundCloud](https://soundcloud.com/boomkitty/boomslayer) |
+| Don't Look! | Prismia | Single | Alternative | 2024 | ⚪⚪⚫⚫⚫ | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚫ | 🔴🔴🔴🔴🔴 <br/> Pro:🔴🔴🔴🔴🔴 | ⚪⚫⚫⚫⚫ <br/> 3 parts | 04/25/2025 [YARG Mania wave 4](https://www.youtube.com/watch?v=CND9CQrpUzM) | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/2N9JSd6VNuFcKhdNASfUPy) <br/> [▰&nbsp;bandcamp](https://prismiamusic.bandcamp.com/track/dont-look) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=5bHONbMD9bI) |
+| Queen of the Night | The Vanished People | School Trip | Indie Rock | 2023 | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚫⚫ <br/> Pro:⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚫ <br/> 3 parts | 04/25/2025 [YARG Mania wave 4](https://www.youtube.com/watch?v=CND9CQrpUzM) | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/1gO9SZTzqUOdCpGaU6eRlS) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=9FsaQj_4g5Q) <br/> [☁&nbsp;SoundCloud](https://soundcloud.com/user-164960175/queen-of-the-night-1) |
 
 ## 🆓 Creative Commons and free-to-use songs attribution:
 | Track | Artist | Licence | Source Link |
