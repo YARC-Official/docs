@@ -2,7 +2,7 @@
 title: 💽 Setlist
 description: More information about the songs in our Official Setlist
 published: true
-date: 2025-04-30T21:05:41.663Z
+date: 2025-05-02T21:23:07.664Z
 tags: songs, setlist, official
 editor: markdown
 dateCreated: 2023-07-30T21:18:21.243Z
@@ -199,7 +199,7 @@ Explore world-famous pieces for piano, organ, and even calliope with YARG's firs
 | Entrance of the Gladiators | ⿻ Julius Fučík | Classical Keys 01 | Classical | 1899 | No Part | ⚪⚪⚪⚪⚫ | No Part | ⚪⚪⚪⚪⚫ <br/> Pro:⚪⚪⚪⚪⚫ | No Part | 10/22/2024 |  |
 | Maple Leaf Rag | ⿻ Scott Joplin | Classical Keys 01 | Jazz | 1899 | No Part | ⚪⚪⚪⚫⚫ | No Part | ⚪⚪⚪⚪⚪ <br/> Pro:⚪⚪⚪⚪⚪ | No Part | 10/22/2024 |  |
 | Marche Funèbre | ⿻ Frédéric Chopin | Classical Keys 01 | Classical | 1840 | No Part | ⚪⚪⚫⚫⚫ | No Part | ⚪⚪⚫⚫⚫ <br/> Pro:⚪⚪⚫⚫⚫ | No Part | 10/22/2024 |  |
-| Scherzo No. 1 | ⿻ Frédéric Chopin | Classical Keys 01 | Classical | 1835 | No Part | ⚪⚪⚪⚪⚪ | No Part | 🔴🔴🔴🔴🔴 <br/> Pro:🔴🔴🔴🔴🔴 | No Part | 10/22/2024 |  |
+| Scherzo No. 1 | ⿻ Frédéric Chopin | Classical Keys 01 | Classical | 1835 | No Part | ⚪⚪⚪⚪⚪ | No Part | 🔴🔴🔴🔴🔴7 <br/> Pro:🔴🔴🔴🔴🔴7 | No Part | 10/22/2024 |  |
 
 ## 🎹 Children's Keys Pack 1
 If you have a budding pianist in your life (or if the classical songs are too hard for you), try this easy pack of classic children's songs and nursery rhymes. Learn real melodies on Pro Keys, or play five-lane versions of both the melody and harmony with the Keys and Bass parts.
@@ -222,6 +222,28 @@ Ring in the holiday season with six public domain Christmas classics. Learn auth
 | Jingle Bells | ⿻ James Lord Pierpont | Christmas Keys 01 | Holiday | 1857 | No Part | ⚪⚪⚪⚫⚫ | No Part | ⚪⚪⚫⚫⚫ <br/> Pro:⚪⚪⚫⚫⚫ | No Part | 12/15/2024 <br/> [preview](https://youtu.be/FPsL2l40Nx8) |  |
 | Jolly Old Saint Nicholas | ⿻ Emily Huntington Miller and James R. Murray | Christmas Keys 01 | Holiday | 1874 | No Part | ⚫⚫⚫⚫⚫ | No Part | ⚪⚫⚫⚫⚫ <br/> Pro:⚪⚫⚫⚫⚫ | No Part | 12/15/2024 <br/> [preview](https://youtu.be/FPsL2l40Nx8) |  |
 | Joy to the World | ⿻ Isaac Watts | Christmas Keys 01 | Holiday | 1719 | No Part | ⚪⚫⚫⚫⚫ | No Part | ⚪⚪⚫⚫⚫ <br/> Pro:⚪⚪⚫⚫⚫ | No Part | 12/15/2024 <br/> [preview](https://youtu.be/FPsL2l40Nx8) |  |
+
+## 🎹 Classical Keys Pack 2
+Classical Keys is back with 6 more public domain pieces for piano and accordion. Learn the real right-hand parts on Pro Keys, or play five-lane versions of each hand on Keys and Bass!
+| Track | Artist | Album | Genre | Year | Guitar | Bass | Drums | Keys | Vocals | Release | Link | 
+| :-- | :-- | :-- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| Minuet in G Minor | ⿻  Christian Petzold | Classical Keys 02 | Classical | 1720 | No Part | ⚪⚫⚫⚫⚫ | No Part | ⚪⚫⚫⚫⚫ <br/> Pro:⚪⚫⚫⚫⚫ | No Part | 05/02/2025 <br/> [preview](https://www.youtube.com/watch?v=H0vCaf7opmw) |  |
+| The Well-Tempered Clavier Book 1 No. 1: Prelude and Fugue in C Major | ⿻ Johann Sebastian Bach | Classical Keys 02 | Classical | 1722 | No Part | ⚫⚫⚫⚫⚫ | No Part | ⚪⚪⚫⚫⚫ <br/> Pro:⚪⚪⚫⚫⚫ | No Part | 05/02/2025 <br/> [preview](https://www.youtube.com/watch?v=H0vCaf7opmw) |  |
+| Funiculì, Funiculà | ⿻ Luigi Denza | Classical Keys 02 | World | 1880 | No Part | ⚪⚪⚪⚫⚫ | No Part | ⚪⚪⚪⚫⚫ <br/> Pro:⚪⚪⚪⚫⚫ | No Part | 05/02/2025 <br/> [preview](https://www.youtube.com/watch?v=H0vCaf7opmw) |  |
+| Piano Sonata No. 16, Mvt. I: Allegro | ⿻ Wolfgang Amadeus Mozart | Classical Keys 02 | Classical | 1805 | No Part | ⚪⚪⚪⚪⚪ | No Part | ⚪⚪⚪⚪⚪ <br/> Pro:⚪⚪⚪⚪⚪ | No Part | 05/02/2025 <br/> [preview](https://www.youtube.com/watch?v=H0vCaf7opmw) |  |
+| Twelfth Street Rag | ⿻ Euday L. Bowman | Classical Keys 02 | Jazz | 1914 | No Part | ⚪⚪⚪⚫⚫ | No Part | 🔴🔴🔴🔴🔴 <br/> Pro:🔴🔴🔴🔴🔴 | No Part | 05/02/2025 <br/> [preview](https://www.youtube.com/watch?v=H0vCaf7opmw) |  |
+| Hungarian Rhapsody No. 2 | ⿻ Franz Liszt | Classical Keys 02 | Classical | 1851 | No Part | 🔴🔴🔴🔴🔴 | No Part | 🔴🔴🔴🔴🔴7 <br/> Pro:🔴🔴🔴🔴🔴7 | No Part | 05/02/2025 <br/> [preview](https://www.youtube.com/watch?v=H0vCaf7opmw) |  |
+
+## 🎹 Children's Keys Pack 2
+Hungarian Rhapsody No. 2 too hard for you? These 6 classic children's tunes are great entry point for budding pianists. Learn the real right-hand parts on Pro Keys, or play five-lane versions of both hands on Keys and Bass!
+| Track | Artist | Album | Genre | Year | Guitar | Bass | Drums | Keys | Vocals | Release | Link | 
+| :-- | :-- | :-- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| Chopsticks | ⿻ Arthur de Lulli | Children's Keys 02 | Children's Music | 1877 | No Part | ⚪⚫⚫⚫⚫ | No Part | ⚪⚪⚫⚫⚫ <br/> Pro:⚪⚪⚫⚫⚫ | No Part | 05/02/2025 |  |
+| Hey Diddle Diddle | ⿻ James William Elliott | Children's Keys 02 | Children's Music | 1870 | No Part | ⚫⚫⚫⚫⚫ | No Part | ⚫⚫⚫⚫⚫ <br/> Pro:⚫⚫⚫⚫⚫ | No Part | 05/02/2025 |  |
+| Old MacDonald Had a Farm | ⿻ Thomas d'Urfey | Children's Keys 02 | Children's Music | 1706 | No Part | ⚫⚫⚫⚫⚫ | No Part | ⚪⚫⚫⚫⚫ <br/> Pro:⚪⚫⚫⚫⚫ | No Part | 05/02/2025 |  |
+| Over the River and Through the Woods | ⿻ Lydia Maria Child | Children's Keys 02 | Children's Music | 1844 | No Part | ⚪⚫⚫⚫⚫ | No Part | ⚪⚫⚫⚫⚫ <br/> Pro:⚪⚫⚫⚫⚫ | No Part | 05/02/2025 |  |
+| Pop Goes the Weasel | ⿻ Eugène Coulon | Children's Keys 02 | Children's Music | 1852 | No Part | ⚪⚫⚫⚫⚫ | No Part | ⚫⚫⚫⚫⚫ <br/> Pro:⚫⚫⚫⚫⚫ | No Part | 05/02/2025 |  |
+| Three Blind Mice | ⿻ Thomas Ravenscroft | Children's Keys 02 | Children's Music | 1609 | No Part | ⚫⚫⚫⚫⚫ | No Part | ⚪⚫⚫⚫⚫ <br/> Pro:⚪⚫⚫⚫⚫ | No Part | 05/02/2025 |  |
 
 # 🧶 YARN
 YARN, short for Yet Another Rhythm Network, is a chart distribution service that allows all charters to make charts officially for YARG. Inspired by Rock Band Network, it is legally robust and is more direct than downloading from a separate site.
