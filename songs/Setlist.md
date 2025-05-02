@@ -2,7 +2,7 @@
 title: 💽 Setlist
 description: More information about the songs in our Official Setlist
 published: true
-date: 2025-05-02T21:43:43.081Z
+date: 2025-05-02T21:43:52.841Z
 tags: songs, setlist, official
 editor: markdown
 dateCreated: 2023-07-30T21:18:21.243Z
@@ -269,7 +269,7 @@ Our first grab-bag pack from YARN authors. Check out what they've submitted!
 | Burn | Counterparts | released under [CC-BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/) | [▰&nbsp;bandcamp](https://counterpartshc.bandcamp.com/track/burn) |
 | How | Exyl and Paper Skies | released under [CC-BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) | [▰&nbsp;bandcamp](https://exyl.bandcamp.com/track/exyl-paper-skies-how) |
 
-##  Mini-Wave 0
+## 🌊 Mini-Wave 0
 An exclusive early sneak peek into our biggest chart launch to date, featuring some of the best songs you've never heard of!
 | Track | Artist | Album | Genre | Year | Charter | Guitar | Bass | Drums | Keys | Vocals | Release | Link | 
 | :-- | :-- | :-- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
