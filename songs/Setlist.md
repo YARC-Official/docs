@@ -2,7 +2,7 @@
 title: 💽 Setlist
 description: More information about the songs in our Official Setlist
 published: true
-date: 2025-05-02T21:43:52.841Z
+date: 2025-05-10T01:24:49.825Z
 tags: songs, setlist, official
 editor: markdown
 dateCreated: 2023-07-30T21:18:21.243Z
@@ -82,6 +82,9 @@ YARG's Official Setlist is a multi-genre, full-band full-difficulty, in developm
 | Boom Slayer (feat. Scott Foster Harris) | Boom Kitty | Single | Industrial | 2021 | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚫ | ⚪⚪⚫⚫⚫ <br/> Pro:⚪⚪⚫⚫⚫ | ⚪⚪⚪⚫⚫ <br/> 2 parts | 04/25/2025 [YARG Mania wave 4](https://www.youtube.com/watch?v=CND9CQrpUzM) | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/2zvenRIwZT9Rf9QfuIX76i) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=fI2pqFqlB-M) <br/> [☁&nbsp;SoundCloud](https://soundcloud.com/boomkitty/boomslayer) |
 | Don't Look! | Prismia | Single | Alternative | 2024 | ⚪⚪⚫⚫⚫ | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚫ | 🔴🔴🔴🔴🔴 <br/> Pro:🔴🔴🔴🔴🔴 | ⚪⚫⚫⚫⚫ <br/> 3 parts | 04/25/2025 [YARG Mania wave 4](https://www.youtube.com/watch?v=CND9CQrpUzM) | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/2N9JSd6VNuFcKhdNASfUPy) <br/> [▰&nbsp;bandcamp](https://prismiamusic.bandcamp.com/track/dont-look) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=5bHONbMD9bI) |
 | Queen of the Night | The Vanished People | School Trip | Indie Rock | 2023 | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚫⚫ <br/> Pro:⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚫ <br/> 3 parts | 04/25/2025 [YARG Mania wave 4](https://www.youtube.com/watch?v=CND9CQrpUzM) | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/1gO9SZTzqUOdCpGaU6eRlS) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=9FsaQj_4g5Q) <br/> [☁&nbsp;SoundCloud](https://soundcloud.com/user-164960175/queen-of-the-night-1) |
+| Everybody Do the Flop | LilDeuceDeuce | Single | Novelty | 2014 | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚪ | ⚪⚪⚪⚪⚫ <br/> Pro:⚪⚪⚪⚪⚫ | ⚪⚪⚪⚪⚪ <br/> 3 parts | 05/09/2025 [YARG Mania wave 5](https://www.youtube.com/watch?v=8-X7IGjbzUI) | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/408zdC6qiLu1Zlbr9RVXGJ) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=L5inD4XWz4U) <br/> [☁&nbsp;SoundCloud](https://soundcloud.com/pinemallow/lildeucedeuce-everybody-do-the-flop) |
+| Moonlight Sonata 3rd Mvt (Big Band Version) | The 8-Bit Big Band | Single | Jazz | 2023 | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚪ | 🔴🔴🔴🔴🔴 | 🔴🔴🔴🔴🔴 <br/> Pro:🔴🔴🔴🔴🔴 | No Part | 05/09/2025 [YARG Mania wave 5](https://www.youtube.com/watch?v=8-X7IGjbzUI) | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/29KYUeEtp9lYtuXGUiRMYI) <br/> [▰&nbsp;bandcamp](https://the8bitbigband.bandcamp.com/track/moonlight-sonata-3rd-movement-big-band-jazz-version) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=EhDtCYkCrlU) |
+| I'm a Bug | Fries on the Side | Single | Pop | 2024 | ⚪⚫⚫⚫⚫ | ⚪⚫⚫⚫⚫ | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚪ <br/> Pro:⚪⚪⚪⚪⚪ | ⚪⚪⚫⚫⚫ <br/> 3 parts | 05/09/2025 [YARG Mania wave 5](https://www.youtube.com/watch?v=8-X7IGjbzUI) | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/1r6MBzQquDpw7ZDXh8imHF) <br/> [▰&nbsp;bandcamp](https://friesontheside.bandcamp.com/track/im-a-bug-2) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=-5lobdvz4k4) |
 
 ## 🆓 Creative Commons and free-to-use songs attribution:
 | Track | Artist | Licence | Source Link |
