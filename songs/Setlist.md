@@ -2,7 +2,7 @@
 title: 💽 Setlist
 description: More information about the songs in our Official Setlist
 published: true
-date: 2025-05-10T01:24:49.825Z
+date: 2025-05-17T01:38:07.471Z
 tags: songs, setlist, official
 editor: markdown
 dateCreated: 2023-07-30T21:18:21.243Z
@@ -85,6 +85,9 @@ YARG's Official Setlist is a multi-genre, full-band full-difficulty, in developm
 | Everybody Do the Flop | LilDeuceDeuce | Single | Novelty | 2014 | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚪ | ⚪⚪⚪⚪⚫ <br/> Pro:⚪⚪⚪⚪⚫ | ⚪⚪⚪⚪⚪ <br/> 3 parts | 05/09/2025 [YARG Mania wave 5](https://www.youtube.com/watch?v=8-X7IGjbzUI) | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/408zdC6qiLu1Zlbr9RVXGJ) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=L5inD4XWz4U) <br/> [☁&nbsp;SoundCloud](https://soundcloud.com/pinemallow/lildeucedeuce-everybody-do-the-flop) |
 | Moonlight Sonata 3rd Mvt (Big Band Version) | The 8-Bit Big Band | Single | Jazz | 2023 | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚪ | 🔴🔴🔴🔴🔴 | 🔴🔴🔴🔴🔴 <br/> Pro:🔴🔴🔴🔴🔴 | No Part | 05/09/2025 [YARG Mania wave 5](https://www.youtube.com/watch?v=8-X7IGjbzUI) | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/29KYUeEtp9lYtuXGUiRMYI) <br/> [▰&nbsp;bandcamp](https://the8bitbigband.bandcamp.com/track/moonlight-sonata-3rd-movement-big-band-jazz-version) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=EhDtCYkCrlU) |
 | I'm a Bug | Fries on the Side | Single | Pop | 2024 | ⚪⚫⚫⚫⚫ | ⚪⚫⚫⚫⚫ | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚪ <br/> Pro:⚪⚪⚪⚪⚪ | ⚪⚪⚫⚫⚫ <br/> 3 parts | 05/09/2025 [YARG Mania wave 5](https://www.youtube.com/watch?v=8-X7IGjbzUI) | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/1r6MBzQquDpw7ZDXh8imHF) <br/> [▰&nbsp;bandcamp](https://friesontheside.bandcamp.com/track/im-a-bug-2) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=-5lobdvz4k4) |
+| Duvet Thief | The Covasettes | What's Lost is Ours to Find | Alternative | 2023 | ⚪⚪⚫⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚪⚪⚫ | ⚪⚫⚫⚫⚫ <br/> Pro:⚪⚫⚫⚫⚫ | ⚪⚪⚪⚫⚫ <br/> 3 parts | 05/16/2025 [YARG Mania wave 6](https://www.youtube.com/watch?v=bhyvyibpN-g) | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/31gCOJcycD8MmqKycxGhQ5) <br/> [▰&nbsp;bandcamp](https://labrecords.bandcamp.com/track/duvet-thief-4) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=HDHSWm3xvh4) <br/> [☁&nbsp;SoundCloud](https://soundcloud.com/thecovasettes-music/duvet-thief) |
+| 1nput This 2 Y0ur Spine | Camellia | Tera I/O | Hardcore EDM | 2020 | 🔴🔴🔴🔴🔴 | ⚪⚪⚪⚪⚫ | 🔴🔴🔴🔴🔴 <br/> Elite:🔴🔴🔴🔴🔴 | 🔴🔴🔴🔴🔴 <br/> Pro:🔴🔴🔴🔴🔴 | ⚫⚫⚫⚫⚫ | 05/16/2025 [YARG Mania wave 6](https://www.youtube.com/watch?v=bhyvyibpN-g) | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/5QvnkG3CTE15m5KXnq2R8s) <br/> [▰&nbsp;bandcamp](https://cametek.bandcamp.com/track/1nput-this-2-y0ur-spine) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=anXtglsWCtQ) |
+| Al Gore Rhythm | Blight Town | It Lives... | Post-Hardcore | 2022 | ⚪⚪⚪⚪⚪ | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚪⚪ | No Part | ⚪⚪⚪⚪⚪ <br/> 3 parts | 05/16/2025 [YARG Mania wave 6](https://www.youtube.com/watch?v=bhyvyibpN-g) | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/4reUSoIcdK4qpPaPD0XCIF) <br/> [▰&nbsp;bandcamp](https://blighttownuk.bandcamp.com/track/al-gore-rhythm) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=5coB_b-3aqw) |
 
 ## 🆓 Creative Commons and free-to-use songs attribution:
 | Track | Artist | Licence | Source Link |
