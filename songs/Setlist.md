@@ -2,7 +2,7 @@
 title: 💽 Setlist
 description: More information about the songs in our Official Setlist
 published: true
-date: 2025-05-17T01:38:07.471Z
+date: 2025-05-24T03:07:36.285Z
 tags: songs, setlist, official
 editor: markdown
 dateCreated: 2023-07-30T21:18:21.243Z
@@ -88,6 +88,9 @@ YARG's Official Setlist is a multi-genre, full-band full-difficulty, in developm
 | Duvet Thief | The Covasettes | What's Lost is Ours to Find | Alternative | 2023 | ⚪⚪⚫⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚪⚪⚫ | ⚪⚫⚫⚫⚫ <br/> Pro:⚪⚫⚫⚫⚫ | ⚪⚪⚪⚫⚫ <br/> 3 parts | 05/16/2025 [YARG Mania wave 6](https://www.youtube.com/watch?v=bhyvyibpN-g) | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/31gCOJcycD8MmqKycxGhQ5) <br/> [▰&nbsp;bandcamp](https://labrecords.bandcamp.com/track/duvet-thief-4) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=HDHSWm3xvh4) <br/> [☁&nbsp;SoundCloud](https://soundcloud.com/thecovasettes-music/duvet-thief) |
 | 1nput This 2 Y0ur Spine | Camellia | Tera I/O | Hardcore EDM | 2020 | 🔴🔴🔴🔴🔴 | ⚪⚪⚪⚪⚫ | 🔴🔴🔴🔴🔴 <br/> Elite:🔴🔴🔴🔴🔴 | 🔴🔴🔴🔴🔴 <br/> Pro:🔴🔴🔴🔴🔴 | ⚫⚫⚫⚫⚫ | 05/16/2025 [YARG Mania wave 6](https://www.youtube.com/watch?v=bhyvyibpN-g) | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/5QvnkG3CTE15m5KXnq2R8s) <br/> [▰&nbsp;bandcamp](https://cametek.bandcamp.com/track/1nput-this-2-y0ur-spine) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=anXtglsWCtQ) |
 | Al Gore Rhythm | Blight Town | It Lives... | Post-Hardcore | 2022 | ⚪⚪⚪⚪⚪ | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚪⚪ | No Part | ⚪⚪⚪⚪⚪ <br/> 3 parts | 05/16/2025 [YARG Mania wave 6](https://www.youtube.com/watch?v=bhyvyibpN-g) | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/4reUSoIcdK4qpPaPD0XCIF) <br/> [▰&nbsp;bandcamp](https://blighttownuk.bandcamp.com/track/al-gore-rhythm) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=5coB_b-3aqw) |
+| We All Float Down Here | Four Year Strong | Four Year Strong | Punk | 2015 | 🔴🔴🔴🔴🔴 | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚪⚪ | No Part | ⚪⚪⚫⚫⚫ <br/> 2 parts | 05/23/2025 [YARG Mania wave 7](https://www.youtube.com/watch?v=1PYXYNub2WA) | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/1Lth0lc9ges0BMZHotzbLP) <br/> [▰&nbsp;bandcamp](https://fouryearstrong.bandcamp.com/track/we-all-float-down-here) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=esCjADNzOy8) <br/> [☁&nbsp;SoundCloud](https://soundcloud.com/fouryearstrong/we-all-float-down-here-728887581) |
+| It Kills Me | Lil Pitchy / Roomie | Single | Pop | 2021 | ⚪⚪⚫⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚪⚪⚫ | ⚪⚫⚫⚫⚫ <br/> Pro:⚪⚪⚫⚫⚫ | ⚪⚪⚪⚫⚫ <br/> 3 parts | 05/23/2025 [YARG Mania wave 7](https://www.youtube.com/watch?v=1PYXYNub2WA) | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/1ef2w1GWn7CYTGD8ZO7qUW) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=AIJTVAnT5LQ) <br/> [☁&nbsp;SoundCloud](https://soundcloud.com/user-29222222/it-kills-me) |
+| Positively Clark Street | Telethon | Swim Out past the Breakers | Southern Rock | 2021 | ⚪⚪⚪⚪⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚫⚫⚫ <br/> Pro:⚪⚪⚫⚫⚫ | ⚪⚪⚪⚪⚫ <br/> 3 parts | 05/23/2025 [YARG Mania wave 7](https://www.youtube.com/watch?v=1PYXYNub2WA) | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/7FrTTchTrD8mumJeWu21Ik) <br/> [▰&nbsp;bandcamp](https://telethonband.bandcamp.com/track/positively-clark-street) <br/> [▶&nbsp;YouTube](https://www.youtube.com/watch?v=V5vjCrmuVmw) <br/> [☁&nbsp;SoundCloud](https://soundcloud.com/telethon-music/positively-clark-street) |
 
 ## 🆓 Creative Commons and free-to-use songs attribution:
 | Track | Artist | Licence | Source Link |
@@ -95,7 +98,8 @@ YARG's Official Setlist is a multi-genre, full-band full-difficulty, in developm
 | 322 | Creo | released under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [▶&nbsp;YouTube](https://youtu.be/JmobbPTaFcw&t=0s) |
 | Discipline | Nine Inch Nails | released under [CC-BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) | [🆓 Free Music Archive](https://freemusicarchive.org/music/Nine_Inch_Nails/The_Slip/Discipline/) |
 | Half Measures | Aaron Musslewhite | released under [CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/) | [🆖&nbsp;Newgrounds](https://www.newgrounds.com/audio/listen/817529)  
-| Vehemence | Reo | General use described in the given source link. | [▶&nbsp;YouTube](https://youtu.be/xtsvZX2lES4&t=0s) |
+| Vehemence | Reo | General use described in the given source link. | [▶&nbsp;YouTube](https://youtu.be/xtsvZX2lES4) |
+| We All Float Down Here | Four Year Strong | released under [CC-BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/) | [▰&nbsp;bandcamp](https://fouryearstrong.bandcamp.com/track/we-all-float-down-here) |
 
 
 # 📥 DLC
