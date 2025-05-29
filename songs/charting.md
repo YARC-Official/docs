@@ -2,7 +2,7 @@
 title: 🎼 Charting
 description: Guidelines for charting YARG songs
 published: true
-date: 2025-03-14T15:02:39.666Z
+date: 2025-05-29T00:29:56.986Z
 tags: songs, charting, guidelines
 editor: markdown
 dateCreated: 2023-06-08T20:40:29.063Z
@@ -53,6 +53,10 @@ We hope to see your submissions soon!
 - [🔎 Noah Baxter's Chart Preview Plugin](https://github.com/noahbaxter/chart-preview)
 - [🔎 GHCripto's 6-Fret Guitar Chart Preview Plugin](https://github.com/GHCripto/GHL-Preview)
 - [📑 C3 Documentation *Take charting advice from here with a grain of salt*](http://docs.c3universe.com/rbndocs/index.php?title=Authoring)
+{.links-list}
+
+# YARG special features
+- [🔰 5-fret Guitar LD Range Shifts *hinting for Easy/Medium players to move their hand along the frets*](/songs/charting/guitar/ld-range-shifts)
 {.links-list}
 
 # 🧶 YARN
