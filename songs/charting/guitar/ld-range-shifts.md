@@ -1,8 +1,8 @@
 ---
 title: 5-Fret Guitar LD Range Shifts
 description: YARG's new visual indicators to tell Easy and Medium players when to move their hands up and down the fret board.
-published: false
-date: 2025-05-29T00:17:46.871Z
+published: true
+date: 2025-05-29T00:24:06.927Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-29T00:17:46.871Z
