@@ -2,7 +2,7 @@
 title: 💽 Setlist
 description: More information about the songs in our Official Setlist
 published: true
-date: 2025-05-24T03:07:36.285Z
+date: 2025-05-29T20:13:10.637Z
 tags: songs, setlist, official
 editor: markdown
 dateCreated: 2023-07-30T21:18:21.243Z
@@ -95,11 +95,12 @@ YARG's Official Setlist is a multi-genre, full-band full-difficulty, in developm
 ## 🆓 Creative Commons and free-to-use songs attribution:
 | Track | Artist | Licence | Source Link |
 | :-- | :-- | :-- | :--: |
-| 322 | Creo | released under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [▶&nbsp;YouTube](https://youtu.be/JmobbPTaFcw&t=0s) |
-| Discipline | Nine Inch Nails | released under [CC-BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) | [🆓 Free Music Archive](https://freemusicarchive.org/music/Nine_Inch_Nails/The_Slip/Discipline/) |
-| Half Measures | Aaron Musslewhite | released under [CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/) | [🆖&nbsp;Newgrounds](https://www.newgrounds.com/audio/listen/817529)  
+| 322 | Creo | released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [▶&nbsp;YouTube](https://youtu.be/JmobbPTaFcw&t=0s) |
+| Discipline | Nine Inch Nails | released under [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) | [🆓 Free Music Archive](https://freemusicarchive.org/music/Nine_Inch_Nails/The_Slip/Discipline/) |
+| Half Measures | Aaron Musslewhite | released under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | [🆖&nbsp;Newgrounds](https://www.newgrounds.com/audio/listen/817529)  
 | Vehemence | Reo | General use described in the given source link. | [▶&nbsp;YouTube](https://youtu.be/xtsvZX2lES4) |
-| We All Float Down Here | Four Year Strong | released under [CC-BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/) | [▰&nbsp;bandcamp](https://fouryearstrong.bandcamp.com/track/we-all-float-down-here) |
+| I Wish That I Could Fall | Jamie Paige | released under [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) | [▰&nbsp;bandcamp](https://jamiepaige.bandcamp.com/track/i-wish-that-i-could-fall) |
+| We All Float Down Here | Four Year Strong | released under [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/) | [▰&nbsp;bandcamp](https://fouryearstrong.bandcamp.com/track/we-all-float-down-here) |
 
 
 # 📥 DLC
@@ -125,8 +126,8 @@ Join us for our first pack of DLC with a collection of indie performances and el
 ### 🆓 Creative Commons and free-to-use songs attribution:
 | Track | Artist | Licence | Source Link |
 | :-- | :-- | :-- | :--: |
-| Rock Thing | Creo | released under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [▶&nbsp;YouTube](https://www.youtube.com/watch?v=-W52cDdeAuI) |
-| Simplicity | Scott Buckley | released under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [🌐&nbsp;ScottBuckley.com.au](https://www.scottbuckley.com.au) |
+| Rock Thing | Creo | released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [▶&nbsp;YouTube](https://www.youtube.com/watch?v=-W52cDdeAuI) |
+| Simplicity | Scott Buckley | released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [🌐&nbsp;ScottBuckley.com.au](https://www.scottbuckley.com.au) |
 
 ## 💻 Assorted Electronic 1
 Here is a pack of energetic pop/dance/electronic songs, providing challenges on all instruments!
@@ -146,9 +147,9 @@ Here is a pack of energetic pop/dance/electronic songs, providing challenges on 
 | Track | Artist | Licence | Source Link |
 | :-- | :-- | :-- | :--: |
 | Feel Good | Syn Cole | Music provided by NoCopyrightSounds | [🎵&nbsp;NoCopyrightSounds](https://ncs.io/feelgood) |
-| Ghost | Aaron Musslewhite | released under [CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/) | [🆖&nbsp;Newgrounds](https://www.newgrounds.com/audio/listen/812621) 
-| Radioactive | Waterflame | released under [CC-BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) | [🆖&nbsp;Newgrounds](https://www.newgrounds.com/audio/listen/106783) |
-| Say It Back | tv room | released under [CC-BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) | [🆖&nbsp;Newgrounds](https://www.newgrounds.com/audio/listen/1044389) |
+| Ghost | Aaron Musslewhite | released under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | [🆖&nbsp;Newgrounds](https://www.newgrounds.com/audio/listen/812621) 
+| Radioactive | Waterflame | released under [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) | [🆖&nbsp;Newgrounds](https://www.newgrounds.com/audio/listen/106783) |
+| Say It Back | tv room | released under [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) | [🆖&nbsp;Newgrounds](https://www.newgrounds.com/audio/listen/1044389) |
 
 ## 🤘 Assorted Metal 1
 Rock out with an assortment of accessible metal songs, drawing from nu-metal, alternative, thrash, and djent!
