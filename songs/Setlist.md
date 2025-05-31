@@ -2,7 +2,7 @@
 title: 💽 Setlist
 description: More information about the songs in our Official Setlist
 published: true
-date: 2025-05-30T15:15:35.213Z
+date: 2025-05-31T01:21:25.344Z
 tags: songs, setlist, official
 editor: markdown
 dateCreated: 2023-07-30T21:18:21.243Z
@@ -91,6 +91,9 @@ YARG's Official Setlist is a multi-genre, full-band full-difficulty, in developm
 | We All Float Down Here | Four Year Strong | Four Year Strong | Punk | 2015 | 🔴🔴🔴🔴🔴 | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚪⚪ | No Part | ⚪⚪⚫⚫⚫ <br/> 2 parts | 05/23/2025 [YARG Mania wave 7](https://youtu.be/1PYXYNub2WA) | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/1Lth0lc9ges0BMZHotzbLP) <br/> [▰&nbsp;bandcamp](https://fouryearstrong.bandcamp.com/track/we-all-float-down-here) <br/> [▶&nbsp;YouTube](https://youtu.be/esCjADNzOy8) <br/> [☁&nbsp;SoundCloud](https://soundcloud.com/fouryearstrong/we-all-float-down-here-728887581) |
 | It Kills Me | Lil Pitchy / Roomie | Single | Pop | 2021 | ⚪⚪⚫⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚪⚪⚫ | ⚪⚫⚫⚫⚫ <br/> Pro:⚪⚪⚫⚫⚫ | ⚪⚪⚪⚫⚫ <br/> 3 parts | 05/23/2025 [YARG Mania wave 7](https://youtu.be/1PYXYNub2WA) | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/1ef2w1GWn7CYTGD8ZO7qUW) <br/> [▶&nbsp;YouTube](https://youtu.be/AIJTVAnT5LQ) <br/> [☁&nbsp;SoundCloud](https://soundcloud.com/user-29222222/it-kills-me) |
 | Positively Clark Street | Telethon | Swim Out past the Breakers | Southern Rock | 2021 | ⚪⚪⚪⚪⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚫⚫⚫ <br/> Pro:⚪⚪⚫⚫⚫ | ⚪⚪⚪⚪⚫ <br/> 3 parts | 05/23/2025 [YARG Mania wave 7](https://youtu.be/1PYXYNub2WA) | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/7FrTTchTrD8mumJeWu21Ik) <br/> [▰&nbsp;bandcamp](https://telethonband.bandcamp.com/track/positively-clark-street) <br/> [▶&nbsp;YouTube](https://youtu.be/V5vjCrmuVmw) <br/> [☁&nbsp;SoundCloud](https://soundcloud.com/telethon-music/positively-clark-street) |
+| The Masquerade | Cantervice | Zero Hour | Nu Metal | 2024 | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚪⚫ | 🔴🔴🔴🔴🔴 <br/> Pro:🔴🔴🔴🔴🔴 | ⚪⚪⚫⚫⚫ <br/> 3 parts | 05/30/2024 [YARG Mania wave 8](https://youtu.be/8T21aiV4rpY) | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/3CmmcZ12AaIwvRNCbUeQf9) <br/> [▰&nbsp;bandcamp](https://cantervice.bandcamp.com/album/the-masquerade-single) <br/> [▶&nbsp;YouTube](https://www.youtu.be/3_KHEiZjfjY) <br/> [☁&nbsp;SoundCloud](https://soundcloud.com/user-843082092/the-masquerade) |
+| Luminaire | insaneintherainmusic | Insane in the Rain | Fusion | 2022 | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚫⚫ | 🔴🔴🔴🔴🔴 | ⚪⚪⚪⚪⚪ <br/> Pro:⚪⚪⚪⚪⚪ | No Part | 05/30/2024 [YARG Mania wave 8](https://youtu.be/8T21aiV4rpY) | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/5wH2QQOZwn6wDVTy48ijHB) <br/> [▰&nbsp;bandcamp](https://insaneintherainmusic.bandcamp.com/track/luminaire) <br/> [▶&nbsp;YouTube](https://youtu.be/R8Too45saHI) |
+| To Let Go | NateWantsToBattle | To Let Go | Alternative | 2023 | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚫ | ⚪⚫⚫⚫⚫ <br/> Pro:⚪⚫⚫⚫⚫ | ⚪⚪⚪⚪⚫ <br/> 3 parts | 05/30/2024 [YARG Mania wave 8](https://youtu.be/8T21aiV4rpY) | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/0GeswO8gh3HrYs0PUsUHzX) <br/> [▶&nbsp;YouTube](https://youtu.be/jo5gdFAyJgs) |
 
 ## 🆓 Creative Commons and free-to-use songs attribution:
 | Track | Artist | Licence | Source Link |
