@@ -2,7 +2,7 @@
 title: 💽 Setlist
 description: More information about the songs in our Official Setlist
 published: true
-date: 2025-06-29T19:22:10.062Z
+date: 2025-06-29T19:30:13.661Z
 tags: songs, setlist, official
 editor: markdown
 dateCreated: 2023-07-30T21:18:21.243Z
@@ -315,33 +315,33 @@ Take on challenging charts of 15 tracks from James Paddock's metal album, courte
 (The first and last tracks from this album - Epiphany and Ethereal - are absent from this pack.)
 | Track | Artist | Album | Genre | Year | Charter | Guitar | Bass | Drums | Keys | Vocals | Release | Link | 
 | :-- | :-- | :-- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| Impossible | James Paddock | Abyss of Time | Metal | 2023 | Keagan Dunn | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚪⚫ |  | ⚪⚪⚪⚫⚫ <br/> 2 parts | 06/29/2025 |  |
-| Destroyer of Worlds | James Paddock | Abyss of Time | Metal | 2023 | Keagan Dunn | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚪ |  | ⚪⚫⚫⚫⚫ <br/> 3 parts | 06/29/2025 |  |
-| Unclear Warfare | James Paddock | Abyss of Time | Metal | 2023 | Keagan Dunn | ⚪⚪⚪⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚪⚫⚫ |  | ⚪⚪⚪⚪⚫ <br/> 3 parts | 06/29/2025 |  |
-| Bleed Your Hate Out | James Paddock | Abyss of Time | Metal | 2023 | Keagan Dunn | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚪⚪ |  | ⚪⚪⚪⚫⚫ <br/> 2 parts | 06/29/2025 |  |
-| Inertia | James Paddock | Abyss of Time | Metal | 2023 | Keagan Dunn | ⚪⚪⚫⚫⚫ | ⚪⚫⚫⚫⚫ | ⚪⚪⚫⚫⚫ |  | ⚪⚪⚪⚫⚫ <br/> 2 parts | 06/29/2025 |  |
-| Mind Like a Minefield | James Paddock | Abyss of Time | Metal | 2023 | Keagan Dunn | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚫ |  | ⚪⚪⚪⚪⚫ <br/> 3 parts | 06/29/2025 |  |
-| Desert Rose | James Paddock | Abyss of Time | Metal | 2023 | Keagan Dunn | ⚪⚪⚪⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚪⚫⚫ |  | ⚪⚪⚫⚫⚫ <br/> 2 parts | 06/29/2025 |  |
-| Aphrodite | James Paddock | Abyss of Time | Metal | 2023 | Keagan Dunn | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚪⚪ |  | ⚪⚪⚪⚫⚫ <br/> 2 parts | 06/29/2025 |  |
-| Swallow | James Paddock | Abyss of Time | Metal | 2023 | Keagan Dunn | ⚪⚪⚫⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚪⚫⚫ |  | ⚪⚪⚫⚫⚫ <br/> 3 parts | 06/29/2025 |  |
-| Summer Rain | James Paddock | Abyss of Time | Pop Rock | 2023 | Keagan Dunn | ⚪⚪⚪⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚪⚫⚫ |  | ⚪⚪⚪⚫⚫ | 06/29/2025 |  |
-| We've Seen Better Days | James Paddock | Abyss of Time | Metal | 2023 | Keagan Dunn | ⚪⚪⚫⚫⚫ | ⚪⚫⚫⚫⚫ | ⚪⚪⚫⚫⚫ |  | ⚪⚪⚪⚫⚫ <br/> 3 parts | 06/29/2025 |  |
-| The Penalty | James Paddock | Abyss of Time | Metal | 2023 | Keagan Dunn | ⚪⚪⚪⚪⚪ | ⚪⚪⚪⚪⚫ | 🔴🔴🔴🔴🔴 |  | ⚪⚪⚪⚫⚫ <br/> 2 parts | 06/29/2025 |  |
-| Scorch the Earth | James Paddock | Abyss of Time | Metal | 2023 | Keagan Dunn | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚫ |  | ⚪⚪⚪⚪⚫ | 06/29/2025 |  |
-| Death Drive | James Paddock | Abyss of Time | Metal | 2023 | Keagan Dunn | ⚪⚪⚫⚫⚫ | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚫ |  | ⚪⚪⚪⚫⚫ <br/> 3 parts | 06/29/2025 |  |
-| Abyss of Time | James Paddock | Abyss of Time | Metal | 2023 | Keagan Dunn | ⚪⚪⚪⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚪⚫⚫ |  | ⚪⚪⚪⚫⚫ <br/> 3 parts | 06/29/2025 |  |
+| Impossible | James Paddock | Abyss of Time | Metal | 2023 | Keagan Dunn | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚪⚫ | No Part | ⚪⚪⚪⚫⚫ <br/> 2 parts | 06/29/2025 |  |
+| Destroyer of Worlds | James Paddock | Abyss of Time | Metal | 2023 | Keagan Dunn | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚪ | No Part | ⚪⚫⚫⚫⚫ <br/> 3 parts | 06/29/2025 |  |
+| Unclear Warfare | James Paddock | Abyss of Time | Metal | 2023 | Keagan Dunn | ⚪⚪⚪⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚪⚫⚫ | No Part | ⚪⚪⚪⚪⚫ <br/> 3 parts | 06/29/2025 |  |
+| Bleed Your Hate Out | James Paddock | Abyss of Time | Metal | 2023 | Keagan Dunn | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚪⚪ | No Part | ⚪⚪⚪⚫⚫ <br/> 2 parts | 06/29/2025 |  |
+| Inertia | James Paddock | Abyss of Time | Metal | 2023 | Keagan Dunn | ⚪⚪⚫⚫⚫ | ⚪⚫⚫⚫⚫ | ⚪⚪⚫⚫⚫ | No Part | ⚪⚪⚪⚫⚫ <br/> 2 parts | 06/29/2025 |  |
+| Mind Like a Minefield | James Paddock | Abyss of Time | Metal | 2023 | Keagan Dunn | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚫ | No Part | ⚪⚪⚪⚪⚫ <br/> 3 parts | 06/29/2025 |  |
+| Desert Rose | James Paddock | Abyss of Time | Metal | 2023 | Keagan Dunn | ⚪⚪⚪⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚪⚫⚫ | No Part | ⚪⚪⚫⚫⚫ <br/> 2 parts | 06/29/2025 |  |
+| Aphrodite | James Paddock | Abyss of Time | Metal | 2023 | Keagan Dunn | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚪⚪ | No Part | ⚪⚪⚪⚫⚫ <br/> 2 parts | 06/29/2025 |  |
+| Swallow | James Paddock | Abyss of Time | Metal | 2023 | Keagan Dunn | ⚪⚪⚫⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚪⚫⚫ | No Part | ⚪⚪⚫⚫⚫ <br/> 3 parts | 06/29/2025 |  |
+| Summer Rain | James Paddock | Abyss of Time | Pop Rock | 2023 | Keagan Dunn | ⚪⚪⚪⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚪⚫⚫ | No Part | ⚪⚪⚪⚫⚫ | 06/29/2025 |  |
+| We've Seen Better Days | James Paddock | Abyss of Time | Metal | 2023 | Keagan Dunn | ⚪⚪⚫⚫⚫ | ⚪⚫⚫⚫⚫ | ⚪⚪⚫⚫⚫ | No Part | ⚪⚪⚪⚫⚫ <br/> 3 parts | 06/29/2025 |  |
+| The Penalty | James Paddock | Abyss of Time | Metal | 2023 | Keagan Dunn | ⚪⚪⚪⚪⚪ | ⚪⚪⚪⚪⚫ | 🔴🔴🔴🔴🔴 | No Part | ⚪⚪⚪⚫⚫ <br/> 2 parts | 06/29/2025 |  |
+| Scorch the Earth | James Paddock | Abyss of Time | Metal | 2023 | Keagan Dunn | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚫ | No Part | ⚪⚪⚪⚪⚫ | 06/29/2025 |  |
+| Death Drive | James Paddock | Abyss of Time | Metal | 2023 | Keagan Dunn | ⚪⚪⚫⚫⚫ | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚫ | No Part | ⚪⚪⚪⚫⚫ <br/> 3 parts | 06/29/2025 |  |
+| Abyss of Time | James Paddock | Abyss of Time | Metal | 2023 | Keagan Dunn | ⚪⚪⚪⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚪⚫⚫ | No Part | ⚪⚪⚪⚫⚫ <br/> 3 parts | 06/29/2025 |  |
 
 ## 🛳 FX4 by Jake "virt" Kaufman
 Ported from the setlist Zero Gravity 3D: the 10-track chiptune epic FX4 by Jake "virt" Kaufman. Charts brought to you by 3-UP.
 | Track | Artist | Album | Genre | Year | Charter | Guitar | Bass | Drums | Keys | Vocals | Release | Link | 
 | :-- | :-- | :-- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| Below the Waves | Jake "virt" Kaufman | FX4 | Chiptune | 2012 | 3-UP | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚪⚪ | No Part | No Part | 06/29/2025 |  |
-| First Flight | Jake "virt" Kaufman | FX4 | Chiptune | 2012 | 3-UP | ⚪⚪⚪⚪⚪ | 🔴🔴🔴🔴🔴 | 🔴🔴🔴🔴🔴 | No Part | No Part | 06/29/2025 |  |
 | HBO Feature Presentation | Jake "virt" Kaufman | FX4 | Chiptune | 2012 | 3-UP | ⚪⚪⚫⚫⚫ | ⚫⚫⚫⚫⚫ | ⚪⚪⚫⚫⚫ | No Part | No Part | 06/29/2025 |  |
 | Incident Zero | Jake "virt" Kaufman | FX4 | Chiptune | 2012 | 3-UP | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚪⚪ | 🔴🔴🔴🔴🔴 | No Part | No Part | 06/29/2025 |  |
+| Below the Waves | Jake "virt" Kaufman | FX4 | Chiptune | 2012 | 3-UP | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚪⚪ | No Part | No Part | 06/29/2025 |  |
 | Journey into the Rift | Jake "virt" Kaufman | FX4 | Chiptune | 2012 | 3-UP | ⚪⚪⚪⚪⚪ | ⚪⚪⚪⚪⚫ | 🔴🔴🔴🔴🔴7 | No Part | No Part | 06/29/2025 |  |
+| Weapon | Jake "virt" Kaufman | FX4 | Chiptune | 2012 | 3-UP | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚪⚫ | 🔴🔴🔴🔴🔴 | No Part | No Part | 06/29/2025 |  |
 | Reconstruct | Jake "virt" Kaufman | FX4 | Chiptune | 2012 | 3-UP | ⚪⚪⚪⚪⚪ | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚫⚫ | No Part | No Part | 06/29/2025 |  |
+| First Flight | Jake "virt" Kaufman | FX4 | Chiptune | 2012 | 3-UP | ⚪⚪⚪⚪⚪ | 🔴🔴🔴🔴🔴 | 🔴🔴🔴🔴🔴 | No Part | No Part | 06/29/2025 |  |
 | Singularity | Jake "virt" Kaufman | FX4 | Chiptune | 2012 | 3-UP | ⚪⚪⚪⚪⚪ | ⚪⚪⚪⚪⚫ | 🔴🔴🔴🔴🔴 | No Part | No Part | 06/29/2025 |  |
 | The Time Vampire | Jake "virt" Kaufman | FX4 | Chiptune | 2012 | 3-UP | ⚪⚪⚪⚪⚪ | ⚪⚪⚪⚪⚫ | 🔴🔴🔴🔴🔴 | No Part | No Part | 06/29/2025 |  |
 | Undone | Jake "virt" Kaufman | FX4 | Chiptune | 2012 | 3-UP | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚪⚪ | No Part | No Part | 06/29/2025 |  |
-| Weapon | Jake "virt" Kaufman | FX4 | Chiptune | 2012 | 3-UP | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚪⚫ | 🔴🔴🔴🔴🔴 | No Part | No Part | 06/29/2025 |  |
