@@ -2,7 +2,7 @@
 title: 💽 Setlist
 description: More information about the songs in our Official Setlist
 published: true
-date: 2025-06-29T19:30:13.661Z
+date: 2025-06-29T19:35:16.209Z
 tags: songs, setlist, official
 editor: markdown
 dateCreated: 2023-07-30T21:18:21.243Z
@@ -345,3 +345,18 @@ Ported from the setlist Zero Gravity 3D: the 10-track chiptune epic FX4 by Jake 
 | Singularity | Jake "virt" Kaufman | FX4 | Chiptune | 2012 | 3-UP | ⚪⚪⚪⚪⚪ | ⚪⚪⚪⚪⚫ | 🔴🔴🔴🔴🔴 | No Part | No Part | 06/29/2025 |  |
 | The Time Vampire | Jake "virt" Kaufman | FX4 | Chiptune | 2012 | 3-UP | ⚪⚪⚪⚪⚪ | ⚪⚪⚪⚪⚫ | 🔴🔴🔴🔴🔴 | No Part | No Part | 06/29/2025 |  |
 | Undone | Jake "virt" Kaufman | FX4 | Chiptune | 2012 | 3-UP | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚪⚪ | No Part | No Part | 06/29/2025 |  |
+
+
+### 🆓 Creative Commons and free-to-use songs attribution:
+| Track | Artist | Licence | Source Link |
+| :-- | :-- | :-- | :--: |
+| HBO Feature Presentation | Jake "virt" Kaufman | released under [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) |  [▰&nbsp;bandcamp](https://virt.bandcamp.com/album/fx4) |
+| Incident Zero | Jake "virt" Kaufman | released under [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) |  [▰&nbsp;bandcamp](https://virt.bandcamp.com/album/fx4) |
+| Below the Waves | Jake "virt" Kaufman | released under [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) |  [▰&nbsp;bandcamp](https://virt.bandcamp.com/album/fx4) |
+| Journey into the Rift | Jake "virt" Kaufman | released under [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) |  [▰&nbsp;bandcamp](https://virt.bandcamp.com/album/fx4) |
+| Weapon | Jake "virt" Kaufman | released under [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) |  [▰&nbsp;bandcamp](https://virt.bandcamp.com/album/fx4) |
+| Reconstruct | Jake "virt" Kaufman | released under [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) |  [▰&nbsp;bandcamp](https://virt.bandcamp.com/album/fx4) |
+| First Flight | Jake "virt" Kaufman | released under [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) |  [▰&nbsp;bandcamp](https://virt.bandcamp.com/album/fx4) |
+| Singularity | Jake "virt" Kaufman | released under [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) |  [▰&nbsp;bandcamp](https://virt.bandcamp.com/album/fx4) |
+| The Time Vampire | Jake "virt" Kaufman | released under [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) |  [▰&nbsp;bandcamp](https://virt.bandcamp.com/album/fx4) |
+| Undone | Jake "virt" Kaufman | released under [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) |  [▰&nbsp;bandcamp](https://virt.bandcamp.com/album/fx4) |
