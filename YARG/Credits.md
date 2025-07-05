@@ -2,11 +2,15 @@
 title: 🤝 Credits
 description: Meet our incredible team and contributors
 published: true
-date: 2025-07-05T10:22:22.400Z
+date: 2025-07-05T10:29:41.265Z
 tags: credits, team, developer, artist, moderator, supporter, contributor, charter
 editor: markdown
 dateCreated: 2023-07-30T16:38:15.236Z
 ---
+
+> Note: The most up-to-date information about the contributors of YARG and other YARC projects is available in the [Contributors repository on GitHub](https://github.com/YARC-Official/Contributors).
+{.is-info}
+
 
 # 🎮 Game
 
