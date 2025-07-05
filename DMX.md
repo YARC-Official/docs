@@ -2,7 +2,7 @@
 title: 🐕 DMX
 description: 
 published: true
-date: 2025-03-12T18:59:01.622Z
+date: 2025-07-05T08:47:07.469Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T18:13:08.409Z
@@ -24,57 +24,57 @@ A more advanced setup would have a DMX sequencer (such as Lightjams and QLC+), e
 
 # DMX Channels
 Each of the  512 bytes, known  as channels,  in a DMX  packets  can hold a value from 0 to 255. YARG  will  set these values to indicate  various changes as follows:
-|Channel Type Legend|||
-|-|-|-|
-|🐶| Toggled| This channel will stay set at this value until set to another value|
-|🦮| Note length| This channel will stay at this value until the note  ends, then set to 0
-|🐕‍🦺| Triggered| This channel will stay at this value for exactly one DMX packet, then set to 0
+|Channel Type Legend||
+|-|-|
+|🐶 Toggled| This channel will stay set at this value until set to another value|
+|🦮 Note length| This channel will stay at this value until the note  ends, then set to 0
+|🐕‍🦺 Triggered| This channel will stay at this value for exactly one DMX packet, then set to 0
 ## Basic channels
 Basic channels replicate the three componets of the Rock Band Stage Kit: Strobe light, Fogger, and Light Array. As the various lighting cues cycle the 32 leds (8 of each red, yellow, green, blue) of the light array the corresponding channels will change values, as for the fog and strobe as well. See [stage-kit](/stage-kit) for more information on it.
 
-### 🐶 Master Dimmer
+### 🐶 Master Dimmer (Toggled)
 Some DMX fixtures have a  channel  that controls the  dimming of all colors. These channels are set to On when YARG starts.
 | Value| Meaning|
 |-|-|
 |0|Off|
 |255|On|
 
-### 🐶  Red Channels
+### 🐶 Red Channels (Toggled)
 There is 8 Red channels, representing each red LED in the Stage Kit light array.
 | Value| Meaning|
 |-|-|
 |0|Off|
 |255|On|
 
-### 🐶 Blue Channels
+### 🐶 Blue Channels (Toggled)
 There is 8 Blue channels, representing each blue LED in the Stage Kit light array.
 | Value| Meaning|
 |-|-|
 |0|Off|
 |255|On|
 
-###  🐶  Green Channels
+### 🐶 Green Channels (Toggled)
 There is 8 Green channels, representing each green LED in the Stage Kit light array.
 | Value| Meaning|
 |-|-|
 |0|Off|
 |255|On|
 
-### 🐶 Yellow Channels
+### 🐶 Yellow Channels (Toggled)
 There is 8 Yellow channels, representing each yellow LED in the Stage Kit light array.
 | Value| Meaning|
 |-|-|
 |0|Off|
 |255|On|
 
-### 🐶  Fog Channel
+### 🐶 Fog Channel (Toggled)
 Fog channel represents the fog machine of the Stage Kit.
 | Value| Meaning|
 |-|-|
 |0|Off|
 |255|On|
 
-### 🐶  Strobe Channel
+### 🐶 Strobe Channel (Toggled)
 Strobe channel represents the strobe light of the Stage Kit. In official songs, only Slow and Fast are used.
 | Value| Meaning|
 |-|-|
@@ -87,7 +87,7 @@ Strobe channel represents the strobe light of the Stage Kit. In official songs, 
 ## Advanced channels
 These channels provide additional information as to what YARG is doing, useful  for DMX sequencers to make complex lighting effects.
 
-### 🐶 Cue Change Channel
+### 🐶 Cue Change Channel (Toggled)
 This channel changes whenever a lighting cue is read from the Venue track of a song, load into the score screen, or load into the general menu.
 NoCue is only briefly used when YARG first boots but hasn't loaded Menu Lighting yet.
 | Meaning | Value|
@@ -118,7 +118,7 @@ NoCue is only briefly used when YARG first boots but hasn't loaded Menu Lighting
 | Flare (Fast)|  230|
 | Big Rock Ending|  240|
 
-### 🐶 Post-Processing Channel
+### 🐶 Post-Processing Channel (Toggled)
 Post-processing is the visual effects that are happening to the on screen venue and characters.
 | Meaning | Value|
 |-|-|
@@ -157,7 +157,7 @@ Post-processing is the visual effects that are happening to the on screen venue 
 |         Trails Desaturated | 253|
 |        Trails Flickery | 254|
 |       Trails Spacey | 255|
-### 🐕‍🦺 Keyframe channel
+### 🐕‍🦺 Keyframe channel (Triggered)
 Keyframes are used to change the status of the current lighting cue and/or current animations, for example, once Stomp is set as the current cue, subsequent Next calls will toggle all lights (both in-game and on the stage kit) either on or off.
 | Meaning | Value|
 |-|-|
@@ -165,20 +165,20 @@ Keyframes are used to change the status of the current lighting cue and/or curre
 |           Keyframe Next | 3|
 |          Keyframe Previous | 13|
 |         Keyframe First | 23|
-### 🐕‍🦺 Beatline channel
+### 🐕‍🦺 Beatline channel (Triggered)
 Every beat strong (major) or measure (minor) beat this  channel will be set.
 | Meaning | Value|
 |-|-|
 |Off | 0|
 |Measure | 1|
 |Strong | 11|
-### 🐕‍🦺 Bonus Effect channel
+### 🐕‍🦺 Bonus Effect channel (Triggered)
 Bonus effects are instantaneous one-off stage effects, such as pyrotechnics or lightning
 | Value | Meaning|
 |-|-|
 |0|Off|
 |2|On|
-### 🦮 Drum Channel
+### 🦮 Drum Channel (Note length)
 This channel tracks the currently playing drum notes. This is a bitmath channel! See notes below.
 | Pad | Value|
 |-|-|
@@ -192,7 +192,7 @@ This channel tracks the currently playing drum notes. This is a bitmath channel!
 |       BlueCymbal|64|
 |      GreenCymbal|128|
 
-### 🦮 Guitar Channel
+### 🦮 Guitar Channel (Note length)
 This channel tracks the currently playing guitar notes. This is a bitmath channel! See notes below.
 | Meaning | Value|
 |-|-|
@@ -204,7 +204,7 @@ This channel tracks the currently playing guitar notes. This is a bitmath channe
 | Blue|16|
 | Orange|32|
 
-### 🦮 Bass Channel
+### 🦮 Bass Channel (Note length)
 This channel tracks the currently playing bass notes. This is a bitmath channel! See notes below.
 | Fret | Value|
 |-|-|
@@ -215,7 +215,7 @@ This channel tracks the currently playing bass notes. This is a bitmath channel!
 |  Yellow|8|
 | Blue|16|
 | Orange|32|
-### 🦮 Key Channel
+### 🦮 Key Channel (Note length)
 This channel tracks the currently playing key notes. This is a bitmath channel! See notes below.
 | Key | Value|
 |-|-|
