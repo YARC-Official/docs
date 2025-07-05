@@ -2,7 +2,7 @@
 title: 🤝 Credits
 description: Meet our incredible team and contributors
 published: true
-date: 2025-07-05T10:07:31.976Z
+date: 2025-07-05T10:22:22.400Z
 tags: credits, team, developer, artist, moderator, supporter, contributor, charter
 editor: markdown
 dateCreated: 2023-07-30T16:38:15.236Z
@@ -21,10 +21,12 @@ dateCreated: 2023-07-30T16:38:15.236Z
 |--|:--:|:--:|:--:|:--:|
 | **Kadu** | Developer, Artist | [Twitter](https://twitter.com/kaduwaengertner) | [Twitch](https://twitch.tv/kaduwaengertner) | [GitHub](https://github.com/kaduwaengertner) |
 
-## 🎶 Lead Charter
+## 🎶 Lead Charters
 | Name | Roles | Social Links |||
 |--|:--:|:--:|:--:|:--:|
-| **Synthesize** | Charter | [Twitter](https://twitter.com/SynthesizeTime) | | [GitHub](https://github.com/SynthesizeTime) |
+| **Hubbubble** | Setlist Manager | | | [GitHub](https://github.com/Hubbubble1) |
+| **grishhung** | Setlist Manager, Developer | | | [GitHub](https://github.com/grishhung) |
+| **Synthesize** | Former Lead Charter | [Twitter](https://twitter.com/SynthesizeTime) | | [GitHub](https://github.com/SynthesizeTime) |
 
 ## ⌨️ Maintainers
 | Name | Roles | Social Links |||
@@ -36,7 +38,6 @@ dateCreated: 2023-07-30T16:38:15.236Z
 | Name | Roles | Social Links |||
 |--|:--:|:--:|:--:|:--:|
 | **The Fat Bastid** | Developer | | | [GitHub](https://github.com/TheFatBastid) |
-| **grishhung** | Developer, Charter | | | [GitHub](https://github.com/grishhung) |
 | **Venerabela** | Artist | [Twitter](https://twitter.com/Venerabela) | [Twitch](https://twitch.tv/Venerabela) | [GitHub](https://github.com/Venerabela) |
 | **ieee 802.11ac** | Developer | | | [GitHub](https://github.com/ieee802dot11ac) |
 | **NevesPT** | Developer | [Twitter](https://twitter.com/NevesPT) | [Twitch](https://twitch.tv/NevesPT) | [GitHub](https://github.com/NevesPT) |
@@ -69,7 +70,6 @@ dateCreated: 2023-07-30T16:38:15.236Z
 | **Spachi** | Charter | [Twitter](https://twitter.com/zSpachi) | [Twitch](https://twitch.tv/spachii) | [GitHub](https://github.com/zSpachi) |
 | **VCInventerman** | Developer | [Twitter](https://twitter.com/VCInventerman) | | |
 | **LocalH** | Developer | [Twitter](https://twitter.com/LocalAitch) | [Twitch](https://twitch.tv/LocalH) | [GitHub](https://github.com/LocalH) |
-| **Hubbubble** | Charter | | | [GitHub](https://github.com/Hubbubble1) |
 | **Neomatt** | Developer | | | [GitHub](https://github.com/NeomattGZ) |
 | **Sonicfind** | Developer | [Twitter](https://twitter.com/Sonicfind2) | | |
 | **Tris** | Charter | | | |
