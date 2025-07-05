@@ -2,7 +2,7 @@
 title: 📑 Licenses
 description: Information about YARG license and license for external libraries and assets
 published: true
-date: 2023-07-30T20:09:41.805Z
+date: 2025-07-05T09:32:29.700Z
 tags: license
 editor: markdown
 dateCreated: 2023-07-30T19:58:53.637Z
@@ -54,6 +54,6 @@ Some libraries/assets are **packaged** with the source code have licenses that m
 | [DtxCS](https://github.com/maxton/DtxCS) | Licenseless
 | [Moonscraper](https://github.com/FireFox2000000/Moonscraper-Chart-Editor) | [BSD 3-Clause License](https://github.com/FireFox2000000/Moonscraper-Chart-Editor/blob/master/LICENSE)
 
-Please note that other libraries are **not** packaged within the source code, and are to be install by NuGet.
+Please note that other libraries are **not** packaged within the source code, and are to be installed by NuGet.
 
 BASS is the audio library for YARG. [It has it's own license for release](https://www.un4seen.com/).
