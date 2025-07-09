@@ -2,7 +2,7 @@
 title: 💽 Setlist
 description: More information about the songs in our Official Setlist
 published: true
-date: 2025-07-09T23:34:02.869Z
+date: 2025-07-09T23:38:44.875Z
 tags: songs, setlist, official
 editor: markdown
 dateCreated: 2023-07-30T21:18:21.243Z
@@ -285,6 +285,7 @@ Our first grab-bag pack from YARN authors. Check out what they've submitted!
 
 ## 🌊 Mini-Wave 0
 An exclusive early sneak peek into our biggest chart launch to date, featuring some of the best songs you've never heard of!
+(This pack was released on April Fool's Day, and is presented as if it were the first wave of the YARG Mania event, despite being a YARN pack.)
 | Track | Artist | Album | Genre | Year | Charter | Guitar | Bass | Drums | Keys | Vocals | Release | Link | 
 | :-- | :-- | :-- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | Abomination | The Final Event | Single | Metal | 2025 | Keagan Dunn | ⚪⚪⚪⚪⚫ | No Part | ⚪⚪⚪⚪⚪ | No Part | ⚪⚫⚫⚫⚫ | 4/1/2025 | [▶&nbsp;YouTube](https://youtu.be/nJj_T8b94_Q) |
