@@ -2,7 +2,7 @@
 title: 💽 Setlist
 description: More information about the songs in our Official Setlist
 published: true
-date: 2025-06-29T19:35:16.209Z
+date: 2025-07-09T23:34:02.869Z
 tags: songs, setlist, official
 editor: markdown
 dateCreated: 2023-07-30T21:18:21.243Z
@@ -346,7 +346,6 @@ Ported from the setlist Zero Gravity 3D: the 10-track chiptune epic FX4 by Jake 
 | The Time Vampire | Jake "virt" Kaufman | FX4 | Chiptune | 2012 | 3-UP | ⚪⚪⚪⚪⚪ | ⚪⚪⚪⚪⚫ | 🔴🔴🔴🔴🔴 | No Part | No Part | 06/29/2025 |  |
 | Undone | Jake "virt" Kaufman | FX4 | Chiptune | 2012 | 3-UP | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚪⚪ | No Part | No Part | 06/29/2025 |  |
 
-
 ### 🆓 Creative Commons and free-to-use songs attribution:
 | Track | Artist | Licence | Source Link |
 | :-- | :-- | :-- | :--: |
@@ -360,3 +359,29 @@ Ported from the setlist Zero Gravity 3D: the 10-track chiptune epic FX4 by Jake 
 | Singularity | Jake "virt" Kaufman | released under [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) |  [▰&nbsp;bandcamp](https://virt.bandcamp.com/album/fx4) |
 | The Time Vampire | Jake "virt" Kaufman | released under [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) |  [▰&nbsp;bandcamp](https://virt.bandcamp.com/album/fx4) |
 | Undone | Jake "virt" Kaufman | released under [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) |  [▰&nbsp;bandcamp](https://virt.bandcamp.com/album/fx4) |
+
+## 🧶 YARN Pack 2
+The second grab-bag pack of charts from music artists and charters in the YARG community!
+| Track | Artist | Album | Genre | Year | Charter | Guitar | Bass | Drums | Keys | Vocals | Release | Link | 
+| :-- | :-- | :-- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| All These Darlings and Now Me | Sunflo’er | All These Darlings and Now Me | Mathcore | 2022 | Hubbubble | ⚪⚪⚪⚪⚪ | No Part | No Part | No Part | No Part | 6/9/2025 | |
+| Alternative Ego | Mattias | MXTTIAS | Rock | 2025 | Mattias | 🔴🔴🔴🔴🔴8 | 🔴🔴🔴🔴🔴6 | 🔴🔴🔴🔴🔴8 | No Part | No Part | 6/9/2025 | |
+| Apple Fritter | Guttural | Single | Groove Metal | 2024 | thardwardy | ⚪⚪⚫⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚪⚫⚫ | No Part | No Part | 6/9/2025 | |
+| BIRDBRAIN (feat. OK Glass and Kasane Teto) | Jamie Paige | Constant Companions (Deluxe Edition) | Synthpop, Electropop | 2025 | DaiJyoubs | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚫ | No Part | ⚪⚪⚪⚪⚪ | 6/9/2025 | |
+| Country | Miriam McCombe | Weightless | Folk | 2023 | SOYBOY | ⚪⚪⚪⚪⚫ | ⚫⚫⚫⚫⚫ | ⚪⚫⚫⚫⚫ | ⚪⚪⚫⚫⚫ <br/> Pro:⚪⚪⚪⚫⚫ | ⚪⚪⚪⚫⚫ <br/> 3 parts | 6/9/2025 | |
+| Desolate Memory | Benevolence Lost | Eternity Is Not Much Farther | Deathcore | 2025 | die-no-mite | ⚪⚪⚪⚪⚫ | No Part | ⚪⚪⚪⚪⚪ | No Part | No Part | 6/9/2025 | |
+| Glass Beach | Glass Beach | The First Glass Beach Album | Emo | 2019 | ImPhanty | ⚪⚪⚪⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚪⚪⚫ | No Part | No Part | 6/9/2025 | |
+| Keep Your Guard Up | raphaelgoulart | Single | Rock | 2025 | raphaelgoulart | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚪ | ⚪⚪⚪⚪⚫ <br/> Pro:⚪⚪⚪⚪⚫ | No Part | 6/9/2025 | |
+| Machine Love (feat. Kasane Teto) | Jamie Paige | Constant Companions | Synthpop, Electropop | 2024 | Mattr07, Hubbubble | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚫⚫ | No Part | No Part | 6/9/2025 | |
+| Madtown | Before After Again | After | Darkwave | 2022 | Nuggets | ⚫⚫⚫⚫⚫ | ⚪⚪⚪⚫⚫ <br/> Rthm:⚪⚪⚪⚪⚪ | ⚪⚪⚫⚫⚫ <br/> Elite:⚪⚪⚫⚫⚫ | ⚪⚫⚫⚫⚫ <br/> Pro:⚪⚫⚫⚫⚫ | ⚪⚫⚫⚫⚫ <br/> 2 parts | 6/9/2025 | |
+| Stranded | FiniShay | Single | Electronic Metal | 2025 | FiniShay | ⚪⚪⚪⚪⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚪⚪⚪ | No Part | No Part | 6/9/2025 | |
+| Underground Popstars | The Dharmites | Psychodelic | Alternative Rock | 2024 | shadowflower64, brassmonke | ⚪⚪⚪⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚫⚫⚫ | No Part | ⚪⚪⚫⚫⚫ | 6/9/2025 | |
+
+### 🆓 Creative Commons and free-to-use songs attribution:
+| Track | Artist | Licence | Source Link |
+| :-- | :-- | :-- | :--: |
+| All These Darlings and Now Me | Sunflo’er | released under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | [▰&nbsp;bandcamp](https://sunfloer.bandcamp.com/track/all-these-darlings-and-now-me) |
+| BIRDBRAIN (feat. OK Glass and Kasane Teto) | Jamie Paige | released under [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) | [▰&nbsp;bandcamp](https://jamiepaige.bandcamp.com/track/birdbrain-with-ok-glass-2) |
+| Glass Beach | Glass Beach | released under [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/) | [▰&nbsp;bandcamp](https://glassbeach.bandcamp.com/track/glass-beach) |
+| Machine Love (feat. Kasane Teto) | Jamie Paige | released under [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) | [▰&nbsp;bandcamp](https://jamiepaige.bandcamp.com/track/machine-love-3) |
+
