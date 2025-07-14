@@ -48,33 +48,33 @@ This is an inexhaustive list of instrument controllers and their compatibility w
 | <img src="/instruments/gh1kramer.png" width="300"> | Kramer | 4☑️ | ➖   | ➖   | ➖   | ➖   |
 | <img src="/instruments/guitars/ghxplorer.png" width="300"> | X-plorer | ➖   | ➖   | ✅   | ➖   | ✅   |
 | <img src="/instruments/ghlespaul.png" width="300"> | Les Paul | ➖   | ☑️  |5| B   | ✅   |
-| <img src="/instruments/ghwt.png>" width="300"> | World Tour | 4☑️ | ☑️  | 5   | B   | ✅   |
-| <img src="/instruments/gh5.png>" width="300"> | Guitar Hero 5 | ☑️  | ☑️  | ➖   | B   | ✅   |
-| <img src="/instruments/guitars/ghworguitar.png>" width="300"> | Warriors of Rock | ➖   | ☑️  | 5   | B   | ✅   |
+| <img src="/instruments/ghwt.png" width="300"> | World Tour | 4☑️ | ☑️  | 5   | B   | ✅   |
+| <img src="/instruments/gh5.png" width="300"> | Guitar Hero 5 | ☑️  | ☑️  | ➖   | B   | ✅   |
+| <img src="/instruments/guitars/ghworguitar.png" width="300"> | Warriors of Rock | ➖   | ☑️  | 5   | B   | ✅   |
 
 
 **Rock Band**
 
 | Picture | Guitar | PlayStation 2 | PlayStation 3 | PlayStation 4 | Xbox 360 | Xbox One | Wii | Kiosk |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="/instruments/guitars/rb1strat.png>" width="300"> | Rock Band 1 Stratocaster | ☑️  | ☑️  | ➖   | 5 or ✅ | ➖   | ☑️  | ✅  
-| <img src="/instruments/guitars/rb2strat.png>" width="300"> | Rock Band 2 Stratocaster | ☑️  | ☑️  | ➖   | 5   | ➖   | ☑️  | ✅|
-| <img src="/instruments/guitars/rb2strat.png>" width="300"> | Rock Band 3 Stratocaster | ☑️  | ☑️  | ➖   | 5   | ➖   | ☑️  | ✅|
-| <img src="/instruments/guitars/rb4strat.png>" width="300"> | Rock Band 4 Stratocaster | ➖   | ➖   | 7   | ➖   | 6  | ➖   |➖|
-| <img src="/instruments/guitars/rb4jaguar.png>" width="300"> | Rock Band 4 Jaguar | ➖   | ➖   | 7   | ➖   | 6  |➖|➖|
-| <img src="/instruments/rbbass.png>" width="300"> | Precision Bass | ➖   | ☑️  | ➖   | 5 or ✅ | ➖   | ☑️  | ➖   |
-| <img src="/instruments/guitars/rbrick.png>" width="300"> | Rickenbacker 325 | ➖   | ☑️  | ➖   | 5   | ➖   | ☑️  |➖|
-| <img src="/instruments/rbgretsch.png>" width="300"> | Gretsch 6128 | ➖   | ☑️  | ➖   | 5   | ➖   | ☑️  | ➖   |
-| <img src="/instruments/rbhofner.png>" width="300"> | Höfner 500/1 Violin Bass | ➖   | ☑️  | ➖   | 5   | ➖   | ☑️  | ➖   |
-| <img src="/instruments/rbwooden.png>" width="300"> | Wooden Stratocaster | ➖   | ➖   | ➖   | 5   | ➖   | ➖   | ➖   |
-| <img src="/instruments/guitars/rbtelecaster.png>" width="300"> | Player's Edition Telecaster | ➖   | ☑️   | ➖   | 5   | ➖   | ➖   | ➖   |
+| <img src="/instruments/guitars/rb1strat.png" width="300"> | Rock Band 1 Stratocaster | ☑️  | ☑️  | ➖   | 5 or ✅ | ➖   | ☑️  | ✅
+| <img src="/instruments/guitars/rb2strat.png" width="300"> | Rock Band 2 Stratocaster | ☑️  | ☑️  | ➖   | 5   | ➖   | ☑️  | ✅|
+| <img src="/instruments/guitars/rb2strat.png" width="300"> | Rock Band 3 Stratocaster | ☑️  | ☑️  | ➖   | 5   | ➖   | ☑️  | ✅|
+| <img src="/instruments/guitars/rb4strat.png" width="300"> | Rock Band 4 Stratocaster | ➖   | ➖   | 7   | ➖   | 6  | ➖   |➖|
+| <img src="/instruments/guitars/rb4jaguar.png" width="300"> | Rock Band 4 Jaguar | ➖   | ➖   | 7   | ➖   | 6  |➖|➖|
+| <img src="/instruments/rbbass.png" width="300"> | Precision Bass | ➖   | ☑️  | ➖   | 5 or ✅ | ➖   | ☑️  | ➖   |
+| <img src="/instruments/guitars/rbrick.png" width="300"> | Rickenbacker 325 | ➖   | ☑️  | ➖   | 5   | ➖   | ☑️  |➖|
+| <img src="/instruments/rbgretsch.png" width="300"> | Gretsch 6128 | ➖   | ☑️  | ➖   | 5   | ➖   | ☑️  | ➖   |
+| <img src="/instruments/rbhofner.png" width="300"> | Höfner 500/1 Violin Bass | ➖   | ☑️  | ➖   | 5   | ➖   | ☑️  | ➖   |
+| <img src="/instruments/rbwooden.png" width="300"> | Wooden Stratocaster | ➖   | ➖   | ➖   | 5   | ➖   | ➖   | ➖   |
+| <img src="/instruments/guitars/rbtelecaster.png" width="300"> | Player's Edition Telecaster | ➖   | ☑️   | ➖   | 5   | ➖   | ➖   | ➖   |
 
 **3rd Party**
 
-| Picture | Company | Guitar | PlayStation 3 | PlayStation 4 |Xbox 360 |Xbox One | 
+| Picture | Company | Guitar | PlayStation 3 | PlayStation 4 |Xbox 360 |Xbox One |
 | :---: | :---: | :---: | :---: | :---: |:---: |:---: |
-| <img src="/instruments/guitars/pdpriffmaster.png>" width="300"> | PDP | Riffmaster |➖| ☑️ |➖|☑️|
-|<img src="/instruments/guitars/logitechguitar.png>" width="300">|Logitech|Wirelesss guitar controller|☑️|➖|5|➖|
+| <img src="/instruments/guitars/pdpriffmaster.png" width="300"> | PDP | Riffmaster |➖| ☑️ |➖|☑️|
+|<img src="/instruments/guitars/logitechguitar.png" width="300">|Logitech|Wirelesss guitar controller|☑️|➖|5|➖|
 ##  6 Fret
 
 **Guitar Hero**
@@ -85,7 +85,7 @@ This is an inexhaustive list of instrument controllers and their compatibility w
 
 ###  ⚠️Note!
 
-6-fret play mode not yet supported but you can still connect them and map them as 5-fret.  
+6-fret play mode not yet supported but you can still connect them and map them as 5-fret.
 See [play-modes](/play-modes#h-6-fret) for more information.
 
 ##  Pro

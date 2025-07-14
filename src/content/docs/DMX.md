@@ -1,9 +1,7 @@
 ---
 title: 🐕 DMX
-description: 
 published: true
 date: 2025-07-05T08:47:07.469Z
-tags: 
 editor: markdown
 dateCreated: 2024-05-14T18:13:08.409Z
 ---
@@ -11,15 +9,15 @@ dateCreated: 2024-05-14T18:13:08.409Z
 # DMX
 Digital multiplex with 512 pieces of information revision a, aka DMX512-A, is a protocol used to control lighting fixtures commonly found in theater and DJ equipment.
 
-![stagelights.png](/dmx/stagelights.png)
+![stagelights.png](./dmx/stagelights.png)
 
 DMX uses RS-485 serial communications over 3 and 5 pin XLR connections to send and receive the digital signals. Since a PC doesn't natively support these signals, YARG sends DMX packets over a network connection using sACN to bundle the DMX data into a TCP/IP packet. These sACN packets can be read by other devices and programs on the network as well as converters that can turn the packet back into raw DMX data, for the light fixtures.
-![3pinxlr.png](/dmx/3pinxlr.png =x300)![5pinxlr.png](/dmx/5pinxlr.png =x300)
+<img src="/dmx/3pinxlr.png" height="300"> <img src="/dmx/5pinxlr.png" height="300">
 This flexibility allows for unlimited possibilities in your YARG light shows!
 
 # Hardware Setup
 A simple example of a harware layout with 20 channel fixtures. There are many options available for the sACN-to-DMX converter and fixtures.
-![yarg-docs-dmx-diagram.png](/dmx/yarg-docs-dmx-diagram.png)
+![yarg-docs-dmx-diagram.png](./dmx/yarg-docs-dmx-diagram.png)
 A more advanced setup would have a DMX sequencer (such as Lightjams and QLC+), either in between the PC and network or as a replacement for the converter.
 
 # DMX Channels

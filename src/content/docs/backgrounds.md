@@ -49,12 +49,12 @@ Before you start creating your venues you need to follow a few steps, you need t
 Inside the project we have a folder `Venue` that contains a scene called `VenueCreation` this scene can be used as template for any scene you want, we recommend duplicating it and changing according to your needs.
 
 ### Starting
-As soon as you open the scene you'll notice a few layers, you need to place your venue assets inside `Stage` that is located inside the `Venue` group 
+As soon as you open the scene you'll notice a few layers, you need to place your venue assets inside `Stage` that is located inside the `Venue` group
 
 ### Lights
 To add reactive lights to your venue you can add any default lights from Unity, go to the Inspector, add a new component called `Venue Light`
 
-![image_2023-06-10_100208500.png](/image_2023-06-10_100208500.png)
+![image_2023-06-10_100208500.png](./image_2023-06-10_100208500.png)
 
 In the new component you can select the type of light you want, we currently have this options:
 - Left
@@ -67,7 +67,7 @@ In the new component you can select the type of light you want, we currently hav
 ### Exporting
 To export your Venue you need to select the `Venue` layer, right click the `Bundle Backgroud Manager (Script)` in the Inspector sidebar and select `Export Background`
 
-![image_2023-06-10_100111927.png](/image_2023-06-10_100111927.png)
+![image_2023-06-10_100111927.png](./image_2023-06-10_100111927.png)
 
 ### Useful Links
 
@@ -122,8 +122,8 @@ To successfully see video playback during gameplay:
 
 ### 318mb > 521mb > 184mb
 I've worked on this process for a long time. Lots of trial and error. This has gotten me the best videos at the lowest file size.
-This is only the process for 4K to 1080p. Lower res may need different settings (maybe not). 
-BG videos don't need to be higher than 1080p. 720p gets to fuzzy for me which is why I choose 1080p, unless a video is already 720p, then I'll export at 720p. 
+This is only the process for 4K to 1080p. Lower res may need different settings (maybe not).
+BG videos don't need to be higher than 1080p. 720p gets to fuzzy for me which is why I choose 1080p, unless a video is already 720p, then I'll export at 720p.
 
 # 🖼️ Image
 

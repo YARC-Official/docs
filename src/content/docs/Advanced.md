@@ -1,9 +1,7 @@
 ---
 title: Advanced
-description: 
 published: true
 date: 2024-06-06T02:34:37.336Z
-tags: 
 editor: markdown
 dateCreated: 2024-05-15T23:36:12.305Z
 ---

@@ -1,9 +1,7 @@
 ---
 title: Lighting Datagram
-description: 
 published: true
 date: 2024-06-25T23:20:59.025Z
-tags: 
 editor: markdown
 dateCreated: 2024-06-21T17:46:56.078Z
 ---
