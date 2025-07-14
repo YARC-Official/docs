@@ -167,6 +167,23 @@ Rock out with an assortment of accessible metal songs, drawing from nu-metal, al
 | Simple Folds | Zephyrianna, Tsyolin and BoffleFloffle | Single | Punk | 2023 | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚫⚫ <br/> Rthm:⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚫⚫ <br/> Pro:⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚫ <br/> 3 parts | 03/01/2025 | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/7ehBMuHNA3GLpCAMnVstjO) <br/> [▰&nbsp;bandcamp](https://bofflefloffle.bandcamp.com/track/patterns-simple-folds-pop-punk-cover-ft-zephyrianna-tsyolin-and-bofflefoffle) <br/> [▶&nbsp;YouTube](https://youtu.be/H-B8MX-09kI) <br/> [☁&nbsp;SoundCloud](https://soundcloud.com/bofflefloffle_music/patterns-simple-folds-pop-punk-cover-ft-zephyrianna-tsyolin-bofflefloffle) |
 | Hell | Vandalheart | Single | Metalcore | 2025 | ⚪⚪⚪⚪⚫ | ⚪⚪⚫⚫⚫ <br/> Rthm:⚪⚪⚪⚪⚫ | ⚪⚪⚪⚪⚪ | ⚫⚫⚫⚫⚫ <br/> Pro:⚫⚫⚫⚫⚫ | ⚪⚪⚪⚫⚫ <br/> 3 parts | 04/11/2025 [Preview](https://youtu.be/Y0aAZTp0a8o) | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/64OdvflCppR0hB318xw8Fv) <br/> [▶&nbsp;YouTube](https://youtu.be/AwNJwmY-VCs) |
 
+## 🎸 Assorted Rock 2
+Cozy and fuzzy is the theme of this second assortment of rock songs, which range in genre from pop-rock to progressive metal.
+| Track | Artist | Album | Genre | Year | Guitar | Bass | Drums | Keys | Vocals | Release | Link |
+| :-- | :-- | :-- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| Let Me Dance (feat. Miori Celesta) | Alohaii | Virtual Paradise | Pop-Rock | 2023 | ⚪⚪⚪⚪⚪ | ⚪⚪⚫⚫⚫ | ⚪⚫⚫⚫⚫ | ⚪⚪⚫⚫⚫ Pro:⚪⚪⚪⚫⚫ | ⚪⚪⚫⚫⚫ <br/> 3 parts | 7/12/2025 |  |
+| Safehouse | Aviations | Luminaria | Prog | 2023 | ⚪⚪⚪⚪⚪ | ⚪⚪⚪⚪⚫ <br/> Rthm:⚪⚪⚪⚪⚫ | ⚪⚪⚪⚪⚪ | 🔴🔴🔴🔴🔴 <br/> Pro:🔴🔴🔴🔴🔴 | ⚪⚪⚪⚪⚪ <br/> 3 parts | 7/12/2025 |  |
+| Until the Wind Blows Us Away (feat. Leucinjel) | Clover from the Clouds | Single | Alternative | 2024 | ⚪⚪⚪⚪⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚫⚫⚫ | ⚫⚫⚫⚫⚫ <br/> Pro:⚪⚫⚫⚫⚫ | ⚪⚪⚫⚫⚫ <br/> 2 parts | 7/12/2025 |  |
+| Dance Like an Idiot | Lemon Demon | Live from the Haunted Candle Shop | Indie Rock | 2003 | ⚪⚪⚪⚪⚫ | ⚪⚪⚪⚫⚫ <br/> Rthm:⚪⚪⚪⚫⚫ | ⚪⚪⚫⚫⚫ <br/> Elite:⚪⚪⚫⚫⚫ | ⚪⚪⚪⚪⚫ <br/> Pro:⚪⚪⚪⚪⚫ | ⚪⚪⚪⚪⚫ <br/> 3 parts | 7/12/2025 |  |
+| Surf Song | Saturn's Girlfriend | Saturn's Girlfriend | Rock | 2024 | ⚪⚪⚪⚪⚪ | ⚪⚪⚪⚫⚫ | ⚪⚪⚪⚪⚪ | No Part | ⚪⚪⚫⚫⚫ <br/> 2 parts | 7/12/2025 |  |
+| North Carolina | The Broken Spokes | Raw Deal | Country | 2010 | ⚪⚪⚫⚫⚫ | ⚫⚫⚫⚫⚫ | ⚪⚫⚫⚫⚫ | No Part | ⚪⚫⚫⚫⚫ <br/> 2 parts | 7/12/2025 |  |
+| Like I Used to Be | Troubled Minds | Disconnect | Emo | 2022 | ⚪⚪⚫⚫⚫ | ⚪⚪⚫⚫⚫ | ⚪⚪⚪⚫⚫ | No Part | ⚪⚫⚫⚫⚫ <br/> 3 parts | 7/12/2025 |  |
+
+### 🆓 Creative Commons and free-to-use songs attribution:
+| Track | Artist | Licence | Source Link |
+| :-- | :-- | :-- | :--: |
+| Dance Like an Idiot | Lemon Demon | The use of the music in-game is for fun, in accordance to the artists's wishes. | [🌐&nbsp;LemonDemon.com](http://www.lemondemon.com/Lemon%20Demon%20-%20First%20four%20albums/ReadMe.txt) |
+
 # 💿 Full-Album DLC
 These DLC packs each contain an entire music album from a given artist; great for fans of that artist!
 
