@@ -12,7 +12,7 @@ The YARC Launcher is the preferred way to download and update YARG, as well as i
 
 You can download it [from the GitHub](https://github.com/YARC-Official/YARC-Launcher/releases/latest).
 
-![launcher.png](./launcher/launcher.png)
+![launcher.png](./images/launcher.png)
 
 # 🛠️ Troubleshooting
 
