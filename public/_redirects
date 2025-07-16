@@ -1,1 +1,9 @@
 /en/* /:splat
+
+/DMX /dmx
+/Engine /engine
+/Replays /replays
+/Advanced /advanced
+/Modifiers /modifiers
+/Instruments /instruments
+/songs/Setlist /songs/setlist
