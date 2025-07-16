@@ -7,9 +7,11 @@ tags: songs, music, chart, mid, con, library
 editor: markdown
 dateCreated: 2023-07-30T05:09:13.000Z
 ---
+import { Aside, LinkCard } from '@astrojs/starlight/components';
 
+<Aside>
 > We DO NOT encourage, advocate, or promote PIRATING of songs, or of anything else. This game's intended use is for you, the player, to play songs that you already own. This means, ripping songs of a game YOU OWN for YOURSELF for PERSONAL USE, or downloading creative commons/public domain songs off of the internet, or playing the built-in setlist.
-{.is-info}
+</Aside>
 
 
 # 💿 Adding Songs
@@ -25,8 +27,9 @@ To add new songs into YARG you need to follow some simple steps
 After adding all your song folder you can click the Refresh All Caches; that will scan all your libraries.
 If you added new songs to a specific song folder you can click the individual Refresh button to scan only that folder.
 
+<Aside>
 > We recommend adding a folder slot for each song folder you have, that will improve the song scanning and makes it easier to scan in case you add new songs.
-{.is-info}
+</Aside>
 
 ## Song Export
 To export a list of your songs:
@@ -49,8 +52,9 @@ Due to some legacy CONs missing metadata later added in RB3, YARG also supports 
 
 ![cons_updates.png](./images/cons_updates.png)
 
+<Aside>
 > Both extracted and regular CONs will work with **songs_updates**
-{.is-info}
+</Aside>
 
 # 🗂️ Music Library
 ## Sorting
@@ -107,9 +111,10 @@ Our search bar accepts a few filter tags, here's a table with the current suppor
 
 You can also combine filters using `;` for example: `source:YARG;instrument:drums`
 
+<Aside>
 > For the instrument you can also use: **guitar**, **bass**, **drums**, **keys**, **vocals**, **harmVocals**, **realGuitar**, **realBass** and **band**
 > You can also use **-guitar** for example to search for songs that don't have that instrument
-{.is-info}
+</Aside>
 
 Another easy way to filter for specific artist is just pressing `Blue Fret` or `Blue Cymbal`, that will automaticaly filter using the artist of the selected song
 Pressing again will filter by **source** of the selected song.
@@ -118,15 +123,13 @@ Pressing again will filter by **source** of the selected song.
 We have our own source library maintained by the community, containing sources from base games, DLCs, charters, packs, and customs.
 If you're interested in creating icons or adding new sources, check our repository for full guidelines:
 
-- [📑 Repository *Guidelines on how to add new sources*](https://github.com/YARC-Official/OpenSource)
-- [🔎 Webviewer *Easiest way to visualize our current sources*](https://opensource.yarg.in/)
-{.links-list}
+<LinkCard title="📑 Repository" description="Guidelines on how to add new sources" href="https://github.com/YARC-Official/OpenSource" />
+<LinkCard title="🔎 Webviewer" description="Easiest way to visualize our current sources" href="https://opensource.yarg.in/" />
 
 # 🗂️ Related Articles
 
-- [💽 Official Setlist *Information about our Official Setlist*](/songs/Setlist)
-- [🎼 Charting Guidelines *Some guidelines on how to chart for YARG*](/songs/charting)
-{.links-list}
+<LinkCard title="💽 Official Setlist" description="Information about our Official Setlist" href="/songs/setlist" />
+<LinkCard title="🎼 Charting Guidelines" description="Some guidelines on how to chart for YARG" href="/songs/charting" />
 
 
 ---
