@@ -10,7 +10,7 @@ dateCreated: 2025-01-03T23:49:14.799Z
 
 Windows may show a popup when you first try to install and/or run the launcher. In some instances, Windows will flag the launcher as “unrecognised” as it is not ran by Windows users frequently. To get around this, click on “More info” and then press the “Run anyway” button, as seen below:
 
-![windows_protected_your_pc.png](../launcher/windows_protected_your_pc.png)
+![windows_protected_your_pc.png](../launcher/images/windows_protected_your_pc.png)
 
 # Various installation problems
 
@@ -22,13 +22,13 @@ The YARC Launcher relies on WebView2, as it uses [Tauri](https://tauri.app). Web
 
 In “Control Panel” → “Programs and features” check for “Microsoft Edge WebView2 Runtime”
 
-![](../launcher/webview2.png)
+![](../launcher/images/webview2.png)
 
 Right click on it, select “Change”, and do a repair install.
 
 ## Be sure “Unblock” is checked in the launcher installer properties
 
-![](../launcher/unblock.png)
+![](../launcher/images/unblock.png)
 
 Be sure “Unblock” is checked, here it is not checked.
 

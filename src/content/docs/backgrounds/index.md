@@ -54,7 +54,7 @@ As soon as you open the scene you'll notice a few layers, you need to place your
 ### Lights
 To add reactive lights to your venue you can add any default lights from Unity, go to the Inspector, add a new component called `Venue Light`
 
-![image_2023-06-10_100208500.png](./image_2023-06-10_100208500.png)
+![unity_venue_light_location](./images/unity_venue_light_location.png)
 
 In the new component you can select the type of light you want, we currently have this options:
 - Left
@@ -67,7 +67,7 @@ In the new component you can select the type of light you want, we currently hav
 ### Exporting
 To export your Venue you need to select the `Venue` layer, right click the `Bundle Backgroud Manager (Script)` in the Inspector sidebar and select `Export Background`
 
-![image_2023-06-10_100111927.png](./image_2023-06-10_100111927.png)
+![unity_export_bundle_background](./images/unity_export_bundle_background.png)
 
 ### Useful Links
 

@@ -19,7 +19,7 @@ To add new songs into YARG you need to follow some simple steps
 1. Click on **Add Folder**, that will add a new empty folder slot in your library
 1. Now click on **Browse** to select the path for your songs
 
-![library_scanning.png](./library_scanning.png)
+![library_scanning.png](./images/library_scanning.png)
 
 ## Song Scanning
 After adding all your song folder you can click the Refresh All Caches; that will scan all your libraries.
@@ -47,7 +47,7 @@ YARG now supports extracted Rock Band CONs (referred to as "ex-cons"), as well a
 ## songs_updates
 Due to some legacy CONs missing metadata later added in RB3, YARG also supports updating these songs via a "songs_updates" folder placed in the root of your song folder. It is recommended you use the songs_updates from **RB3 Deluxe** as along with metadata updates, they contain song enhancements such as included harmonies and fixed pro drum tom markers.
 
-![cons_updates.png](./cons_updates.png)
+![cons_updates.png](./images/cons_updates.png)
 
 > Both extracted and regular CONs will work with **songs_updates**
 {.is-info}
@@ -92,7 +92,7 @@ You can navigate between each header of the current sorting holding the `Orange 
 
 ## Filters
 If you want to easily filter something you can also click on the filter you want to apply:
-![library_filter_tags.png](./library_filter_tags.png)
+![library_filter_tags.png](./images/library_filter_tags.png)
 
 Our search bar accepts a few filter tags, here's a table with the current supported tags:
 | Tag | Example |
