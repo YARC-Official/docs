@@ -113,7 +113,7 @@ These are songs which we're making available separately from the main setlist. M
 These DLC packs each feature tracks from a variety of artists, with music broadly falling under a common genre. Expand your setlist's representation of your favorite genre with the corresponding DLC!
 
 ## 🎸 Assorted Rock 1
-Join us for our first pack of DLC with a collection of indie performances and electronic rock tracks!
+Join us for our first pack of DLC with a collection of indie performances and electronic rock tracks!  
 (A subset of this pack was previously released as Assorted Pack 1.)
 
 | Track | Artist | Album | Genre | Year | Guitar | Bass | Drums | Keys | Vocals | Release | Link |
@@ -133,7 +133,7 @@ Join us for our first pack of DLC with a collection of indie performances and el
 | Simplicity | Scott Buckley | released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [🌐&nbsp;ScottBuckley.com.au](https://www.scottbuckley.com.au) |
 
 ## 💻 Assorted Electronic 1
-Here is a pack of energetic pop/dance/electronic songs, providing challenges on all instruments!
+Here is a pack of energetic pop/dance/electronic songs, providing challenges on all instruments!  
 (A subset of this pack was previously released as Assorted Pack 2.)
 
 | Track | Artist | Album | Genre | Year | Guitar | Bass | Drums | Keys | Vocals | Release | Link |
@@ -203,7 +203,7 @@ Keep summer in your heart with this brilliant pop and electronic album from Aloh
 | Love Me Not (feat. Tofie) | Alohaii | SUMMERTIDE | R&B, Soul, Funk | 2024 | ⚪⚪⚪⚪⚫ | ⚫⚫⚫⚫⚫ | ⚪⚫⚫⚫⚫ | ⚪⚪⚫⚫⚫ <br/> Pro:⚪⚪⚫⚫⚫ | ⚪⚪⚪⚪⚫ <br/> 3&nbsp;parts | 09/11/2024 | [ᯤ&nbsp;Spotify](https://open.spotify.com/track/6q66zeUuOKPyjLl8tug9RB) <br/> [▰&nbsp;bandcamp](https://lonealphamusic.bandcamp.com/track/love-me-not-feat-tofie) <br/> [▶&nbsp;YouTube](https://youtu.be/gWVgeuM5qhU) <br/> [☁&nbsp;SoundCloud](https://soundcloud.com/lonealphamusic/love-me-not-feat-tofie-3) |
 
 ## 🌈 Wanderkid by JW Francis
-Follow the journey of Wanderkid in JW Francis's sophomore album! Escape with warm lo-fi indie rock vibes and nostalgically jangly guitar.
+Follow the journey of Wanderkid in JW Francis's sophomore album! Escape with warm lo-fi indie rock vibes and nostalgically jangly guitar.  
 (The first track from this album - John, Take Me With You - is absent from this DLC, and can instead be found in YARG's main setlist.)
 | Track | Artist | Album | Genre | Year | Guitar | Bass | Drums | Keys | Vocals | Release | Link |
 | :-- | :-- | :-- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
@@ -301,7 +301,7 @@ Our first grab-bag pack from YARN authors. Check out what they've submitted!
 | How | Exyl and Paper Skies | released under [CC-BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) | [▰&nbsp;bandcamp](https://exyl.bandcamp.com/track/exyl-paper-skies-how) |
 
 ## 🌊 Mini-Wave 0
-An exclusive early sneak peek into our biggest chart launch to date, featuring some of the best songs you've never heard of!
+An exclusive early sneak peek into our biggest chart launch to date, featuring some of the best songs you've never heard of!  
 (This pack was released on April Fool's Day, and is presented as if it were the first wave of the YARG Mania event, despite being a YARN pack.)
 | Track | Artist | Album | Genre | Year | Charter | Difficulties | Guitar | Bass | Drums | Keys | Vocals | Release | Link | 
 | :-- | :-- | :-- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
@@ -329,7 +329,7 @@ An exclusive early sneak peek into our biggest chart launch to date, featuring s
 | Nice Logo | Exyl & Dalux | released under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | [▰&nbsp;bandcamp](https://exyl.bandcamp.com/track/nice-logo) |
 
 ## ⛰ Abyss of Time by James Paddock
-Take on challenging charts of 15 tracks from James Paddock's metal album, courtesy of Keagan Dunn.
+Take on challenging charts of 15 tracks from James Paddock's metal album, courtesy of Keagan Dunn.  
 (The first and last tracks from this album - Epiphany and Ethereal - are absent from this pack.)
 | Track | Artist | Album | Genre | Year | Charter | Difficulties | Guitar | Bass | Drums | Keys | Vocals | Release | Link | 
 | :-- | :-- | :-- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
@@ -404,7 +404,7 @@ The second grab-bag pack of charts from music artists and charters in the YARG c
 | Machine Love (feat. Kasane Teto) | Jamie Paige | released under [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) | [▰&nbsp;bandcamp](https://jamiepaige.bandcamp.com/track/machine-love-3) |
 
 ## 💿 Plastic Death by Glass Beach
-Delve into this ambitious album of contemplative prog and art rock songs. Charts brought to you by ImPhanty.
+Delve into this ambitious album of contemplative prog and art rock songs. Charts brought to you by ImPhanty.  
 (The tenth track from this album - the CIA - is absent from this pack.)
 | Track | Artist | Album | Genre | Year | Charter | Difficulties | Guitar | Bass | Drums | Keys | Vocals | Release | Link | 
 | :-- | :-- | :-- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
