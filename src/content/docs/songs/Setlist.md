@@ -152,6 +152,7 @@ Here is a pack of energetic pop/dance/electronic songs, providing challenges on 
 | Feel Good | Syn Cole | Music provided by NoCopyrightSounds | [🎵&nbsp;NoCopyrightSounds](https://ncs.io/feelgood) |
 | Ghost | Aaron Musslewhite | released under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | [🆖&nbsp;Newgrounds](https://www.newgrounds.com/audio/listen/812621) 
 | Radioactive | Waterflame | released under [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) | [🆖&nbsp;Newgrounds](https://www.newgrounds.com/audio/listen/106783) |
+| Rot for Clout (feat. Kasane Teto) | Jamie Paige | released under [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) | [▰&nbsp;bandcamp](https://jamiepaige.bandcamp.com/track/rot-for-clout) |
 | Say It Back | tv room | released under [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) | [🆖&nbsp;Newgrounds](https://www.newgrounds.com/audio/listen/1044389) |
 
 ## 🤘 Assorted Metal 1
