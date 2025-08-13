@@ -32,7 +32,7 @@ This play mode is not currently supported in YARG, but is likely to be added at 
 ## Pro
 *(Not to be confused with* Festival's ***Pro Lead** and **Pro Bass** modes, which more resemble YARG's **5 Fret** play.)*
 Meant to better represent a real guitar, the reference Pro Guitar controller has six short strings along the body for strumming, and six buttons for each of seventeen frets - 102 in total - arrayed down the neck. Charts also exist for 22 fret models.
-Support for Pro Guitar and Pro Bass is planned to return for YARG version 0.13.0.
+Support for Pro Guitar and Pro Bass is planned to return in the future.
 
 # 🥁 Drums
 
@@ -59,7 +59,7 @@ Four pads, three cymbals, and a kick pedal; an expanded Band kit.
 Pro drums use the same four-lane highway as regular 4 Lane drums, but with distinct note shapes to distinguish between pads and cymbals for the 2nd, 3rd and 4th lanes. In Pro Drums mode, the pad and cymbal of a color are *not* interchangable - a pad note requires a pad hit; a cymbal note requires a cymbal hit.
 
 ## Elite
-Designed for play with a typical midi e-drum kit, elite drum support is planned for YARG version 0.14.0.
+Designed for play with a typical midi e-drum kit, elite drum support is planned for a future YARG release.
 Planned features include:
 - Seven or eight lanes, for a Snare, three Toms, a Hi-hat, a Ride cymbal, and one or two Crash cymbals, plus bass kicks.
 - Lane reordering, so the highway can reflect your kit's arrangement.
@@ -86,10 +86,10 @@ YARG currently requires each harmony player to specify which part they'll be sin
 # 🎹 Keys
 ## 5 Fret
 Five white piano keys, plus a tilt sensor and a pitch bend. Plays similarly to 5 fret guitar - and can indeed play any 5 fret guitar or bass chart - but there's no need to strum, and there's no 'anchoring'; each key has equal priority.
-Proper keys support is planned for YARG v0.13.0, but in the meantime you can play 5 fret keys charts in guitar mode, and enable the All Taps modifier to remove the need to strum.
+Proper keys support is planned, but in the meantime you can play 5 fret keys charts in guitar mode, and enable the All Taps modifier to remove the need to strum.
 
 ## Pro
-Two octaves - 25 keys - of a piano keyboard, with color-coded segments for a wide highway. Pro keys support is planned for YARG v0.13.0.
+Two octaves - 25 keys - of a piano keyboard, with color-coded segments for a wide highway.
 
 # 🔮 Potential future play modes
 These have no specific timeframe, but are either in the issue tracker or at least under consideration.
