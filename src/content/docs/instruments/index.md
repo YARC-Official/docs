@@ -99,7 +99,7 @@ See [play-modes](/play-modes#h-6-fret) for more information.
 
 ###  ⚠️Note!
 
-Pro mode will be re-implemented in version 0.13
+Pro guitar mode is presently not supported, but will be re-implemented in future
 
 #  🥁 Drums
 
@@ -175,7 +175,7 @@ YARG recognizes the M.I.C. as two separate devices: a Mad Catz USB microphone, a
 
 ###  ⚠️Note!
 
-Gamepad mode is being worked on. In the mean time, choose Five Fret and All HOPOs to use a keyboard.
+Although Pro Keys mode is fully supported, five lane Keys currently lacks a proper play mode. To aproximate five lane Keys, choose Five Fret Guitar play and use the All Taps modifier.
 
 # 🪇 Miscellaneous
 **Guitar Hero**
