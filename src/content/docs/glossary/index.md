@@ -86,11 +86,9 @@ BRE support is planned for YARG version 0.14.0
 ## 🎓 Pro, Elite
 Instruments with the Pro prefix are generally intended to better represent really playing that instrument. In YARG, Pro Drums expands 4-lane play with the additon of three cymbals, Pro Guitar ditches the 5 buttons and strum bar for an entire fretboard and six strings, and Pro Keys sees you using a whole two-octive keyboard.
 The planned Elite Drums mode is set to further expand upon Pro Drums.
-Pro Guitar and Pro Keys are planned for YARG 0.13.0. Elite Drums is planned for 0.14.0.
 
 ## 💫 Unison
 A Star Power phrase happening simultaneously across multiple instruments may be marked as a Unison phrase. If everyone plays this phrase correctly, additional SP energy will be awarded.
-Unison phrases are planned for YARG 0.13.0
 
 ## 🚂 Engine
 The engine is the code and parameters dictating how the game judges your performance. Different games - even one from within the same series - can use significantly different criteria for successful play.
