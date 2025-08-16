@@ -1,7 +1,57 @@
-/ https://wiki.yarg.in
-
 # Converts old Wiki.js links
 /en/* /:splat
 
 # Redirects to wiki
-/* https://wiki.yarg.in/wiki/:splat
+#
+# @note If a page is known to have a capital letter, first create a redirect to a lowercase url
+# and then redirects to wiki
+
+/Advanced /advanced
+/advanced https://wiki.yarg.in/wiki/Advanced
+
+/backgrounds https://wiki.yarg.in/wiki/Backgrounds
+
+/DMX /dmx
+/dmx https://wiki.yarg.in/wiki/DMX
+
+/Engine /engine
+/engine https://wiki.yarg.in/wiki/Engine
+
+/faq https://wiki.yarg.in/wiki/Help:FAQ
+
+/glossary https://wiki.yarg.in/wiki/Help:Glossary
+
+/Instruments /instruments
+/instruments https://wiki.yarg.in/wiki/Hardware_compatibility
+
+/launcher https://wiki.yarg.in/wiki/YARC_Launcher
+
+/Modifiers /modifiers
+/modifiers https://wiki.yarg.in/wiki/Modifiers
+
+/play-modes https://wiki.yarg.in/wiki/Play_modes
+
+/profiles https://wiki.yarg.in/wiki/Profiles
+
+/Replays /replays
+/replays https://wiki.yarg.in/wiki/Replays
+
+/songs https://wiki.yarg.in/wiki/Songs
+
+/songs/Setlist /songs/setlist
+/songs/setlist https://wiki.yarg.in/wiki/List_of_setlists
+
+/stage-kit https://wiki.yarg.in/wiki/Stage_Kit
+
+/troubleshooting https://wiki.yarg.in/wiki/Help:Troubleshooting
+
+/YARG https://wiki.yarg.in/wiki/Yet_Another_Rhythm_Game
+
+/YARG/Credits /YARG/credits
+/YARG/credits https://wiki.yarg.in/wiki/Credits
+
+/YARG/Libraries /YARG/libraries
+/YARG/libraries https://wiki.yarg.in/wiki/Yarg/libraries
+
+/YARG/Licenses /YARG/licenses
+/YARG/licenses https://wiki.yarg.in/wiki/Licenses
