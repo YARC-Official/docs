@@ -3,12 +3,5 @@
 # Converts old Wiki.js links
 /en/* /:splat
 
-# Specific redirects
-/songs/Setlist /songs/setlist
-/songs/setlist https://wiki.yarg.in/wiki/List_of_setlists
-
-/songs/Charting /songs/charting
-/songs/charting https://wiki.yarg.in/wiki/Help:Charting
-
 # Redirects to wiki
 /* https://wiki.yarg.in/wiki/:splat
